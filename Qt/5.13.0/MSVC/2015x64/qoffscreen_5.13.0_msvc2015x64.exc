@@ -1,0 +1,19 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+?duplicateNode@?$QHash@_KPEAVQOffscreenWindow@@@@CAXPEAUNode@QHashData@@PEAX@Z	00 0000 4885D2741A8B410848832200894208488B411048894210488B411848894218C3
+?duplicateNode@?$QHash@_KPEAVQOffscreenBackingStore@@@@CAXPEAUNode@QHashData@@PEAX@Z	00 0000 4885D2741A8B410848832200894208488B411048894210488B411848894218C3
+
+?createNode@?$QHash@_KPEAVQOffscreenWindow@@@@AEAAPEAU?$QHashNode@_KPEAVQOffscreenWindow@@@@IAEB_KAEBQEAVQOffscreenWindow@@PEAPEAU2@@Z	08 D93E 48895C240848896C24104889742418574883EC208BEA488BD9488B09BA080000
+?createNode@?$QHash@_KPEAVQOffscreenBackingStore@@@@AEAAPEAU?$QHashNode@_KPEAVQOffscreenBackingStore@@@@IAEB_KAEBQEAVQOffscreenBackingStore@@PEAPEAU2@@Z	08 D93E 48895C240848896C24104889742418574883EC208BEA488BD9488B09BA080000
+
+?value@?$QHash@_KPEAVQOffscreenWindow@@@@QEBAQEAVQOffscreenWindow@@AEB_KAEBQEAV2@@Z	57 C58D 48895C24084C8B11488BDA4C8BD941837A14007459418B4A204533C985C97440
+?value@?$QHash@_KPEAVQOffscreenBackingStore@@@@QEBAQEAVQOffscreenBackingStore@@AEB_KAEBQEAV2@@Z	57 C58D 48895C24084C8B11488BDA4C8BD941837A14007459418B4A204533C985C97440
+
+??_GQPlatformFontDatabase@@UEAAPEAXI@Z            	02 632D 48895C2408574883EC208BDA488BF9E8........F6C301740DBA08000000488B
+??_GQFreeTypeFontDatabase@@UEAAPEAXI@Z            	02 632D 48895C2408574883EC208BDA488BF9E8........F6C301740DBA08000000488B
+
+?services@QOffscreenIntegration@@UEBAPEAVQPlatformServices@@XZ	00 0000 488B4120C3......................................................
+?cursor@QOffscreenScreen@@UEBAPEAVQPlatformCursor@@XZ	00 0000 488B4120C3......................................................

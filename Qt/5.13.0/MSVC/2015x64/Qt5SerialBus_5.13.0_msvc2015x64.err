@@ -1,0 +1,1236 @@
+0FB6:
+  42080FBAF00783F80C775783F80B734F83F801744583F802743B83F80374:
+    0. 24 C1B9 009D 0000:?processResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+  C20FBAE807894108C3:
+    0. 00 0000 000B 0000:?setFunctionCode@QModbusExceptionResponse@@UEAAXW4FunctionCode@QModbusPdu@@@Z
+33D2E9:
+  0. 00 0000 0007 0000:?minimumDataSize@QModbusRequest@@SAHAEBV1@@Z (REF 0003: ?minimumDataSize@Private@@YAHAEBVQModbusPdu@@W4Type@1@@Z)
+40:
+  534883EC:
+    20:
+      41:
+        8B084D8BC8488BDA85C90F849200000041837804FF0F848700:
+          0. 2A 0F06 00D7 0000:?createReadRequest@QModbusClientPrivate@@QEBA?AVQModbusRequest@@AEBVQModbusDataUnit@@@Z
+        B9:
+          01000000488BDAE8........488BC34883C4205BC3:
+            0. 00 0000 001D 0000:?processReadDiscreteInputsRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+          02000000488BDAE8........488BC34883C4205BC3:
+            0. 00 0000 001D 0000:?processWriteSingleCoilRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z (REF 0010: ?writeSingle@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@@Z)
+            1. 00 0000 001D 0000:?processReadCoilsRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z (REF 0010: ?readBits@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@@Z)
+          03000000488BDAE8........488BC34883C4205BC3:
+            0. 00 0000 001D 0000:?processReadInputRegistersRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+          04000000488BDAE8........488BC34883C4205BC3:
+            0. 00 0000 001D 0000:?processWriteSingleRegisterRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z (REF 0010: ?writeSingle@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@@Z)
+            1. 00 0000 001D 0000:?processReadHoldingRegistersRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z (REF 0010: ?readBytes@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@@Z)
+      48:
+        634204488BDA4C8B4A104C8D04:
+          404F8D04C14C03C24903D1E8:
+            0. 00 0000 003A 0000:?freeData@?$QVector@U?$QPair@HVQVariant@@@@@@AEAAXPEAU?$QTypedArrayData@U?$QPair@HVQVariant@@@@@@@Z
+          804F8D04C14C03C24903D1E8:
+            0. 00 0000 003A 0000:?freeData@?$QVector@VQCanBusFrame@@@@AEAAXPEAU?$QTypedArrayData@VQCanBusFrame@@@@@Z
+        8B:
+          01488BD948390274:
+            3F488D4C2430E8........488B13488B:
+              0. 2C 6FE2 0059 0000:??4?$QVector@VQCanBusFrame@@@@QEAAAEAV0@AEBV0@@Z
+            43488D4C2430E8........488B0B488B:
+              0. 30 6E30 005D 0000:??4?$QVector@G@@QEAAAEAV0@AEBV0@@Z
+          02:
+            4533C94D8BD84C8BD14885C07403488B00488B09498BC1:
+              0. 5B 205D 007B 0000:??$_Copy_no_deprecate@V?$_Deque_const_iterator@V?$_Deque_val@U?$_Deque_simple_types@E@std@@@std@@@std@@PEAE@std@@YAPEAEV?$_Deque_const_iterator@V?$_Deque_val@U?$_Deque_simple_types@E@std@@@std@@@0@0PEAE@Z
+            488BD9483981E80000007442488D4C2430E8........48:
+              0. 33 4CF0 005F 0000:?setMap@QModbusServerPrivate@@QEAA_NAEBV?$QMap@W4RegisterType@QModbusDataUnit@@V2@@@@Z
+          114885D2742983C8FFF00FC10283F801751D488B194885DB:
+            0. 06 5723 003D 0000:??1QCanBusDeviceInfo@@QEAA@XZ
+          1D........4885DB752B8D4B10E8........33D2488BC848:
+            0. 03 3B19 0046 0000:?instance@QCanBus@@SAPEAV1@XZ
+          4108488B:
+            D98378700074:
+              0432C0EB40837870017411BA0100:
+                0. 0A 6033 005D 0000:?connectDevice@QModbusDevice@@QEAA_NXZ
+              1BBA030000003950707408895070:
+                0. 01 3E9B 0034 0000:?disconnectDevice@QModbusDevice@@QEAAXXZ
+            DA458BD04C8B889800000049634104498B511049:
+              0. 3D 5D23 0063 0000:?configurationParameter@QCanBusDevice@@QEBA?AVQVariant@@H@Z
+          4908488BDA:
+            4881C190000000488B0183780400750FBA0400:
+              0. 06 EE64 003A 0000:?dequeueOutgoingFrame@QCanBusDevice@@IEAA?AVQCanBusFrame@@XZ
+            E8........488BC34883C4205BC3:
+              0. 00 0000 001B 0000:?processRequest@QModbusServer@@MEAA?AVQModbusResponse@@AEBVQModbusPdu@@@Z
+          5908660F6EC2F30FE6C0F20F5E05........FF15:
+            0. 21 361F 0077 0000:?setInterFrameDelay@QModbusRtuSerialMaster@@QEAAXH@Z
+          D9:
+            488B:
+              491083390074118339FF741E83C8FFF00FC10183F8:
+                0. 11 94AD 0067 0000:??1QModbusSerialAdu@@QEAA@XZ
+              4B:
+                1883390074118339FF741E83C8FFF00FC10183F8:
+                  0. 11 E1DE 005B 0000:?destroySubTree@?$QMapNode@VQString@@VQCanBusPrivate@@@@QEAAXXZ
+                2083390074118339FF741E83C8FFF00FC10183F8:
+                  0. 11 5B3E 0052 0000:?destroySubTree@?$QMapNode@HVQByteArray@@@@QEAAXXZ
+                2883390074118339FF741E83C8FFF00FC10183F8:
+                  0. 11 2E4D 0052 0000:?destroySubTree@?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@QEAAXXZ
+              89:
+                280100004885C9745A488D9380000000E8:
+                  0. 00 0000 00C4 0000:?setupEnvironment@QModbusRtuSerialSlavePrivate@@QEAAXXZ
+                C8000000837910007413837910FF742083C8FFF0:
+                  0. 13 CAC7 007B 0000:??1QModbusTcpClientPrivate@@UEAA@XZ
+                E80000004885C9745A488D9380000000E8:
+                  0. 00 0000 00CF 0000:?setupEnvironment@QModbusRtuSerialMasterPrivate@@QEAAXXZ
+            E8........:
+              48:
+                8B4B08488D05........488903E8:
+                  0. 00 0000 002A 0000:??0QModbusRtuSerialMaster@@IEAA@AEAVQModbusRtuSerialMasterPrivate@@PEAVQObject@@@Z (REF 0015: ??_7QModbusRtuSerialMaster@@6B@)
+                  1. 00 0000 002A 0000:??0QModbusTcpServer@@IEAA@AEAVQModbusTcpServerPrivate@@PEAVQObject@@@Z (REF 0015: ??_7QModbusTcpServer@@6B@)
+                  2. 00 0000 002A 0000:??0QModbusTcpClient@@IEAA@AEAVQModbusTcpClientPrivate@@PEAVQObject@@@Z (REF 0015: ??_7QModbusTcpClient@@6B@)
+                  3. 00 0000 002A 0000:??0QModbusRtuSerialSlave@@IEAA@AEAVQModbusRtuSerialSlavePrivate@@PEAVQObject@@@Z (REF 0015: ??_7QModbusRtuSerialSlave@@6B@)
+                8D05........:
+                  488903:
+                    488BC34883C4205B:
+                      0. 01 EF04 0021 0000:??0QModbusDevice@@IEAA@AEAVQModbusDevicePrivate@@PEAVQObject@@@Z (REF 000A: ??0QObject@@IEAA@AEAVQObjectPrivate@@PEAV0@@Z)
+                      1. 01 EF04 0021 0000:??0QModbusServer@@IEAA@AEAVQModbusServerPrivate@@PEAVQObject@@@Z (REF 0011: ??_7QModbusServer@@6B@)
+                      2. 01 EF04 0021 0000:??0QModbusClient@@IEAA@AEAVQModbusClientPrivate@@PEAVQObject@@@Z (REF 0011: ??_7QModbusClient@@6B@)
+                    E8........488BC3:
+                      0. 06 59CA 0026 0000:??0QCanBus@@AEAA@PEAVQObject@@@Z
+                  C783B00000000300000048:
+                    0. 07 23E7 006B 0000:??0QModbusTcpClientPrivate@@QEAA@XZ
+              85C07414488B4308488B88B8000000488B01:
+                0. 0C 807C 002C 0000:?close@QModbusTcpClient@@MEAAXXZ
+        8D05........488BD9488901:
+          E8........488BCB4883C4205B:
+            0. 01 B78A 0025 0000:??1QModbusRtuSerialMaster@@UEAA@XZ (REF 0009: ??_7QModbusRtuSerialMaster@@6B@)
+            1. 01 B78A 0025 0000:??1QModbusTcpServer@@UEAA@XZ (REF 0009: ??_7QModbusTcpServer@@6B@)
+            2. 01 B78A 0025 0000:??1QModbusTcpClient@@UEAA@XZ (REF 0009: ??_7QModbusTcpClient@@6B@)
+            3. 01 B78A 0025 0000:??1QModbusRtuSerialSlave@@UEAA@XZ (REF 0009: ??_7QModbusRtuSerialSlave@@6B@)
+          F6C201740ABA08000000E8:
+            0. 00 0000 002B 0000:??_GQCanBusFactory@@MEAAPEAXI@Z (REF 0009: ??_7QCanBusFactory@@6B@)
+            1. 00 0000 002B 0000:??_GQModbusTcpConnectionObserver@@UEAAPEAXI@Z (REF 0009: ??_7QModbusTcpConnectionObserver@@6B@)
+      498BD985D275234585C0757F4D8B4110498B5108498B4118458B:
+        0. 0C AAE2 0097 0000:?qt_static_metacall@QModbusServer@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+      4C8B:
+        09488BDA4183791400745C458B59204533D24585DB743A45:
+          0. 49 A5C0 0083 0000:?value@?$QHash@HVQVariant@@@@QEBA?BVQVariant@@AEBH@Z
+        11488BDA488BD141837A14007451418B4A204533DB85C974:
+          0. 4E 5820 007B 0000:?value@?$QHash@HVQVariant@@@@QEBA?BVQVariant@@AEBHAEBV2@@Z
+        C285C974:
+          2983F9017536488B4210488B5808488BCBE8:
+            0. 00 0000 004E 0000:?impl@?$QFunctorSlotObject@V<lambda_e57c0920e30b0006ac913c9b5dddd1ad>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+          3983F9017546488D5A10488B4B08488BD34881C1:
+            0. 05 1BD8 005E 0000:?impl@?$QFunctorSlotObject@V<lambda_5054ee8e65673836bb6febb03c0eb27b>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+          4283F901754F488B5A104885DB7446488B0B8339:
+            0. 21 D0C5 0067 0000:?impl@?$QFunctorSlotObject@V<lambda_084ae6715d681e84fe056a88cf6dd807>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+      833D........FE488BDA7F0433C0EB05E8........488D542438:
+        0. 04 D745 006B 0000:?plugins@QCanBus@@QEBA?AVQStringList@@XZ
+      85D275154585C0755F498B41088B104883C4205BE9........83:
+        0. 0B C5BF 0074 0000:?qt_static_metacall@QModbusClient@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+      BA000D0500488BD9E8........:
+        33C9488D05........48890348:
+          0. 02 5E64 0078 0000:??0QModbusReplyPrivate@@QEAA@XZ
+        83637000488D05........8363:
+          0. 08 0C6B 008E 0000:??0QModbusDevicePrivate@@QEAA@XZ
+    30488B:
+      4108488BD9837874007465834C2420FF4C8D05........45:
+        0. 0A 74B5 00C1 0000:?connectDevice@QCanBusDevice@@QEAA_NXZ
+      D9B910000000E8........488B5308488BC8E8........4C:
+        0. 06 D274 0088 0000:?setupTcpServer@QModbusTcpServerPrivate@@QEAAXXZ
+    40488B:
+      4108488BD9837874007424BA03000000395074741A895074:
+        0. 01 3E9B 0082 0000:?disconnectDevice@QCanBusDevice@@QEAAXXZ
+      DA:
+        410FB650088BC20FBAF00783F8110F878900000041B980:
+          0. 16 4022 00B7 0000:?processRequest@QModbusTcpServer@@MEAA?AVQModbusResponse@@AEBVQModbusPdu@@@Z
+        488D4C2420410FB6500841B0010FBAEA07E8........48:
+          0. 07 14E5 0092 0000:?processPrivateRequest@QModbusServer@@MEAA?AVQModbusResponse@@AEBVQModbusPdu@@@Z
+  5553:
+    565741:
+      54:
+        415541564157488D:
+          6C24884881EC78010000488B01488BF148:
+            0. 22 3BD0 0662 (l)0000:??R<lambda_ada588d0764926b82c095d4f221477f5>@@QEBAXXZ
+          AC24:
+            98FDFFFF4881EC68030000488BF145:
+              0. 19 BBB5 0FD1 (l)0000:??R<lambda_0495675a9815bc6be3d4a9c3b6da5ec5>@@QEBAXXZ
+            A8FEFFFF4881EC58020000488BF145:
+              0. 15 71D3 08C6 (l)0000:??R<lambda_ef129edf5583f67b56660d834715add1>@@QEBAXXZ
+            F8FDFFFF4881EC08030000488BF148:
+              0. 21 EFA8 0BB9 0000:?onReadyRead@QModbusRtuSerialMasterPrivate@@QEAAXXZ
+        488D6C24C94881EC00010000488BD94881C1D8000000E8:
+          0. 00 0000 0268 0000:?processQueue@QModbusRtuSerialMasterPrivate@@QEAAXXZ
+      5541564157488BEC4883EC:
+        30836540004C8D3D........836540:
+          0. 10 43CD 022D 0000:?isValid@QModbusDeviceIdentification@@QEBA_NXZ
+        50488B7108488BFA4885D20F84FA01:
+          0. 16 21B5 022D 0000:?readData@QModbusServer@@MEBA_NPEAVQModbusDataUnit@@@Z
+      56:
+        4157488D6C24D14881ECF8000000488B01488BF1488B881801:
+          0. 1D 9CCD 02CE (l)0000:??R<lambda_9a7573a182eafcefec19a99ac6db143c>@@QEBAXXZ
+        488D6C24C94881ECD0000000488DB1E00000004C8BF24C8B06:
+          0. 1F 091B 01CE 0000:?onBytesWritten@QModbusRtuSerialMasterPrivate@@QEAAX_J@Z
+    5748:
+      8BEC4883EC50488BDAC6452800488D05........C6453000488D55:
+        0. 0D DD11 022F 0000:??5@YAAEAVQDataStream@@AEAV0@AEAVQCanBusFrame@@@Z
+      8D6C24B94881ECF00000004C8B11488BF9440FB759104533C94D8B:
+        0. 6F 8E30 0297 (l)0000:??R<lambda_354ef36cf60511030644fd10e95c6c43>@@QEBAXXZ
+  574883EC204C8B01488D3D........4889394183781000741541837810FF74:
+    0. 12 B795 0072 0000:?clear@?$QHash@GUQueueElement@QModbusClientPrivate@@@@QEAAXXZ
+41B801000000E9:
+  0. 00 0000 000B 0000:??5@YAAEAVQDataStream@@AEAV0@AEAVQModbusResponse@@@Z (REF 0007: ?pduFromStream@Private@@YAAEAVQDataStream@@AEAV2@AEAVQModbusPdu@@W4Type@1@@Z)
+44:
+  89442418534883EC20488BDA488B51084585C074734183E80174654183E801:
+    0. 2A 6992 009E 0000:?connectionParameter@QModbusDevice@@QEBA?AVQVariant@@H@Z
+  8B4108:
+    418D40FF3DFE0000007725488B4110817804FD0000007D1841C1E807:
+      0. 17 F80F 0037 (l)0000:?isValid@@YA_NAEBVQModbusResponse@@W4FunctionCode@QModbusPdu@@@Z
+    B80100000041C1E8074484C00F85EF0000000FB649080FBAF10783F9:
+      0. E6 CB9B 0106 (l)0000:?minimumDataSize@Private@@YAHAEBVQModbusPdu@@W4Type@1@@Z
+4533:
+  C0E9:
+    0. 00 0000 0008 0000:??5@YAAEAVQDataStream@@AEAV0@AEAVQModbusRequest@@@Z (REF 0004: ?pduFromStream@Private@@YAAEAVQDataStream@@AEAV2@AEAVQModbusPdu@@W4Type@1@@Z)
+  C9488D15........45:
+    33C0E9:
+      0. 00 0000 0012 0000:?finished@QModbusReply@@QEAAXXZ
+    8D4101E9:
+      0. 00 0000 0013 0000:?framesReceived@QCanBusDevice@@QEAAXXZ
+48:
+  83:
+    C110:
+      33D2488B0148FF6018:
+        0. 00 0000 000D 0000:?deleter@?$ExternalRefCountWithContiguousData@VQTimer@@@QtSharedPointer@@SAXPEAUExternalRefCountData@2@@Z
+      E9:
+        0. 00 0000 0009 0000:?deleteNode2@?$QHash@GUQueueElement@QModbusClientPrivate@@@@CAXPEAUNode@QHashData@@@Z (REF 0005: ??1QueueElement@QModbusClientPrivate@@QEAA@XZ)
+        1. 00 0000 0009 0000:?deleteNode2@?$QHash@HVQVariant@@@@CAXPEAUNode@QHashData@@@Z (REF 0005: ??1QVariant@@QEAA@XZ)
+    EC:
+      28:
+        48:
+          8B:
+            0D........83:
+              390074188339FF741883C8FFF00FC10183F80175:
+                0. 04 DF18 0049 0000:??__Fholder@?1??innerFunction@Q_QGS_qCanBusPlugins@?A0x7534f587@@YAPEAV?$QMap@VQString@@VQCanBusPrivate@@@@XZ@YAXXZ
+              791000741A837910FF742083C8FFF00FC1411083:
+                0. 07 1867 0053 0000:??__Fholder@?1??innerFunction@Q_QGS_responseSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusResponse@@@Z@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_responseSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusResponse@@@Z@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+                1. 07 1867 0053 0000:??__Fholder@?1??innerFunction@Q_QGS_requestSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusRequest@@@Z@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_requestSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusRequest@@@Z@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+            11833A007411833AFF741483C8FFF00FC10283F8017508488B09:
+              0. 01 3E9B 002A 0000:?Destruct@?$QMetaTypeFunctionHelper@VQModbusDeviceIdentification@@$00@QtMetaTypePrivate@@SAXPEAX@Z
+            4108:
+              3B50:
+                707408895070E8........4883C428C3:
+                  0. 00 0000 001A 0000:?setState@QModbusDevice@@IEAAXW4State@1@@Z
+                747408895074E8........4883C428C3:
+                  0. 00 0000 001A 0000:?setState@QCanBusDevice@@IEAAXW4CanBusDeviceState@1@@Z
+              488B8828010000488990280100004885C9740A488B01BA01:
+                0. 0A 534C 002A 0000:?installConnectionObserver@QModbusTcpServer@@QEAAXPEAVQModbusTcpConnectionObserver@@@Z
+              88908C00000084D274124533C9488D15........4533C0E8:
+                0. 00 0000 0029 0000:?setFinished@QModbusReply@@QEAAX_N@Z
+            51:
+              08833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+                0. 0C AAB4 0035 0000:??$callDestructorIfNecessary@VQModbusDataUnit@@@QMapNodeBase@@SAXAEAVQModbusDataUnit@@@Z
+              10833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+                0. 0C 9AB6 0035 0000:??1QModbusPdu@@UEAA@XZ
+          8D0D........E8........8B05........B9FEFFFFFF83F8FF0F44:
+            0. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qFactoryLoader@?A0x7534f587@@YAPEAVQFactoryLoader@@XZ@YAXXZ
+        4C8B:
+          C2:
+            4885D274:
+              1D8B4108488322008942088B410C89420C488D5110:
+                0. 05 B3C7 002E 0000:?duplicateNode@?$QHash@HVQVariant@@@@CAXPEAUNode@QHashData@@PEAX@Z
+              1F8B4108488322008942080FB7410C6689420C488D:
+                0. 07 1E2B 0030 0000:?duplicateNode@?$QHash@GUQueueElement@QModbusClientPrivate@@@@CAXPEAUNode@QHashData@@PEAX@Z
+            85C974:
+              1283F901751F48:
+                8B4A104883C428E9........4D85C0:
+                  0. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_d0ad598f81117be055651c1a76f5d45f>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ?onReadyRead@QModbusRtuSerialMasterPrivate@@QEAAXXZ)
+                  1. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_b36341df6b4a6069a1fbe0b9a49e1b3f>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ?processQueue@QModbusRtuSerialMasterPrivate@@QEAAXXZ)
+                8D4A104883C428E9........4D85C0:
+                  0. 0B 6DEC 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_ef129edf5583f67b56660d834715add1>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ??R<lambda_ef129edf5583f67b56660d834715add1>@@QEBAXXZ)
+                  1. 0B 6DEC 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_354ef36cf60511030644fd10e95c6c43>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ??R<lambda_354ef36cf60511030644fd10e95c6c43>@@QEBAXXZ)
+                  2. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_9a7573a182eafcefec19a99ac6db143c>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ??R<lambda_9a7573a182eafcefec19a99ac6db143c>@@QEBAXXZ)
+                  3. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_ada588d0764926b82c095d4f221477f5>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ??R<lambda_ada588d0764926b82c095d4f221477f5>@@QEBAXXZ)
+                  4. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_0495675a9815bc6be3d4a9c3b6da5ec5>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ??R<lambda_0495675a9815bc6be3d4a9c3b6da5ec5>@@QEBAXXZ)
+              1483F9017521:
+                498B481033D24883C428E9........4D:
+                  0. 0D C1ED 0036 0000:?impl@?$QFunctorSlotObject@V<lambda_d41aae0e6a967c25c5e36c8fb8410231>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+                  1. 0D C1ED 0036 0000:?impl@?$QFunctorSlotObject@V<lambda_528412d90ecba0c13d1677649c01c081>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+                8BD1498B48104883C428E9........4D:
+                  0. 0D C1ED 0036 0000:?impl@?$QFunctorSlotObject@V<lambda_850451815291730f69da5c3126bc5cc0>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+                  1. 0D C1ED 0036 0000:?impl@?$QFunctorSlotObject@V<lambda_588b57abea05c1d5098a5c0d2e7eda06>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+              1583F9017522:
+                488D4A10498BD14883C428E9:
+                  0. 0E 1FAA 0037 0000:?impl@?$QFunctorSlotObject@V<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@$00U?$List@W4SocketError@QAbstractSocket@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 001C: ?call@?$FunctorCall@U?$IndexesList@$0A@@QtPrivate@@U?$List@W4SocketError@QAbstractSocket@@@2@XV<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@@QtPrivate@@SAXAEAV<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@PEAPEAX@Z)
+                  1. 0E 1FAA 0037 0000:?impl@?$QFunctorSlotObject@V<lambda_261b2ddd08e12b2aea592e857935f777>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 001C: ?call@?$FunctorCall@U?$IndexesList@$S@QtPrivate@@U?$List@$$V@2@XV<lambda_261b2ddd08e12b2aea592e857935f777>@@@QtPrivate@@SAXAEAV<lambda_261b2ddd08e12b2aea592e857935f777>@@PEAPEAX@Z)
+                  2. 0E 1FAA 0037 0000:?impl@?$QFunctorSlotObject@V<lambda_56e126a28963f6a1a5a073497c4c9957>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 001C: ?call@?$FunctorCall@U?$IndexesList@$S@QtPrivate@@U?$List@$$V@2@XV<lambda_56e126a28963f6a1a5a073497c4c9957>@@@QtPrivate@@SAXAEAV<lambda_56e126a28963f6a1a5a073497c4c9957>@@PEAPEAX@Z)
+                  3. 0E 1FAA 0037 0000:?impl@?$QFunctorSlotObject@V<lambda_3c03264367268e8a38f056113ce6f876>@@$00U?$List@W4SocketError@QAbstractSocket@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 001C: ?call@?$FunctorCall@U?$IndexesList@$0A@@QtPrivate@@U?$List@W4SocketError@QAbstractSocket@@@2@XV<lambda_3c03264367268e8a38f056113ce6f876>@@@QtPrivate@@SAXAEAV<lambda_3c03264367268e8a38f056113ce6f876>@@PEAPEAX@Z)
+                  4. 0E 2B6A 0037 0000:?impl@?$QFunctorSlotObject@V<lambda_784ba10734f5e0b27ab15746d26980b1>@@$00U?$List@PEAVQObject@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+                8D5101498B48104883C428E9:
+                  0. 0E 1FAA 0037 0000:?impl@?$QFunctorSlotObject@V<lambda_288af54c69787fb8217d677a976cf4ec>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+                  1. 0E 1FAA 0037 0000:?impl@?$QFunctorSlotObject@V<lambda_064d0b2d96a175a9cc21c9c81a78bc06>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+              1883F9017525498B4108:
+                488D4A108B104883C428E9:
+                  0. 00 0000 003A 0000:?impl@?$QFunctorSlotObject@V<lambda_87f60c9df6372cf4d83adad07888a010>@@$00U?$List@W4SerialPortError@QSerialPort@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+                498B48108B104883C428E9:
+                  0. 00 0000 003A 0000:?impl@?$QFunctorSlotObject@V<lambda_a8bff984d86fa3607950722093cde7c8>@@$00U?$List@H@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 001F: ?onResponseTimeout@QModbusRtuSerialMasterPrivate@@QEAAXH@Z)
+                  1. 00 0000 003A 0000:?impl@?$QFunctorSlotObject@V<lambda_6f8ed9dc53b7a09539fbf38eadf526be>@@$00U?$List@W4SerialPortError@QSerialPort@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 001F: ?onError@QModbusRtuSerialMasterPrivate@@QEAAXW4SerialPortError@QSerialPort@@@Z)
+              1983F9017526:
+                488B4A104881C1D00000004883C428E9:
+                  0. 00 0000 003B 0000:?impl@?$QFunctorSlotObject@V<lambda_38507a2e928cb71baa8d13e6d83ec1e6>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+                498B5108498B4810488B124883C428E9:
+                  0. 00 0000 003B 0000:?impl@?$QFunctorSlotObject@V<lambda_c0dc960d9f23839fcc35446f422cd948>@@$00U?$List@_J@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+          CA4883C8FF33D249F7F04C3BC87607FF15........CC4D0FAFC8:
+            0. 10 4E0F 006E 0000:?_Deallocate@std@@YAXPEAX_K1@Z (l)006E:$LN10
+          D2:
+            4C8BD9498BCABA:
+              010000004D8BC8E8........84C075054883:
+                0. 14 2FBF 0038 0000:?processReadCoilsResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              020000004D8BC8E8........84C075054883:
+                0. 14 5167 0038 0000:?processReadDiscreteInputsResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              030000004D8BC8E8........84C075054883:
+                0. 14 C207 0038 0000:?processReadHoldingRegistersResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              040000004D8BC8E8........84C075054883:
+                0. 14 05F7 0038 0000:?processReadInputRegistersResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              050000004D8BC8E8........84C075054883:
+                0. 14 2FBF 0038 0000:?processWriteSingleCoilResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              060000004D8BC8E8........84C075054883:
+                0. 14 C207 0038 0000:?processWriteSingleRegisterResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              0F0000004D8BC8E8........84C075054883:
+                0. 14 2FBF 0038 0000:?processWriteMultipleCoilsResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              100000004D8BC8E8........84C075054883:
+                0. 14 C207 0038 0000:?processWriteMultipleRegistersResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+              170000004D8BC8E8........84C075054883:
+                0. 14 C207 0038 0000:?processReadWriteMultipleRegistersResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z
+            85C9743183E901741B83F9017539488B4210493901488B4424:
+              0. 2A 6278 0053 0000:?impl@?$QSlotObject@P8QTimer@@EAAXH@ZU?$List@H@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        65488B0425580000008B0D........:
+          41B8........488B14C8418B04:
+            0. 03 4E75 00D9 (l)0000:?innerFunction@Q_QGS_qFactoryLoader@?A0x7534f587@@YAPEAVQFactoryLoader@@XZ (0029: 0D)
+            1. 03 4E75 0077 0000:?QT_MODBUS_LOW@@YAAEBVQLoggingCategory@@XZ (0029: 15) (REF 0023: ?$TSS0@?1??QT_MODBUS_LOW@@YAAEBVQLoggingCategory@@XZ@4HA)
+            2. 03 4E75 0077 0000:?QT_CANBUS@@YAAEBVQLoggingCategory@@XZ (0029: 15) (REF 0023: ?$TSS0@?1??QT_CANBUS@@YAAEBVQLoggingCategory@@XZ@4HA)
+            3. 03 4E75 0077 0000:?QT_MODBUS@@YAAEBVQLoggingCategory@@XZ (0029: 15) (REF 0023: ?$TSS0@?1??QT_MODBUS@@YAAEBVQLoggingCategory@@XZ@4HA)
+          BA........488B0CC88B040A39:
+            0. 01 D5A7 0086 0000:?types@?$ConnectionTypes@U?$List@W4SocketError@QAbstractSocket@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 48)
+            1. 01 D5A7 0077 (l)0000:?innerFunction@Q_QGS_qCanBusPlugins@?A0x7534f587@@YAPEAV?$QMap@VQString@@VQCanBusPrivate@@@@XZ (001E: 83) (0027: 83) (0028: 0D) (REF 0021: ?$TSS0@?1??innerFunction@Q_QGS_qCanBusPlugins@?A0x7534f587@@YAPEAV?$QMap@VQString@@VQCanBusPrivate@@@@XZ@4HA)
+            2. 01 D5A7 0077 (l)0000:?innerFunction@Q_QGS_requestSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusRequest@@@Z@@XZ (001E: 83) (0027: 83) (0028: 0D) (REF 0021: ?$TSS0@?1??innerFunction@Q_QGS_requestSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusRequest@@@Z@@XZ@4HA)
+            3. 01 D5A7 0077 (l)0000:?innerFunction@Q_QGS_responseSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusResponse@@@Z@@XZ (001E: 83) (0027: 83) (0028: 0D) (REF 0021: ?$TSS0@?1??innerFunction@Q_QGS_responseSizeCalculators@?A0x77f72b44@@YAPEAV?$QHash@EP6AHAEBVQModbusResponse@@@Z@@XZ@4HA)
+            4. 01 D5A7 0067 0000:?types@?$ConnectionTypes@U?$List@H@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 83) (0027: 83) (0028: 25) (003B: 02)
+            5. 01 D5A7 0067 0000:?types@?$ConnectionTypes@U?$List@_J@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 83) (0027: 83) (0028: 25) (003B: 04)
+            6. 01 D5A7 0067 0000:?types@?$ConnectionTypes@U?$List@PEAVQObject@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 83) (0027: 83) (0028: 25) (003B: 27)
+            7. 01 D5A7 0068 0000:?types@?$ConnectionTypes@U?$List@W4SerialPortError@QSerialPort@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 83) (0027: E8) (REF 0021: ?$TSS0@?1??types@?$ConnectionTypes@U?$List@W4SerialPortError@QSerialPort@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA)
+            8. 01 D5A7 0068 0000:?types@?$ConnectionTypes@U?$List@W4CanBusError@QCanBusDevice@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 83) (0027: E8) (REF 0021: ?$TSS0@?1??types@?$ConnectionTypes@U?$List@W4CanBusError@QCanBusDevice@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA)
+        83FA0A7C17488B41083990B4000000740B8990B4000000E8:
+          0. 05 492C 0025 0000:?setTimeout@QModbusClient@@QEAAXH@Z
+        8B:
+          05........85C0751A448D40014883CAFF488D0D........E8:
+            0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@W4SocketError@QAbstractSocket@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@W4SocketError@QAbstractSocket@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+            1. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@VQModbusDeviceIdentification@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@VQModbusDeviceIdentification@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+            2. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@W4RegisterType@QModbusDataUnit@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@W4RegisterType@QModbusDataUnit@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          411039421875078BD0E8........4883C428C3:
+            0. 00 0000 0018 0000:?timerEvent@Timer@@EEAAXPEAVQTimerEvent@@@Z
+      58488B020F57C0F30F7F4424204885C07410488B004885C07408488B00:
+        0. 40 CE18 0069 0000:??$copy@V?$_Deque_const_iterator@V?$_Deque_val@U?$_Deque_simple_types@E@std@@@std@@@std@@PEAE@std@@YAPEAEV?$_Deque_const_iterator@V?$_Deque_val@U?$_Deque_simple_types@E@std@@@std@@@0@0PEAE@Z
+  85D274:
+    094885C974048B028901488BC1C3:
+      0. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4SerialPortError@QSerialPort@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+      1. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4SocketError@QAbstractSocket@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+      2. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4CanBusError@QCanBusDevice@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+      3. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4RegisterType@QModbusDataUnit@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+    188B4108488322008942088A410C88420C488B411048894210C3:
+      0. 00 0000 001E 0000:?duplicateNode@?$QHash@EP6AHAEBVQModbusResponse@@@Z@@CAXPEAUNode@QHashData@@PEAX@Z
+      1. 00 0000 001E 0000:?duplicateNode@?$QHash@EP6AHAEBVQModbusRequest@@@Z@@CAXPEAUNode@QHashData@@PEAX@Z
+  89:
+    1148:
+      85D27403F0FF02488BC1C3:
+        0. 00 0000 000F 0000:??0QCanBusDeviceInfo@@AEAA@AEAVQCanBusDeviceInfoPrivate@@@Z
+      8BC14C894108C3:
+        0. 00 0000 000B 0000:??$?HV?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@YA?AV?$QStringBuilder@V?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@AEBV?$QStringBuilder@$$BY01DVQByteArray@@@@AEAY01$$CBD@Z
+        1. 00 0000 000B 0000:??$?HV?$QStringBuilder@V?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@D@@YA?AV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@D@@AEBV?$QStringBuilder@V?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@AEBD@Z
+        2. 00 0000 000B 0000:??$?H$$BY0CB@DVQByteArray@@@@YA?AV?$QStringBuilder@$$BY0CB@DVQByteArray@@@@AEAY0CB@$$CBDAEBVQByteArray@@@Z
+        3. 00 0000 000B 0000:??$?H$$BY0BN@DVQByteArray@@@@YA?AV?$QStringBuilder@$$BY0BN@DVQByteArray@@@@AEAY0BN@$$CBDAEBVQByteArray@@@Z
+        4. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQString@@V1@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@VQString@@@@AEBV?$QStringBuilder@VQString@@V1@@@AEBVQString@@@Z
+        5. 00 0000 000B 0000:??$?HVQString@@V0@@@YA?AV?$QStringBuilder@VQString@@V1@@@AEBVQString@@0@Z
+        6. 00 0000 000B 0000:??$?HVQByteArray@@V0@@@YA?AV?$QStringBuilder@VQByteArray@@V1@@@AEBVQByteArray@@0@Z
+        7. 00 0000 000B 0000:??$?H$$BY01DVQByteArray@@@@YA?AV?$QStringBuilder@$$BY01DVQByteArray@@@@AEAY01$$CBDAEBVQByteArray@@@Z
+    4C240855535657415541564157488D6C24D94881ECB0000000498B401048:
+      0. 0F D5C6 0369 0000:?processReadExceptionStatusRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+    542410:
+      48:
+        81EC980000004C8B114533C9440FB759084D8B82C8000000418B:
+          0. 6D 3EBE 00B2 0000:?call@?$FunctorCall@U?$IndexesList@$0A@@QtPrivate@@U?$List@PEAVQObject@@@2@XV<lambda_784ba10734f5e0b27ab15746d26980b1>@@@QtPrivate@@SAXAEAV<lambda_784ba10734f5e0b27ab15746d26980b1>@@PEAPEAX@Z
+        83EC28833D........FE884C24307F0433C0EB05E8........4C:
+          0. 12 9036 003B 0000:?registerDataSizeCalculator@QModbusResponse@@SAXW4FunctionCode@QModbusPdu@@P6AHAEBV1@@Z@Z (REF 000B: ?guard@Q_QGS_responseSizeCalculators@?A0x77f72b44@@3V?$QBasicAtomicInteger@H@@A)
+          1. 12 9036 003B 0000:?registerDataSizeCalculator@QModbusRequest@@SAXW4FunctionCode@QModbusPdu@@P6AHAEBV1@@Z@Z (REF 000B: ?guard@Q_QGS_requestSizeCalculators@?A0x77f72b44@@3V?$QBasicAtomicInteger@H@@A)
+      4C894424184C894C2420C3:
+        0. 00 0000 0010 0000:?enableSharedFromThis@?$QSharedPointer@VQTimer@@@@AEAAXZZ
+      53:
+        4883EC40488BD9E8........F6401001744CE8........0F57C0:
+          0. 27 AA3C 007F 0000:?call@?$FunctorCall@U?$IndexesList@$S@QtPrivate@@U?$List@$$V@2@XV<lambda_56e126a28963f6a1a5a073497c4c9957>@@@QtPrivate@@SAXAEAV<lambda_56e126a28963f6a1a5a073497c4c9957>@@PEAPEAX@Z
+        5556574883EC38488BD9488B09488B7908488B89B8000000E8:
+          0. 00 0000 0129 0000:?call@?$FunctorCall@U?$IndexesList@$0A@@QtPrivate@@U?$List@W4SocketError@QAbstractSocket@@@2@XV<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@@QtPrivate@@SAXAEAV<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@PEAPEAX@Z
+      55535657488BEC4883EC48488BF1E8........F64010010F84C300:
+        0. 03 8AAD 010D 0000:?call@?$FunctorCall@U?$IndexesList@$S@QtPrivate@@U?$List@$$V@2@XV<lambda_261b2ddd08e12b2aea592e857935f777>@@@QtPrivate@@SAXAEAV<lambda_261b2ddd08e12b2aea592e857935f777>@@PEAPEAX@Z
+    5C24:
+      08:
+        44894424185556574154415541564157488D6C24D94881EC000100:
+          0. 1E 63E3 05FA (l)0000:?pduFromStream@Private@@YAAEAVQDataStream@@AEAV2@AEAVQModbusPdu@@W4Type@1@@Z
+        4889:
+          6C24:
+            10:
+              4889:
+                7424:
+                  1857:
+                    41:
+                      5441:
+                        55415641574883EC:
+                          20488BE9BE:
+                            0. 61 F20E 01B0 0000:?_Growmap@?$deque@EV?$allocator@E@std@@@std@@IEAAX_K@Z (l)01B0:$LN290
+                          30488B0149:
+                            0. 11 A997 00E2 0000:?insert@?$QMap@VQString@@VQCanBusPrivate@@@@QEAA?AViterator@1@AEBVQString@@AEBVQCanBusPrivate@@@Z
+                        564883EC208B4208BD01000000:
+                          0. 1A 120D 0114 0000:??6@YAAEAVQDataStream@@AEAV0@AEBVQModbusPdu@@@Z
+                      5641574883EC:
+                        20448BFA488BF1488B:
+                          0. 0D 7DB8 0083 0000:?createNode@?$QHash@HVQVariant@@@@AEAAPEAU?$QHashNode@HVQVariant@@@@IAEBHAEBVQVariant@@PEAPEAU2@@Z (0010: 1E)
+                          1. 0D 7DB8 0085 0000:?createNode@?$QHash@GUQueueElement@QModbusClientPrivate@@@@AEAAPEAU?$QHashNode@GUQueueElement@QModbusClientPrivate@@@@IAEBGAEBUQueueElement@QModbusClientPrivate@@PEAPEAU2@@Z (0010: 20)
+                        30488B01:
+                          498BE94D8B:
+                            0. 0E 9277 0118 0000:?insert@?$QHash@HVQVariant@@@@QEAA?AViterator@1@AEBHAEBVQVariant@@@Z
+                          4D8BF9498B:
+                            0. 0E 45A1 011D 0000:?insert@?$QHash@GUQueueElement@QModbusClientPrivate@@@@QEAA?AViterator@1@AEBGAEBUQueueElement@QModbusClientPrivate@@@Z
+                    4883EC:
+                      20:
+                        48:
+                          63:
+                            5A0C488BFA48636A0848:
+                              0. 24 6F38 0076 0000:?dealloc@?$QList@VQJsonObject@@@@AEAAXPEAUData@QListData@@@Z (0005: 10)
+                              1. 24 6F38 0076 0000:?dealloc@?$QList@UQueueElement@QModbusClientPrivate@@@@AEAAXPEAUData@QListData@@@Z (0005: 70)
+                            F2BD08000000458BC848:
+                              0. 0A 14ED 00BA 0000:?realloc@?$QVector@PEAVQTcpSocket@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                          8B:
+                            02488BFA488B6908488B:
+                              0. 12 B425 006A 0000:?enqueueReceivedFrames@QCanBusDevice@@IEAAXAEBV?$QVector@VQCanBusFrame@@@@@Z
+                            690833FF8BF2488BD939:
+                              0. 26 77B2 008D 0000:?scheduleNextRequest@QModbusRtuSerialMasterPrivate@@QEAAXH@Z
+                            F1498BD9B9C000000041:
+                              0. 05 E89C 0071 0000:??0QModbusReply@@QEAA@W4ReplyType@0@HPEAVQObject@@@Z
+                            F9E8........33DB85C0:
+                              0. 0E 79FF 00AD 0000:?close@QModbusTcpServer@@MEAAXXZ
+                        498BF18BFA488BE9E8:
+                          0. 00 0000 0068 0000:?qt_metacall@Timer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2C)
+                          1. 00 0000 0069 0000:?qt_metacall@QModbusServer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2D)
+                          2. 00 0000 006B 0000:?qt_metacall@QModbusTcpServer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2F)
+                          3. 00 0000 006C 0000:?qt_metacall@QModbusDevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30) (000D: 02) (REF 003C: ?qt_static_metacall@QModbusDevice@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z)
+                          4. 00 0000 006C 0000:?qt_metacall@QModbusReply@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30) (000D: 02) (REF 003C: ?qt_static_metacall@QModbusReply@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z)
+                          5. 00 0000 006C 0000:?qt_metacall@QCanBusDevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30) (000D: 04)
+                          6. 00 0000 0097 0000:?qt_metacall@QModbusClient@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 5B)
+                        8BEA488BD9488B09BA080000:
+                          0. 08 D93E 0076 0000:?createNode@?$QHash@EP6AHAEBVQModbusResponse@@@Z@@AEAAPEAU?$QHashNode@EP6AHAEBVQModbusResponse@@@Z@@IAEBEAEBQ6AHAEBVQModbusResponse@@@ZPEAPEAU2@@Z
+                          1. 08 D93E 0076 0000:?createNode@?$QHash@EP6AHAEBVQModbusRequest@@@Z@@AEAAPEAU?$QHashNode@EP6AHAEBVQModbusRequest@@@Z@@IAEBEAEBQ6AHAEBVQModbusRequest@@@ZPEAPEAU2@@Z
+                      30:
+                        498BF1498BE8488BDA488BF9:
+                          0. 09 18A4 0128 0000:??0QueueElement@QModbusClientPrivate@@QEAA@PEAVQModbusReply@@AEBVQModbusRequest@@AEBVQModbusDataUnit@@HH@Z
+                        8B35........488BEA488BF9:
+                          0. 0F 8FAC 011A 0000:?metaType@?$QVariantValueHelper@VQModbusDeviceIdentification@@@QtPrivate@@SA?AVQModbusDeviceIdentification@@AEBVQVariant@@@Z
+                      40488D5910418AE9488BCB410F:
+                        0. 06 0AE8 00E7 0000:??$encode@GGEV?$QVector@E@@@QModbusPdu@@AEAAXGGEV?$QVector@E@@@Z (000A: 48)
+                        1. 06 0AE8 00EC 0000:??$encode@GGEV?$QVector@G@@@QModbusPdu@@AEAAXGGEV?$QVector@G@@@Z (000A: C7)
+                      50488BEA498BF9488BCD498BD1:
+                        0. 04 0E21 0135 0000:?createDevice@QCanBus@@QEBAPEAVQCanBusDevice@@AEBVQString@@0PEAV3@@Z
+                  20574883EC4041833804498BF1498BE8488B:
+                    0. 1C 9421 00B3 0000:?createRWRequest@QModbusClientPrivate@@QEBA?AVQModbusRequest@@AEBVQModbusDataUnit@@0@Z
+                7C241841564883EC20488BD9:
+                  83CFFF488B89A800:
+                    0. 22 CE20 00EF 0000:??1QModbusDevicePrivate@@UEAA@XZ
+                  BD08000000488B49:
+                    0. 26 7C22 00AC 0000:??1QCanBusDeviceInfoPrivate@@QEAA@XZ
+              4C89442418565741564883EC508BBC249800000033DB:
+                0. 12 8A02 00B3 0000:??$connect@P8QModbusClient@@EAAXH@ZP8QTimer@@EAAXH@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVQModbusClient@@P83@EAAXH@ZPEBVQTimer@@P84@EAAXH@ZW4ConnectionType@Qt@@@Z (0008: 18) (0049: 48)
+                1. 12 8A02 00AC 0000:??$connect@P8QSerialPort@@EAAXW4SerialPortError@1@@ZV<lambda_6f8ed9dc53b7a09539fbf38eadf526be>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQSerialPort@@P83@EAAXW4SerialPortError@3@@ZPEBV0@V<lambda_6f8ed9dc53b7a09539fbf38eadf526be>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_6f8ed9dc53b7a09539fbf38eadf526be>@@$00U?$List@W4SerialPortError@QSerialPort@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                2. 12 8A02 00AC 0000:??$connect@P8Timer@@EAAXH@ZV<lambda_a8bff984d86fa3607950722093cde7c8>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVTimer@@P83@EAAXH@ZPEBV0@V<lambda_a8bff984d86fa3607950722093cde7c8>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 0032: ?types@?$ConnectionTypes@U?$List@H@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                3. 12 8A02 00AC 0000:??$connect@P8QObject@@EAAXPEAV1@@ZV<lambda_084ae6715d681e84fe056a88cf6dd807>@@@QObject@@SA?AVConnection@QMetaObject@@PEBV0@P80@EAAXPEAV0@@Z0V<lambda_084ae6715d681e84fe056a88cf6dd807>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 0032: ?types@?$ConnectionTypes@U?$List@PEAVQObject@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                4. 12 8A02 00AC 0000:??$connect@P8QTcpServer@@EAAXW4SocketError@QAbstractSocket@@@ZV<lambda_3c03264367268e8a38f056113ce6f876>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQTcpServer@@P83@EAAXW4SocketError@QAbstractSocket@@@ZPEBV0@V<lambda_3c03264367268e8a38f056113ce6f876>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_3c03264367268e8a38f056113ce6f876>@@$00U?$List@W4SocketError@QAbstractSocket@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                5. 12 8A02 00AC 0000:??$connect@P8QAbstractSocket@@EAAXW4SocketError@1@@ZV<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXW4SocketError@3@@ZPEBV0@V<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_071d1e091cef6ce7b0784a7a1765a4c4>@@$00U?$List@W4SocketError@QAbstractSocket@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                6. 12 8A02 00AC 0000:??$connect@P8QIODevice@@EAAX_J@ZV<lambda_c0dc960d9f23839fcc35446f422cd948>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAX_J@ZPEBV0@V<lambda_c0dc960d9f23839fcc35446f422cd948>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_c0dc960d9f23839fcc35446f422cd948>@@$00U?$List@_J@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                7. 12 8A02 00AC 0000:??$connect@P8QSerialPort@@EAAXW4SerialPortError@1@@ZV<lambda_87f60c9df6372cf4d83adad07888a010>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQSerialPort@@P83@EAAXW4SerialPortError@3@@ZPEBV0@V<lambda_87f60c9df6372cf4d83adad07888a010>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_87f60c9df6372cf4d83adad07888a010>@@$00U?$List@W4SerialPortError@QSerialPort@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                8. 12 8A02 00AC 0000:??$connect@P8QCanBusDevice@@EAAXW4CanBusError@1@@ZV<lambda_850451815291730f69da5c3126bc5cc0>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQCanBusDevice@@P83@EAAXW4CanBusError@3@@ZPEBV0@V<lambda_850451815291730f69da5c3126bc5cc0>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_850451815291730f69da5c3126bc5cc0>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                9. 12 8A02 00AC 0000:??$connect@P8QCanBusDevice@@EAAXW4CanBusError@1@@ZV<lambda_588b57abea05c1d5098a5c0d2e7eda06>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQCanBusDevice@@P83@EAAXW4CanBusError@3@@ZPEBV0@V<lambda_588b57abea05c1d5098a5c0d2e7eda06>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_588b57abea05c1d5098a5c0d2e7eda06>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                10. 12 8A02 00AC 0000:??$connect@P8QCanBusDevice@@EAAX_J@ZV<lambda_528412d90ecba0c13d1677649c01c081>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQCanBusDevice@@P83@EAAX_J@ZPEBV0@V<lambda_528412d90ecba0c13d1677649c01c081>@@W4ConnectionType@Qt@@@Z (0008: 18) (0049: 89) (REF 004E: ?impl@?$QFunctorSlotObject@V<lambda_528412d90ecba0c13d1677649c01c081>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                11. 12 8A02 00B0 0000:??$connect@P8QObject@@EAAXPEAV1@@ZV<lambda_784ba10734f5e0b27ab15746d26980b1>@@@QObject@@SA?AVConnection@QMetaObject@@PEBV0@P80@EAAXPEAV0@@Z0V<lambda_784ba10734f5e0b27ab15746d26980b1>@@W4ConnectionType@Qt@@@Z (0008: 20)
+              56574154415641574883EC4041833802498BF04C8BF2:
+                0. 11 2608 0242 0000:?createWriteRequest@QModbusClientPrivate@@QEBA?AVQModbusRequest@@AEBVQModbusDataUnit@@@Z
+              574883EC20488BD983CFFF488B89B0000000BD080000:
+                0. 24 2384 00B5 0000:??1QModbusReplyPrivate@@UEAA@XZ
+            18:
+              4889742420574883EC40488D5910410FB7E9488BCB41:
+                0. 07 018A 010D 0000:??$encode@GGGGEV?$QVector@G@@@QModbusPdu@@AEAAXGGGGEV?$QVector@G@@@Z
+                1. 07 9E57 00F7 0000:??$encode@EGGGV?$QVector@E@@@QModbusPdu@@AEAAXEGGGV?$QVector@E@@@Z
+              8954241056574154415641574883EC20488B11488BF1:
+                0. 18 3165 0128 0000:?detach_helper_grow@?$QList@UQueueElement@QModbusClientPrivate@@@@AEAAPEAUNode@1@HH@Z
+          7424:
+            10:
+              48897C2418:
+                41564883EC:
+                  20:
+                    488B:
+                      394C8BF2488BF1488B:
+                        0. 19 A9E8 0096 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@VQString@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@VQString@@@@AEAPEAVQChar@@@Z
+                      F1498BF8488B094C8B:
+                        0. 2B E4B1 00AE 0000:?erase@?$QList@UQueueElement@QModbusClientPrivate@@@@QEAA?AViterator@1@V21@@Z
+                      F983CEFF488B495841:
+                        0. 25 3086 00FA 0000:??1QueueElement@QModbusClientPrivate@@QEAA@XZ
+                    F641180F4C8BF2488BD975:
+                      0. 19 A239 00BE 0000:?push_front@?$deque@EV?$allocator@E@std@@@std@@QEAAX$$QEAE@Z
+                  30488B01498B:
+                    F14D8BF0488B:
+                      0. 0A D347 00D8 0000:?insert@?$QMap@HVQByteArray@@@@QEAA?AViterator@1@AEBHAEBVQByteArray@@@Z
+                    F94D8BF0488B:
+                      0. 0A FA2E 00BE 0000:?insert@?$QMap@W4RegisterType@QModbusDataUnit@@V2@@@QEAA?AViterator@1@AEBW4RegisterType@QModbusDataUnit@@AEBV4@@Z
+                55488BEC4883EC504C8B01488BD9418B78:
+                  0. 3B 5751 012D 0000:?append@?$QVector@U?$QPair@HVQVariant@@@@@@QEAAXAEBU?$QPair@HVQVariant@@@@@Z
+              4C89442418574883EC50488BF1498BD9B9:
+                1800000048:
+                  0. 03 B809 0092 0000:??$connect@P8QIODevice@@EAAXXZV<lambda_0495675a9815bc6be3d4a9c3b6da5ec5>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBV0@V<lambda_0495675a9815bc6be3d4a9c3b6da5ec5>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_0495675a9815bc6be3d4a9c3b6da5ec5>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  1. 03 B809 0092 0000:??$connect@P8QIODevice@@EAAXXZV<lambda_e57c0920e30b0006ac913c9b5dddd1ad>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBV0@V<lambda_e57c0920e30b0006ac913c9b5dddd1ad>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_e57c0920e30b0006ac913c9b5dddd1ad>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  2. 03 B809 0092 0000:??$connect@P8QIODevice@@EAAXXZV<lambda_38507a2e928cb71baa8d13e6d83ec1e6>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBV0@V<lambda_38507a2e928cb71baa8d13e6d83ec1e6>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_38507a2e928cb71baa8d13e6d83ec1e6>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  3. 03 B809 0092 0000:??$connect@P8QIODevice@@EAAXXZV<lambda_d0ad598f81117be055651c1a76f5d45f>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBV0@V<lambda_d0ad598f81117be055651c1a76f5d45f>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_d0ad598f81117be055651c1a76f5d45f>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  4. 03 B809 0092 0000:??$connect@P8QTcpServer@@EAAXXZV<lambda_9a7573a182eafcefec19a99ac6db143c>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQTcpServer@@P83@EAAXXZPEBV0@V<lambda_9a7573a182eafcefec19a99ac6db143c>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_9a7573a182eafcefec19a99ac6db143c>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  5. 03 B809 0092 0000:??$connect@P8QAbstractSocket@@EAAXXZV<lambda_261b2ddd08e12b2aea592e857935f777>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXXZPEBV0@V<lambda_261b2ddd08e12b2aea592e857935f777>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_261b2ddd08e12b2aea592e857935f777>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  6. 03 B809 0092 0000:??$connect@P8QAbstractSocket@@EAAXXZV<lambda_56e126a28963f6a1a5a073497c4c9957>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXXZPEBV0@V<lambda_56e126a28963f6a1a5a073497c4c9957>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_56e126a28963f6a1a5a073497c4c9957>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  7. 03 B809 0092 0000:??$connect@P8QIODevice@@EAAXXZV<lambda_ada588d0764926b82c095d4f221477f5>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBV0@V<lambda_ada588d0764926b82c095d4f221477f5>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_ada588d0764926b82c095d4f221477f5>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  8. 03 B809 0092 0000:??$connect@P8QCanBusDevice@@EAAXXZV<lambda_d41aae0e6a967c25c5e36c8fb8410231>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQCanBusDevice@@P83@EAAXXZPEBV0@V<lambda_d41aae0e6a967c25c5e36c8fb8410231>@@W4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QFunctorSlotObject@V<lambda_d41aae0e6a967c25c5e36c8fb8410231>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                2000000048:
+                  0. 03 B809 0097 0000:??$connect@P8QAbstractSocket@@EAAXXZV<lambda_5054ee8e65673836bb6febb03c0eb27b>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXXZPEBV0@V<lambda_5054ee8e65673836bb6febb03c0eb27b>@@W4ConnectionType@Qt@@@Z
+                2800000048:
+                  0. 03 B809 00A6 0000:??$connect@P8QTimer@@EAAXUQPrivateSignal@1@@ZV<lambda_354ef36cf60511030644fd10e95c6c43>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQTimer@@P83@EAAXUQPrivateSignal@3@@ZPEBV0@V<lambda_354ef36cf60511030644fd10e95c6c43>@@W4ConnectionType@Qt@@@Z (REF 0053: ?impl@?$QFunctorSlotObject@V<lambda_354ef36cf60511030644fd10e95c6c43>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+                  1. 03 B809 00A6 0000:??$connect@P8QIODevice@@EAAXXZV<lambda_ef129edf5583f67b56660d834715add1>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBV0@V<lambda_ef129edf5583f67b56660d834715add1>@@W4ConnectionType@Qt@@@Z (REF 0053: ?impl@?$QFunctorSlotObject@V<lambda_ef129edf5583f67b56660d834715add1>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+              555741:
+                5441554157488DAC24D0FEFFFF4881EC300200:
+                  0. 18 F716 09F4 0000:?processEncapsulatedInterfaceTransportRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+                5648:
+                  8BEC48:
+                    81EC80000000498B4010488BF149:
+                      0. 0C DF6C 024E 0000:?processGetCommEventCounterRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+                    83EC50498B0033DB498BF8488BF2:
+                      0. 23 D70B 021B 0000:?processQueueElement@QModbusClientPrivate@@QEAAXAEBVQModbusResponse@@AEBUQueueElement@1@@Z
+                  8D6C24B94881ECA0000000833D:
+                    0. 0E 44AA 0273 (l)0000:?canBusFactory@@YAPEAVQObject@@AEBVQString@@PEAV2@@Z
+              574883EC:
+                20:
+                  48:
+                    635A0C488BFA486372084883C3024883:
+                      0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                    8B:
+                      11833A007411833AFF744583C8FFF0:
+                        0. 30 1831 0071 0000:??1?$QList@VQCanBusDeviceInfo@@@@QEAA@XZ
+                      4108488B:
+                        DA488BF1488BCB4C8B0041:
+                          0. 0C 06D9 00BD 0000:??$convertTo@VQByteArray@@@?$QStringBuilder@$$BY0BN@DVQByteArray@@@@AEBA?AVQByteArray@@XZ
+                          1. 0C C002 00BD 0000:??$convertTo@VQByteArray@@@?$QStringBuilder@$$BY0CB@DVQByteArray@@@@AEBA?AVQByteArray@@XZ
+                        FA488D0D........48890A:
+                          0. 27 65D4 0067 0000:?configurationKeys@QCanBusDevice@@QEBA?AV?$QVector@H@@XZ
+                      59:
+                        08488BF9418BF0488D4B78E8:
+                          0. 00 0000 003E 0000:?setError@QCanBusDevice@@IEAAXAEBVQString@@W4CanBusError@1@@Z
+                        10488BF24885DB743E33FF488D4B:
+                          0. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@VQCanBusPrivate@@@@QEBAPEAU?$QMapNode@VQString@@VQCanBusPrivate@@@@AEBVQString@@@Z
+                      7108488BFA837E7402740FBA040000:
+                        0. 05 763B 008E 0000:?readFrame@QCanBusDevice@@QEAA?AVQCanBusFrame@@XZ
+                      F1488BFAB9:
+                        30010000E8........48:
+                          0. 06 C7E2 008B 0000:??0QModbusTcpServer@@QEAA@PEAVQObject@@@Z
+                        48010000E8........48:
+                          0. 06 C7E2 00A7 0000:??0QModbusRtuSerialSlave@@QEAA@PEAVQObject@@@Z
+                        B8000000E8........48:
+                          0. 06 C7E2 0073 0000:??0QModbusClient@@QEAA@PEAVQObject@@@Z
+                    8D59084863FA488B03410FB7F0837804:
+                      0. 25 E1FB 0078 0000:?setValue@QModbusDataUnit@@QEAAXHG@Z
+                  498BF8488BDA482BFA488BF148C1FF0348:
+                    0. 2B 867A 0099 0000:?erase@?$QVector@PEAVQTcpSocket@@@@QEAAPEAPEAVQTcpSocket@@PEAPEAV2@0@Z
+                  4C8B:
+                    01488BD9496340084983C010498D34:
+                      0. 02 ABAE 0092 0000:?detach_helper@?$QList@H@@AEAAXH@Z
+                    89E0000000418BF0488BFA418B4108:
+                      0. 25 FF13 0074 0000:?canMatchRequestAndResponse@QModbusRtuSerialMasterPrivate@@QEBA_NAEBVQModbusResponse@@H@Z
+                30:
+                  4533C9C644242000488BF2488BF9488BCE:
+                    0. 09 DF9A 00BF 0000:?copy@?$QMapNode@HVQByteArray@@@@QEBAPEAU1@PEAU?$QMapData@HVQByteArray@@@@@Z
+                  488BF2C644242000488D5118488BF94C8D:
+                    0. 09 4BA7 0098 0000:?copy@?$QMapNode@VQString@@VQCanBusPrivate@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQCanBusPrivate@@@@@Z (REF 0029: ?createNode@?$QMapData@VQString@@VQCanBusPrivate@@@@QEAAPEAU?$QMapNode@VQString@@VQCanBusPrivate@@@@AEBVQString@@AEBVQCanBusPrivate@@PEAU2@_N@Z)
+                    1. 09 4BA7 0098 0000:?copy@?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@QEBAPEAU1@PEAU?$QMapData@W4RegisterType@QModbusDataUnit@@V2@@@@Z (REF 0029: ?createNode@?$QMapData@W4RegisterType@QModbusDataUnit@@V2@@@QEAAPEAU?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@AEBW4RegisterType@QModbusDataUnit@@AEBV4@PEAU2@_N@Z)
+                  8A442460488BDABA:
+                    380000008844242049:
+                      0. 07 7450 0071 0000:?createNode@?$QMapData@W4RegisterType@QModbusDataUnit@@V2@@@QEAAPEAU?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@AEBW4RegisterType@QModbusDataUnit@@AEBV4@PEAU2@_N@Z
+                    400000008844242049:
+                      0. 07 250B 007B 0000:?createNode@?$QMapData@VQString@@VQCanBusPrivate@@@@QEAAPEAU?$QMapNode@VQString@@VQCanBusPrivate@@@@AEBVQString@@AEBVQCanBusPrivate@@PEAU2@_N@Z
+                4048:
+                  8B:
+                    5908418B:
+                      F04C8BC2488BFA488D5424:
+                        0. 05 873C 0084 0000:?sendWriteRequest@QModbusClient@@QEAAPEAVQModbusReply@@AEBVQModbusDataUnit@@H@Z (REF 0025: ?createWriteRequest@QModbusClientPrivate@@QEBA?AVQModbusRequest@@AEBVQModbusDataUnit@@@Z)
+                        1. 05 873C 0084 0000:?sendReadRequest@QModbusClient@@QEAAPEAVQModbusReply@@AEBVQModbusDataUnit@@H@Z (REF 0025: ?createReadRequest@QModbusClientPrivate@@QEBA?AVQModbusRequest@@AEBVQModbusDataUnit@@@Z)
+                      F14D8BC8488BFA4C8BC248:
+                        0. 08 1982 0087 0000:?sendReadWriteRequest@QModbusClient@@QEAAPEAVQModbusReply@@AEBVQModbusDataUnit@@0H@Z
+                    F2498BD9488D5110498BF8488B0283:
+                      0. 0B 7D8C 008E 0000:??$decode@PEAGPEAGPEAGPEAGPEAE@QModbusPdu@@AEBAXPEAG000PEAE@Z
+                  8D5910:
+                    410FB7F0488BCB0FB7FAE8:
+                      0. 00 0000 0069 0000:??$encode@GG@QModbusPdu@@AEAAXGG@Z
+                    895108488D05........488BF1:
+                      0. 09 2329 0075 0000:??$?0E@QModbusPdu@@IEAA@W4FunctionCode@0@E@Z
+                50488B7108498BF84881C69800000033DB44:
+                  0. 42 5F1D 010F 0000:?setConfigurationParameter@QCanBusDevice@@UEAAXHAEBVQVariant@@@Z
+                60410FB64008498BF80FBAF007488BDA488B:
+                  0. 1C 2154 010C 0000:?processRequest@QModbusRtuSerialSlave@@MEAA?AVQModbusResponse@@AEBVQModbusPdu@@@Z
+            18:
+              48897C2420:
+                41564883EC40488D59104D8BF1488BCB41:
+                  0. 07 018A 00D9 0000:??$encode@GGV?$QVector@G@@@QModbusPdu@@AEAAXGGV?$QVector@G@@@Z
+                5541:
+                  544156488BEC4881EC80000000418B:
+                    0. 04 B008 01B8 0000:?create@QModbusSerialAdu@@SA?AVQByteArray@@W4Type@1@HAEBVQModbusPdu@@D@Z
+                  564157488BEC4883EC60488D05:
+                    0. 00 0000 0127 0000:?collateMultipleValues@QModbusClientPrivate@@QEAA_NAEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@PEAV4@@Z
+              555741:
+                5441564157488BEC4883EC70488B4A10488D05:
+                  0. 00 0000 01FB 0000:?collateBytes@QModbusClientPrivate@@QEAA_NAEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@PEAV4@@Z
+                56488BEC4881EC80000000488D05........49:
+                  0. 29 5FE7 018E 0000:?collateSingleValue@QModbusClientPrivate@@QEAA_NAEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@PEAV4@@Z
+              574883EC40488D5910498BF0488BCB408AFAE8:
+                0. 00 0000 00BC 0000:??$encode@EV?$QVector@G@@@QModbusPdu@@AEAAXEV?$QVector@G@@@Z
+          7C24104C8BC9BF0100000041B8FFFF0000EB42450FB6192BD7:
+            0. 7A 2FCC 009A 0000:?calculateCRC@QModbusSerialAdu@@SAGPEBDH@Z
+        4C8B:
+          09488BDA41837914007456458B59204533D24585DB743C0FB6:
+            0. 51 6AF2 0071 0000:?value@?$QHash@EP6AHAEBVQModbusResponse@@@Z@@QEBAQ6AHAEBVQModbusResponse@@@ZAEBEAEBQ6AH0@Z@Z
+            1. 51 6AF2 0071 0000:?value@?$QHash@EP6AHAEBVQModbusRequest@@@Z@@QEBAQ6AHAEBVQModbusRequest@@@ZAEBEAEBQ6AH0@Z@Z
+          D133DB488B094C8B01EB0C488B0244880848FF0249FFC0458A:
+            0. 6A C5AB 008A 0000:??$appendTo@D@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@AEAPEAD@Z
+        555657:
+          41:
+            5441554156415748:
+              8BEC4883EC404C8BF24C8D2D:
+                0. 00 0000 0235 0000:?fromByteArray@QModbusDeviceIdentification@@SA?AV1@AEBVQByteArray@@@Z
+              8D6C24D94881ECC0000000:
+                488BD9E8:
+                  0. 00 0000 0387 0000:?open@QModbusTcpClient@@MEAA_NXZ
+                4C8BF1E8:
+                  0. 00 0000 03E0 0000:?open@QModbusTcpServer@@MEAA_NXZ
+            554157488D6C24C94881ECF0000000498B40104C8BE949:
+              0. 0C 35B3 0334 0000:?processGetCommEventLogRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+            56415748:
+              8BEC4883EC704183CFFF488BF944393D:
+                0. 00 0000 025E 0000:?calculateDataSize@QModbusResponse@@SAHAEBV1@@Z
+              8D6C24C94881EC:
+                00010000498D70104C8BF948:
+                  0. 0F 0CC3 03A7 0000:?processReadFifoQueueRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+                C0000000498D70104C8BF948:
+                  0. 0F 0CC3 0313 0000:?processMaskWriteRegisterRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+                E0000000498B4010488BF949:
+                  0. 0C 431B 045F 0000:?processReportServerIdRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+          48:
+            83EC4083CDFF488BF1392D........75358A4108488364:
+              0. 0A 8F0E 01DB 0000:?calculateDataSize@QModbusRequest@@SAHAEBV1@@Z
+            8D6C24B94881ECC0000000488BF9E8........85C00F84:
+              0. 0D 5E9B 01A9 0000:?close@QModbusRtuSerialMaster@@MEAAXXZ
+        574883EC:
+          20:
+            418AC04863DA4533C0488BF9488B0984C0418D400174:
+              0. 20 6A15 00AA 0000:?setBit@QBitArray@@QEAAXH_N@Z
+            48:
+              63FA488BD985D27E:
+                394533C94C8BC7418D51088D4A:
+                  0. 02 11CF 0065 0000:??0?$QVector@E@@QEAA@H@Z
+                404533C94C8BC7418D51088D4A:
+                  0. 02 79E5 006C 0000:??0?$QVector@G@@QEAA@H@Z
+              8B:
+                01488BFA488BD9833801762B8B500881E2FFFFFF:
+                  0. 12 4233 0079 0000:?takeFirst@?$QVector@VQCanBusFrame@@@@QEAA?AVQCanBusFrame@@XZ
+                02488B:
+                  F9483B0174374885C07403F0FF00488B19:
+                    0. 1B 74F1 005A 0000:??4QCanBusDeviceInfo@@QEAAAEAV0@AEBV0@@Z
+                  FA48:
+                    8901488BD9488B420848894108488B:
+                      0. 0C 4020 00CE 0000:??0QueueElement@QModbusClientPrivate@@QEAA@AEBU01@@Z
+                    8BD983380074108338FF7403F0FF00:
+                      0. 09 8783 0077 0000:??0?$QMap@HVQByteArray@@@@QEAA@AEBV0@@Z (REF 0040: ?copy@?$QMapNode@HVQByteArray@@@@QEBAPEAU1@PEAU?$QMapData@HVQByteArray@@@@@Z)
+                      1. 09 8783 0077 0000:??0?$QMap@W4RegisterType@QModbusDataUnit@@V2@@@QEAA@AEBV0@@Z (REF 0040: ?copy@?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@QEBAPEAU1@PEAU?$QMapData@W4RegisterType@QModbusDataUnit@@V2@@@@Z)
+                      2. 25 B73D 00AA 0000:??0?$QVector@E@@QEAA@AEBV0@@Z
+                      3. 25 C64A 00B1 0000:??0?$QVector@G@@QEAA@AEBV0@@Z
+                      4. 25 E991 00AD 0000:??0?$QVector@VQCanBusFrame@@@@QEAA@AEBV0@@Z
+                5910488BF94885DB74:
+                  5A488B4B:
+                    20833900741183:
+                      0. 1E 0737 0082 0000:?destroy@?$QMapData@HVQByteArray@@@@QEAAXXZ
+                    28833900741183:
+                      0. 1E 7244 0082 0000:?destroy@?$QMapData@W4RegisterType@QModbusDataUnit@@V2@@@QEAAXXZ
+                  63488B4B18833900741183:
+                    0. 1E BDD7 008B 0000:?destroy@?$QMapData@VQString@@VQCanBusPrivate@@@@QEAAXXZ
+                7908488BDA83BFB80000000175238B4770488D4B:
+                  0. 0E C5DE 006D 0000:?result@QModbusReply@@QEBA?AVQModbusDataUnit@@XZ
+                7C2450488D05........895108488BD948890145:
+                  0. 06 7867 008A 0000:??$?0GGV?$QVector@G@@@QModbusPdu@@IEAA@W4FunctionCode@0@GGV?$QVector@G@@@Z
+                D9:
+                  408AFA488B098B5308488B013B50047C07E8:
+                    0. 00 0000 0070 0000:??4QByteRef@@QEAAAEAV0@D@Z
+                  418BF8488B4908448941744883C178E8:
+                    0. 00 0000 0035 0000:?setError@QModbusDevice@@IEAAXAEBVQString@@W4Error@1@@Z
+                  83CFFF4881C1:
+                    98000000488B11833A00740E39:
+                      0. 11 B869 00C6 0000:??1QCanBusDevicePrivate@@UEAA@XZ
+                    E0000000488B11833A00740E39:
+                      0. 11 B869 0093 0000:??1QModbusRtuSerialMasterPrivate@@UEAA@XZ
+                  8BFA48:
+                    83C1108339007405E8........488BCB:
+                      0. 01 3E9B 0046 0000:??_GTimer@@UEAAPEAXI@Z
+                    8B:
+                      491083390074118339FF741E83C8FF:
+                        0. 17 F7D3 005C 0000:??_GQModbusPdu@@UEAAPEAXI@Z
+                        1. 17 F7D3 005C 0000:??_GQModbusRequest@@UEAAPEAXI@Z
+                        2. 17 F7D3 005C 0000:??_GQModbusResponse@@UEAAPEAXI@Z
+                        3. 17 F7D3 005C 0000:??_GQModbusExceptionResponse@@UEAAPEAXI@Z
+                      89:
+                        1801000083390074118339FF7421:
+                          0. 1D 973A 006A 0000:??_GQModbusRtuSerialSlavePrivate@@UEAAPEAXI@Z
+                        280100004885C9740A488B01BA01:
+                          0. 32 56AB 007F 0000:??_GQModbusTcpServerPrivate@@UEAAPEAXI@Z
+                  B930000000E8........4885C07418488D0D:
+                    0. 00 0000 0085 0000:??$create@$$V@?$QSharedPointer@VQTimer@@@@SA?AV0@XZ
+                  E8........:
+                    488B13488BF8488B4A104885C974:
+                      0. 05 B3A9 006E 0000:?detach_helper@?$QMap@W4RegisterType@QModbusDataUnit@@V2@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@QEBAPEAU1@PEAU?$QMapData@W4RegisterType@QModbusDataUnit@@V2@@@@Z)
+                      1. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@VQCanBusPrivate@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQString@@VQCanBusPrivate@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQCanBusPrivate@@@@@Z)
+                      2. 05 B3A9 006E 0000:?detach_helper@?$QMap@HVQByteArray@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@HVQByteArray@@@@QEBAPEAU1@PEAU?$QMapData@HVQByteArray@@@@@Z)
+                    85C0742B488B7B08488B8F280100:
+                      0. 02 0164 004C 0000:?close@QModbusRtuSerialSlave@@MEAAXXZ
+                  EB0C4883692001750548836118004883792000:
+                    0. 22 3015 0076 0000:?_Tidy@?$deque@EV?$allocator@E@std@@@std@@IEAAXXZ
+                DA488BF94885D2750433C0EB23488D15:
+                  0. 04 BF6F 0047 0000:?qt_metacast@Timer@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_Timer@@3Uqt_meta_stringdata_Timer_t@@B)
+                  1. 04 BF6F 0047 0000:?qt_metacast@QModbusRtuSerialMaster@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusRtuSerialMaster@@3Uqt_meta_stringdata_QModbusRtuSerialMaster_t@@B)
+                  2. 04 BF6F 0047 0000:?qt_metacast@QModbusTcpServer@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusTcpServer@@3Uqt_meta_stringdata_QModbusTcpServer_t@@B)
+                  3. 04 BF6F 0047 0000:?qt_metacast@QModbusTcpClient@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusTcpClient@@3Uqt_meta_stringdata_QModbusTcpClient_t@@B)
+                  4. 04 BF6F 0047 0000:?qt_metacast@QModbusClient@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusClient@@3Uqt_meta_stringdata_QModbusClient_t@@B)
+                  5. 04 BF6F 0047 0000:?qt_metacast@QModbusDevice@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusDevice@@3Uqt_meta_stringdata_QModbusDevice_t@@B)
+                  6. 04 BF6F 0047 0000:?qt_metacast@QModbusServer@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusServer@@3Uqt_meta_stringdata_QModbusServer_t@@B)
+                  7. 04 BF6F 0047 0000:?qt_metacast@QCanBus@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QCanBus@@3Uqt_meta_stringdata_QCanBus_t@@B)
+                  8. 04 BF6F 0047 0000:?qt_metacast@QCanBusDevice@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QCanBusDevice@@3Uqt_meta_stringdata_QCanBusDevice_t@@B)
+                  9. 04 BF6F 0047 0000:?qt_metacast@QModbusRtuSerialSlave@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusRtuSerialSlave@@3Uqt_meta_stringdata_QModbusRtuSerialSlave_t@@B)
+                  10. 04 BF6F 0047 0000:?qt_metacast@QModbusReply@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QModbusReply@@3Uqt_meta_stringdata_QModbusReply_t@@B)
+                F9:
+                  488BDAB9:
+                    18010000E8........488BC8E8:
+                      0. 00 0000 0048 0000:??0QModbusServer@@QEAA@PEAVQObject@@@Z
+                    A8000000E8........488BC8E8:
+                      0. 00 0000 0048 0000:??0QCanBusDevice@@QEAA@PEAVQObject@@@Z
+                    B0000000E8........488BC8E8:
+                      0. 00 0000 0048 0000:??0QModbusDevice@@QEAA@PEAVQObject@@@Z
+                    D8000000E8........488BC8E8:
+                      0. 00 0000 0051 0000:??0QModbusTcpClient@@QEAA@PEAVQObject@@@Z
+                    F8000000E8........488BC8E8:
+                      0. 00 0000 0051 0000:??0QModbusRtuSerialMaster@@QEAA@PEAVQObject@@@Z
+                  8BDA488B49088991900000004881C198000000:
+                    0. 04 3D02 005C 0000:?setError@QModbusReply@@QEAAXW4Error@QModbusDevice@@AEBVQString@@@Z
+                  E8........:
+                    33D2C787B000000001000000488D:
+                      0. 01 D5A7 00A0 0000:??0QModbusServerPrivate@@QEAA@XZ
+                    83A7B800000000488D05:
+                      0. 24 F00C 009C 0000:??0QModbusRtuSerialMasterPrivate@@QEAA@XZ
+                FA:
+                  418BD8488BD1488D4C2448E8........448BC3:
+                    0. 09 738E 006A 0000:??$qRegisterMetaType@W4SocketError@QAbstractSocket@@@@YAHPEBDPEAW4SocketError@QAbstractSocket@@W4DefinedType@?$MetaTypeDefinedHelper@W4SocketError@QAbstractSocket@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@W4SocketError@QAbstractSocket@@@@YAHAEBVQByteArray@@PEAW4SocketError@QAbstractSocket@@W4DefinedType@?$MetaTypeDefinedHelper@W4SocketError@QAbstractSocket@@$00@QtPrivate@@@Z)
+                    1. 09 738E 006A 0000:??$qRegisterMetaType@VQModbusDeviceIdentification@@@@YAHPEBDPEAVQModbusDeviceIdentification@@W4DefinedType@?$MetaTypeDefinedHelper@VQModbusDeviceIdentification@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@VQModbusDeviceIdentification@@@@YAHAEBVQByteArray@@PEAVQModbusDeviceIdentification@@W4DefinedType@?$MetaTypeDefinedHelper@VQModbusDeviceIdentification@@$00@QtPrivate@@@Z)
+                    2. 09 738E 006A 0000:??$qRegisterMetaType@W4RegisterType@QModbusDataUnit@@@@YAHPEBDPEAW4RegisterType@QModbusDataUnit@@W4DefinedType@?$MetaTypeDefinedHelper@W4RegisterType@QModbusDataUnit@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@W4RegisterType@QModbusDataUnit@@@@YAHAEBVQByteArray@@PEAW4RegisterType@QModbusDataUnit@@W4DefinedType@?$MetaTypeDefinedHelper@W4RegisterType@QModbusDataUnit@@$00@QtPrivate@@@Z)
+                  488BD94885D274124885C97425E8........8B:
+                    0. 0F 3340 004F 0000:?Construct@?$QMetaTypeFunctionHelper@VQModbusDeviceIdentification@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+              8D:
+                05........8BDA488901488BF9E8........F6C3:
+                  0. 0C B597 003E 0000:??_GQModbusDevice@@UEAAPEAXI@Z (REF 000D: ??_7QModbusDevice@@6B@)
+                  1. 0C B597 003E 0000:??_GQModbusServer@@UEAAPEAXI@Z (REF 000D: ??_7QModbusServer@@6B@)
+                  2. 0C B597 003E 0000:??_GQModbusClient@@UEAAPEAXI@Z (REF 000D: ??_7QModbusClient@@6B@)
+                99F0000000488BF9488BCBE8........488B0BBA:
+                  0. 09 89ED 009C 0000:??1QModbusServerPrivate@@UEAA@XZ
+            4C8B:
+              01:
+                488B:
+                  DA488BF9418B5008418B40040FBAF21FFF:
+                    0. 32 370C 007A 0000:?append@?$QVector@PEAVQTcpSocket@@@@QEAAXAEBQEAVQTcpSocket@@@Z
+                  F9496340084983C010498D1CC0E8:
+                    0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z
+                  FA488BD9418B5008418B40040FBAF21FFF:
+                    0. 1A 1A3C 0063 0000:?append@?$QVector@E@@QEAAX$$QEAE@Z
+                4C8BCA488BF9418B5008418B40040FBAF21FFF:
+                  0. 35 8257 007D 0000:?append@?$QVector@G@@QEAAXAEBG@Z
+                  1. 2E 8FE4 0071 0000:?append@?$QVector@E@@QEAAXAEBE@Z
+                  2. 32 AB8A 0079 0000:?append@?$QVector@H@@QEAAXAEBH@Z
+              4208488BFA4C2B02488BD949D1F874404533C941:
+                0. 07 9B03 0074 0000:??0?$QVector@G@@QEAA@V?$initializer_list@G@std@@@Z
+            8A41058BFA806104F72420806106800C0288410533D2:
+              0. 03 616D 00B0 0000:??0QCanBusFrame@@QEAA@W4FrameType@0@@Z
+            8B:
+              02488BFA488B5908894370488D4B788B42044883C2:
+                0. 05 AA54 003D 0000:?setResult@QModbusReply@@QEAAXAEBVQModbusDataUnit@@@Z
+              DA488BF9E8........F6C301740DBA:
+                10000000488B:
+                  0. 02 632D 0034 0000:??_GQModbusRtuSerialMaster@@UEAAPEAXI@Z (REF 0010: ??1QModbusRtuSerialMaster@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQModbusTcpServer@@UEAAPEAXI@Z (REF 0010: ??1QModbusTcpServer@@UEAA@XZ)
+                  2. 02 632D 0034 0000:??_GQModbusTcpClient@@UEAAPEAXI@Z (REF 0010: ??1QModbusTcpClient@@UEAA@XZ)
+                  3. 02 632D 0034 0000:??_GQModbusReply@@UEAAPEAXI@Z
+                  4. 02 632D 0034 0000:??_GQCanBus@@UEAAPEAXI@Z
+                  5. 02 632D 0034 0000:??_GQCanBusDevice@@UEAAPEAXI@Z
+                  6. 02 632D 0034 0000:??_GQModbusRtuSerialSlave@@UEAAPEAXI@Z
+                18010000488B:
+                  0. 02 632D 0034 0000:??_GQModbusServerPrivate@@UEAAPEAXI@Z
+                A8000000488B:
+                  0. 02 632D 0034 0000:??_GQCanBusDevicePrivate@@UEAAPEAXI@Z
+                B0000000488B:
+                  0. 02 632D 0034 0000:??_GQModbusDevicePrivate@@UEAAPEAXI@Z
+                B8000000488B:
+                  0. 02 632D 0034 0000:??_GQModbusClientPrivate@@UEAAPEAXI@Z
+                C0000000488B:
+                  0. 02 632D 0034 0000:??_GQModbusReplyPrivate@@UEAAPEAXI@Z
+                D8000000488B:
+                  0. 02 632D 0034 0000:??_GQModbusTcpClientPrivate@@UEAAPEAXI@Z
+                F8000000488B:
+                  0. 02 632D 0034 0000:??_GQModbusRtuSerialMasterPrivate@@UEAAPEAXI@Z
+            BA000D0500488BD9E8........83637000488D05:
+              0. 00 0000 006D 0000:??0QCanBusDevicePrivate@@QEAA@XZ
+          30:
+            418BF8488BD94885D27516E8........83F8FF740C8B:
+              0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@VQModbusDeviceIdentification@@@@YAHAEBVQByteArray@@PEAVQModbusDeviceIdentification@@W4DefinedType@?$MetaTypeDefinedHelper@VQModbusDeviceIdentification@@$00@QtPrivate@@@Z (0005: 35) (0010: 07)
+              1. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@W4RegisterType@QModbusDataUnit@@@@YAHAEBVQByteArray@@PEAW4RegisterType@QModbusDataUnit@@W4DefinedType@?$MetaTypeDefinedHelper@W4RegisterType@QModbusDataUnit@@$00@QtPrivate@@@Z (0005: 35) (0010: 14)
+              2. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@W4SocketError@QAbstractSocket@@@@YAHAEBVQByteArray@@PEAW4SocketError@QAbstractSocket@@W4DefinedType@?$MetaTypeDefinedHelper@W4SocketError@QAbstractSocket@@$00@QtPrivate@@@Z (0005: 3B) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@W4SocketError@QAbstractSocket@@@@SAHXZ)
+              3. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@W4CanBusError@QCanBusDevice@@@@YAHAEBVQByteArray@@PEAW4CanBusError@QCanBusDevice@@W4DefinedType@?$MetaTypeDefinedHelper@W4CanBusError@QCanBusDevice@@$00@QtPrivate@@@Z (0005: 3B) (REF 0016: ?qt_metatype_id@?$QMetaTypeIdQObject@W4CanBusError@QCanBusDevice@@$0BA@@@SAHXZ)
+              4. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@W4SerialPortError@QSerialPort@@@@YAHAEBVQByteArray@@PEAW4SerialPortError@QSerialPort@@W4DefinedType@?$MetaTypeDefinedHelper@W4SerialPortError@QSerialPort@@$00@QtPrivate@@@Z (0005: 3B) (REF 0016: ?qt_metatype_id@?$QMetaTypeIdQObject@W4SerialPortError@QSerialPort@@$0BA@@@SAHXZ)
+            48:
+              8B:
+                7C24:
+                  68488D05........488901488BD989510845:
+                    0. 0B 6147 0094 0000:??$?0GGEV?$QVector@E@@@QModbusPdu@@IEAA@W4FunctionCode@0@GGEV?$QVector@E@@@Z (004E: 01)
+                    1. 0B 6147 0094 0000:??$?0GGEV?$QVector@G@@@QModbusPdu@@IEAA@W4FunctionCode@0@GGEV?$QVector@G@@@Z (004E: 02)
+                  70488D05........488901488BD989510845:
+                    0. 0C BE7B 009D 0000:??$?0EGGGV?$QVector@E@@@QModbusPdu@@IEAA@W4FunctionCode@0@EGGGV?$QVector@E@@@Z
+                D9C744242008000000488B094C8D05........41:
+                  0. 08 13D9 0070 0000:?detach_helper@?$QHash@EP6AHAEBVQModbusResponse@@@Z@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@EP6AHAEBVQModbusResponse@@@Z@@CAXPEAUNode@QHashData@@@Z)
+                  1. 08 13D9 0070 0000:?detach_helper@?$QHash@EP6AHAEBVQModbusRequest@@@Z@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@EP6AHAEBVQModbusRequest@@@Z@@CAXPEAUNode@QHashData@@@Z)
+                  2. 08 2B34 0070 0000:?detach_helper@?$QHash@GUQueueElement@QModbusClientPrivate@@@@AEAAXXZ
+                  3. 08 B5D1 0070 0000:?detach_helper@?$QHash@HVQVariant@@@@AEAAXXZ
+              8D05........488BDA4C8D0D........4889442420:
+                0. 04 ADEA 003E 0000:??$?6W4SerialPortError@QSerialPort@@@@YA?AVQDebug@@V0@W4SerialPortError@QSerialPort@@@Z
+            4C8B02488BF9488B4208488362080048832200488B59:
+              0. 3A C354 006C 0000:??4?$QSharedPointer@VQTimer@@@@QEAAAEAV0@$$QEAV0@@Z
+          40:
+            418B00488BD94863FA488D4C2428498D500889442420:
+              0. 01 3E9B 0096 0000:?replace@?$QVector@U?$QPair@HVQVariant@@@@@@QEAAXHAEBU?$QPair@HVQVariant@@@@@Z
+            488BBC2488000000488D05........488901488BD989:
+              0. 0F 1B0A 00B3 0000:??$?0GGGGEV?$QVector@G@@@QModbusPdu@@IEAA@W4FunctionCode@0@GGGGEV?$QVector@G@@@Z
+        89542410574883EC20488B7908837F7402754FF6C2017439488D9F:
+          0. 0D A752 0072 0000:?clear@QCanBusDevice@@QEAAXV?$QFlags@W4Direction@QCanBusDevice@@@@@Z
+      10:
+        44894C2420448944241855565741564157488BEC4883EC30488B01:
+          0. 12 D372 014B 0000:?mid@?$QVector@G@@QEBA?AV1@HH@Z
+        4889:
+          4C24085556574154415541564157488D:
+            6C24904881EC700100:
+              0. 15 BDC4 0670 0000:?processReadWriteMultipleRegistersRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+            AC24D0FDFFFF4881EC:
+              0. 31 E10E 0F28 0000:?processDiagnosticsRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+          6C2418:
+            488974242057:
+              415641574881ECA0000000488B59084C:
+                0. 11 8A93 015C 0000:?enqueueRequest@QModbusRtuSerialMasterPrivate@@UEAAPEAVQModbusReply@@AEBVQModbusRequest@@HAEBVQModbusDataUnit@@W4ReplyType@2@@Z
+              4883EC2048:
+                8B01488BF2488BD9488BCE:
+                  0. 17 0516 0097 0000:??$convertTo@VQByteArray@@@?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@$$BY01DVQByteArray@@@@$$BY01D@@D@@AEBA?AVQByteArray@@XZ
+                8D05........488BFA4889:
+                  0. 0C 392A 00E2 0000:?keys@?$QMap@HVQByteArray@@@@QEBA?AV?$QList@H@@XZ
+            565741564883EC50488B7108498BE8488BDA4C8BF141:
+              0. 1A B99B 0139 0000:?forwardProcessRequest@QModbusTcpServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+            574883EC40488B01488BFA488BD98338017605E8:
+              0. 00 0000 00B7 0000:??A?$QMap@W4RegisterType@QModbusDataUnit@@V2@@@QEAAAEAVQModbusDataUnit@@AEBW4RegisterType@1@@Z
+          7424:
+            18:
+              48897C24205541564157488BEC4883EC60488B:
+                710833:
+                  0. 10 2A2F 0199 0000:?waitForFramesWritten@QCanBusDevice@@UEAA_NH@Z
+                790833:
+                  0. 10 6958 0176 0000:?waitForFramesReceived@QCanBusDevice@@UEAA_NH@Z
+              5557415541564157488D6C24C94881ECA0000000488B:
+                0. 26 B24B 027C 0000:?sendRequest@QModbusClientPrivate@@QEAAPEAVQModbusReply@@AEBVQModbusRequest@@HQEBVQModbusDataUnit@@@Z
+              574883EC:
+                2048:
+                  8B7108488BFA837E7402740C488D15:
+                    0. 00 0000 00AA 0000:?readAllFrames@QCanBusDevice@@QEAA?AV?$QVector@VQCanBusFrame@@@@XZ
+                  8D05........488BFA488902488BF148:
+                    0. 07 9C25 00DF 0000:?keys@?$QMap@VQString@@VQCanBusPrivate@@@@QEBA?AV?$QList@VQString@@@@XZ
+                308A4204488BFA24070F29742420488BF13C:
+                  0. 10 39E0 0171 0000:??6@YAAEAVQDataStream@@AEAV0@AEBVQCanBusFrame@@@Z
+                40488B5908488BCB0FB6FAE8........3BC7:
+                  0. 0A A012 00E9 0000:?matchingServerAddress@QModbusTcpServerPrivate@@QEBA_NE@Z
+            20574883EC208911488D7908488BD9BE01000000498B08:
+              0. 40 4D1F 00E9 0000:??0QModbusSerialAdu@@QEAA@W4Type@0@AEBVQByteArray@@@Z
+        555657:
+          415441554156415748:
+            8BEC4881EC80000000488BF24C8BF1:
+              0. 26 AFF0 0393 0000:?toString@QCanBusFrame@@QEBA?AVQString@@XZ
+            8D6C24D94881ECF000000041BE0200:
+              0. 05 DA64 0343 (l)0000:??R<lambda_8994fc49560d4d174d91e800ecc430a5>@@QEBA_NGAEBVQModbusRequest@@H@Z
+          488D6C24C04881EC40010000488BD98BF24881C1D0000000:
+            0. 01 3E9B 01CD 0000:?onResponseTimeout@QModbusRtuSerialMasterPrivate@@QEAAXH@Z
+        574883EC:
+          20:
+            488B:
+              01488BFA488BD98338017605E8........488B0B:
+                0. 04 8E53 0097 0000:??A?$QMap@HVQByteArray@@@@QEAAAEAVQByteArray@@AEBH@Z
+              5908488BF94885DB7415488D4B20E8........8A:
+                0. 07 B543 0054 0000:?doDestroySubTree@?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@AEAAXU?$integral_constant@_N$00@std@@@Z
+              FA488BD94885D2740A488BCAE8........EB0383:
+                0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+            8339004C8D5108498B0A488BFA41B802000000448B49:
+              0. 21 B598 00A1 0000:?pdu@QModbusSerialAdu@@QEBA?AVQModbusPdu@@XZ
+            895108488D05........488901488BD9488D0D:
+              0. 00 0000 007E 0000:??$?0EV?$QVector@G@@@QModbusPdu@@IEAA@W4FunctionCode@0@EV?$QVector@G@@@Z
+            8A02488DB9F0000000488BD988442430488BCF488D54:
+              0. 03 727B 0048 0000:?storeModbusCommEvent@QModbusServerPrivate@@QEAAXAEBVQModbusCommEvent@@@Z
+          30488B5908488BF9B9:
+            10000000E8........488BD3488B:
+              0. 02 6B60 00F0 0000:?setupTcpSocket@QModbusTcpClientPrivate@@QEAAXXZ
+            18000000E8........488BD3488B:
+              0. 02 6B60 0123 0000:?setupSerialPort@QModbusRtuSerialMasterPrivate@@QEAAXXZ (0009: 48)
+              1. 02 6B60 00C1 0000:?setupSerialPort@QModbusRtuSerialSlavePrivate@@QEAAXXZ (0009: 4C)
+        6644894C2420555657488BEC4883EC408BDA410FB7F8488BF1488D:
+          0. 01 D5A7 00D4 0000:?setData@QModbusServer@@QEAA_NW4RegisterType@QModbusDataUnit@@GG@Z
+      18:
+        4889:
+          542410574883EC40488B01488BD9488B7808E8........8B50:
+            0. 0A E39B 00D3 0000:?call@?$FunctorCall@U?$IndexesList@$0A@@QtPrivate@@U?$List@W4SocketError@QAbstractSocket@@@2@XV<lambda_3c03264367268e8a38f056113ce6f876>@@@QtPrivate@@SAXAEAV<lambda_3c03264367268e8a38f056113ce6f876>@@PEAPEAX@Z
+          742420574883EC5048:
+            8B05........4833C448894424484C8B:
+              0. 36 E06A 0102 0000:?append@?$QVector@VQCanBusFrame@@@@QEAAXAEBVQCanBusFrame@@@Z
+            8DB1C8000000488B06837814000F8431:
+              0. 04 238B 0164 0000:?cleanupTransactionStore@QModbusTcpClientPrivate@@QEAAXXZ
+        5556:
+          41564883EC20833900488BD90F858D0000004C8D7108498B06:
+            0. 11 8B0E 015F 0000:?matchingChecksum@QModbusSerialAdu@@QEBA_NXZ
+          574154415541564157488D6C24D94881ECD0000000488BF245:
+            0. 10 CFA0 02F4 (l)0000:??R<lambda_627905067ac419435edd48ffe511b7da>@@QEBA?AVQByteArray@@H@Z
+        574883EC20488B01488BFA488BD983380176088B5004E8:
+          0. 10 F955 007B 0000:?takeFirst@?$QList@UQueueElement@QModbusClientPrivate@@@@QEAA?AUQueueElement@QModbusClientPrivate@@XZ
+      20:
+        55565741544155:
+          41564157488BEC4883EC504C8BE1498BF8488D4D:
+            0. 05 CE48 01CE 0000:??6@YA?AVQDebug@@V0@AEBVQModbusPdu@@@Z
+          488D6C24C94881ECC0000000833D........FE7F:
+            0. 06 1E20 01BF (l)0000:?loadPlugins@@YAXXZ
+        574883EC208B05........85C00F8500010000488D0D........E8:
+          0. 00 0000 0123 0000:?qt_metatype_id@?$QMetaTypeIdQObject@W4CanBusError@QCanBusDevice@@$0BA@@@SAHXZ (REF 000C: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeIdQObject@W4CanBusError@QCanBusDevice@@$0BA@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          1. 00 0000 0123 0000:?qt_metatype_id@?$QMetaTypeIdQObject@W4SerialPortError@QSerialPort@@$0BA@@@SAHXZ (REF 000C: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeIdQObject@W4SerialPortError@QSerialPort@@$0BA@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+    6C24084889742420574883EC20488BF9E8........83F8027507B001E9A5:
+      0. 0B AF90 00D8 0000:?open@QModbusRtuSerialSlave@@MEAA_NXZ (0007: 28)
+      1. 0B AF90 00D8 0000:?open@QModbusRtuSerialMaster@@MEAA_NXZ (0007: E8)
+    742408574883EC20488B01488BF9837804000F8497000000833801762B8B:
+      0. 19 D72C 00BC 0000:?clear@?$QVector@VQCanBusFrame@@@@QEAAXXZ
+    7C240855488DAC2430FFFFFF4881ECD0010000410FB64008488BFA8BD00F:
+      0. 66 7062 091B 0000:?processRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@@Z
+  8B:
+    01:
+      48:
+        8B48:
+          0848890A8B01FFC083F8017603F0FF01488BC2C3:
+            0. 00 0000 001A 0000:?name@QCanBusDeviceInfo@@QEBA?AVQString@@XZ
+          1048890A8B01FFC083F8017603F0FF01488BC2C3:
+            0. 00 0000 001A 0000:?description@QCanBusDeviceInfo@@QEBA?AVQString@@XZ
+          1848890A8B01FFC083F8017603F0FF01488BC2C3:
+            0. 00 0000 001A 0000:?serialNumber@QCanBusDeviceInfo@@QEBA?AVQString@@XZ
+        FFA0:
+          88000000:
+            0. 00 0000 000A 0000:?setData@QModbusServer@@QEAA_NAEBVQModbusDataUnit@@@Z
+          90000000:
+            0. 00 0000 000A 0000:?data@QModbusServer@@QEBA_NPEAVQModbusDataUnit@@@Z
+      8A40:
+        24C3:
+          0. 00 0000 0007 0000:?hasFlexibleDataRate@QCanBusDeviceInfo@@QEBA_NXZ
+        25C3:
+          0. 00 0000 0007 0000:?isVirtual@QCanBusDeviceInfo@@QEBA_NXZ
+      8B4020C3:
+        0. 00 0000 0007 0000:?channel@QCanBusDeviceInfo@@QEBAHXZ
+    02:
+      4533C9488901488B420848894108488D05........4C890A4C894A0848:
+        0. 22 5BD4 00AB 0000:??0QueueElement@QModbusClientPrivate@@QEAA@$$QEAU01@@Z
+      4889014885C07403F0FF00488BC1C3:
+        0. 00 0000 0012 0000:??0QCanBusDeviceInfo@@QEAA@AEBV0@@Z
+    41:
+      08:
+        488B:
+          487848890A8B01FFC083F8017603F0FF01488BC2C3:
+            0. 00 0000 001B 0000:?errorString@QModbusDevice@@QEBA?AVQString@@XZ
+          88:
+            8000000048634104C3:
+              0. 00 0000 0010 0000:?framesAvailable@QCanBusDevice@@QEBA_JXZ
+            90000000:
+              48634104C3:
+                0. 00 0000 0010 0000:?framesToWrite@QCanBusDevice@@QEBA_JXZ
+              837904000F95C0C3:
+                0. 00 0000 0013 0000:?hasOutgoingFrames@QCanBusDevice@@IEBA_NXZ
+            9800000048890A8B01FFC083F8017603F0FF01488BC2C3:
+              0. 00 0000 001E 0000:?errorString@QModbusReply@@QEBA?AVQString@@XZ
+        6980F0000000E8030000C3:
+          0. 00 0000 000F 0000:?interFrameDelay@QModbusRtuSerialMaster@@QEBAHXZ
+        8990:
+          B0000000C3:
+            0. 00 0000 000B 0000:?setServerAddress@QModbusServer@@QEAAXH@Z
+          F4000000C3:
+            0. 00 0000 000B 0000:?setTurnaroundDelay@QModbusRtuSerialMaster@@QEAAXH@Z
+        8A80:
+          20010000C3:
+            0. 00 0000 000B 0000:?processesBroadcast@QModbusRtuSerialSlave@@UEBA_NXZ
+          8C000000C3:
+            0. 00 0000 000B 0000:?isFinished@QModbusReply@@QEBA_NXZ
+        8B:
+          40:
+            70C3:
+              0. 00 0000 0008 0000:?error@QCanBusDevice@@QEBA?AW4CanBusError@1@XZ
+              1. 00 0000 0008 0000:?state@QModbusDevice@@QEBA?AW4State@1@XZ
+            74C3:
+              0. 00 0000 0008 0000:?state@QCanBusDevice@@QEBA?AW4CanBusDeviceState@1@XZ
+              1. 00 0000 0008 0000:?error@QModbusDevice@@QEBA?AW4Error@1@XZ
+          80:
+            88000000C3:
+              0. 00 0000 000B 0000:?serverAddress@QModbusReply@@QEBAHXZ
+            90000000C3:
+              0. 00 0000 000B 0000:?error@QModbusReply@@QEBA?AW4Error@QModbusDevice@@XZ
+            B0000000C3:
+              0. 00 0000 000B 0000:?serverAddress@QModbusServer@@QEBAHXZ
+              1. 00 0000 000B 0000:?numberOfRetries@QModbusClient@@QEBAHXZ
+            B4000000C3:
+              0. 00 0000 000B 0000:?timeout@QModbusClient@@QEBAHXZ
+            B8000000C3:
+              0. 00 0000 000B 0000:?type@QModbusReply@@QEBA?AW4ReplyType@1@XZ
+            F4000000C3:
+              0. 00 0000 000B 0000:?turnaroundDelay@QModbusRtuSerialMaster@@QEBAHXZ
+      104885C074298B1233C93950187C09488BC8488B4008EB04488B401048:
+        0. 15 E542 0035 0000:?findNode@?$QMapData@W4RegisterType@QModbusDataUnit@@V2@@@QEBAPEAU?$QMapNode@W4RegisterType@QModbusDataUnit@@V2@@@AEBW4RegisterType@QModbusDataUnit@@@Z
+        1. 15 E542 0035 0000:?findNode@?$QMapData@HVQByteArray@@@@QEBAPEAU?$QMapNode@HVQByteArray@@@@AEBH@Z
+    4908:
+      4533C9E9:
+        0. 00 0000 000C 0000:?sendRawRequest@QModbusClient@@QEAAPEAVQModbusReply@@AEBVQModbusRequest@@H@Z
+      48:
+        81C190000000E9:
+          0. 00 0000 0010 0000:?enqueueOutgoingFrame@QCanBusDevice@@IEAAXAEBVQCanBusFrame@@@Z
+        837928000F85........488D05........C3:
+          0. 00 0000 0017 0000:?metaObject@Timer@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@Timer@@2UQMetaObject@@B)
+          1. 00 0000 0017 0000:?metaObject@QModbusRtuSerialMaster@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusRtuSerialMaster@@2UQMetaObject@@B)
+          2. 00 0000 0017 0000:?metaObject@QModbusTcpServer@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusTcpServer@@2UQMetaObject@@B)
+          3. 00 0000 0017 0000:?metaObject@QModbusTcpClient@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusTcpClient@@2UQMetaObject@@B)
+          4. 00 0000 0017 0000:?metaObject@QModbusClient@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusClient@@2UQMetaObject@@B)
+          5. 00 0000 0017 0000:?metaObject@QModbusDevice@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusDevice@@2UQMetaObject@@B)
+          6. 00 0000 0017 0000:?metaObject@QModbusServer@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusServer@@2UQMetaObject@@B)
+          7. 00 0000 0017 0000:?metaObject@QCanBus@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QCanBus@@2UQMetaObject@@B)
+          8. 00 0000 0017 0000:?metaObject@QCanBusDevice@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QCanBusDevice@@2UQMetaObject@@B)
+          9. 00 0000 0017 0000:?metaObject@QModbusRtuSerialSlave@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusRtuSerialSlave@@2UQMetaObject@@B)
+          10. 00 0000 0017 0000:?metaObject@QModbusReply@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QModbusReply@@2UQMetaObject@@B)
+      83797000750C488D05........488902EB13488B497848890A8B01FF:
+        0. 0D FC65 002D 0000:?errorString@QCanBusDevice@@QEBA?AVQString@@XZ
+      8B42084883C2108981A80000004881C1B0000000E9:
+        0. 00 0000 001D 0000:?setRawResult@QModbusReply@@QEAAXAEBVQModbusResponse@@@Z
+      E9:
+        0. 00 0000 0009 0000:?setMap@QModbusServer@@UEAA_NAEBV?$QMap@W4RegisterType@QModbusDataUnit@@V2@@@@Z (REF 0005: ?setMap@QModbusServerPrivate@@QEAA_NAEBV?$QMap@W4RegisterType@QModbusDataUnit@@V2@@@@Z)
+        1. 00 0000 0009 0000:?processResponse@QModbusClient@@MEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z (REF 0005: ?processResponse@QModbusClientPrivate@@QEAA_NAEBVQModbusResponse@@PEAVQModbusDataUnit@@@Z)
+    89:
+      B80000004885C90F85........32C0C3:
+        0. 00 0000 0013 0000:?isOpen@QModbusTcpClientPrivate@@UEBA_NXZ
+      E80000004885C90F85........32C0C3:
+        0. 00 0000 0013 0000:?isOpen@QModbusRtuSerialMasterPrivate@@UEBA_NXZ
+    C4:
+      4889:
+        58:
+          084889:
+            68:
+              1048897018:
+                4889782041:
+                  54415641574883EC20:
+                    488B01:
+                      0. 1C 24E4 0141 0000:?realloc@?$QVector@VQCanBusFrame@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                      1. 1C F423 014A 0000:?realloc@?$QVector@U?$QPair@HVQVariant@@@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                    4C8B:
+                      09:
+                        0. 6C C0A6 0176 0000:?removeAll@?$QVector@PEAVQTcpSocket@@@@QEAAHAEBQEAVQTcpSocket@@@Z
+                      E1:
+                        0. 0F E75F 00BE 0000:?createDeviceInfo@QCanBusDevice@@KA?AVQCanBusDeviceInfo@@AEBVQString@@00H_N1@Z
+                  564883EC:
+                    20:
+                      4863F2BD080000:
+                        0. 14 1DA1 00C2 0000:?realloc@?$QVector@E@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                        1. 14 4987 00C7 0000:?realloc@?$QVector@H@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                        2. 14 D1BC 00C9 0000:?realloc@?$QVector@G@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                      4C8B01488B:
+                        F149:
+                          0. 0C 95F6 00B1 0000:?detach_helper@?$QList@UQueueElement@QModbusClientPrivate@@@@AEAAXH@Z
+                        F248:
+                          0. 0E 64AE 00D8 0000:??Y?$QVector@VQCanBusFrame@@@@QEAAAEAV0@AEBV0@@Z
+                    30488B014D8BF149:
+                      0. 0F 9F22 0118 0000:?insert@?$QHash@EP6AHAEBVQModbusResponse@@@Z@@QEAA?AViterator@1@AEBEAEBQ6AHAEBVQModbusResponse@@@Z@Z (REF 002F: ?detach_helper@?$QHash@EP6AHAEBVQModbusResponse@@@Z@@AEAAXXZ)
+                      1. 0F 9F22 0118 0000:?insert@?$QHash@EP6AHAEBVQModbusRequest@@@Z@@QEAA?AViterator@1@AEBEAEBQ6AHAEBVQModbusRequest@@@Z@Z (REF 002F: ?detach_helper@?$QHash@EP6AHAEBVQModbusRequest@@@Z@@AEAAXXZ)
+                574883EC40498BF1450FB7C0488BF9BB01:
+                  0. 0B D8A1 00B6 0000:?data@QModbusServer@@QEBA_NW4RegisterType@QModbusDataUnit@@GPEAG@Z
+              1848897020895010574883EC20488B11488BF94963E8:
+                0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@H@@AEAAPEAUNode@1@HH@Z
+            70:
+              10488978:
+                184C897020:
+                  415748:
+                    81EC90000000488B0133:
+                      0. 1A FBE7 017F 0000:?take@?$QHash@GUQueueElement@QModbusClientPrivate@@@@QEAA?AUQueueElement@QModbusClientPrivate@@AEBG@Z
+                    83EC:
+                      204C2BC249BA:
+                        6766:
+                          0. 65 97E0 0106 0000:?erase@?$QVector@VQCanBusFrame@@@@QEAAPEAVQCanBusFrame@@PEAV2@0@Z
+                        ABAA:
+                          0. 65 FE11 0106 0000:?erase@?$QVector@U?$QPair@HVQVariant@@@@@@QEAAPEAU?$QPair@HVQVariant@@@@PEAU2@0@Z
+                      304C8B7C24:
+                        608BF2:
+                          0. 13 1B70 00A0 0000:??$?0GGV?$QVector@G@@@QModbusResponse@@QEAA@W4FunctionCode@QModbusPdu@@GGV?$QVector@G@@@Z
+                        688BF2:
+                          0. 13 60CB 00A8 0000:??$?0GGEV?$QVector@E@@@QModbusRequest@@QEAA@W4FunctionCode@QModbusPdu@@GGEV?$QVector@E@@@Z (004A: 01)
+                          1. 13 60CB 00A8 0000:??$?0GGEV?$QVector@G@@@QModbusRequest@@QEAA@W4FunctionCode@QModbusPdu@@GGEV?$QVector@G@@@Z (004A: 02)
+                      404C8BBC24:
+                        800000:
+                          0. 15 CFDE 00B5 0000:??$?0EGGGV?$QVector@E@@@QModbusResponse@@QEAA@W4FunctionCode@QModbusPdu@@EGGGV?$QVector@E@@@Z
+                        880000:
+                          0. 16 B779 00C2 0000:??$?0GGGGEV?$QVector@G@@@QModbusRequest@@QEAA@W4FunctionCode@QModbusPdu@@GGGGEV?$QVector@G@@@Z
+                  55488D68A14881ECA000000048:
+                    0. 0F 5C73 017B 0000:??A?$QHash@GUQueueElement@QModbusClientPrivate@@@@QEAAAEAUQueueElement@QModbusClientPrivate@@AEBG@Z
+                20554154415541564157488D68A14881EC:
+                  00:
+                    0. 06 0958 04AA 0000:?readBits@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@@Z
+                  F0:
+                    0. 06 225C 0379 0000:?readBytes@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@@Z (008F: D0)
+                    1. 06 225C 03ED 0000:?writeSingle@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@@Z (008F: DA)
+              184889782089501041564883EC20488B11488BD94963:
+                0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+          10:
+            4889:
+              68184889702057415641574883EC208B3A488BDA488B71:
+                0. 13 DD2B 014C 0000:?writeData@QModbusServer@@MEAA_NAEBVQModbusDataUnit@@@Z
+              701848897820:
+                41564883EC208BFA:
+                  488BF1498BD1488D48:
+                    0. 08 C474 0089 0000:??$?0EV?$QVector@G@@@QModbusResponse@@QEAA@W4FunctionCode@QModbusPdu@@EV?$QVector@G@@@Z
+                  4C8BF1410FB7D1488D:
+                    0. 06 2EB6 0091 0000:??0QModbusDataUnit@@QEAA@W4RegisterType@0@HG@Z
+                554154415541564157488D68A94881ECE0:
+                  0. 28 4C8A 0276 0000:?enqueueRequest@QModbusTcpClientPrivate@@UEAAPEAVQModbusReply@@AEBVQModbusRequest@@HAEBVQModbusDataUnit@@W4ReplyType@2@@Z
+              78204489401855488D68A14881ECC0000000488B790841:
+                0. 8F AC2E 02AB 0000:?value@QModbusServer@@UEBA?AVQVariant@@H@Z
+            4C894018488948085556574154415541564157488D68884881:
+              0. 1C DEEF 05D3 0000:?processWriteMultipleRegistersRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+            574883EC20488B09488D3D........488BDA48897808488D50:
+              0. 06 399A 008A 0000:?value@QModbusDeviceIdentification@@QEBA?AVQByteArray@@I@Z
+        7008488978104C8970184C89782055488BEC4883EC60488BFA498B:
+          0. 0B BD74 01A6 0000:?availableDevices@QCanBus@@QEBA?AV?$QList@VQCanBusDeviceInfo@@@@AEBVQString@@PEAV3@@Z
+      4C8940184889501048894808555356574154415541564157488D688848:
+        0. 1D 29D9 0649 0000:?processWriteMultipleCoilsRequest@QModbusServerPrivate@@QEAA?AVQModbusResponse@@AEBVQModbusRequest@@@Z
+    CA:
+      4C2BC233D2E9:
+        0. 00 0000 000D 0000:?defaultConstruct@?$QVector@E@@AEAAXPEAE0@Z
+      BA:
+        01000000448D4207E9:
+          0. 00 0000 0011 0000:?freeData@?$QVector@E@@AEAAXPEAU?$QTypedArrayData@E@@@Z
+        02000000448D4206E9:
+          0. 00 0000 0011 0000:?freeData@?$QVector@G@@AEAAXPEAU?$QTypedArrayData@G@@@Z
+        04000000448D4204E9:
+          0. 00 0000 0011 0000:?freeData@?$QVector@H@@AEAAXPEAU?$QTypedArrayData@H@@@Z
+        08000000448BC2E9:
+          0. 00 0000 0010 0000:?freeData@?$QVector@PEAVQTcpSocket@@@@AEAAXPEAU?$QTypedArrayData@PEAVQTcpSocket@@@@@Z
+  8D:
+    05........488901:
+      C3:
+        0. 00 0000 000B 0000:??1QCanBusFactory@@MEAA@XZ (REF 0003: ??_7QCanBusFactory@@6B@)
+        1. 00 0000 000B 0000:??1QCanBusFactoryV2@@MEAA@XZ (REF 0003: ??_7QCanBusFactory@@6B@)
+        2. 00 0000 000B 0000:??1QModbusTcpConnectionObserver@@UEAA@XZ (REF 0003: ??_7QModbusTcpConnectionObserver@@6B@)
+      E9:
+        0. 00 0000 000F 0000:??1QModbusDevice@@UEAA@XZ (REF 0003: ??_7QModbusDevice@@6B@)
+        1. 00 0000 000F 0000:??1QModbusServer@@UEAA@XZ (REF 0003: ??_7QModbusServer@@6B@)
+        2. 00 0000 000F 0000:??1QModbusClient@@UEAA@XZ (REF 0003: ??_7QModbusClient@@6B@)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__Fcategory@?1??QT_MODBUS_LOW@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??QT_MODBUS_LOW@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+      1. 00 0000 000C (l)0000:??__Fcategory@?1??QT_CANBUS@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??QT_CANBUS@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+      2. 00 0000 000C (l)0000:??__Fcategory@?1??QT_MODBUS@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??QT_MODBUS@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+493BD074:
+  2F48895C2408574883EC20498BF8488BDA488BCB4883C3184883C108:
+    0. 01 3E9B 0035 0000:?destruct@?$QVector@U?$QPair@HVQVariant@@@@@@AEAAXPEAU?$QPair@HVQVariant@@@@0@Z
+  4448895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+    0. 0D 3D3D 004A 0000:?copyConstruct@?$QVector@VQCanBusFrame@@@@AEAAXPEBVQCanBusFrame@@0PEAV2@@Z
+  5248895C2408574883EC20498BF8488BDA4C8BCB4883C328498B4910:
+    0. 24 90A0 0058 0000:?destruct@?$QVector@VQCanBusFrame@@@@AEAAXPEAVQCanBusFrame@@0@Z
+4C:
+  2BC2:
+    488BCA49D1F833D24D03C0E9:
+      0. 00 0000 0013 0000:?defaultConstruct@?$QVector@G@@AEAAXPEAG0@Z
+    498BC9:
+      49D1F84D03C0E9:
+        0. 00 0000 0011 0000:?copyConstruct@?$QVector@G@@AEAAXPEBG0PEAG@Z
+      E9:
+        0. 00 0000 000B 0000:?copyConstruct@?$QVector@E@@AEAAXPEBE0PEAE@Z (REF 0007: memcpy)
+  8B:
+    4108488D05........488902418B80A8000000894208498B88B000000048:
+      0. 12 54B7 003D 0000:?rawResult@QModbusReply@@QEBA?AVQModbusResponse@@XZ
+    DC:
+      4883EC68488B05........4833C4488944245889542420498D43B84589:
+        0. 05 6C93 0064 0000:?dataWritten@QModbusServer@@QEAAXW4RegisterType@QModbusDataUnit@@HH@Z
+      4989:
+        53104883EC38498363E800498D43104D8D4BE8498943F0:
+          41B80200:
+            0. 05 5B74 0033 0000:?framesWritten@QCanBusDevice@@QEAAX_J@Z
+          4533C048:
+            0. 02 DF74 0030 0000:?modbusClientDisconnected@QModbusTcpServer@@QEAAXPEAVQTcpSocket@@@Z
+        5B08:
+          49896B10498973185741544155415641574883EC40488B4A10:
+            0. 03 616D 018C 0000:?collateBits@QModbusClientPrivate@@QEAA_NAEBVQModbusPdu@@W4RegisterType@QModbusDataUnit@@PEAV4@@Z
+          574883EC30488B:
+            02488BFA488B5208488BD9498953F0498943:
+              0. 2D 4F21 00BF 0000:??4QueueElement@QModbusClientPrivate@@QEAAAEAU01@AEBU01@@Z
+            4208488BF9488B0A49894BE8498943F04885:
+              0. 49 23B1 007B 0000:??4?$QSharedPointer@VQTimer@@@@QEAAAEAV0@AEBV0@@Z
+      534883EC5045884BD8488D05........458843D04D8D4BE88364242000:
+        0. 10 A6B2 0099 0000:?createDeviceInfo@QCanBusDevice@@KA?AVQCanBusDeviceInfo@@AEBVQString@@_N1@Z
+85D2:
+  0F84:
+    C605000048895C24085556574154415541564157488D6C24D94881EC:
+      0. 11 0419 05CF 0000:?onError@QModbusRtuSerialMasterPrivate@@QEAAXW4SerialPortError@QSerialPort@@@Z
+    CC05000048895C24085556574154415541564157488D6C24D94881EC:
+      0. 11 0419 05D5 (l)0000:??R<lambda_87f60c9df6372cf4d83adad07888a010>@@QEBAXW4SerialPortError@QSerialPort@@@Z
+  75:
+    104585C07526498B41088B10E9........83FA0A7516498B4108488D0D:
+      0. 00 0000 0030 0000:?qt_static_metacall@Timer@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+    114585C07527498B5108488B12E9........83FA0A7516498B4108488D:
+      0. 01 9D2B 0031 0000:?qt_static_metacall@QModbusTcpServer@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+    214585C074114183F8017545498B41088B10E9........498B41088B10:
+      0. 01 B78A 0055 0000:?qt_static_metacall@QModbusDevice@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+    284585C074114183F801754C498B41088B10E9........4533C9488D15:
+      0. 00 0000 005C 0000:?qt_static_metacall@QModbusReply@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+    504585C074404183E80174274183E80174154183F8010F858C00000049:
+      0. 06 A23A 00AC 0000:?qt_static_metacall@QCanBusDevice@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+  780A488B41088990B0000000C3:
+    0. 00 0000 000F 0000:?setNumberOfRetries@QModbusClient@@QEAAXH@Z
+89542410:
+  4C8BDC4883EC38498363E800498D43104D8D4BE8498943F0:
+    41B8:
+      0100:
+        0. 05 5B74 0033 0000:?errorOccurred@QModbusReply@@QEAAXW4Error@QModbusDevice@@@Z (REF 0025: ?staticMetaObject@QModbusReply@@2UQMetaObject@@B)
+        1. 05 5B74 0033 0000:?stateChanged@QModbusDevice@@QEAAXW4State@1@@Z (REF 0025: ?staticMetaObject@QModbusDevice@@2UQMetaObject@@B)
+      0300:
+        0. 05 5B74 0033 0000:?stateChanged@QCanBusDevice@@QEAAXW4CanBusDeviceState@1@@Z
+    4533C048:
+      0. 02 DF74 0030 0000:?timeoutChanged@QModbusClient@@QEAAXH@Z (REF 0022: ?staticMetaObject@QModbusClient@@2UQMetaObject@@B)
+      1. 02 DF74 0030 0000:?errorOccurred@QModbusDevice@@QEAAXW4Error@1@@Z (REF 0022: ?staticMetaObject@QModbusDevice@@2UQMetaObject@@B)
+      2. 02 DF74 0030 0000:?errorOccurred@QCanBusDevice@@QEAAXW4CanBusError@1@@Z (REF 0022: ?staticMetaObject@QCanBusDevice@@2UQMetaObject@@B)
+      3. 02 DF74 0030 0000:?timeout@Timer@@QEAAXH@Z (REF 0022: ?staticMetaObject@Timer@@2UQMetaObject@@B)
+  534883EC30488B590885D20F84FE00000083EA010F84E300000083EA:
+    0. 38 F0DA 0169 0000:?setConnectionParameter@QModbusDevice@@QEAAXHAEBVQVariant@@@Z
+  555356574156488D6C24C94881ECE00000004C8B710833F6498BD848:
+    0. 6C 5C4B 0460 0000:?setValue@QModbusServer@@UEAA_NHAEBVQVariant@@@Z
+8B024C8BC1330125FFFFFF1F31018A410432420424073041048A420432410424:
+  0. 90 C30A 00B0 0000:??0QCanBusFrame@@QEAA@AEBV0@@Z
+  1. 79 EA64 00AF 0000:??0QCanBusFrame@@QEAA@$$QEAV0@@Z
+BA01000000E9:
+  0. 00 0000 000A 0000:?minimumDataSize@QModbusResponse@@SAHAEBV1@@Z (REF 0006: ?minimumDataSize@Private@@YAHAEBVQModbusPdu@@W4Type@1@@Z)
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QModbusTcpClient@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QModbusClient@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?qt_metacall@QCanBus@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  2. 00 0000 0005 0000:?qt_metacall@QModbusRtuSerialSlave@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QModbusServer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  3. 00 0000 0005 0000:?qt_metacall@QModbusRtuSerialMaster@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QModbusClient@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

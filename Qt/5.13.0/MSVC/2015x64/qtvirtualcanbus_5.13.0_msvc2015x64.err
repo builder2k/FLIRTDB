@@ -1,0 +1,166 @@
+40:
+  53:
+    4883EC:
+      2048:
+        634204488BDA4C8B4A104C8D04804F8D04C14C03C24903D1E8:
+          0. 00 0000 003A 0000:?freeData@?$QVector@VQCanBusFrame@@@@AEAAXPEAU?$QTypedArrayData@VQCanBusFrame@@@@@Z
+        8B:
+          02488BD948894424308B10FFC283FA017603F0FF00:
+            418AD0:
+              0. 06 1A1E 0073 0000:??H@YA?BVQByteArray@@AEBV0@D@Z
+            498BD0:
+              0. 06 1A1E 0073 0000:??H@YA?BVQByteArray@@AEBV0@0@Z
+          DA4D85C07436498B08488D05........483BC87427498900:
+            0. 20 5906 0055 0000:?availableDevices@VirtualCanBusPlugin@@UEBA?AV?$QList@VQCanBusDeviceInfo@@@@PEAVQString@@@Z (0004: 48)
+            1. 20 5906 0061 0000:?createDevice@VirtualCanBusPlugin@@UEBAPEAVQCanBusDevice@@AEBVQString@@PEAV3@@Z (0004: B9)
+        8D05........488BD9488901F6C201740ABA08000000E8:
+          0. 00 0000 002B 0000:??_GQCanBusFactory@@MEAAPEAXI@Z
+      4048:
+        8BD9E8........:
+          4883631000488D05........488903488D05:
+            0. 00 0000 0074 0000:??0VirtualCanServer@@QEAA@PEAVQObject@@@Z
+          F64013017438E8........0F57C0488D4C24:
+            0. 15 04CA 005B 0000:?clientDisconnected@VirtualCanBackend@@AEAAXXZ
+        8D05........488BD9488901E8........F64010017438E8:
+          0. 00 0000 0086 0000:??1VirtualCanServer@@UEAA@XZ (0037: 8B)
+          1. 00 0000 006C 0000:??1VirtualCanBackend@@UEAA@XZ (0037: 8D)
+    56574883EC20BA03000000488BD9E8........8B5318488D4C245041B80A:
+      0. 04 9897 00EE 0000:?close@VirtualCanBackend@@UEAAXXZ
+  5553:
+    5657:
+      41:
+        5541564157488BEC4883EC5033FF488D05........4533F64889:
+          0. 17 B370 01BC 0000:?interfaces@VirtualCanBackend@@SA?AV?$QList@VQCanBusDeviceInfo@@@@XZ
+        57488BEC4883EC40488BD9E8........BE010000004084701374:
+          0. 02 CBF8 0131 0000:?clientConnected@VirtualCanBackend@@AEAAXXZ
+      488D6C24C14881EC8800000083656700BA01000000488BF9E8:
+        0. 00 0000 0210 0000:?open@VirtualCanBackend@@UEAA_NXZ
+    57488BEC4883EC50488BD9488B4910488B01FF505884C00F8415010000:
+      0. 05 FD6B 013D 0000:?connected@VirtualCanServer@@AEAAXXZ
+48:
+  83:
+    E910E9:
+      0. 00 0000 0009 0000:??_EVirtualCanBusPlugin@@WBA@EAAPEAXI@Z (REF 0005: ??_EVirtualCanBusPlugin@@UEAAPEAXI@Z)
+    EC28:
+      48:
+        8B:
+          0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+            0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_VirtualCanBusPlugin@@YAPEAVQObject@@XZ@YAXXZ
+          5110833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+            0. 0C 9AB6 0035 0000:??1QCanBusFrame@@QEAA@XZ
+        8D0D........E8........8B05........B9FEFFFFFF83F8FF0F44:
+          0. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_g_server@?A0xf80e81cd@@YAPEAVVirtualCanServer@@XZ@YAXXZ
+      4C8BD285C9742B83E901741B83F9017533488B4210493901488B4424:
+        0. 24 C78E 004D 0000:?impl@?$QSlotObject@P8VirtualCanServer@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        1. 24 C78E 004D 0000:?impl@?$QSlotObject@P8VirtualCanBackend@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+      65488B0425580000008B0D........41B8........488B14C8418B04:
+        0. 03 4E75 0079 (l)0000:?innerFunction@Q_QGS_g_server@?A0xf80e81cd@@YAPEAVVirtualCanServer@@XZ (0027: 33)
+        1. 03 4E75 0077 0000:?QT_CANBUS_PLUGINS_VIRTUALCAN@@YAAEBVQLoggingCategory@@XZ (0027: 48)
+      8D42FDA9FDFFFFFF7505E8........4883C428C3:
+        0. 00 0000 0018 0000:?setConfigurationParameter@VirtualCanBackend@@UEAAXHAEBVQVariant@@@Z
+  895C24:
+    08:
+      4889:
+        6C24:
+          1056574155415641574883EC204533C0488BDA488BF1E8:
+            0. 00 0000 0122 0000:?removeAll@?$QList@VQString@@@@QEAAHAEBVQString@@@Z
+          188954241056574154415641574883EC20488B114C8BF1:
+            0. 18 3165 0143 0000:?detach_helper_grow@?$QList@VQCanBusDeviceInfo@@@@AEAAPEAUNode@1@HH@Z
+        742410:
+          4C89442418574883EC50488BF1498BD9B91800000048:
+            0. 03 B809 009B 0000:??$connect@P8QAbstractSocket@@EAAXXZP8VirtualCanServer@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXXZPEBVVirtualCanServer@@P84@EAAXXZW4ConnectionType@Qt@@@Z
+            1. 03 B809 009B 0000:??$connect@P8QIODevice@@EAAXXZP8VirtualCanBackend@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBVVirtualCanBackend@@P84@EAAXXZW4ConnectionType@Qt@@@Z
+            2. 03 B809 009B 0000:??$connect@P8QIODevice@@EAAXXZP8VirtualCanServer@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBVVirtualCanServer@@P84@EAAXXZW4ConnectionType@Qt@@@Z
+            3. 03 B809 009B 0000:??$connect@P8QTcpServer@@EAAXXZP8VirtualCanServer@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQTcpServer@@P83@EAAXXZPEBVVirtualCanServer@@P84@EAAXXZW4ConnectionType@Qt@@@Z
+            4. 03 B809 009B 0000:??$connect@P8QAbstractSocket@@EAAXXZP8VirtualCanBackend@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXXZPEBVVirtualCanBackend@@P84@EAAXXZW4ConnectionType@Qt@@@Z
+          574883EC20:
+            48635A0C488BFA486372084883C3024883:
+              0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+              1. 39 F195 0079 0000:?dealloc@?$QList@VQByteArray@@@@AEAAXPEAUData@QListData@@@Z
+            4C8B:
+              01488BD9496340084983C010498D34:
+                0. 02 ABAE 0092 0000:?detach_helper@?$QList@PEAVQTcpSocket@@@@AEAAXH@Z
+              4208488BFA4C2B0248BE6766666666:
+                0. 2A FE90 00A7 0000:??0?$QVector@VQCanBusFrame@@@@QEAA@V?$initializer_list@VQCanBusFrame@@@std@@@Z
+            806105E24D8BC880490502488BD98A4104:
+              0. 52 B7C2 00CE 0000:??0QCanBusFrame@@QEAA@IAEBVQByteArray@@@Z
+      5556574154415541564157488D6C24D94881ECE00000004C8BE9E8:
+        0. 00 0000 060E 0000:?readyRead@VirtualCanServer@@AEAAXXZ
+      574883EC20:
+        488B:
+          DA488BF94885D2750433C0EB23488D15:
+            0. 04 BF6F 0047 0000:?qt_metacast@VirtualCanServer@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_VirtualCanServer@@3Uqt_meta_stringdata_VirtualCanServer_t@@B)
+            1. 04 BF6F 0047 0000:?qt_metacast@VirtualCanBackend@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_VirtualCanBackend@@3Uqt_meta_stringdata_VirtualCanBackend_t@@B)
+          F98BDA4883C110E8........488BCFE8:
+            0. 0E 0D60 0040 0000:??_GVirtualCanBusPlugin@@UEAAPEAXI@Z
+          FA488BD94885D2750433C0EB58488D15:
+            0. 04 DF08 007C 0000:?qt_metacast@VirtualCanBusPlugin@@UEAAPEAXPEBD@Z
+        4C8B:
+          01488BF9496340084983C010498D1CC0E8:
+            0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z
+          CA488BF9488B11448B420C442B42084585C07E2E:
+            0. 4B 7BFA 009E 0000:?removeOne@?$QList@PEAVQTcpSocket@@@@QEAA_NAEBQEAVQTcpSocket@@@Z
+        65488B0425580000008B0D........41B8........48:
+          0. 09 8104 0110 (l)0000:?qt_plugin_instance_VirtualCanBusPlugin@@YAPEAVQObject@@XZ
+        8BDA488BF9E8........F6C301740DBA:
+          08000000488B:
+            0. 02 632D 0034 0000:??_GQCanBusFactoryV2@@MEAAPEAXI@Z
+          20000000488B:
+            0. 02 632D 0034 0000:??_GVirtualCanServer@@UEAAPEAXI@Z
+          28000000488B:
+            0. 02 632D 0034 0000:??_GVirtualCanBackend@@UEAAPEAXI@Z
+    10:
+      48897C24184C8974242055488BEC4883EC504883791000440FB7F2:
+        0. 06 6614 0190 0000:?start@VirtualCanServer@@QEAAXG@Z
+      5556574154415541564157488D6C24D94881ECE0000000488BFA48:
+        0. 06 09B5 0414 0000:??0VirtualCanBackend@@QEAA@AEBVQString@@PEAVQObject@@@Z
+      574883EC:
+        20498BD8488BF94183C8FF488D4C2430E8........488B:
+          0. 05 8594 0077 0000:??H@YA?BVQByteArray@@PEBDAEBV0@@Z
+        40488BF9E8........F64013017438E8........0F57C0:
+          0. 19 6E2E 008F 0000:?disconnected@VirtualCanServer@@AEAAXXZ
+    1848897424205557415441564157488D6C24904881EC70010000488B:
+      0. 01 D5A7 0637 0000:?writeFrame@VirtualCanBackend@@UEAA_NAEBVQCanBusFrame@@@Z
+  8B:
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@VirtualCanServer@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@VirtualCanServer@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@VirtualCanBusPlugin@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@VirtualCanBusPlugin@@2UQMetaObject@@B)
+      2. 00 0000 0017 0000:?metaObject@VirtualCanBackend@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@VirtualCanBackend@@2UQMetaObject@@B)
+    C4488958:
+      084889:
+        68:
+          10488970184889782041564883EC204533F6488BEA48:
+            0. 52 2F89 00BE 0000:??$indexOf@VQString@@V1@@QtPrivate@@YAHAEBV?$QList@VQString@@@@AEBVQString@@H@Z
+          1848897020895010574883EC20488B11488BF94963E8:
+            0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQTcpSocket@@@@AEAAPEAUNode@1@HH@Z
+        70184889782089501041564883EC20488B11488BD94963:
+          0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+      104889701848897820554154415541564157488D68B84881EC20:
+        0. 06 D90C 04FD 0000:?clientReadyRead@VirtualCanBackend@@AEAAXXZ
+  8D:
+    05........:
+      4889:
+        01:
+          488D05........48894108488BC1C3:
+            0. 00 0000 0019 0000:?qt_static_plugin_VirtualCanBusPlugin@@YA?BUQStaticPlugin@@XZ
+          C3:
+            0. 00 0000 000B 0000:??1QCanBusFactory@@MEAA@XZ (REF 0003: ??_7QCanBusFactory@@6B@)
+        02488BC2C3:
+          0. 00 0000 000E 0000:?interpretErrorFrame@VirtualCanBackend@@UEAA?AVQString@@AEBVQCanBusFrame@@@Z
+      C3:
+        0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_VirtualCanBusPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__Fcategory@?1??QT_CANBUS_PLUGINS_VIRTUALCAN@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??QT_CANBUS_PLUGINS_VIRTUALCAN@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+493BD074:
+  4448895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+    0. 0D 3D3D 004A 0000:?copyConstruct@?$QVector@VQCanBusFrame@@@@AEAAXPEBVQCanBusFrame@@0PEAV2@@Z
+  5248895C2408574883EC20498BF8488BDA4C8BCB4883C328498B4910:
+    0. 24 90A0 0058 0000:?destruct@?$QVector@VQCanBusFrame@@@@AEAAXPEAVQCanBusFrame@@0@Z
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+8B024C8BC1330125FFFFFF1F31018A410432420424073041048A420432410424:
+  0. 90 C30A 00B0 0000:??0QCanBusFrame@@QEAA@AEBV0@@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@VirtualCanServer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?qt_metacall@VirtualCanBusPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  2. 00 0000 0005 0000:?qt_metacall@VirtualCanBackend@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QCanBusDevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

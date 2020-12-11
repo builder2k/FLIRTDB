@@ -1,0 +1,242 @@
+0F1041:
+  30488BC2F30F7F02C3:
+    0. 00 0000 000C 0000:?geometry@QFbScreen@@UEBA?AVQRect@@XZ
+    1. 00 0000 000C 0000:?lastPainted@QFbCursor@@UEBA?AVQRect@@XZ
+  48488BC2F30F7F02C3:
+    0. 00 0000 000C 0000:?physicalSize@QFbScreen@@UEBA?AVQSizeF@@XZ
+33C0384141740D0F104130884141F30F7F02EB0C48890283C8FF89420889420C:
+  0. 04 7627 0024 0000:?dirtyRect@QFbCursor@@QEAA?AVQRect@@XZ
+40534883EC:
+  20:
+    48:
+      8B:
+        01488BDAFF5010488BC34883C4205BC3:
+          0. 00 0000 0018 0000:?availableGeometry@QPlatformScreen@@UEBA?AVQRect@@XZ
+        CA498BD8E8........488BD3488BC84C8B084883C4205B49:
+          0. 06 BCEB 0026 0000:?flush@QFbBackingStore@@UEAAXPEAVQWindow@@AEBVQRegion@@AEBVQPoint@@@Z
+        D9E8........:
+          33C9488D05........48890383C8FF48894B:
+            0. 16 AC1E 0049 0000:??0QFbWindow@@QEAA@PEAVQWindow@@@Z
+          834B10FF488D05........48836320004889:
+            0. 0A 9536 002A 0000:??0QFbVtHandler@@QEAA@PEAVQObject@@@Z
+        DA488D5110488BCBE8........488BC34883C4205BC3:
+          0. 00 0000 001E 0000:?toImage@QFbBackingStore@@UEBA?AVQImage@@XZ
+          1. 00 0000 001E 0000:?image@QFbBackingStore@@QEAA?BVQImage@@XZ
+      8D05........488BD948890148:
+        83C130E8........488D4B10:
+          0. 01 3E9B 0032 0000:??1QFbBackingStore@@UEAA@XZ
+        8B49504885C9740B488B01BA:
+          0. 10 0E18 0034 0000:??1QFbCursor@@UEAA@XZ
+    498BD985D275154585C07554498B41088B104883C4205BE9:
+      0. 00 0000 006C 0000:?qt_static_metacall@QFbCursorDeviceListener@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+    66837A104D488BD97524488B01488D542438FF90A0000000488D:
+      0. 04 230E 003E 0000:?event@QFbScreen@@MEAA_NPEAVQEvent@@@Z
+    80793000488BD97529C6413001B918000000E8........BA4D00:
+      0. 06 864E 003E 0000:?scheduleUpdate@QFbScreen@@QEAAXXZ
+  40:
+    48:
+      83795000488BD97419E8........488BC8BA01000000E8:
+        0. 00 0000 0065 0000:?updateMouseStatus@QFbCursor@@QEAAXXZ
+      8BD9E8........488BD3488BC84C8B0041FF50:
+        70488B03488D:
+          0. 34 F165 007D 0000:?raise@QFbWindow@@UEAAXXZ
+        78488B03488D:
+          0. 34 F165 007D 0000:?lower@QFbWindow@@UEAAXXZ
+    8B4148488D5424502B4140488BD9448B4154FFC0894424508B41:
+      0. 10 94CA 0061 0000:?initializeCompositor@QFbScreen@@IEAAXXZ
+  5066837A1005488BD90F85A9000000488D4A40488D542468E8:
+    0. 00 0000 00C3 0000:?pointerEvent@QFbCursor@@UEAAXAEBVQMouseEvent@@@Z
+4533C9488D15........45:
+  33C0E9:
+    0. 00 0000 0012 0000:?interrupted@QFbVtHandler@@QEAAXXZ
+  8D41:
+    01E9:
+      0. 00 0000 0013 0000:?aboutToSuspend@QFbVtHandler@@QEAAXXZ
+    02E9:
+      0. 00 0000 0013 0000:?resumed@QFbVtHandler@@QEAAXXZ
+48:
+  83:
+    C130E9:
+      0. 00 0000 0009 0000:?lock@QFbBackingStore@@QEAAXXZ (REF 0005: ?lock@QMutex@@QEAAXXZ)
+      1. 00 0000 0009 0000:?unlock@QFbBackingStore@@QEAAXXZ (REF 0005: ?unlock@QMutex@@QEAAXXZ)
+      2. 00 0000 0009 0000:?endPaint@QFbBackingStore@@UEAAXXZ (REF 0005: ?unlock@QMutex@@QEAAXXZ)
+    E910E9:
+      0. 00 0000 0009 0000:??_EQFbScreen@@WBA@EAAPEAXI@Z (REF 0005: ??_EQFbScreen@@UEAAPEAXI@Z)
+    EC:
+      18F20F10194C8BCA0F28C30F293C24F20F5C05........F20F1079080F:
+        0. 0C C03C 00AF 0000:?toPoint@QPointF@@QEBA?AVQPoint@@XZ
+      28:
+        488B49484885C97405E8........4883C428C3:
+          0. 00 0000 0017 0000:?setCursor@QFbCursor@@AEAAXW4CursorShape@Qt@@@Z (REF 000E: ?set@QPlatformCursorImage@@QEAAXW4CursorShape@Qt@@@Z)
+          1. 00 0000 0017 0000:?setCursor@QFbCursor@@AEAAXAEBVQImage@@HH@Z (REF 000E: ?set@QPlatformCursorImage@@QEAAXAEBVQImage@@HH@Z)
+        4C8BD285C9743183E901741B83F9017539488B4210493901488B4424:
+          0. 2A 6278 0053 0000:?impl@?$QSlotObject@P8QFbCursorDeviceListener@@EAAXW4DeviceType@QInputDeviceManager@@@ZU?$List@W4DeviceType@QInputDeviceManager@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        65488B0425580000008B0D........BA........488B0CC88B040A39:
+          0. 01 D5A7 0086 0000:?types@?$ConnectionTypes@U?$List@W4DeviceType@QInputDeviceManager@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ
+        80791000741380794000750DC6414001488B4918E8........4883C4:
+          0. 02 2316 0022 0000:?setDirty@QFbCursor@@UEAAXXZ
+        83FA017509488B4910E8........4883C428C3:
+          0. 00 0000 0017 0000:?onDeviceListChanged@QFbCursorDeviceListener@@QEAAXW4DeviceType@QInputDeviceManager@@@Z
+        85D275384585C074264183E80174134183F8017527498B51084883C4:
+          0. 02 7B98 0045 0000:?qt_static_metacall@QFbScreen@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        8B05........85C0751A448D40014883CAFF488D0D........E8:
+          0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@W4DeviceType@QInputDeviceManager@@@@SAHXZ
+        E8........488BC8:
+          BA01000000E8........85C00F9FC04883C428C3:
+            0. 00 0000 0020 0000:?hasMouse@QFbCursorDeviceListener@@QEBA_NXZ
+          E8........488BC8E8........488BC833C04885:
+            0. 0C 1C35 002C 0000:?platformScreen@QFbWindow@@QEBAPEAVQFbScreen@@XZ
+      48488B49484885C974208B842480000000894424308B44247889442428:
+        0. 09 63F1 0032 0000:?setCursor@QFbCursor@@AEAAXPEBE0HHHH@Z
+  85D274094885C974048B028901488BC1C3:
+    0. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4DeviceType@QInputDeviceManager@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+  895C24:
+    08:
+      4889:
+        6C2410:
+          4889742418574883EC:
+            20:
+              488B412033DB488BEA488BF9:
+                0. 69 7182 0089 0000:?windowForId@QFbScreen@@IEBAPEAVQFbWindow@@_K@Z
+              498BF18BFA488BE9E8:
+                0. 00 0000 0069 0000:?qt_metacall@QFbCursorDeviceListener@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2D)
+                1. 00 0000 006C 0000:?qt_metacall@QFbScreen@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30) (000D: 03)
+                2. 00 0000 006C 0000:?qt_metacall@QFbVtHandler@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30) (000D: 04)
+            304C8B4110488BEA4963580849:
+              0. 33 9BA3 0096 0000:?topLevelAt@QFbScreen@@UEBAPEAVQWindow@@AEBVQPoint@@@Z
+            4033DB498BE8488BFA488BF138:
+              0. 87 F487 00FB 0000:?drawCursor@QFbCursor@@UEAA?AVQRect@@AEAVQPainter@@@Z
+          4C89442418565741564883EC508BBC249800000033DB:
+            0. 12 8A02 00B3 0000:??$connect@P8QInputDeviceManager@@EAAXW4DeviceType@1@@ZP8QFbCursorDeviceListener@@EAAX0@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVQInputDeviceManager@@P83@EAAXW4DeviceType@3@@ZPEBVQFbCursorDeviceListener@@P85@EAAX1@ZW4ConnectionType@Qt@@@Z
+        742410:
+          48897C241841564883EC30488D79204C8BF24C8B0748:
+            0. 4F 542D 00F2 0000:?raise@QFbScreen@@UEAAXPEAVQFbWindow@@@Z
+          574883EC20:
+            33D2488BF9E8........488D4F10E8:
+              0. 00 0000 00AB 0000:??0QFbScreen@@QEAA@XZ
+            488B:
+              512048635A0848637A0C4883C30248:
+                0. 14 FE56 007F 0000:?topWindow@QFbScreen@@QEBAPEAVQWindow@@XZ
+              B988000000488D05........488901:
+                0. 03 616D 00C3 0000:??1QFbScreen@@UEAA@XZ
+            4C8B01488BD9496340084983C010498D34:
+              0. 02 ABAE 0092 0000:?detach_helper@?$QList@PEAVQFbWindow@@@@AEAAXH@Z
+              1. 02 ABAE 0092 0000:?detach_helper@?$QList@PEAVQFbBackingStore@@@@AEAAXH@Z
+        7C241055488BEC4883EC60488B01488BDA488D55C0488BF9FF:
+          0. 0A 0DB0 00D6 0000:?repaint@QFbWindow@@UEAAXAEBVQRegion@@@Z
+      555657488BEC4883EC50660F6F05........408AF2F30F7F45D048:
+        0. 03 E300 01F2 0000:?setVisible@QFbWindow@@UEAAX_N@Z
+      574883EC:
+        20:
+          48:
+            8B:
+              DA488BF94885D2750433C0EB23488D15:
+                0. 04 BF6F 0047 0000:?qt_metacast@QFbCursor@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QFbCursor@@3Uqt_meta_stringdata_QFbCursor_t@@B)
+                1. 04 BF6F 0047 0000:?qt_metacast@QFbCursorDeviceListener@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QFbCursorDeviceListener@@3Uqt_meta_stringdata_QFbCursorDeviceListener_t@@B)
+                2. 04 BF6F 0047 0000:?qt_metacast@QFbVtHandler@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QFbVtHandler@@3Uqt_meta_stringdata_QFbVtHandler_t@@B)
+              FA:
+                418BD8488BD1488D4C2448E8........448BC3:
+                  0. 09 738E 006A 0000:??$qRegisterMetaType@W4DeviceType@QInputDeviceManager@@@@YAHPEBDPEAW4DeviceType@QInputDeviceManager@@W4DefinedType@?$MetaTypeDefinedHelper@W4DeviceType@QInputDeviceManager@@$00@QtPrivate@@@Z
+                488BD94885D2750433C0EB45488D15:
+                  0. 04 DF08 0069 0000:?qt_metacast@QFbScreen@@UEAAPEAXPEBD@Z
+            8D05........8BDA488901488BF9E8........F6C3:
+              0. 0C 3CA9 003E 0000:??_GQFbWindow@@UEAAPEAXI@Z
+              1. 0C 8157 003E 0000:??_GQFbVtHandler@@UEAAPEAXI@Z
+          4C8BCA488BF9488B11448B420C442B42084585C07E2E:
+            0. 4B 7BFA 009E 0000:?removeOne@?$QList@PEAVQFbWindow@@@@QEAA_NAEBQEAVQFbWindow@@@Z
+          8BDA488BF9E8........F6C301740DBA:
+            18000000488B:
+              0. 02 632D 0034 0000:??_GQFbCursorDeviceListener@@UEAAPEAXI@Z
+            38000000488B:
+              0. 02 632D 0034 0000:??_GQFbBackingStore@@UEAAPEAXI@Z
+            60000000488B:
+              0. 02 632D 0034 0000:??_GQFbCursor@@UEAAPEAXI@Z
+            98000000488B:
+              0. 02 632D 0034 0000:??_GQFbScreen@@UEAAPEAXI@Z
+        30418BF8488BD94885D27516E8........83F8FF740C8B:
+          0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@W4DeviceType@QInputDeviceManager@@@@YAHAEBVQByteArray@@PEAW4DeviceType@QInputDeviceManager@@W4DefinedType@?$MetaTypeDefinedHelper@W4DeviceType@QInputDeviceManager@@$00@QtPrivate@@@Z
+        40488BC24C8D4140488BF9488D542420488BC8E8:
+          0. 00 0000 007B 0000:?setDirty@QFbScreen@@UEAAXAEBVQRect@@@Z
+        50488BDA488BF9E8........488BC8488BD3E8:
+          0. 1A C0C9 00C6 0000:?setPos@QFbCursor@@UEAAXAEBVQPoint@@@Z
+    10:
+      4889742418:
+        55574156488BEC4883EC6080791000488BFA488BD90F:
+          0. 0E 5042 013D 0000:?changeCursor@QFbCursor@@UEAAXPEAVQCursor@@PEAVQWindow@@@Z
+        574883EC:
+          20488BF2488BD9E8........488D05:
+            0. 00 0000 0094 0000:??0QFbBackingStore@@QEAA@PEAVQWindow@@@Z
+          40488BDA488BF9E8........C6471001488D:
+            0. 01 D5A7 0147 0000:??0QFbCursor@@QEAA@PEAVQFbScreen@@@Z
+          50488B9988000000488BFA488BF14885DB74:
+            0. 05 02CE 00E5 0000:?setGeometry@QFbScreen@@QEAAXAEBVQRect@@@Z
+      574883EC:
+        20488B0141B801000000488BFA488BD9443900761DBAFF:
+          0. 04 B5E7 0069 0000:??6?$QList@PEAVQFbBackingStore@@@@QEAAAEAV0@AEBQEAVQFbBackingStore@@@Z
+        40488B:
+          01488BFA488D542420488BD9FF5028488BCB0F10:
+            0. 07 8963 00C7 0000:?setGeometry@QFbWindow@@UEAAXAEBVQRect@@@Z
+          DA488BF94883C110488D542450E8........448B:
+            0. 14 178C 0086 0000:?resize@QFbBackingStore@@UEAAXAEBVQSize@@AEBVQRegion@@@Z
+    18:
+      4889542410555657415641574883EC30488D59204C8BF1488B0383:
+        0. 0E 6317 015C 0000:?addWindow@QFbScreen@@UEAAXPEAVQFbWindow@@@Z
+      5556574154415541564157488D6C24D94881ECE0000000488B05:
+        0. 00 0000 03DA 0000:?doRedraw@QFbScreen@@MEAA?AVQRegion@@XZ
+      574883EC40488B05........4833C44889442438488BD9488BFA48:
+        0. 04 DF79 00B7 0000:?beginPaint@QFbBackingStore@@UEAAXAEBVQRegion@@@Z
+  8B:
+    41:
+      208B480C2B48088BC1C3:
+        0. 00 0000 000D 0000:?windowCount@QFbScreen@@UEBAHXZ
+      28C3:
+        0. 00 0000 0005 0000:?cursor@QFbScreen@@UEBAPEAVQPlatformCursor@@XZ
+      38C3:
+        0. 00 0000 0005 0000:?winId@QFbWindow@@UEBA_KXZ
+      58488902488BC2C3:
+        0. 00 0000 000B 0000:?pos@QFbCursor@@UEBA?AVQPoint@@XZ
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QFbCursor@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QFbCursor@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@QFbCursorDeviceListener@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QFbCursorDeviceListener@@2UQMetaObject@@B)
+      2. 00 0000 0017 0000:?metaObject@QFbScreen@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QFbScreen@@2UQMetaObject@@B)
+      3. 00 0000 0017 0000:?metaObject@QFbVtHandler@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QFbVtHandler@@2UQMetaObject@@B)
+    C448895808:
+      4889:
+        681848897020895010574883EC20488B11488BF94963E8:
+          0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQFbWindow@@@@AEAAPEAUNode@1@HH@Z
+          1. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQFbBackingStore@@@@AEAAPEAUNode@1@HH@Z
+        70:
+          1048897818:
+            41564883EC30488BF14C8BF2488B494848:
+              0. 13 BBA2 00BB 0000:?getCurrentRect@QFbCursor@@AEBA?AVQRect@@XZ
+            4C89702041574883EC30488D79204C8BFA:
+              0. 6A 7B9F 0113 0000:?lower@QFbScreen@@UEAAXPEAVQFbWindow@@@Z
+          1848895010574883EC30488BFA488BF14883C120488D:
+            0. 03 F8BB 007B 0000:?removeWindow@QFbScreen@@UEAAXPEAVQFbWindow@@@Z
+      574881EC80000000660F6E02488BF9660F6E4A04498BC80F29:
+        0. 43 7D7C 00C3 0000:?drawImage@QPainter@@QEAAXAEBVQRect@@AEBVQImage@@@Z
+  8D:
+    05........4889:
+      01E9:
+        0. 00 0000 000F 0000:??1QFbWindow@@UEAA@XZ (REF 0003: ??_7QFbWindow@@6B@)
+        1. 00 0000 000F 0000:??1QFbVtHandler@@UEAA@XZ (REF 0003: ??_7QFbVtHandler@@6B@)
+      02488BC2C3:
+        0. 00 0000 000E 0000:?name@QPlatformScreen@@UEBA?AVQString@@XZ
+    4110C3:
+      0. 00 0000 0005 0000:?paintDevice@QFbBackingStore@@UEAAPEAVQPaintDevice@@XZ
+4C8BDC4883EC7866410F6E01418B4108412B0166410F6E4904FFC0F30FE6C0F3:
+  0. 8E DAD3 00B7 0000:?drawImage@QPainter@@QEAAXAEBVQRect@@AEBVQImage@@0V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+660F6E02660F6E4A04F30FE6D0F30FE6C9660F14D1F30F7F5158C3:
+  0. 00 0000 001B 0000:?setPhysicalSize@QFbScreen@@QEAAXAEBVQSize@@@Z
+832200488BC2C3:
+  0. 00 0000 0007 0000:?flags@QFbScreen@@UEBA?AV?$QFlags@W4Flag@QFbScreen@@@@XZ
+85D275404585C074294183E801741A4183E801740B4183F801756CE9:
+  0. 1B 6CB6 0088 0000:?qt_static_metacall@QFbVtHandler@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+89542410534883EC20488BD9E8........8B4424388943344883C4205BC3:
+  0. 00 0000 001E 0000:?setWindowState@QFbWindow@@UEAAXV?$QFlags@W4WindowState@Qt@@@@@Z
+8B41308902488BC2C3:
+  0. 00 0000 0009 0000:?windowFlags@QFbWindow@@QEBA?AV?$QFlags@W4WindowType@Qt@@@@XZ
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QFbCursor@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

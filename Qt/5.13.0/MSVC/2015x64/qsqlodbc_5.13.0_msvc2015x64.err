@@ -1,0 +1,305 @@
+40:
+  534883EC:
+    20:
+      33D2488BD9E8........488D05........488903488BC34883C4:
+        0. 03 3F06 0023 0000:??0QODBCDriverPlugin@@QEAA@XZ
+      48:
+        8BD9:
+          488B491883390074118339FF741E83C8FFF00FC10183F8:
+            0. 11 4E49 0067 0000:??1?$QHashNode@VQString@@V?$QVector@H@@@@QEAA@XZ
+          B910000000E8........488BD3488BC84883C4205BE9:
+            0. 00 0000 0023 0000:?createResult@QODBCDriver@@UEBAPEAVQSqlResult@@XZ
+          E8........488B0333D2488BCBFF9000010000488B0333:
+            0. 10 C1A3 0030 0000:?close@QODBCDriver@@UEAAXXZ
+        8D05........488BD9488901E8........488BCB4883C4205B:
+          0. 01 B78A 0025 0000:??1QODBCDriver@@UEAA@XZ
+      4C:
+        634204488BDA49C1E0044C0342104C03C248035210E8:
+          0. 00 0000 0037 0000:?freeData@?$QVector@VQVariant@@@@AEAAXPEAU?$QTypedArrayData@VQVariant@@@@@Z (REF 001D: ?destruct@?$QVector@VQVariant@@@@AEAAXPEAVQVariant@@0@Z)
+          1. 00 0000 0037 0000:?freeData@?$QVector@UQHolder@@@@AEAAXPEAU?$QTypedArrayData@UQHolder@@@@@Z (REF 001D: ?destruct@?$QVector@UQHolder@@@@AEAAXPEAUQHolder@@0@Z)
+        8B4A10488BDA486342044D8D04C14C03C24903D1E8:
+          0. 11 F075 0035 0000:?freeData@?$QVector@VQByteArray@@@@AEAAXPEAU?$QTypedArrayData@VQByteArray@@@@@Z
+    30:
+      48:
+        83642420004C8D442440BA5B000000488BD9488B89A0000000:
+          0. 05 09E3 0043 0000:?checkSchemaUsage@QODBCDriverPrivate@@QEAAXXZ
+        8B89A00000004C8D442440BA1C00000033DB48895C2420448D:
+          0. 03 CF65 0059 0000:?defaultCase@QODBCDriverPrivate@@QEBA?AW4DefaultCase@1@XZ
+      4C8B410883FA070F8F9E000000747B33DB85D2743C83EA017419:
+        0. 5C CA07 00DE 0000:?hasFeature@QODBCDriver@@UEBA_NW4DriverFeature@QSqlDriver@@@Z
+    40488BD94C8D442450488B89A0000000BAFD030000E8........66:
+      0. 15 58B1 006D 0000:?checkHasSQLFetchScroll@QODBCDriverPrivate@@QEAAXXZ
+  5553:
+    565741:
+      5441554156:
+        4157488D:
+          6C24E14881EC98000000488B0133D24C8B:
+            0. 23 CD43 024C 0000:?nextResult@QODBCResult@@MEAA_NXZ
+          AC2458FEFFFF4881ECA8020000488B05:
+            0. 00 0000 0295 (l)0000:?qWarnODBCHandle@@YA?AVQString@@HPEAXPEAH@Z
+        488BEC4883EC50488B4908488BF2488D5540498BF8:
+          0. 01 3E9B 0295 0000:?escapeIdentifier@QODBCDriver@@UEBA?AVQString@@AEBV2@W4IdentifierType@QSqlDriver@@@Z
+      56:
+        4157488DAC2498FCFFFF4881EC680400004533F64C8D85A003:
+          0. 2D 4A8D 02B7 0000:?checkUnicode@QODBCDriverPrivate@@QEAAXXZ
+        488DAC2460FEFFFF4881ECA0020000488BD9C74594C8000000:
+          0. 1C 0145 033D 0000:?checkDBMS@QODBCDriverPrivate@@QEAAXXZ
+    5741:
+      5541564157488BEC4883EC384183CFFF488D05........48890149:
+        0. 1A DD66 0177 (l)0000:?qODBCWarn@@YA?AVQString@@QEAX00PEAH@Z
+      564157488BEC4883EC30BA000D0500488BD9E8........83637000:
+        0. 03 616D 00FD 0000:??0QSqlDriverPrivate@@QEAA@XZ
+440FBFC14183F85B7F5A74524183C00B4183F817773C4963C04C8D05:
+  0. 05 DF00 00BC (l)0000:?qDecodeODBCType@@YA?AW4Type@QVariant@@F_N@Z (l)0036:$LN4 (l)003C:$LN5 (l)0044:$LN6 (l)004A:$LN7 (l)0052:$LN8 (l)0058:$LN12 (l)005E:$LN9 (l)0070:$LN11 (l)0076:$LN10
+4585C07E6848895C240848896C24104889742418574883EC20488BEA4963F88B:
+  0. 18 9FBC 006E 0000:?append@?$QVarLengthArray@_W$0BAA@@@QEAAXPEB_WH@Z
+48:
+  83EC:
+    28488B:
+      0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+        0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QODBCDriverPlugin@@YAPEAVQObject@@XZ@YAXXZ
+      4108488B88880000004885C97405E8........4883C428C3:
+        0. 00 0000 001E 0000:?detachFromResultSet@QODBCResult@@MEAAXXZ
+    384885D2750EBA1F0000004883C438E9........4585C0B804000000BA:
+      0. 07 E12F 004F 0000:??$qRegisterNormalizedMetaType@PEAX@@YAHAEBVQByteArray@@PEAPEAXW4DefinedType@?$MetaTypeDefinedHelper@PEAX$0A@@QtPrivate@@@Z
+  85D2740B4885C97406488B02488901488BC1C3:
+    0. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAX$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+  89:
+    4C2408555356574154415541564157488DAC2468F6FFFF4881EC980A0000:
+      0. 2B 025D 1CBE 0000:?exec@QODBCResult@@UEAA_NXZ
+    5C24:
+      08:
+        4889:
+          6C24104889742418574883EC30488BE9498BF8488BCA488BF2:
+            0. 01 3E9B 0062 (l)0000:?qODBCWarn@@YA?AVQString@@PEBVQODBCResultPrivate@@PEAH@Z
+          7424:
+            10574883EC:
+              2048:
+                63:
+                  5A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  FA498BF0488BD985D27E554533C94C:
+                    0. 09 6664 008E 0000:??0?$QVector@VQByteArray@@@@QEAA@HAEBVQByteArray@@@Z
+                8B:
+                  7108488BDA488BF9E8........84C0:
+                    0. 06 171E 005A 0000:?record@QODBCResult@@MEBA?AVQSqlRecord@@XZ
+                  F1488BFAB9C0000000E8........48:
+                    0. 06 C7E2 0099 0000:??0QODBCDriver@@QEAA@PEAVQObject@@@Z
+                8D4110488BF94889410833F689710448:
+                  0. 1C 1412 0093 (l)0000:?toSQLTCHAR@@YA?AV?$QVarLengthArray@_W$0BAA@@@AEBVQString@@@Z
+              30488BF9418BD8488D4C2420E8........85:
+                0. 0F 9D69 0087 0000:?fill@?$QVector@VQVariant@@@@QEAAAEAV1@AEBVQVariant@@H@Z
+            185557415441554156488D6C24A04881EC60010000488B:
+              0. 04 016E 07CC 0000:?formatValue@QODBCDriver@@UEBA?AVQString@@AEBVQSqlField@@_N@Z
+        55565741:
+          54415541564157488DAC24:
+            20FCFFFF4881ECE004000048:
+              0. 15 5480 046C (l)0000:?qMakeFieldInfo@@YA?AVQSqlField@@QEAXHPEAVQString@@@Z
+            50FEFFFF4881ECB00200004C:
+              0. 05 E602 0246 (l)0000:?qGetBinaryData@@YA?AVQVariant@@PEAXH@Z
+            A0F7FFFF4881EC6009000048:
+              0. 28 1AF4 1522 0000:?setConnectionOptions@QODBCDriverPrivate@@QEAA_NAEBVQString@@@Z
+          564157488BEC4883EC704533F64C8D3D........418BF6:
+            0. 18 32AA 026B 0000:?checkDriver@QODBCDriverPrivate@@QEBA_NXZ
+        574883EC:
+          20:
+            48:
+              8B:
+                5908488BFA33D2488D0D........4533C0E8:
+                  0. 00 0000 0041 0000:?handle@QODBCResult@@UEBA?AVQVariant@@XZ (0007: 88)
+                  1. 00 0000 0041 0000:?handle@QODBCDriver@@UEBA?AVQVariant@@XZ (0007: A0)
+                D98BFA4881C1A00000004C8B0141833800741341:
+                  0. 16 C259 006F 0000:??_GQODBCResultPrivate@@UEAAPEAXI@Z
+                DA:
+                  488BF94885D2750433C0EB23488D15:
+                    0. 04 BF6F 0047 0000:?qt_metacast@QODBCDriverPlugin@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QODBCDriverPlugin@@3Uqt_meta_stringdata_QODBCDriverPlugin_t@@B)
+                    1. 04 BF6F 0047 0000:?qt_metacast@QODBCDriver@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QODBCDriver@@3Uqt_meta_stringdata_QODBCDriver_t@@B)
+                  498BF8498B104889138B02FFC083F8017603F0:
+                    0. 03 C958 00C6 0000:?adjustCase@QODBCDriverPrivate@@QEBA?AVQString@@AEBV2@@Z
+                F9:
+                  488BDAB9B8000000E8........4C8BC3488BD7:
+                    0. 04 D745 004B 0000:??0QODBCResult@@QEAA@PEBVQODBCDriver@@@Z
+                  8BDA4883C178E8........488BCFE8:
+                    0. 0E DAB8 0040 0000:??_GQODBCDriverPrivate@@UEAAPEAXI@Z
+                    1. 0E EFAB 0040 0000:??_GQSqlDriverPrivate@@UEAAPEAXI@Z
+                  E8........488D05........33DB488D8F9800:
+                    0. 13 03F3 0170 0000:??0QODBCResultPrivate@@QEAA@PEAVQODBCResult@@PEBVQODBCDriver@@@Z
+                FA418BD8488BD1488D4C2448E8........448BC3:
+                  0. 09 738E 006A 0000:??$qRegisterMetaType@PEAX@@YAHPEBDPEAPEAXW4DefinedType@?$MetaTypeDefinedHelper@PEAX$0A@@QtPrivate@@@Z
+              8D05........488BD948890183CFFF4883E980488B:
+                0. 18 5285 0139 0000:??1QSqlResultPrivate@@UEAA@XZ
+            4C8B01488BF9496340084983C010498D1CC0E8:
+              0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0103 (l)0000:?qt_plugin_instance_QODBCDriverPlugin@@YAPEAVQObject@@XZ
+            8BDA488BF9E8........F6C301740DBA:
+              10000000488B:
+                0. 02 632D 0034 0000:??_GQODBCDriver@@UEAAPEAXI@Z (REF 0010: ??1QODBCDriver@@UEAA@XZ)
+                1. 02 632D 0034 0000:??_GQODBCResult@@UEAAPEAXI@Z (REF 0010: ??1QODBCResult@@UEAA@XZ)
+                2. 02 632D 0034 0000:??_GQODBCDriverPlugin@@UEAAPEAXI@Z (REF 0010: ??1QSqlDriverPlugin@@UEAA@XZ)
+              88000000488B:
+                0. 02 632D 0034 0000:??_GQSqlResultPrivate@@UEAAPEAXI@Z
+          3048:
+            8B79084863DA85D27848488B87A00000003B58047D:
+              0. 1D DECB 006A 0000:?isNull@QODBCResult@@MEAA_NH@Z
+            8D3D........488BDA488BCFE8........89442420:
+              0. 19 44EB 0098 0000:?create@QODBCDriverPlugin@@UEAAPEAVQSqlDriver@@AEBVQString@@@Z
+          40488364243000458BD0488364243800418AC1F6D84C8B:
+            0. 35 A737 00A1 (l)0000:?qGetBigIntData@@YA?AVQVariant@@PEAXH_N@Z
+      10:
+        4889:
+          6C2418:
+            4889742420574883EC70488B01488BF9488B7108FF50:
+              0. 16 1F93 012E 0000:?commitTransaction@QODBCDriver@@MEAA_NXZ (0023: BB)
+              1. 16 1F93 0130 0000:?rollbackTransaction@QODBCDriver@@MEAA_NXZ (0023: BD)
+            565741564883EC60488B71088BDA488BF9E8:
+              0. 1C 62BA 01C2 0000:?fetch@QODBCResult@@MEAA_NH@Z
+          74241848897C2420:
+            41564883EC:
+              50488B7108BA66000000488B:
+                0. 11 5FD6 00DA 0000:?endTrans@QODBCDriver@@AEAA_NXZ
+              60488B7108488BF9E8:
+                0. 00 0000 0143 0000:?fetchPrevious@QODBCResult@@MEAA_NXZ (0007: 07)
+                1. 00 0000 0167 0000:?fetchFirst@QODBCResult@@MEAA_NXZ (0007: 14)
+              70488B01488BF9488B7108FF:
+                0. 18 794C 0132 0000:?beginTransaction@QODBCDriver@@MEAA_NXZ
+            55:
+              41:
+                54415541564157488BEC4883EC5083:
+                  0. 20 BB3C 01D2 (l)0000:?qMakeError@@YA?AVQSqlError@@AEBVQString@@W4ErrorType@1@PEBVQODBCResultPrivate@@@Z
+                564157488BEC4883EC4080B9A90000:
+                  0. 12 50D2 0151 0000:?splitTableQualifier@QODBCDriverPrivate@@QEAAXAEBVQString@@AEAV2@11@Z
+              488BEC4881EC80000000418A80A80000:
+                0. 18 84B7 01DB (l)0000:?qMakeFieldInfo@@YA?AVQSqlField@@QEAXPEBVQODBCDriverPrivate@@@Z
+        555657415441:
+          554156415748:
+            8BEC4883EC5083654000498BC14D8B:
+              0. 2D 2616 01D9 (l)0000:?qMakeError@@YA?AVQSqlError@@AEBVQString@@W4ErrorType@1@PEBVQODBCDriverPrivate@@@Z
+            8DAC24:
+              00FAFFFF4881EC0007000045:
+                0. 1F 5A6A 0748 0000:?record@QODBCDriver@@UEBA?AVQSqlRecord@@AEBVQString@@@Z
+              60FEFFFF4881ECA002000048:
+                0. 25 A700 03CF 0000:?reset@QODBCResult@@MEAA_NAEBVQString@@@Z
+              70F3FFFF4881EC900D000048:
+                0. 21 8246 0A70 0000:?primaryIndex@QODBCDriver@@UEBA?AVQSqlIndex@@AEBVQString@@@Z
+              80FEFFFF4881EC8002000048:
+                0. 29 7284 02EC 0000:?prepare@QODBCResult@@UEAA_NAEBVQString@@@Z
+          56488BEC4883EC60488B7908488D05........4889:
+            0. 09 612A 0253 0000:?lastInsertId@QODBCResult@@UEBA?AVQVariant@@XZ
+        574883EC20488B:
+          01488BFA488BD98338017629BAFFFFFF7F41B801:
+            0. 04 9897 0073 0000:??Y?$QList@VQString@@@@QEAAAEAV0@AEBVQString@@@Z
+          4908488BFA488D542430E8........488B078378:
+            0. 15 D4ED 0060 0000:?isIdentifierEscaped@QODBCDriver@@UEBA_NAEBVQString@@W4IdentifierType@QSqlDriver@@@Z
+          FA48:
+            8BD94885D2740A488BCAE8........EB0383:
+              0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+            8D05........488B92880000004C8D4C2430:
+              0. 09 8293 0081 (l)0000:?qMakeFieldInfo@@YA?AVQSqlField@@PEBVQODBCResultPrivate@@H@Z
+      18:
+        4889:
+          5424105556574154415541564157488DAC24:
+            00FEFFFF4881EC:
+              0. 0A 9070 07A7 0000:?tables@QODBCDriver@@UEBA?AVQStringList@@W4TableType@QSql@@@Z
+            30FDFFFF4881EC:
+              0. 09 7541 05E1 (l)0000:?qGetStringData@@YA?AVQString@@PEAXHH_N@Z
+          74242055574156488BEC4883EC608B45D8488D55D0488B7108:
+            0. 22 12CE 01A1 0000:?fetchLast@QODBCResult@@MEAA_NXZ
+        555657415641574883EC20488B7908488D05........4533F64889:
+          0. 15 24FA 0164 0000:??1QODBCResult@@UEAA@XZ
+        564883EC30488BD94C8D442448B903000000488B93A0000000E8:
+          0. 00 0000 0098 0000:?checkDateTimePrecision@QODBCDriverPrivate@@QEAAXXZ
+        574883EC:
+          20488D05........4C8BD2488901488BD9448B4A04453B:
+            0. 31 167B 009C (l)0000:?fromSQLTCHAR@@YA?AVQString@@AEBV?$QVarLengthArray@_W$0BAA@@@H@Z
+          504C8B8AA0000000488BD94C8B8298000000488D4C2460:
+            0. 09 D539 0101 (l)0000:?qSqlWarning@@YAXAEBVQString@@PEBVQODBCDriverPrivate@@@Z
+      2055:
+        565741:
+          54415541564157488DAC2490FDFFFF4881EC7003000048:
+            0. 02 8E30 0EEE 0000:?data@QODBCResult@@MEAA?AVQVariant@@H@Z
+          5641574883EC20488B790883CDFF33F6448D7D09448D75:
+            0. 20 F585 019B 0000:?cleanup@QODBCDriver@@AEAAXXZ
+        5741:
+          5441564157488BEC4883EC3048895108488D05........48:
+            0. 11 30BD 0140 0000:??0QSqlResultPrivate@@QEAA@PEAVQSqlResult@@PEBVQSqlDriver@@@Z
+          56488DAC24C0FEFFFF4881EC40020000BA24000000C74424:
+            0. 37 AB82 00FD 0000:?checkHasMultiResults@QODBCDriverPrivate@@QEAAXXZ
+    6C2408488974241048897C24184154415641574883EC20488B01488BF948:
+      0. 35 256A 01BD 0000:?resize@?$QVector@VQVariant@@@@QEAAXH@Z
+    742408574883EC20488B01488BF9837804000F8491000000833801762B8B:
+      0. 19 24C1 00B6 0000:?clear@?$QVector@VQVariant@@@@QEAAXXZ
+  8B:
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QODBCDriverPlugin@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QODBCDriverPlugin@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@QODBCDriver@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QODBCDriver@@2UQMetaObject@@B)
+    511033C04885D2740B3942047406488B5118EB03488BD04885D274:
+      16488B:
+        0. 21 9FEF 0041 0000:?updateStmtHandleState@QODBCResultPrivate@@QEAAXXZ
+        1. 24 FACB 0044 0000:?isStmtHandleValid@QODBCResultPrivate@@QEAA_NXZ
+      56488B:
+        0. 55 5F3E 0075 0000:?dpDbc@QODBCResultPrivate@@QEBAPEAXXZ
+        1. 55 AEB0 0075 0000:?dpEnv@QODBCResultPrivate@@QEBAPEAXXZ
+    C4:
+      488958:
+        084889:
+          6810488970184889782041:
+            54415641574883EC20488B01:
+              0. 1C 7773 011D 0000:?realloc@?$QVector@VQVariant@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+            564883EC20:
+              48:
+                63F2BD080000:
+                  0. 14 4987 00C7 0000:?realloc@?$QVector@I@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                8B0141BE0800:
+                  0. 1C DBD7 0118 0000:?realloc@?$QVector@VQByteArray@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+              4C8BF1498BF9B9:
+                0. 0B 6F7D 00E6 0000:??0QODBCDriver@@QEAA@PEAX0PEAVQObject@@@Z
+          70:
+            10574883EC4083602000458BD0488360E8004C8BDA41:
+              0. 3C 5AB0 00A9 (l)0000:?qGetIntData@@YA?AVQVariant@@PEAXH_N@Z
+            184889782089501041564883EC20488B11488BD94963:
+              0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+        1048897020574883EC:
+          408360DC000F57C0F30F7F40E0C740D802:
+            0. 09 27BA 00FD (l)0000:?qSqlWarning@@YAXAEBVQString@@PEBVQODBCResultPrivate@@@Z
+          508360DC000F57C0F30F7F40E0C740D802:
+            0. 09 27BA 0106 (l)0000:?qSqlWarning@@YAXAEBVQString@@QEAX@Z
+        1848897020574883EC20488B7908488D500833F648897008488B:
+          0. 06 9774 00A1 0000:?numRowsAffected@QODBCResult@@MEAAHXZ
+      4C8948204C89401848895010555356574154415541564157488DA868FB:
+        0. 46 F6E3 07F8 0000:?open@QODBCDriver@@UEAA_NAEBVQString@@000H0@Z
+    CABA04000000448D4204E9:
+      0. 00 0000 0011 0000:?freeData@?$QVector@I@@AEAAXPEAU?$QTypedArrayData@I@@@Z
+      1. 00 0000 0011 0000:?freeData@?$QVector@H@@AEAAXPEAU?$QTypedArrayData@H@@@Z
+  8D05........:
+    488901488D05........48894108488BC1C3:
+      0. 00 0000 0019 0000:?qt_static_plugin_QODBCDriverPlugin@@YA?BUQStaticPlugin@@XZ
+    C3:
+      0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QODBCDriverPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+493BD074:
+  2B48895C2408574883EC20498BF8488BDA488BCB4883C310E8:
+    0. 00 0000 0031 0000:?destruct@?$QVector@VQVariant@@@@AEAAXPEAVQVariant@@0@Z
+  5048895C2408574883EC20498BF8488BDA488BCB4883C3:
+    08488B1183:
+      0. 22 DDD2 0056 0000:?destruct@?$QVector@VQByteArray@@@@AEAAXPEAVQByteArray@@0@Z
+    10488B1183:
+      0. 22 021D 0056 0000:?destruct@?$QVector@UQHolder@@@@AEAAXPEAUQHolder@@0@Z
+4C8BDC49895B:
+  084989:
+    6B2089542410565741564883EC208B41044D8D4B10488B:
+      0. 30 E9CB 00A9 0000:?realloc@?$QVarLengthArray@_W$0BAA@@@AEAAXHH@Z
+    7310574883EC5033DB498D43E8498943D88BFA49895BD0:
+      0. 16 D38C 00EE (l)0000:?isAutoValue@@YA_NQEAXH@Z
+  104989731849897B2041564883EC608B442438498D53C8488B79:
+    0. 22 7B8E 013A 0000:?fetchNext@QODBCResult@@MEAA_NXZ
+  18574883EC50488B05........4833C4488944244080B9B70000:
+    0. 27 23C2 0099 0000:?quoteChar@QODBCDriverPrivate@@QEAA?AVQChar@@XZ
+6689542410534883EC204C8B09488BD9418339017715458B4108418B4104410F:
+  0. 16 8988 0078 0000:??YQString@@QEAAAEAV0@VQChar@@@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QODBCDriverPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QSqlDriverPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?deleteNode2@?$QHash@VQString@@V?$QVector@H@@@@CAXPEAUNode@QHashData@@@Z (REF 0001: ??1?$QHashNode@VQString@@V?$QVector@H@@@@QEAA@XZ)
+  2. 00 0000 0005 0000:?virtual_hook@QODBCResult@@MEAAXHPEAX@Z (REF 0001: ?virtual_hook@QSqlResult@@MEAAXHPEAX@Z)
+  3. 00 0000 0005 0000:?qt_metacall@QODBCDriver@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QSqlDriver@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+EB17488BC24883C2104885C0740B48832000C7400800000080493BD075E4C3:
+  0. 00 0000 001F 0000:?defaultConstruct@?$QVector@VQVariant@@@@AEAAXPEAVQVariant@@0@Z

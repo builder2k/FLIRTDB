@@ -1,0 +1,1265 @@
+0F:
+  B6:
+    01BA000100000FB649010FAFC26603C1C3:
+      0. 00 0000 0013 0000:png_get_uint_16
+    41134C8B510883C007C1E803448BC8:
+      4C8D04104D3BCA731A498BC8482BCA:
+        0. 15 63AC 0035 (l)0000:png_read_filter_row_sub
+      4D2BD185C07416418BC9418A0049FF:
+        0. 33 5A5C 0053 (l)0000:png_read_filter_row_avg
+    4201440FB6:
+      0A41C1E108440BC80FB642020FB6520341C1E108440BC841C1:
+        0. 06 1134 002A 0000:png_write_chunk_start
+      1241C1E208440BD00FB642020FB6520341C1E208440BD041C1:
+        0. 06 0412 002A 0000:png_write_chunk
+    51010FB601C1E00803C20FB651020FB64903C1E00803C2C1E00803C1:
+      790C:
+        0. 0D A69E 002D 0000:png_get_int_32
+      C3:
+        0. 00 0000 001F 0000:png_get_uint_32
+    91:
+      870200004C8BC18BC283E002F6C204750A6683B98002000000760383C8:
+        0. 1D 84A6 003D (l)0000:png_image_format
+      8A020000488D05........488981980400004C8D05........488D05:
+        0. 00 0000 0054 (l)0000:png_init_filter_functions
+    D1B83F000000448D42E04183F85E0F46C2C3:
+      0. 00 0000 0014 (l)0000:png_icc_tag_char
+  B742:
+    1441B86C070000664103C06689018A4210FEC08841028A420C8841038A:
+      0. 11 D70F 0031 0000:png_convert_from_struct_tm
+    7E6685C07914816208FAE7FFFF4183C9FF458D4111E9........84C079:
+      0. 2A 254D 004A 0000:png_colorspace_sync_info
+  BAA96C0100001448899148010000C3:
+    0. 00 0000 0010 0000:png_set_read_user_transform_fn
+33C0:
+  4885C974:
+    068B81:
+      3C040000C3:
+        0. 00 0000 000E 0000:png_get_user_width_max
+      40040000C3:
+        0. 00 0000 000E 0000:png_get_user_height_max
+      44040000C3:
+        0. 00 0000 000E 0000:png_get_chunk_cache_max
+    07:
+      0FB681F0030000C3:
+        0. 00 0000 000F 0000:png_get_rgb_to_gray_status
+      488B81:
+        48040000C3:
+          0. 00 0000 000F 0000:png_get_chunk_malloc_max
+        D0030000C3:
+          0. 00 0000 000F 0000:png_get_user_chunk_ptr
+    0B85D20F48D08991B8020000C3:
+      0. 00 0000 0013 0000:png_set_flush
+    1A4885D27415F6420880740F80BAE80000000175068B82:
+      E00000:
+        0. 04 31A7 0028 0000:png_get_x_pixels_per_inch
+      E40000:
+        0. 04 31A7 0028 0000:png_get_y_pixels_per_inch
+    1D4885D27418F7420800010000740F80BADC0000000175068B82:
+      0. 13 240A 0037 0000:png_get_x_offset_inches_fixed
+      1. 13 2EED 0037 0000:png_get_y_offset_inches_fixed
+      2. 10 7DFB 0039 0000:png_get_x_offset_inches
+      3. 10 DB83 0039 0000:png_get_y_offset_inches
+    4A4885D2744541BA800000004484520874394D85C0740C8B82E0:
+      0. 32 188E 0052 0000:png_get_pHYs
+  81C1E88CFEFF81F9102700000F97C0C3:
+    0. 00 0000 0012 0000:png_gamma_significant
+  85D20F9FC0FFC889817C020000C3:
+    0. 00 0000 0010 0000:png_set_check_for_invalid_index
+40:
+  53:
+    48:
+      81EC:
+        00010000488BD94885C97506E8........CC4C8BC2488D542420E8:
+          0. 00 0000 0032 0000:png_chunk_error (l)0032:$LN5
+        10010000488B05........4833C44889842400010000488BD94885:
+          0. 0C AEBE 0056 0000:png_chunk_warning
+      83EC:
+        20:
+          33:
+            C04C8BCA4885C97439803A23751A8D50018BC2448BC243803C:
+              0. 36 2361 008B 0000:png_warning
+            D2488BD9E8........85C074:
+              080FBAAB6C010000:
+                0A4883C420:
+                  0. 02 8FCC 0022 0000:png_set_strip_16
+                0C4883C420:
+                  0. 02 8FCC 0022 0000:png_set_expand_gray_1_2_4_to_8
+                124883C420:
+                  0. 02 8FCC 0022 0000:png_set_strip_alpha
+                1A4883C420:
+                  0. 02 8FCC 0022 0000:png_set_scale_16
+              0A818B6C01000000:
+                1000024883:
+                  0. 04 1875 0024 0000:png_set_palette_to_rgb
+                  1. 04 1875 0024 0000:png_set_tRNS_to_alpha
+                  2. 04 1875 0024 0000:png_set_expand
+                1200024883:
+                  0. 04 1875 0024 0000:png_set_expand_16
+              10488BCBE8........0FBAAB6C:
+                0. 0A A8F4 002A 0000:png_set_gray_to_rgb
+          4183C9FF4533C0488BD9418D5102E8........41B9060000004C:
+            0. 02 5E64 0035 (l)0000:png_image_skip_unused_chunks
+          448BC241B9A08601008BD1488D4C2440E8........33DB85C074:
+            0. 06 10C3 003B (l)0000:png_gamma_threshold
+          45:
+            33:
+              C0488BD94C8BCA4883C124418D5040E8........834B2002:
+                0. 04 BF6F 0030 0000:png_image_error
+              C9:
+                4533C0BA444E4549488BD9E8........838B6401000010:
+                  0. 06 59CA 0026 0000:png_write_IEND
+                488BD9E8........488B8B400200004885C97415488B83:
+                  0. 16 0FF6 0060 (l)0000:png_write_filtered_row
+            8BD841F6C002744941B903000000B008453BC174068A818902:
+              0. 79 2A67 00B1 0000:png_write_sBIT
+          48:
+            85C9750433C0EB25BA68010000E8........488BD84885C074:
+              0. 0D 49BF 003A 0000:png_create_info_struct
+            8B:
+              014C8D0D........488BD94C8D05........488BD3488B08:
+                0. 04 A596 0035 (l)0000:png_image_write_memory
+              9928010000837B200075174533C0488D4B244C8BCA418D50:
+                0. 02 6722 0030 0000:png_safe_warning
+              D9:
+                45:
+                  33C033C933D2E8........89836C0200004883C4205B:
+                    0. 01 EF04 0021 0000:png_reset_crc
+                  85C9746385D274554585C07450660F6EC2F30FE6C066:
+                    0. 1D E4B8 0079 0000:png_muldiv
+                4885C9:
+                  74364885D2741B488B81080400004885C07404FF:
+                    0. 08 A8A0 004C 0000:png_malloc_warn
+                  750833C04883C4205BC34885D274:
+                    0B488BCAFF15:
+                      0. 00 0000 003D 0000:png_malloc_default (l)003D:$LN11
+                    1B488B810804:
+                      0. 10 5700 004D 0000:png_malloc (l)004D:$LN11
+                83E20B752AF78164010000008000007530488D15:
+                  0. 00 0000 005A (l)0000:check_location (l)005A:$LN12
+                E8........:
+                  488B9318040000488BCBE8........488B93:
+                    0. 10 1BD1 012E (l)0000:png_read_destroy
+                  85C075064883C4205BC3488D15........48:
+                    0. 03 C2A6 0028 0000:png_set_text (l)0028:$LN4
+          660F2F0D........488BD97616F20F1005........660F2FC176:
+            0. 05 C74E 006C (l)0000:convert_gamma_value (l)006C:$LN6
+          8A41104C8BCA448B11A8040F84BF0000008A511180FA08754B4D:
+            0. B9 8508 00EB (l)0000:png_do_encode_alpha
+          B902000000488BDAFF15........4C8BC3488D15........488B:
+            0. 02 6B60 0045 (l)0000:png_default_warning
+          F68168010000:
+            02488BD9740C4881C178010000E8........488D:
+              0. 09 7CA5 00A6 (l)0000:png_write_destroy
+            08488BD9752C4533C033D2E8........4883A388:
+              0. 4A 4268 0074 0000:png_read_finish_IDAT
+          FF8134020000488BD98B81340200003B81200200000F82020100:
+            0. 29 F383 0129 0000:png_read_push_finish_row
+        30488B:
+          05........4833C44889442428:
+            488BD9C7818C0400001200:
+              0. 2F 3389 0077 0000:png_write_sig
+            8A5A024C8BC28D43FF3C0B:
+              0. 5E B9D0 00A3 0000:png_write_tIME
+          D9488D4C2420E8........85C074068B442420EB11488D15:
+            0. 00 0000 0034 0000:png_muldiv_warn
+        40488B8424800000004889442430488B4424784889442428488B44:
+          0. 08 DD86 0068 0000:png_create_read_struct_2 (000B: 2B)
+          1. 08 DD86 00A9 0000:png_create_write_struct_2 (000B: 6C)
+    5556:
+      4883EC70488B05........4833C44889442460418BE8488BF2488BD9:
+        0. 08 1D18 00A3 0000:png_set_sCAL_fixed
+      5741:
+        5441:
+          554156415748:
+            81ECC8000000488B05........4833C44889:
+              0. 48 4CF2 01F1 0000:png_write_pCAL (l)01F1:$LN19
+            83EC:
+              584C8B014C8BF9BB01000000498B004C:
+                0. FF 41C4 03C2 (l)0000:png_image_read_and_map (l)03C2:$LN79
+              684C8B014C8BF941BE01000000498B00:
+                0. FF E9F7 02CE (l)0000:png_image_read_composite (l)02CE:$LN42
+          56415748:
+            81EC40030000488B05........4833C448898424:
+              0. 2B A141 0210 0000:png_handle_PLTE (l)0210:$LN28
+            83EC70488B05........4833C44889442460488B:
+              0. 0E DC2C 00B8 0000:png_write_sCAL_s
+        564881EC40020000488B05........4833C44889842430020000:
+          0. 2D D763 012D 0000:png_handle_hIST (l)012D:$LN19
+    5657:
+      41544155415641574883EC40488BF9458BE84883C9FF8BF24D8BF14C:
+        0. 40 A47D 0248 (l)0000:png_decompress_chunk
+      48:
+        81ECB0040000488B05........4833C448898424A0040000498BF0:
+          0. 0D C4A0 012B 0000:png_write_zTXt (l)012B:$LN13
+        83EC:
+          40488B05........4833C448894424384963D98BF2488BF94C:
+            0. 17 056B 0071 0000:png_warning_parameter_signed
+          70488B05........4833C448894424600F57C0418BF0660F2F:
+            0. 0C F687 00B9 0000:png_set_sCAL
+  55:
+    48:
+      8BEC4883EC30488B05........4833C4488945F84C8BD14183F8037541:
+        0. 26 37BF 0118 0000:png_write_bKGD
+      8D6C24A04881EC60010000488B05........4833C44889455048894C24:
+        0. 2A 10A8 00BB 0000:png_safe_execute
+    53:
+      565741:
+        5441564157488D:
+          6C24E04881EC20010000488B05........4833:
+            0. 2F 4D28 01EA (l)0000:png_icc_profile_error
+          AC24B0FAFFFF4881EC50060000488B05:
+            0. 00 0000 01C2 0000:png_create_png_struct
+        56488BEC4883EC40488B05........4833C4488945F8488BD9BF:
+          0. 4A B252 025C 0000:png_handle_bKGD (l)025C:$LN28
+      57488BEC4883EC:
+        40488B05........4833C4488945F08B816401000048:
+          0. 1F 540C 0101 0000:png_handle_tIME (l)0101:$LN9
+        50488B05........4833C4488945F08B816401000048:
+          0. 15 39AA 0167 0000:png_handle_oFFs (l)0167:$LN12
+41:
+  8BC0448BD24C8BD94885C9744383FA0B773E41F6C2017538458B8BA8030000:
+    0. 37 3784 0057 0000:png_set_option
+  B97F00000041B8F4010000E9:
+    0. 00 0000 0011 (l)0000:png_fixed_inches_from_microns
+44:
+  0FB789800200004533DB4C8BC1418BD3664585C9742C450FB7D1418BC34585:
+    0. BE F4F5 00DE (l)0000:png_init_palette_transformations
+  8B:
+    4A18418BC1412BC03941180F8CC4000000438D04013941180F8FB7000000:
+      0. BA B740 00DA (l)0000:png_colorspace_endpoints_match
+    C93BCA735E81FA80000000725685C9744F81FA7FFF0000730E450FAFC841:
+      0. 16 998A 0068 (l)0000:png_unpremultiply
+4533:
+  C04885D2746F83E901743A83E901742B83E902741C418D40043BC8740841:
+    0. 58 1FE8 0078 0000:png_build_grayscale_palette
+  C944388990020000743744398980010000762E488B8178010000448A0041:
+    0. 0C 8A71 004F 0000:png_zlib_inflate
+  D24885C9:
+    0F84A60000004885D20F849D00000041BB8000000044845A080F:
+      0. 46 97E8 00B6 0000:png_get_pHYs_dpi
+    746C4885D27467458D5A1044845A08745D807A250375284D85C0:
+      0. 58 1DD2 0078 0000:png_get_tRNS
+48:
+  83:
+    B998010000000F858C00000083FAF9747983FAFA746B83FAFB745D83FAFC:
+      0. 1C 08C5 009B 0000:png_zstream_error
+    C8FF4C8BC94863CA33D249F7F0483BC8772C490FAFC833C04885C974234D:
+      0. 1C 7DDF 0043 (l)0000:png_malloc_array_checked
+    EC:
+      28:
+        0FB64201440FB60241C1E0084403C00FB6420241C1E0084403C00FB6:
+          0. 1D 0A1A 0047 0000:png_get_uint_31 (l)0047:$LN4
+        33C04885C9741085D20F48D083FA08770B88918D0200004883C428C3:
+          0. 03 E07D 002D 0000:png_set_sig_bytes (l)002D:$LN6
+        41B801000000440FB6CA418D41BF83F839771A418D41A583F8057611:
+          0. 14 2E08 003E 0000:png_check_chunk_name (l)003E:$LN14
+        44:
+          0FB60A0FB64201440FB642020FB6520341C1E1084403C841C1E108:
+            0. 20 42F9 0051 (l)0000:png_get_fixed_point
+          8B816C0100004533DB4C8BC941B208410FBAE00C73588A42253C03:
+            0. FF 5868 01E0 0000:png_read_transform_info (l)01E0:$LN39
+        4533C94C8BD185D27E4B4D85C074464863CA4883C8FF33D249F7F048:
+          0. 2A F132 0066 0000:png_malloc_array (l)0066:$LN14
+        48:
+          85:
+            C9:
+              74:
+                0985D2740CE8........33C04883C428C3488B8180030000:
+                  0. 19 AFCE 0039 0000:png_process_data_pause
+                0D488B8940010000FF15........4883C428C3:
+                  0. 00 0000 001B 0000:png_default_flush
+                0E4885D27409488BCAFF15........4883C428C3:
+                  0. 00 0000 001C 0000:png_free_default
+                104D85C0740B41B801000000E8........4883C428C3:
+                  0. 00 0000 001E 0000:png_progressive_combine_row
+                124885D2740D4183F801750C44098A2C0100004883C428C3:
+                  0. 15 E3A4 003F 0000:png_data_freer (l)003F:$LN9
+                1A488B81000100004885C0740E488B89080100004885C974:
+                  0. 07 81FE 002C 0000:png_longjmp (l)002C:$LN4
+                1EF681680100004075094883C428E9........488D15:
+                  0. 00 0000 002C 0000:png_start_read_image
+                214885D2741C488B81100400004885C074074883C42848FF:
+                  0. 06 E9C2 002F 0000:png_free
+                26488B4424504C8981300300004C8D05........48898140:
+                  0. 0B 7B88 0034 0000:png_set_progressive_read_fn
+                2C8B8168010000A8407409488D15........EB1485D2741C:
+                  0. 0C 320D 004D (l)0000:png_rtran_ok
+                3C448B81900300004585C0742B4183E801741C4183F80174:
+                  0. 13 2F53 004A 0000:png_process_some_data
+                3F8B916C02000041B8040000008BC288542433C1E8188844:
+                  0. 24 B7DB 004D 0000:png_write_chunk_end
+                494885D27444F6420880743E448B8AE00000004585C97432:
+                  0. 24 047B 0059 0000:png_get_pixel_aspect_ratio_fixed
+                4F4D85C048899140010000488D05........490F45C04D85:
+                  0. 0B D244 005D 0000:png_set_write_fn
+                614885D2745C4D85C0745741B90002000044858964010000:
+                  0. 41 3A32 006F 0000:png_set_tIME
+                7B41B90080000044858964010000740966899192020000EB:
+                  0. 12 DBFB 0089 0000:png_set_filler
+              750733C04883C428C3458BC84883C8FF448BC233D249F7F14C:
+                0. 07 DE3D 0042 0000:png_zalloc
+            D274470F1081B80400008B81000500000F1089C80400000F1142:
+              0. 2C 4648 0055 0000:png_colorspace_sync
+          8B81:
+            30:
+              0100004885C074074883C42848FFE0488D15........E8:
+                0. 00 0000 0024 0000:png_write_data (l)0024:$LN5
+              0300004885C07402FFD04883C428C3:
+                0. 00 0000 0017 0000:png_push_have_info
+            38:
+              0100004885C074074883C42848FFE0488D15........E8:
+                0. 00 0000 0024 0000:png_read_data (l)0024:$LN5
+              0300004885C07411440FB68985020000448B8134020000FF:
+                0. 06 7251 0026 0000:png_push_have_row
+            400300004885C07402FFD04883C428C3:
+              0. 00 0000 0017 0000:png_push_have_end
+            B00200004885C07402FFD04883C428C3:
+              0. 00 0000 0017 0000:png_flush
+          8D15........E8........33C04883C428C3:
+            0. 00 0000 0017 0000:png_get_eXIf (REF 0007: ??_C@_0CP@JMCBGKEP@png_get_eXIf?5does?5not?5work?$DL?5use?5@)
+            1. 00 0000 0017 0000:png_process_data_skip (REF 0007: ??_C@_0EK@FFMHEEN@png_process_data_skip?5is?5not?5imp@)
+        4C8BC948C1E918E8........4533C085C07439498BC148C1E8100FB6:
+          0. 02 6B60 0058 (l)0000:is_ICC_signature
+        660F6EC1F30FE6C0660F6ECAF20F5905........F30FE6C9F20F59C1:
+          0. 04 DEB2 0053 (l)0000:png_product2
+        80B988020000088BC28BC8418BD0750DE8........0FB6C04883C428:
+          0. 06 E791 002A 0000:png_gamma_correct
+        81F9FFFFFF7F77228BD141B988130000488D4C243041B87F000000E8:
+          0. 00 0000 0035 (l)0000:ppi_from_ppm
+        85C9745085D2744CF20F1005........660F6EC9F30FE6C9660F6ED2:
+          0. 10 3D00 005F 0000:png_reciprocal2
+        8BC28854243BC1E8184C8D4424388844243841B9040000008BC2C1E8:
+          0. 14 DA85 003D 0000:png_write_gAMA_fixed
+        8D:
+          41FF3DFD:
+            0000007742660F6EC1F30FE6C0660F6ECAF20F5E05:
+              0. 00 0000 0057 0000:png_gamma_8bit_correct
+            FF00007742660F6EC1F30FE6C0660F6ECAF20F5E05:
+              0. 00 0000 0058 0000:png_gamma_16bit_correct
+          42FF4C8BC983F807771C8D42FF4863C848C1E1054903C94D8BC845:
+            0. 07 3652 0030 0000:png_warning_parameter
+        E8........8BC84883C428E9:
+          0. 00 0000 0014 0000:png_get_pixels_per_inch
+        F20F1005........660F6EC9F30FE6C9F20F5EC1F20F5805:
+          0. 02 ABB7 004B 0000:png_reciprocal
+        F781:
+          6401000000800000741B4183F8027C0CF7816801000000001000:
+            0. 07 AA50 0066 0000:png_chunk_report (l)0066:$LN23
+          680100000000:
+            100074:
+              094883C428E9........E8........CC:
+                0. 00 0000 001F 0000:png_chunk_benign_error (l)001F:$LN5
+              27F7816401000000800000741283B93802:
+                0. 0A 5755 0058 0000:png_benign_error (l)0058:$LN9
+            200074094883C428E9........E8........CC:
+              0. 00 0000 001F 0000:png_app_warning (l)001F:$LN5
+            400074094883C428E9........E8........CC:
+              0. 00 0000 001F 0000:png_app_error (l)001F:$LN5
+      38:
+        4181F9840000007316488D05........458BC94889442420E8:
+          0. 00 0000 002D (l)0000:icc_check_length
+        488B05........4833C44889442428:
+          8B:
+            4424604D8BD84C8BD183F803:
+              0. 21 B5C3 011B 0000:png_write_tRNS
+            C288542423C1E81888442420:
+              0. 1D 8668 0053 0000:png_chunk_unknown_handling
+          C744242089504E474C8BCAC744:
+            0. 45 9971 007B 0000:png_sig_cmp
+      48:
+        33C0488944243048894424284889442420E8........4883C448C3:
+          0. 00 0000 001F 0000:png_create_read_struct (REF 0016: png_create_read_struct_2)
+          1. 00 0000 001F 0000:png_create_write_struct (REF 0016: png_create_write_struct_2)
+        4C8BD24C8BD94885C90F84B40000004885D20F84AB0000004D85C074:
+          0. 9C 47DC 00CE 0000:png_get_IHDR
+  85:
+    C9:
+      0F84:
+        03010000488BC44889580848896810488970184889782041554156:
+          0. 35 327F 0198 0000:png_set_sCAL_s (l)0198:$LN13
+        0402000048895C241855564156488BEC4883EC40488B05:
+          0. 30 A373 0299 0000:png_write_row (l)0299:$LN35
+        09030000555356574156488BEC4883EC50488B05........4833C4:
+          0. 17 4CF3 034D 0000:png_read_row (l)034D:$LN50
+        0C0100004885D20F8403010000F6427E020F84F9000000F20F100D:
+          0. 00 0000 0118 0000:png_get_cHRM_XYZ
+        21010000488BC44889580848896810488970184889782041574883:
+          0. 26 A2BD 012B 0000:png_set_tRNS
+        2301000048895C24084889742410574883EC20418BF8488BF2488B:
+          0. 16 76F9 012D 0000:png_write_png
+        4C020000488BC44889580848896810488970184489482057415441:
+          0. 53 3C6E 0256 0000:png_set_pCAL
+        4E010000488BC44889580848896810488970184889782041564883:
+          0. 40 107D 0158 0000:png_set_unknown_chunks
+        5A010000488BC44889580848896810488970184889782041544156:
+          0. 37 C288 0164 0000:png_set_iCCP
+        7801000048895C24084889742410574883EC4033F6488BDA488BF9:
+          0. 1A B942 0182 0000:png_write_info_before_PLTE
+        7C01000048895C240848896C24104889742418574883EC30F68164:
+          0. 22 7EB7 0193 0000:png_write_end (l)0193:$LN23
+        80040000488BC44889580848896810488970184889782041544156:
+          0. 4D D3BF 048A 0000:png_free_data
+        810000004885D2747CF6427E0274764D85C074068B42504189004D:
+          0. 6D 6990 008D 0000:png_get_cHRM_fixed
+        92010000488BC448895808488968104889701857415641574883EC:
+          0. 3F CB3A 019C 0000:png_set_sPLT
+        980000004885D20F848F000000F6427E020F84850000004D85C074:
+          0. 84 9C17 00A4 0000:png_get_cHRM_XYZ_fixed
+        A7000000:
+          48895C240848896C24104889742418574883EC20498BD8:
+            0. 2A 10BA 00B1 0000:png_read_rows
+          53574883EC58488B05........4833C44889442440488B:
+            0. 65 E4BC 00B1 0000:png_set_cHRM_fixed
+        B000000048895C240848896C24104889742418574883EC20488BB9:
+          0. 27 F78B 00BA 0000:png_push_fill_buffer
+        B102000048895C240848896C24104889742418574883EC20488BF2:
+          0. 0D 7812 02DB 0000:png_read_info (l)02DB:$LN72
+        B2000000:
+          48895C2408574883EC20418BF8488BD983EA02742F83EA:
+            0. 30 78E2 00BC 0000:png_set_crc_action
+          53574883EC58488B05........4833C44889442448488B:
+            0. 70 48EE 00BC 0000:png_set_cHRM_XYZ_fixed
+        B600000048895C240848896C2410488974241857415641574883EC:
+          0. 11 AC92 00C0 0000:png_read_image
+        B7000000534881EC40010000488B05........4833C44889842430:
+          0. 34 6E25 00C1 0000:png_free_jmpbuf
+        B8000000488BC44889580848896810488970184889782041564883:
+          0. 22 A487 00C2 0000:png_set_eXIf_1
+        BB000000534881EC40050000488B05........4833C44889842430:
+          0. 71 9323 00C5 0000:png_destroy_png_struct
+        BD00000048895C2410574883EC30488B05........4833C4488944:
+          0. 60 9F65 00C7 (l)0000:png_write_chunk_header
+        C601000048895C240848896C24104889742418574883EC2033ED41:
+          0. 12 B8F9 01E0 0000:png_read_png (l)01E0:$LN36
+        C8000000488BC44889580848896810488970184889782041564883:
+          0. 37 184D 00D2 0000:png_set_hIST
+        CB01000048895C240848896C241048897424185741544155415641:
+          0. 30 54B1 01D5 0000:png_set_keep_unknown_chunks
+        DA010000488BC44889580848896810488970184889782041564883:
+          0. 5F 8373 01F1 0000:png_set_filter (l)01F1:$LN29
+        DE02000048895C240848896C2410488974241857415641574883EC:
+          0. 11 3AA0 02E8 0000:png_read_end
+        E800000048895C24084889742410574883EC40418BF8418BF1488B:
+          0. 72 231B 00F2 0000:png_set_IHDR
+        EC00000048895C240848896C24104889742418574883EC20418BF1:
+          0. 5D 8CB7 010C 0000:png_set_PLTE (l)010C:$LN15
+        F10000004885D20F84E8000000F6427E020F84DE000000F20F100D:
+          0. 00 0000 00FD 0000:png_get_cHRM
+        F201000048895C24084889742410574883EC20F7816C0100000000:
+          0. 52 EE06 01FC 0000:png_do_write_transformations
+        F902000048895C240848896C24104889742418574883EC40488BDA:
+          0. 0D 56F4 0313 0000:png_write_info (l)0313:$LN50
+      74:
+        068991:
+          00020000C3:
+            0. 00 0000 000C 0000:png_set_text_compression_strategy
+          44040000C3:
+            0. 00 0000 000C 0000:png_set_chunk_cache_max
+          DC010000C3:
+            0. 00 0000 000C 0000:png_set_compression_level
+          E8010000C3:
+            0. 00 0000 000C 0000:png_set_compression_mem_level
+          F0010000C3:
+            0. 00 0000 000C 0000:png_set_text_compression_level
+          FC010000C3:
+            0. 00 0000 000C 0000:png_set_text_compression_mem_level
+        07:
+          488991:
+            20030000C3:
+              0. 00 0000 000D 0000:png_set_read_status_fn
+            28030000C3:
+              0. 00 0000 000D 0000:png_set_write_status_fn
+            40010000C3:
+              0. 00 0000 000D 0000:png_init_io
+            48040000C3:
+              0. 00 0000 000D 0000:png_set_chunk_malloc_max
+          83896C010000:
+            01C3:
+              0. 00 0000 000D 0000:png_set_bgr
+            20C3:
+              0. 00 0000 000D 0000:png_set_invert_mono
+          8A8185020000C3B008C3:
+            0. 00 0000 000F 0000:png_get_current_pass_number
+          8B8134020000C383C8FFC3:
+            0. 00 0000 0010 0000:png_get_current_row_number
+        08:
+          0FBAA96C010000:
+            11C3:
+              0. 00 0000 000E 0000:png_set_swap_alpha
+            13C3:
+              0. 00 0000 000E 0000:png_set_invert_alpha
+          4885D274038B02C333C0C3:
+            0. 00 0000 0010 0000:png_get_image_width
+        094885D27404:
+          8A42:
+            24C332C0C3:
+              0. 00 0000 0011 0000:png_get_bit_depth
+            25C332C0C3:
+              0. 00 0000 0011 0000:png_get_color_type
+            26C332C0C3:
+              0. 00 0000 0011 0000:png_get_compression_type
+            27C332C0C3:
+              0. 00 0000 0011 0000:png_get_filter_type
+            28C332C0C3:
+              0. 00 0000 0011 0000:png_get_interlace_type
+            29C332C0C3:
+              0. 00 0000 0011 0000:png_get_channels
+          8B4204C333C0C3:
+            0. 00 0000 0011 0000:png_get_image_height
+        0A4885D2740548:
+          8B4210C333C0C3:
+            0. 00 0000 0012 0000:png_get_rowbytes
+          8D422CC333C0C3:
+            0. 00 0000 0012 0000:png_get_signature
+        0C4885D27407:
+          41F7D044214208C3:
+            0. 00 0000 0012 0000:png_set_invalid
+          8B:
+            42084123C0C333C0C3:
+              0. 00 0000 0014 0000:png_get_valid
+            817C020000C383C8FFC3:
+              0. 00 0000 0015 0000:png_get_palette_max
+        0D:
+          4885D27408488B8260010000C333C0C3:
+            0. 00 0000 0015 0000:png_get_rows
+          838968010000018991EC010000C3:
+            0. 00 0000 0013 0000:png_set_compression_strategy
+          89913C04000044898140040000C3:
+            0. 00 0000 0013 0000:png_set_user_limits
+        0E4C8981D8030000488991D0030000C3:
+          0. 00 0000 0014 0000:png_set_read_user_chunk_fn
+        0F0FBAA96C0100001448899150010000C3:
+          0. 00 0000 0015 0000:png_set_write_user_transform_fn
+        1080B98802000010750783896C01000010C3:
+          0. 00 0000 0016 0000:png_set_swap
+        1180B9880200000873080FBAA96C01000010C3:
+          0. 00 0000 0017 0000:png_set_packswap
+        15488991:
+          000400004C8981080400004C898910040000C3:
+            0. 00 0000 001B 0000:png_set_mem_fn
+          280100004C8981180100004C898920010000C3:
+            0. 00 0000 001B 0000:png_set_error_fn
+        1680B98402000000740D83896C01000002B807000000C3B801000000:
+          0. 01 EF04 0021 0000:png_set_interlace_handling
+        1780B98802000008730E83896C01000004C6818902000008C3:
+          0. 00 0000 001D 0000:png_set_packing
+        188B0283896C010000088981FD0200008A4204888101030000C3:
+          0. 00 0000 001E 0000:png_set_shift
+        1B4885D27416:
+          4D85C07411488B82:
+            300100004989008B8238010000C3:
+              0. 03 3B91 0023 0000:png_get_unknown_chunks
+            400100004989008B8248010000C3:
+              0. 03 3B91 0023 0000:png_get_sPLT
+          B80100000084427E740C4D85C074078B4A34418908C3:
+            0. 03 3B91 0023 0000:png_get_gAMA_fixed
+          F6420880741080BAE80000000175078B82:
+            E0000000C3:
+              0. 03 3B91 0023 0000:png_get_x_pixels_per_meter
+            E4000000C3:
+              0. 03 3B91 0023 0000:png_get_y_pixels_per_meter
+        1C4885D27417B800080000854208740D4D85C074080FB74A7C418908:
+          0. 04 3DB5 0024 0000:png_get_sRGB
+        1E4885D27419F7420800010000741080BADC000000:
+          0075078B82:
+            D400:
+              0. 06 6CBE 0026 0000:png_get_x_offset_pixels
+            D800:
+              0. 06 6CBE 0026 0000:png_get_y_offset_pixels
+          0175078B82:
+            D400:
+              0. 06 6CBE 0026 0000:png_get_x_offset_microns
+            D800:
+              0. 06 6CBE 0026 0000:png_get_y_offset_microns
+        1F4885D2741AB8:
+          0002000085420874104D85C0740B488D8AA8000000:
+            0. 07 5D39 0027 0000:png_get_tIME
+          0200000084420874104D85C0740B488D8AB0000000:
+            0. 07 5D39 0027 0000:png_get_sBIT
+          2000000084420874104D85C0740B488D8ACA000000:
+            0. 07 5D39 0027 0000:png_get_bKGD
+          4000000084420874104D85C0740B488B8A00010000:
+            0. 07 5D39 0027 0000:png_get_hIST
+        214885D2741C4D85C07417418B00834A08028982B0000000418A4004:
+          0. 07 765E 0027 0000:png_set_sBIT
+        224885D2741D:
+          8A4424280FBA6A08:
+            078882E8000000448982E0000000:
+              0. 08 B5E9 0028 0000:png_set_pHYs
+            088882DC000000448982D4000000:
+              0. 08 544A 0028 0000:png_set_oFFs
+          F6420880741780BAE800000001750E8B82E00000003B:
+            0. 0A CA25 002A 0000:png_get_pixels_per_meter
+        234885D2741EB80800000084420874144D85C0740F488B4A18498908:
+          0. 0B 5ADF 002B 0000:png_get_PLTE
+        25534883EC20488B01488BD94885C0741048837810007509E8:
+          0. 00 0000 002B 0000:png_image_free
+        274885D27422:
+          4D85C0741DF2410F1000410FB74008834A0820F20F11:
+            0. 0D ACEA 002D 0000:png_set_bKGD
+          8B829400000085C07E184D85C0740A488B8AA0000000:
+            0. 18 80D7 0038 0000:png_get_text
+        28:
+          4885D27423B80000010085420874194D85C974148B8AEC00000041:
+            0. 10 0499 0030 0000:png_get_eXIf_1
+          534883EC20488BD9E8........8B836C0100000FBAE00F730A0FBA:
+            0. 0E 3E48 002E 0000:png_set_add_alpha
+        2B4885D27426B80100000084427E741C4D85C07417660F6E4234F30F:
+          0. 06 C971 0033 0000:png_get_gAMA
+        30:
+          48:
+            85D2742BF642088074258B8AE000000085C9741B8B82E4000000:
+              0. 19 F691 0039 0000:png_get_pixel_aspect_ratio
+            895C2408574883EC208BFA488BD983FA08740C488D15:
+              0. 01 3E9B 0036 0000:png_set_compression_method (0006: E0)
+              1. 01 3E9B 0036 0000:png_set_text_compression_method (0006: F4)
+          4C3BC2732B4D85C97421418A0184C0741A48FFCA4D2BC84C3BC273:
+            0. 19 5CC5 0039 0000:png_safecat
+        3348:
+          85D2742EB80040000085420874240FB68A4C010000418908488B:
+            0. 1B 19ED 003B 0000:png_get_sCAL_s
+          895C2408574883EC20488BDA488BF94885D274144883C234E8:
+            0. 00 0000 0039 0000:png_set_sRGB (REF 001F: png_colorspace_set_sRGB)
+            1. 00 0000 0039 0000:png_set_gAMA_fixed (REF 001F: png_colorspace_set_gamma)
+        36F78164010000008000007415F6816801000040740C488D15:
+          0. 00 0000 003C 0000:png_set_user_transform_info
+        3748895C2408574883EC204C8B8940010000488BC2488BD9BA010000:
+          0. 09 39A0 004D 0000:png_default_read_data (l)004D:$LN5 (REF 0029: __imp_fread)
+          1. 09 39A0 004D 0000:png_default_write_data (l)004D:$LN5 (REF 0029: __imp_fwrite)
+        3A534883EC208B8120020000488BD9398134020000731F41B9020000:
+          0. 07 E506 0040 0000:png_write_flush
+        3B48895C2408574883EC20488B19488BF94885DB741C488BCBE8:
+          0. 00 0000 0041 0000:png_destroy_write_struct
+        3C48895C2408574883EC20488BDA488BF94885D2741D4883C234E8:
+          0. 00 0000 0042 0000:png_set_sRGB_gAMA_and_cHRM
+        3D48895C24084889742410574883EC20418BD8488BF2458BC0488BF9:
+          0. 01 3E9B 0043 0000:png_crc_read
+        41:
+          48895C2408:
+            4889742410574883EC20488BDA488BF14585C0741841:
+              0. 09 E2C7 0047 0000:png_write_rows
+            574883EC20F6816801000040488BFA488BD97512E8:
+              0. 00 0000 0047 0000:png_read_update_info
+          534883EC20488BD983FA0F7E13488D15........E8........BA0F:
+            0. 0D C5C5 0047 0000:png_set_compression_window_bits (0010: E4)
+            1. 0D C5C5 0047 0000:png_set_text_compression_window_bits (0010: F8)
+        4448895C24084889742410574883EC20498BD8488BFA488BF14885D2:
+          0. 08 12F6 004A 0000:png_write_chunk_data
+        4648895C24084889742410574883EC20488D42FF488BFA488BD9483D:
+          0. 38 9748 00BC 0000:png_set_compression_buffer_size (l)00BC:$LN13
+        4D48895C2408574883EC20498BF8488BDA4885D2742E488B82600100:
+          0. 13 33F3 0053 0000:png_set_rows
+        4E48895C24084889742410574883EC20498BF9498BF0488BD94981F9:
+          0. 0A 6270 0061 (l)0000:png_write_complete_chunk (l)0061:$LN5
+        4F534883EC204D85C048899140010000488D05........488BD9490F:
+          0. 1E 8E46 0055 0000:png_set_read_fn
+        5548895C2408574883EC20488BF94885D27439488B1A4885DB743148:
+          0. 11 A579 005B 0000:png_destroy_info_struct
+        5648895C24084889742410574883EC20488B19488BF2488BF94885DB:
+          0. 09 0132 005C 0000:png_destroy_read_struct
+        5948895C2408574883EC20488BFA488BD94885D2743A4C8989880300:
+          0. 26 7114 005F 0000:png_process_data
+        7048895C2408488974241048897C241841564883EC20488B99400100:
+          0. 2D 3268 0090 (l)0000:png_image_memory_read (l)0090:$LN7
+        74488BC44889580848896810488970184889782041564883EC20488B:
+          0. 05 799D 007A 0000:png_write_image
+        7F48895C240848896C24104889742418574883EC204963F8418BD948:
+          0. 1F 229D 0085 0000:png_set_unknown_chunk_location
+      75:
+        0333C0C3:
+          488B81:
+            00040000C3:
+              0. 00 0000 0010 0000:png_get_mem_ptr
+            28010000C3:
+              0. 00 0000 0010 0000:png_get_error_ptr
+            40010000C3:
+              0. 00 0000 0010 0000:png_get_io_ptr
+              1. 00 0000 0010 0000:png_get_progressive_ptr
+            58010000C3:
+              0. 00 0000 0010 0000:png_get_user_transform_ptr
+          83E2058991F80300008BC2C3:
+            0. 00 0000 0014 0000:png_permit_mng_features
+          F781640100000080000074078B8188040000C38B81D80100:
+            0. 02 D0FB 0022 0000:png_get_compression_buffer_size
+        048D41FEC34881C178010000E9:
+          0. 00 0000 0015 0000:png_reset_zstream
+    D2:
+      0F84E003000048895C242055565741544155415641574883EC40488B05:
+        0. 00 0000 03EA 0000:png_do_read_interlace
+      741E4885C9740F488B81080400004885C0740348FFE0488BCA48FF25:
+        0. 00 0000 0026 0000:png_malloc_base
+  89:
+    4C2408:
+      5355565741544155415641574883EC:
+        28488B114C8BF9488B593848:
+          0. BB 7504 01E8 (l)0000:png_write_image_8bit
+        78488B194C8BF1488B03448B:
+          0. 3A 93B2 069F (l)0000:png_image_read_background (l)069F:$LN97
+      555356574154415541564157488BEC4883EC384533ED488BD98B89:
+        0. 2A A4CC 0AFB 0000:png_init_read_transformations (l)0AFB:$LN120
+    542410534883EC20488BD9488D4C2438FF15........B96C0700000FB750:
+      0. 2C 3B53 004C 0000:png_convert_from_time_t
+    5C24:
+      08:
+        44894C242055565741544155415641574883EC204C8BE9488BDAB8:
+          0. 31 9CD6 0156 (l)0000:png_build_16to8_table
+        48:
+          89:
+            54241055565741544155415641574883EC108A42104533E424:
+              0. FF AA54 044C (l)0000:png_do_rgb_to_gray
+            6C24104889:
+              7424:
+                1857:
+                  41:
+                    5441:
+                      55415641574883EC20:
+                        440FB672:
+                          0. FF AB8D 03B5 0000:png_write_find_filter
+                        4533EDBE:
+                          0. 2F 7FAD 025C 0000:png_compress_IDAT (l)025C:$LN27
+                        4D8BF045:
+                          0. 0A 7679 01A5 (l)0000:png_text_compress
+                        8B:
+                          7A0848:
+                            0. 19 C54F 0147 (l)0000:png_xy_from_XYZ
+                          813802:
+                            0. 6E 9F89 014A (l)0000:png_inflate_read
+                      564883EC20488BD9E8:
+                        0. 2A 997C 036F 0000:png_read_start_row (l)036F:$LN54
+                    56415748:
+                      81EC800000004533FF458B:
+                        0. 40 C1C3 0125 0000:png_image_write_to_memory
+                      83EC:
+                        2033FF418BE9418BF0:
+                          0. 11 3E88 020C 0000:png_check_IHDR (l)020C:$LN30
+                        408B814404000033F6:
+                          0. 15 D7EB 0296 0000:png_handle_sPLT (l)0296:$LN36
+                        70418BF14D8BF04C8B:
+                          0. BD D9A4 01BC 0000:png_image_finish_read
+                  48:
+                    81EC80000000498BD9418BE8488BF2:
+                      0. 21 9640 00E0 0000:png_image_write_to_stdio
+                    83EC:
+                      20:
+                        0FB6B18D020000488BDA488B:
+                          0. 22 1A32 00C2 0000:png_push_read_sig (l)00C2:$LN9
+                        488B:
+                          91C8020000488BD9E8:
+                            0. 00 0000 016E 0000:png_destroy_gamma_table
+                          9928010000488BFA4885:
+                            0. 17 D273 0086 0000:png_safe_error (l)0086:$LN5
+                          B978040000418BE8488B:
+                            0. 26 7DF5 00B7 (l)0000:png_read_buffer (l)00B7:$LN16
+                          FA418BE933D2418BF048:
+                            0. 03 E300 00B4 0000:png_set_background_fixed
+                        8A818D020000488BEA488BD9:
+                          0. 24 D813 00BF 0000:png_read_sig (l)00BF:$LN8
+                        8B:
+                          6A10488BF9488B99D00100:
+                            0. 16 75F7 007B (l)0000:png_write_compressed_data_out (l)007B:$LN14
+                          F2418BF833D2488BD933ED:
+                            0. 01 3E9B 0169 0000:png_set_alpha_mode_fixed (l)0169:$LN27
+                        F7813802000000000020498B:
+                          0. 4D 66DB 0098 0000:png_calculate_crc
+                      30:
+                        488B5C2460488BF1498BF848:
+                          0. 2B 93A2 02F5 0000:png_icc_check_header
+                        498BD9498BF8488BF2488BE9:
+                          0. 01 3E9B 0051 0000:_vfprintf_l
+                        F20F104C2460418BF84C8D05:
+                          0. 00 0000 005B 0000:png_set_background
+                      608B8144040000488BEA418BF8:
+                        0. 0F 47EB 014B 0000:png_handle_tEXt (l)014B:$LN19
+                2057:
+                  41544155415641574883EC2041BF0600:
+                    0. 18 9EC2 0270 0000:png_do_write_interlace
+                  4883EC20:
+                    0FB78178020000488BEA4963:
+                      0. 0B 9953 0098 0000:png_write_hIST
+                    4963D8488BEA448BC3BA6649:
+                      0. 06 2207 0073 0000:png_write_eXIf
+              7C241841564883EC20418BF84C8BC1418BE94C8B:
+                0. 7B CF80 0106 0000:png_realloc_array (l)0106:$LN17
+            7424:
+              10:
+                48897C2418:
+                  41564883EC200FB6918C02000041BE0800:
+                    0. 59 D681 018F 0000:png_write_start_row
+                  498BF9498BF04885C90F84980000004885:
+                    0. A8 014B 00C8 0000:png_get_pCAL
+                  80791108498BF88B194C8BDA4C8BD10F85:
+                    0. FF 10FA 013D (l)0000:png_do_quantize
+                4C8BC9B8010000000FB64A11D3E0450FB78178020000:
+                  0. FF 31F7 0159 0000:png_do_check_palette_indexes
+                574883EC:
+                  20:
+                    41:
+                      8BF1488BD9E8........448B44245848:
+                        0. 09 8311 009F (l)0000:png_colormap_compose
+                      8D40F0418BF8488BDA41B8008000003D:
+                        0. 18 D793 0086 0000:png_colorspace_set_gamma
+                    48:
+                      8B:
+                        01488BF1BA01000000488B38488B58:
+                          0. 05 5661 00F8 (l)0000:png_image_read_header
+                        9170030000488BD94885D2742D488B:
+                          0. 67 2FF1 016E 0000:png_push_save_buffer (l)016E:$LN21
+                        DA418BF0BA00010000E8........48:
+                          0. 1A B74A 006E (l)0000:png_build_8bit_table
+                        F2488BF94885C9740E488B81180100:
+                          0. 0E F210 0078 0000:png_error (l)0078:$LN7
+                        FA4885C9743A4885D274358B81E403:
+                          0. 24 0F03 0069 0000:png_handle_as_unknown
+                      8DB9C80200008BF248833F00488BD975:
+                        0. 0E 82BC 025D 0000:png_build_gamma_table
+                    498B:
+                      D8488BF2488BD3458BC1488BF9E8:
+                        0. 00 0000 0066 0000:png_icc_set_sRGB
+                      F1488BDA488BF94885C974664885D2:
+                        0. 1E 25B9 0095 0000:png_get_sCAL_fixed
+                      F8488BF2488BD94885C9:
+                        7473837908:
+                          0. 0E 748C 00A2 0000:png_image_begin_read_from_memory
+                        750433C0EB:
+                          0. 4A 1AF0 00C2 0000:png_set_longjmp_fn (l)00C2:$LN12
+                    4C8BD9498BD98B4C2450498BF8488BF28D:
+                      0. 1C BB63 00AF 0000:png_read_filter_row
+                    8B:
+                      F2418BF833D2488BD9E8........85C0:
+                        0. 8A B12B 00C7 0000:png_set_gamma_fixed (l)00C7:$LN28
+                      FA4883CEFF488B9158040000488BD948:
+                        0. 05 FF9A 010E (l)0000:png_cache_unknown_chunk
+                  30:
+                    0F297424204C8D05........0F28CB0F28:
+                      0. 07 A00F 0063 0000:png_set_rgb_to_gray
+                    488BDA4963F00FB7524A488BF96685D279:
+                      0. 21 FF7A 0123 0000:png_colorspace_set_sRGB
+                  40488BF2488BF9E8........33DB85C07529:
+                    0. 09 0E0B 0059 (l)0000:png_colorspace_check_xy
+                8B9938020000488D35........4533C94533D2458D59:
+                  0. BB D8B9 00DB (l)0000:png_format_buffer
+              18:
+                5557415441564157488BEC4883EC30488B05:
+                  0. FF 1919 0229 (l)0000:png_do_shift
+                574883EC20488B05........4833C448894424100FB6:
+                  0. FF A6FD 0234 (l)0000:png_do_unshift
+            7C2410:
+              4C:
+                897424184D8B19488BDA458B10488BF94C3BDA0F83:
+                  0. FF 5C34 0130 0000:png_check_fp_number
+                8B89500200004533D2488BB94802000048FFC74C8B:
+                  0. 78 C39F 0098 (l)0000:png_setup_avg_row_only
+              8A4110418BF8448B19418BD8C1EF084C8BD184C00F85:
+                0. FF 643B 02CF (l)0000:png_do_read_filler
+          8BD9C6012741BA3F000000448BDA8BC2458BCAC1E818C6430527:
+            0. 5B 464B 007B (l)0000:png_icc_tag_name
+        5556574154415541564157488BEC4883EC2041BDA0860100488BDA:
+          0. A4 CD97 0302 (l)0000:png_XYZ_from_xy
+        574883EC:
+          20:
+            0F28CA8BDA488BF9E8........448BC08BD3488BCF48:
+              0. 0A 9C27 002E 0000:png_set_alpha_mode
+            48:
+              85D2488D1D........488BF9B902000000480F45DA:
+                0. 02 ABB7 0060 (l)0000:png_default_error (l)0060:$LN3
+              8B:
+                01488BD948:
+                  85C07435BF68010000483BD7731E48:
+                    0. 08 DA3C 0055 0000:png_info_init_3
+                  8B10488B028BB8B80400008BCFE8:
+                    0. 00 0000 0087 (l)0000:set_file_encoding
+                99400100004C8B4B50498BC148F7D04C3BC0772A:
+                  0. 17 B52B 0057 (l)0000:image_memory_write (l)0057:$LN7
+                C2488B:
+                  D94885C97464837908010F858B00000048:
+                    0. 07 B8AF 00B3 0000:png_image_begin_read_from_file
+                  F9488B124885D2741748832000488B1A48:
+                    0. 03 A2C1 003A 0000:png_free_buffer_list
+                D9:
+                  418BF88B89640100008BC183E0053C05753283:
+                    0. 0F 4A90 0061 0000:png_handle_IEND (l)0061:$LN6
+                  4885C97422488DB9AC030000488BCFE8:
+                    0. 00 0000 0046 0000:png_convert_to_rfc1123
+                  4D85C00F84790100004885D20F847001000048:
+                    0. 7E ED05 019C 0000:png_process_IDAT_data (l)019C:$LN29
+                FA:
+                  488BD94885C9744C83790801753D4885D2742A:
+                    0. 01 3E9B 006E 0000:png_image_begin_read_from_stdio
+                  E8........488BD84885C0740D4C8BC733D248:
+                    0. 03 AA8C 0035 0000:png_calloc
+            498BF9488BDA4885C974464885D27441F74208004000:
+              0. 16 3944 0068 0000:png_get_sCAL
+            4C:
+              8B8148040000BBFFFFFF7F448BD38BFA4C8BC9498D:
+                0. B9 1245 00E6 0000:png_check_chunk_length (l)00E6:$LN9
+              8D05........0F28CA488BDA488BF9E8........44:
+                0. 13 7056 0037 0000:png_set_gAMA
+            8B:
+              DA488BF94183F8037504448B41404585C07509E8:
+                0. 00 0000 006C (l)0000:decode_gamma
+              FA488BD983FA047C0C488D15........E8:
+                0. 19 017D 0048 0000:png_write_sRGB
+            F20F590D........498BD8488BF9F20F580D:
+              0. 05 AA27 005C 0000:png_fixed (l)005C:$LN5
+            FF8134020000:
+              488BD98B81340200003B81200200000F:
+                0. 2D 291E 00F8 0000:png_read_finish_row
+              4C8BD98B81340200003B81200200000F:
+                0. 36 0034 0166 0000:png_write_finish_row
+          300F29742420488BF90F28F10F28CAE8........0F28CE:
+            0. 06 684F 0046 0000:png_set_gamma
+          40488BF933DBC7442430:
+            01000000448BCBC7442428FF00:
+              0. 0F 7EDA 004A (l)0000:make_gray_colormap
+            03000000448BCBC7442428FF00:
+              0. 0F 7EDA 004A (l)0000:make_gray_file_colormap
+          50488B:
+            19488BF9488B134885D2750433C0EB7B8B4328A8:
+              0. 1F 10BE 00A2 (l)0000:png_image_free_function
+            F9488BDA488BCAE8........85C07534488BD348:
+              0. 03 A2C1 005B (l)0000:png_colorspace_check_XYZ
+        80791108:
+          418BD84C8BC90F8532010000807912010F85280100008B:
+            0. FF 1F2B 014D (l)0000:png_do_pack
+          4C8BC90F8330010000440FB64111448B114183E8010F84:
+            0. FF 76DE 0148 (l)0000:png_do_unpack
+      10:
+        4889:
+          6C24:
+            18:
+              488974242057:
+                41:
+                  54415541564157:
+                    4883EC:
+                      2048:
+                        8BB948:
+                          0. FF E82D 04E1 0000:png_combine_row (l)04E1:$LN150
+                        8D7904:
+                          0. AD BA06 01B8 (l)0000:png_XYZ_normalize
+                      404533ED45:
+                        0. 7F B723 02EA 0000:png_set_text_2
+                      50488B3948:
+                        0. 61 9D29 03E6 (l)0000:png_image_write_main (l)03E6:$LN57
+                      70488B05:
+                        0. 00 0000 04B1 (l)0000:png_image_read_direct (l)04B1:$LN92
+                    8A4111488BFA498B:
+                      0. FF 8BF2 0400 (l)0000:png_do_gamma
+                  5541564881EC30040000488B05:
+                    0. 00 0000 0204 0000:png_read_IDAT_data (l)0204:$LN41
+                48:
+                  81ECF0000000488B05........4833:
+                    0. 4E 3660 0115 0000:png_formatted_warning (l)0115:$LN27
+                  83EC:
+                    20F6816401000001488BF2418B:
+                      0. 12 B81E 015C 0000:png_handle_eXIf (l)015C:$LN21
+                    40488B05........4833C44889:
+                      0. 17 4A5B 00BF 0000:png_write_pHYs
+              565741564883EC708B81440400004C8BF2418BF8488B:
+                0. 0D A847 01EB 0000:png_handle_zTXt (l)01EB:$LN33
+            20565741544155415641574D8B98C80200004C8BCA418B:
+              0. FF 298F 10AE (l)0000:png_do_compose
+          7424:
+            18:
+              48897C24205541:
+                54415541564157488BEC4883EC4048:
+                  0. 02 8E30 02F8 0000:png_write_IHDR (l)02F8:$LN53
+                564157488BEC4883EC208B81640100:
+                  0. 1A E91D 0187 0000:png_handle_sBIT (l)0187:$LN24
+              5557415441554157488BEC4883EC50488B05:
+                0. 96 7ED4 0605 0000:png_push_process_row (l)0605:$LN182
+              574883EC20:
+                418BF8488BF2448A8187020000488BD941:
+                  0. 2D 2E53 00E9 0000:png_write_PLTE (l)00E9:$LN18
+                F7813802000000000020488BD9BF010000:
+                  0. 47 EB18 00B2 0000:png_crc_error
+            20574883EC20BE00010000488BFA488BD985B164010000:
+              0. 11 DBF1 05A4 0000:png_push_read_chunk (l)05A4:$LN90
+        55565741:
+          5441554156415748:
+            81EC40040000488B05........4833:
+              0. C1 B13B 0169 (l)0000:png_inflate
+            8DAC2430FCFFFF4881ECD004000048:
+              0. 02 8E30 026E 0000:png_write_iTXt (l)026E:$LN29
+          564157488BEC4883EC308B81640100004C8BFA418BF848:
+            0. 11 FFA2 01CD 0000:png_handle_sCAL (l)01CD:$LN24
+        5748:
+          81EC00010000488BDA488BF9488D15........41B818000000:
+            0. 06 8B8B 0073 0000:png_fixed_error (l)0073:$LN13
+          83EC:
+            208B8164010000488BFA488BD9A8010F84:
+              86000000A806:
+                0. 06 3DDC 00B1 0000:png_handle_gAMA (l)00B1:$LN8
+              B3000000A806:
+                0. 06 69FA 00DE 0000:png_handle_sRGB (l)00DE:$LN10
+            30488B05........4833C4488944242841B808000000C7:
+              0. 12 9757 00C5 0000:png_read_chunk_header
+      18:
+        4889:
+          4C240855565741544155415641574883EC20488B1141BB0100:
+            0. FD D182 0164 (l)0000:png_write_image_16bit (l)0164:$LN31
+          542410555657415441554156415748:
+            83EC508B816401000048:
+              0. 14 27D7 0291 0000:png_handle_pCAL (l)0291:$LN53
+            8BEC4883EC708B814404:
+              0. 15 9108 0252 0000:png_handle_iTXt (l)0252:$LN56
+          742420:
+            5557415541564157488D6C24C94881EC90000000488B:
+              0. 01 D5A7 019D 0000:png_write_sPLT (l)019D:$LN25
+            5748:
+              81ECB0000000488B05........4833C448898424:
+                0. 1A E009 0117 0000:png_user_version_check
+              83EC20BF00010000488BD985B9640100000F85B1:
+                0. 0E C98F 01EF 0000:png_push_read_IDAT (l)01EF:$LN15
+        4C894C242055565741544155415641574C8B91500200004533DB48:
+          0. FF 3D0A 0133 (l)0000:png_setup_paeth_row
+        55565748:
+          81ECB0040000488B05........4833C448898424A00400:
+            0. 58 5FBA 0172 0000:png_write_iCCP (l)0172:$LN13
+          83EC:
+            40488B05........4833C44889442430488BFA4983:
+              0. A4 F8E2 010E 0000:png_ascii_from_fixed (l)010E:$LN35
+            70488B05........4833C448894424608B81640100:
+              0. 28 6DC4 0182 0000:png_handle_IHDR (l)0182:$LN13
+        565741564883EC30488B05........4833C44889442428488BDA48:
+          0. 67 44A5 01F3 0000:png_convert_to_rfc1123_buffer
+        5748:
+          81EC30040000488B05........4833C448898424200400008B:
+            0. 21 825A 00B7 0000:png_crc_finish (l)00B7:$LN15
+          83EC:
+            40488B05........4833C448894424388BFA488BD9488D:
+              0. 09 7943 0052 0000:png_warning_parameter_unsigned
+            50488B05........4833C44889442440488BDA488BF98B:
+              0. 08 B4A1 00B6 0000:png_write_cHRM_fixed
+        8954241055565741544155415641574883EC308BAC24900000004C:
+          0. 56 F241 0529 (l)0000:png_create_colormap_entry (l)0529:$LN54
+      20:
+        555657:
+          41:
+            54415541564157488DAC24A0FBFFFF4881EC6005000048:
+              0. 02 8E30 04ED 0000:png_handle_iCCP (l)04ED:$LN49
+            564157488D6C24B04881EC50010000488B05........48:
+              0. 2F E8D0 022C 0000:png_handle_tRNS (l)022C:$LN21
+          48:
+            81EC80000000488B05........4833C44889442470498B:
+              0. 0A AE27 00DA 0000:png_write_tEXt (l)00DA:$LN9
+            83EC40488B05........4833C44889442430418BF9418B:
+              0. 0F ADBC 0087 0000:png_write_oFFs
+            8BEC4883EC70488B05........4833C4488945F08B8164:
+              0. 19 FBBE 01C2 0000:png_handle_cHRM (l)01C2:$LN12
+        565741564881EC30010000488B05........4833C4488984242001:
+          0. A1 5171 0135 0000:png_check_keyword
+        574883EC50488B05........4833C448894424408B816401000048:
+          0. 15 4A1C 012B 0000:png_handle_pHYs (l)012B:$LN10
+  8BC44889:
+    50104C8940184C8948205356574883EC30488BFA488D7018488BD9:
+      0. 01 3E9B 0044 0000:fprintf
+    58:
+      08:
+        4889:
+          68:
+            1048897018:
+              48897820:
+                41:
+                  5441:
+                    554156:
+                      41574C8B895002:
+                        0. DB EBC3 00FB (l)0000:png_setup_paeth_row_only
+                      8A41104533ED44:
+                        0. FF 4D32 041B (l)0000:png_do_expand
+                    5641574883EC:
+                      204C8B39:
+                        0. 1D 3F54 0208 (l)0000:png_image_read_colormapped (l)0208:$LN33
+                      304C8B54:
+                        0. CB 4FF7 0152 0000:png_icc_check_tag_table
+                  56:
+                    4157:
+                      0FB64113498BF883C0:
+                        0. B3 EE24 00D3 (l)0000:png_read_filter_row_paeth_multibyte_pixel
+                      488B:
+                        49084C8D520141:
+                          0. A1 94D1 00C1 (l)0000:png_read_filter_row_paeth_1byte_pixel
+                        8128020000BA00:
+                          0. FF 7A7A 014A (l)0000:png_image_size
+                    48:
+                      83EC:
+                        20:
+                          33:
+                            ED418BF14D8B:
+                              0. 17 7F94 0081 (l)0000:add_one_chunk
+                            F6418BF9488B:
+                              0. 15 1E06 0198 0000:png_handle_unknown (l)0198:$LN28
+                          48638238010000:
+                            0. 36 4FC0 00D9 (l)0000:write_unknown_chunks
+                          8B:
+                            81A803000033:
+                              0. 46 AFCB 0206 (l)0000:png_compare_ICC_profile_with_sRGB
+                            FA418BF1BA01:
+                              0. 0A BCD6 0127 0000:png_set_rgb_to_gray_fixed (l)0127:$LN15
+                        30498BE9458BF048:
+                          0. 2D 597E 013C 0000:png_image_write_to_file
+                        4033:
+                          DB488BE941BE:
+                            0. 39 281F 00EA (l)0000:make_ga_colormap
+                          F64C8BF133FF:
+                            0. 24 C810 0088 (l)0000:make_rgb_colormap
+                      8B790841BB0200000048:
+                        0. FF 20C6 01AC 0000:png_do_strip_channel
+                4C8B:
+                  915002000033DB488B:
+                    A948:
+                      0. C0 92CC 00E0 (l)0000:png_setup_avg_row
+                    B148:
+                      0. 9B F52B 00BB (l)0000:png_setup_sub_row
+                  99500200004533D2488BB9:
+                    0. 7C 7A10 009C (l)0000:png_setup_up_row
+                807A1003498BF1448B12498BF8:
+                  0. FF 1FE0 0253 (l)0000:png_do_expand_palette
+              574883EC60488BDA488BF9498BD0488D48:
+                0. 08 DAD7 008C 0000:png_colorspace_set_chromaticities (l)008C:$LN8
+            1848897020574883EC20F6424A01418BF9488BF2488B:
+              0. 13 5481 00A8 (l)0000:png_colorspace_check_gamma
+          70:
+            1048897818:
+              4C896020415733DB4C8D52FF33F641881A:
+                0. 1D B8C6 012B 0000:png_format_number
+              55488D68A14881ECA0000000410F100041:
+                0. 21 A7A5 00E4 0000:png_colorspace_set_endpoints (l)00E4:$LN12
+            20574883EC40488360E8004C8D0D........488360E0:
+              0. 04 1234 00D2 (l)0000:png_image_write_init
+        574883EC20836018004C8D482048836020004C8D4018488BFA:
+          0. 04 9EC9 004F 0000:png_check_fp_string
+      104889:
+        681848897020488948085741544155415641574883EC70:
+          0. 0C DD7B 0165 0000:png_set_cHRM
+        701848897820554154415541564157488D68A14881ECA0:
+          0. 06 F208 027B (l)0000:png_deflate_claim (000A: 27)
+          1. 06 F208 106B (l)0000:png_image_read_colormap (l)106B:$LN212 (000A: 2F)
+      18:
+        4889:
+          50104889480855565741544155415641574881EC800000:
+            0. 0D 7E99 0188 0000:png_set_cHRM_XYZ
+          7020574883EC4048833900488BD90F85C5000000488360:
+            0. 05 35FA 00FE (l)0000:png_image_read_init
+        5556574154415541564157488D68A94881EC900000000F2970:
+          0. 12 51AD 03D6 0000:png_ascii_from_fp (l)03D6:$LN92
+      20:
+        448940184889:
+          480855565741544155415641574883EC50488B:
+            0. 12 F5A9 01B0 (l)0000:png_build_16bit_table
+          50104889480855565741544155415641574883:
+            0. 11 0B5F 0852 0000:png_set_quantize
+        555657415641574883EC2080B9F103000000488BD90F851201:
+          0. 53 94F6 0165 0000:png_colorspace_set_rgb_coefficients (l)0165:$LN17
+    680848897010488978184C89702041574883EC20440FB7524A4533:
+      0. 38 EAE3 010C (l)0000:png_colorspace_set_xy_and_XYZ
+  8D:
+    05........C3:
+      0. 00 0000 0008 0000:png_get_copyright (REF 0003: ??_C@_0NL@DJHJAAOL@?6libpng?5version?51?46?437?6Copyright@)
+      1. 00 0000 0008 0000:png_get_header_ver (REF 0003: ??_C@_06IJIHIEPH@1?46?437?$AA@)
+      2. 00 0000 0008 0000:png_get_header_version (REF 0003: ??_C@_0CJ@GLJCJICE@?5libpng?5version?51?46?437?5?9?5April?51@)
+      3. 00 0000 0008 0000:png_get_libpng_ver (REF 0003: ??_C@_06IJIHIEPH@1?46?437?$AA@)
+      4. 00 0000 0008 0000:__local_stdio_printf_options (REF 0003: ?_OptionsStorage@?1??__local_stdio_printf_options@@9@9)
+    15........E9:
+      0. 00 0000 000C 0000:png_set_eXIf (REF 0003: ??_C@_0CP@OPCJHKJN@png_set_eXIf?5does?5not?5work?$DL?5use?5@)
+    41E04883F83A771048BA0100FF03FEFFFF07480FA3C2720D488D419F4883:
+      0. 0D 8068 002D (l)0000:is_ICC_signature_char
+  FF25:
+    0. 00 0000 0007 (l)0000:gmtime (REF 0003: gmtime64)
+4C:
+  8981880300004C0381700300004C8981800300004889916003000048899158:
+    0. 04 842D 0024 0000:png_push_restore_buffer
+  8B:
+    49084D85C9741E498BC848F7D94C2BC2418A0410000248FFC2498D040848:
+      0. 08 3820 0028 (l)0000:png_read_filter_row_up
+    81500200004C8B8948020000488B894002000049FFC148FFC141C6000249:
+      0. 22 5963 0042 (l)0000:png_setup_up_row_only
+    89500200004C8B994802000049FFC3448BD233D2498BCB41C6010149FFC1:
+      0. 3C 081E 005C (l)0000:png_setup_sub_row_only
+    CA4C8BD14881FA004000000F8780000000440FB601418BC0240F3C087573:
+      0. 74 3AD5 0094 (l)0000:optimize_cmf
+    DC49895B:
+      0849896B1049897318:
+        49897B2041574883EC30488BFA33ED488B:
+          0. 5E 0BA7 0655 0000:png_do_read_transformations (l)0655:$LN111
+        57:
+          415641574883EC304533FF418BF94D8B:
+            0. 19 8649 00C8 0000:png_colorspace_set_ICC
+          4883EC30418BD9498BF0488BEA488BF9:
+            0. 0C 5348 0091 0000:png_icc_check_length
+      1049896B184989732057:
+        41544155415641574881EC7004000048:
+          0. 02 8E30 0415 (l)0000:png_image_set_PLTE
+        4883EC70488B05........4833C44889:
+          0. 1A EAC3 0157 (l)0000:png_inflate_claim
+4D8B:
+  D04885C974404885D2743BB80001000085420874314D85C0742C4D85C974:
+    0. 2B 4237 004B 0000:png_get_oFFs
+  D14885C974724885D2746D41BB0010000044855A0874614D85C0745C488B:
+    0. 5D 7CA9 007D 0000:png_get_iCCP
+807911:
+  08754080791003743A488B41084803D04C8D0410EB1048FFCA8A024188:
+    0. 27 5A73 0047 (l)0000:png_do_expand_16
+  10:
+    4C8B:
+      C1754F4C8B51084C8BCA4C03D2EB210FB60A0FB642014883C202:
+        0. 39 CCBC 0059 (l)0000:png_do_scale_16_to_8
+      C97557498B4108488BCA4C8D500149D1EA4C8D041033C0493BD0:
+        0. 41 57FB 0061 (l)0000:png_do_chop
+    75220FB641120FAF0185C07417448BC08A0A8A42018802884A01488D:
+      0. 09 D3D7 0029 0000:png_do_swap
+81F9A08601007D2385C9750433C0EB206BC90BB86766666683C102F7E9D1FA8B:
+  0. 07 CF8E 0031 (l)0000:png_gamma_not_sRGB
+83:
+  6110004889114C894108C3:
+    0. 00 0000 000C (l)0000:png_text_compress_init
+  FAFF742881FA6079FEFF742083FAFE740881FAB03CFFFF752C41F7D81BD281:
+    0. 29 A883 0049 (l)0000:translate_gamma_flags
+85D2740B81896801000000007000C381A168010000FFFF8FFFC3:
+  0. 00 0000 001A 0000:png_set_benign_errors
+8A:
+  41:
+    10:
+      3C06:
+        0F85D300000080791108754B480351088339004C8BCA0F86490100:
+          0. FF A03E 016B (l)0000:png_do_read_swap_alpha
+        75:
+          3480791108751583390076728B09F65203488D52044883E90175:
+            0. 65 DD04 0085 (l)0000:png_do_write_invert_alpha
+          39480351088079110875168339007678448B01F652FF488D52FC:
+            0. 6F 17BD 008F (l)0000:png_do_read_invert_alpha
+      41B0024184C00F84B700000080791108754B413AC075218339000F86A3:
+        0. A7 4B17 00C7 0000:png_do_bgr
+      4C8B:
+        C23C060F85C50000008079110875448339000F8630010000448B11:
+          0. FF 60ED 014E (l)0000:png_do_write_swap_alpha
+        CAB20284C20F84C200000080791108753F3AC27507BA03000000EB:
+          0. B3 562D 00D3 (l)0000:png_do_write_intrapixel
+          1. B3 8B42 00D3 (l)0000:png_do_read_intrapixel
+      84C075154C8B41084D85C07464F61248FFC24983E80175F5C33C047554:
+        0. 55 7002 0075 0000:png_do_invert
+    11:
+      3C0873564C8B4908498D0C113C0175094C8D05........EB183C027509:
+        0. 03 000E 005E 0000:png_do_packswap
+      4C8BC1448B093C080F82760100008A4910F6C1020F856A01000084C90F:
+        0. FF FB8D 0188 (l)0000:png_do_gray_to_rgb
+  9187020000F6C20475240FBAB16C010000170FBAB1680100000D6683B98002:
+    0. AD 0865 00CD (l)0000:png_init_rgb_transformations
+8B:
+  81:
+    38020000C3:
+      0. 00 0000 0007 0000:png_get_io_chunk_type
+    8C040000C3:
+      0. 00 0000 0007 0000:png_get_io_state
+  C28851:
+    01C1E8088801C3:
+      0. 00 0000 000B 0000:png_save_uint_16
+    03C1E81888018BC2C1E8108841018BC2C1E808884102C3:
+      0. 00 0000 001B 0000:png_save_uint_32
+B88D290000C3:
+  0. 00 0000 0006 0000:png_access_version_number
+E9:
+  0. 00 0000 0005 0000:png_zfree (REF 0001: png_free)
+  1. 00 0000 0005 0000:png_save_int_32 (REF 0001: png_save_uint_32)
+F20F100D........33C00F28C185C9791581F9CDFEFFFF7D040F57C0C3F7D9B8:
+  0. 0C A7C8 004F (l)0000:png_pow10

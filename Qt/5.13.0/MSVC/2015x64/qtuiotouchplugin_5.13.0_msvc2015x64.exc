@@ -1,0 +1,20 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+?doDestroySubTree@?$QMapNode@HVQTuioToken@@@@AEAAXU?$integral_constant@_N$00@std@@@Z	09 C882 40534883EC20488BD9488B49084885C974098A542430E8........488B4B1048
+?doDestroySubTree@?$QMapNode@HVQTuioCursor@@@@AEAAXU?$integral_constant@_N$00@std@@@Z	09 C882 40534883EC20488BD9488B49084885C974098A542430E8........488B4B1048
+
+?destroySubTree@?$QMapNode@HVQTuioToken@@@@QEAAXXZ	06 59CA 40534883EC20488BD9488B4B084885C97405E8........488B5B104885DB75E9
+?destroySubTree@?$QMapNode@HVQTuioCursor@@@@QEAAXXZ	06 59CA 40534883EC20488BD9488B4B084885C97405E8........488B5B104885DB75E9
+
+?process2DObjSource@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z	11 8390 40555357488D6C24B94881EC900000004883C210488D4D6FE8........488B4D
+?process2DCurSource@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z	11 8390 40555357488D6C24B94881EC900000004883C210488D4D6FE8........488B4D
+
+?findNode@?$QMapData@HVQTuioToken@@@@QEBAPEAU?$QMapNode@HVQTuioToken@@@@AEBH@Z	15 E542 488B41104885C074298B1233C93950187C09488BC8488B4008EB04488B401048
+?findNode@?$QMapData@HVQTuioCursor@@@@QEBAPEAU?$QMapNode@HVQTuioCursor@@@@AEBH@Z	15 E542 488B41104885C074298B1233C93950187C09488BC8488B4008EB04488B401048
+
+?deleteNode@?$QMapData@HVQTuioToken@@@@QEAAXPEAU?$QMapNode@HVQTuioToken@@@@@Z	00 0000 E9..............................................................
+?qt_metacall@QTuioTouchPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................
+?deleteNode@?$QMapData@HVQTuioCursor@@@@QEAAXPEAU?$QMapNode@HVQTuioCursor@@@@@Z	00 0000 E9..............................................................

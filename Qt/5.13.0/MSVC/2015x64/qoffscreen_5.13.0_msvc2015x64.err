@@ -1,0 +1,221 @@
+0F1041:
+  10488BC2F30F7F02C3:
+    0. 00 0000 000C 0000:?geometry@QOffscreenScreen@@UEBA?AVQRect@@XZ
+  28488BC2F30F7F02C3:
+    0. 00 0000 000C 0000:?frameMargins@QOffscreenWindow@@UEBA?AVQMargins@@XZ
+40:
+  534883EC:
+    20:
+      48:
+        833D........00488BD9740933D233C9E8........488BCB48:
+          0. 05 705F 0029 0000:?flush@?$QOffscreenEventDispatcher@VQEventDispatcherWin32@@@@UEAAXXZ
+        8B:
+          01488BDAFF5010488BC34883C4205BC3:
+            0. 00 0000 0018 0000:?availableGeometry@QPlatformScreen@@UEBA?AVQRect@@XZ
+          C2488D0D........48894C2440488D542440488BC8E8:
+            0. 00 0000 0080 0000:?createPlatformTheme@QOffscreenIntegration@@UEBAPEAVQPlatformTheme@@AEBVQString@@@Z
+          D9:
+            488D05........48890133C9488B05........483BC348:
+              0. 0A CB56 0047 0000:??1QOffscreenWindow@@UEAA@XZ
+            84D27430E8........488BC8488D542438E8........F7:
+              0. 0B 21BD 004B 0000:?setFrameMarginsEnabled@QOffscreenWindow@@AEAAX_N@Z
+            E8........48:
+              8B4B18483BC87414488943184885C9740B:
+                0. 11 DDFB 0031 0000:?initialize@QOffscreenIntegration@@UEAAXXZ
+              8D05........488D4B10488903E8:
+                0. 00 0000 0035 0000:??0QOffscreenBackingStore@@QEAA@PEAVQWindow@@@Z
+          DA488D05........488BCB4889442438488D542438E8:
+            0. 00 0000 0059 0000:?themeNames@QOffscreenIntegration@@UEBA?AVQStringList@@XZ
+        8D05........488BD9488901:
+          488B49204885C9740A488B01BA:
+            0. 43 D622 0070 0000:??1QOffscreenIntegration@@UEAA@XZ
+          E8........488B4B3083791000:
+            0. 1C B488 005B 0000:??1QOffscreenBackingStore@@UEAA@XZ
+          F6C201740ABA08000000E8:
+            0. 00 0000 002B 0000:??_GQPlatformIntegration@@UEAAPEAXI@Z
+      B9:
+        10000000E8........33D2488BC8488BD8E8........488D05:
+          0. 00 0000 0030 0000:?createEventDispatcher@QOffscreenIntegration@@UEBAPEAVQAbstractEventDispatcher@@XZ
+        38000000488BDAE8........488BD3488BC84883C4205BE9:
+          0. 00 0000 0023 0000:?createPlatformBackingStore@QOffscreenIntegration@@UEBAPEAVQPlatformBackingStore@@PEAVQWindow@@@Z
+        48000000488BDAE8........488BD3488BC8E8........488B:
+          0. 16 9C49 0036 0000:?createPlatformWindow@QOffscreenIntegration@@UEBAPEAVQPlatformWindow@@PEAVQWindow@@@Z
+      E8........33DB84C07509E8........85C07405BB010000008A:
+        0. 07 D358 0027 0000:?hasPendingEvents@?$QOffscreenEventDispatcher@VQEventDispatcherWin32@@@@UEAA_NXZ
+    30488BDA4183F8117407E8........EB7E488D05........488D54:
+      0. 0D 3389 009D 0000:?themeHint@OffscreenTheme@@UEBA?AVQVariant@@W4ThemeHint@QPlatformTheme@@@Z
+  574883EC204C8B01488D3D........4889394183781000741541837810FF74:
+    0. 12 B795 0072 0000:?clear@?$QHash@_KVQRect@@@@QEAAXXZ
+448BC24183E801740A4183F8060F85........B001C3:
+  0. 00 0000 0016 0000:?hasCapability@QOffscreenIntegration@@UEBA_NW4Capability@QPlatformIntegration@@@Z
+48:
+  83EC28:
+    488B0D........:
+      4885C9741D83C8FFF00FC10183F8017511488B0D:
+        0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QOffscreenIntegrationPlugin@@YAPEAVQObject@@XZ@YAXXZ
+      83791000741A837910FF742083C8FFF00FC1411083:
+        0. 07 1867 003C (l)0000:??__F?m_windowForWinIdHash@QOffscreenWindow@@0V?$QHash@_KPEAVQOffscreenWindow@@@@A@@YAXXZ (REF 0007: ?m_windowForWinIdHash@QOffscreenWindow@@0V?$QHash@_KPEAVQOffscreenWindow@@@@A)
+        1. 07 1867 003C (l)0000:??__F?m_backingStoreForWinIdHash@QOffscreenBackingStore@@0V?$QHash@_KPEAVQOffscreenBackingStore@@@@A@@YAXXZ (REF 0007: ?m_backingStoreForWinIdHash@QOffscreenBackingStore@@0V?$QHash@_KPEAVQOffscreenBackingStore@@@@A)
+    807939007412E8........488BC8BA07000000E8........4883C428:
+      0. 01 EF04 0021 0000:?requestActivateWindow@QOffscreenWindow@@UEAAXXZ
+    B928000000E8........488BC84883C428E9:
+      0. 00 0000 001A 0000:?createOffscreenIntegration@QOffscreenIntegration@@SAPEAV1@XZ
+  85D274:
+    1A8B410848832200894208488B411048894210488B411848894218C3:
+      0. 00 0000 0020 0000:?duplicateNode@?$QHash@_KPEAVQOffscreenWindow@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      1. 00 0000 0020 0000:?duplicateNode@?$QHash@_KPEAVQOffscreenBackingStore@@@@CAXPEAUNode@QHashData@@PEAX@Z
+    1B8B410848832200894208488B4110488942100F104118F30F7F4218:
+      0. 01 EF04 0021 0000:?duplicateNode@?$QHash@_KVQRect@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  89:
+    5C24:
+      08:
+        48:
+          89:
+            6C24104889742418574883EC208BEA488BD9488B09BA080000:
+              0. 08 D93E 0077 0000:?createNode@?$QHash@_KPEAVQOffscreenWindow@@@@AEAAPEAU?$QHashNode@_KPEAVQOffscreenWindow@@@@IAEB_KAEBQEAVQOffscreenWindow@@PEAPEAU2@@Z (0010: 1A)
+              1. 08 D93E 0077 0000:?createNode@?$QHash@_KPEAVQOffscreenBackingStore@@@@AEAAPEAU?$QHashNode@_KPEAVQOffscreenBackingStore@@@@IAEB_KAEBQEAVQOffscreenBackingStore@@PEAPEAU2@@Z (0010: 1A)
+              2. 08 D93E 0079 0000:?createNode@?$QHash@_KVQRect@@@@AEAAPEAU?$QHashNode@_KVQRect@@@@IAEB_KAEBVQRect@@PEAPEAU2@@Z (0010: 1C)
+            7424:
+              10:
+                4C8944241855574156488BEC4883EC70660F6F05:
+                  0. 00 0000 0152 0000:?grabWindow@QOffscreenBackingStore@@QEBA?AVQPixmap@@_KAEBVQRect@@@Z
+                574883EC:
+                  2048635A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  40488B01488BF2488BF9837810017605E8:
+                    0. 00 0000 0105 0000:??A?$QHash@_KVQRect@@@@QEAAAEAVQRect@@AEB_K@Z
+              188954241057415641574883EC40C1EA024C8BF9F6D280:
+                0. 03 4B08 00EE 0000:?setWindowState@QOffscreenWindow@@UEAAXV?$QFlags@W4WindowState@Qt@@@@@Z
+          8B194C8BDA488BD1837B140074588B4B204533D285C974404D8B:
+            0. 5E D537 007E 0000:?value@?$QHash@_KVQRect@@@@QEBA?BVQRect@@AEB_KAEBV2@@Z
+        4C8B11488BDA4C8BD941837A14007459418B4A204533C985C97440:
+          0. 57 C58D 0077 0000:?value@?$QHash@_KPEAVQOffscreenWindow@@@@QEBAQEAVQOffscreenWindow@@AEB_KAEBQEAV2@@Z
+          1. 57 C58D 0077 0000:?value@?$QHash@_KPEAVQOffscreenBackingStore@@@@QEBAQEAVQOffscreenBackingStore@@AEB_KAEBQEAV2@@Z
+        574883EC:
+          20:
+            48:
+              8B:
+                D98BFA488B49204885C9740B488B01BA01000000:
+                  0. 07 B53F 004C 0000:??_GQOffscreenScreen@@UEAAPEAXI@Z
+                DA488BF94885D2750433C0EB23488D15:
+                  0. 04 BF6F 0047 0000:?qt_metacast@QOffscreenIntegrationPlugin@@UEAAPEAXPEBD@Z
+                F9E8........488D05........B9180000004889:
+                  0. 18 3936 006E 0000:??0QOffscreenScreen@@QEAA@XZ
+              8D05........488BD9488901488361080048836110:
+                0. 11 539D 00EE 0000:??0QOffscreenIntegration@@QEAA@XZ
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0105 (l)0000:?qt_plugin_instance_QOffscreenIntegrationPlugin@@YAPEAVQObject@@XZ
+            8BDA488BF9E8........F6C301740DBA:
+              08000000488B:
+                0. 02 632D 0034 0000:??_GQPlatformFontDatabase@@UEAAPEAXI@Z
+                1. 02 632D 0034 0000:??_GQFreeTypeFontDatabase@@UEAAPEAXI@Z
+              10000000488B:
+                0. 02 632D 0034 0000:??_GOffscreenTheme@@UEAAPEAXI@Z (REF 0010: ??1QPlatformTheme@@UEAA@XZ)
+                1. 02 632D 0034 0000:??_GQOffscreenDrag@@UEAAPEAXI@Z (REF 0010: ??1QPlatformDrag@@UEAA@XZ)
+                2. 02 632D 0034 0000:??_GQOffscreenIntegrationPlugin@@UEAAPEAXI@Z (REF 0010: ??1QPlatformIntegrationPlugin@@UEAA@XZ)
+                3. 02 632D 0034 0000:??_G?$QOffscreenEventDispatcher@VQEventDispatcherWin32@@@@UEAAPEAXI@Z (REF 0010: ??1QEventDispatcherWin32@@UEAA@XZ)
+              18000000488B:
+                0. 02 632D 0034 0000:??_GQOffscreenCursor@@UEAAPEAXI@Z
+              28000000488B:
+                0. 02 632D 0034 0000:??_GQOffscreenIntegration@@UEAAPEAXI@Z
+              38000000488B:
+                0. 02 632D 0034 0000:??_GQOffscreenBackingStore@@UEAAPEAXI@Z
+              48000000488B:
+                0. 02 632D 0034 0000:??_GQOffscreenWindow@@UEAAPEAXI@Z
+          3048:
+            8B:
+              D9C744242008000000488B094C8D05........41:
+                0. 08 590F 0070 0000:?detach_helper@?$QHash@_KVQRect@@@@AEAAXXZ
+                1. 08 B5D1 0070 0000:?detach_helper@?$QHash@_KPEAVQOffscreenWindow@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@_KPEAVQOffscreenWindow@@@@CAXPEAUNode@QHashData@@@Z)
+                2. 08 B5D1 0070 0000:?detach_helper@?$QHash@_KPEAVQOffscreenBackingStore@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@_KPEAVQOffscreenBackingStore@@@@CAXPEAUNode@QHashData@@@Z)
+              FA488BD9E8........488BC8E8........85C075:
+                0. 05 14C7 0074 0000:?setGeometry@QOffscreenWindow@@UEAAXAEBVQRect@@@Z
+            8D3D........488BDA488BCFE8........89442420:
+              0. 1C 565E 0058 0000:?create@QOffscreenIntegrationPlugin@@UEAAPEAVQPlatformIntegration@@AEBVQString@@AEBVQStringList@@@Z
+      10:
+        4889:
+          6C2418:
+            4889742420574883EC20488B7930488BE9488B5F088B:
+              0. 22 34C2 00F0 0000:?clearHash@QOffscreenBackingStore@@AEAAXXZ
+            565741564883EC20488D7110418BE9488BCE458BF048:
+              0. 03 B809 0081 0000:?scroll@QOffscreenBackingStore@@UEAA_NAEBVQRegion@@HH@Z
+          742418:
+            48897C242055488BEC4883EC40408AF2488BF93A5139:
+              0. 0F CF70 0107 0000:?setVisible@QOffscreenWindow@@UEAAX_N@Z
+            55574156488BEC4883EC60488BF2488BF9488D55C848:
+              0. 07 FFA3 015F 0000:?flush@QOffscreenBackingStore@@UEAAXPEAVQWindow@@AEBVQRegion@@AEBVQPoint@@@Z
+            574883EC:
+              30488B01488BF2488BF9837810017605E8:
+                0. 00 0000 00FD 0000:??A?$QHash@_KPEAVQOffscreenWindow@@@@QEAAAEAPEAVQOffscreenWindow@@AEB_K@Z (REF 001F: ?detach_helper@?$QHash@_KPEAVQOffscreenWindow@@@@AEAAXXZ)
+                1. 00 0000 00FD 0000:??A?$QHash@_KPEAVQOffscreenBackingStore@@@@QEAAAEAPEAVQOffscreenBackingStore@@AEB_K@Z (REF 001F: ?detach_helper@?$QHash@_KPEAVQOffscreenBackingStore@@@@AEAAXXZ)
+              40488BFA488BD9E8........488BC8E8:
+                0. 00 0000 008B 0000:?resize@QOffscreenBackingStore@@UEAAXAEBVQSize@@AEBVQRegion@@@Z
+        55488BEC4883EC400F100A488BD90F114DE0448B45EC660F7ECA66:
+          0. 7E E4D2 0114 0000:?setGeometryImpl@QOffscreenWindow@@AEAAXAEBVQRect@@@Z
+        574883EC20488D05........488BFA488901488BD9833D:
+          0. 0F 7DE1 007E 0000:??0QStringList@@QEAA@AEBVQString@@@Z
+      2055565741564157488D6C24C94881EC90000000488B024C8BFA4889:
+        0. 07 7384 01E2 0000:?setPos@QOffscreenCursor@@UEAAXAEBVQPoint@@@Z
+    742410574883EC30488BF2488BF9E8........488D05........488BCE48:
+      0. 2D 5B1C 00BF 0000:??0QOffscreenWindow@@QEAA@PEAVQWindow@@@Z
+  8B:
+    41:
+      08C3:
+        0. 00 0000 0005 0000:?fontDatabase@QOffscreenIntegration@@UEBAPEAVQPlatformFontDatabase@@XZ
+      10:
+        488902488BC2C3:
+          0. 00 0000 000B 0000:?pos@QOffscreenCursor@@UEBA?AVQPoint@@XZ
+        C3:
+          0. 00 0000 0005 0000:?drag@QOffscreenIntegration@@UEBAPEAVQPlatformDrag@@XZ
+      18C3:
+        0. 00 0000 0005 0000:?inputContext@QOffscreenIntegration@@UEBAPEAVQPlatformInputContext@@XZ
+      20C3:
+        0. 00 0000 0005 0000:?services@QOffscreenIntegration@@UEBAPEAVQPlatformServices@@XZ
+        1. 00 0000 0005 0000:?cursor@QOffscreenScreen@@UEBAPEAVQPlatformCursor@@XZ
+      40C3:
+        0. 00 0000 0005 0000:?winId@QOffscreenWindow@@UEBA_KXZ
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QOffscreenIntegrationPlugin@@UEBAPEBUQMetaObject@@XZ
+    C44889:
+      48084883EC2848836010004C8D4010488D5008488D0D........E8:
+        0. 00 0000 0029 0000:?windowForWinId@QOffscreenWindow@@SAPEAV1@_K@Z (REF 001B: ?m_windowForWinIdHash@QOffscreenWindow@@0V?$QHash@_KPEAVQOffscreenWindow@@@@A)
+        1. 00 0000 0029 0000:?backingStoreForWinId@QOffscreenBackingStore@@SAPEAV1@_K@Z (REF 001B: ?m_backingStoreForWinIdHash@QOffscreenBackingStore@@0V?$QHash@_KPEAVQOffscreenBackingStore@@@@A)
+      58084889:
+        6810488970:
+          184889782041564883EC20488B01488BF248:
+            0. 16 F079 011B 0000:?remove@?$QHash@_KPEAVQOffscreenWindow@@@@QEAAHAEB_K@Z
+          204C894018574883EC20488BF9488BF2488B:
+            0. 35 1A83 00FA 0000:?erase@?$QHash@_KPEAVQOffscreenBackingStore@@@@QEAA?AViterator@1@Vconst_iterator@1@@Z
+        70:
+          10488978184C89702055488BEC4883EC60448B553049:
+            0. 29 C471 01AE 0000:?grabWindow@QOffscreenScreen@@UEBA?AVQPixmap@@_KHHHH@Z
+          184889782089501041564883EC20488B11488BD94963:
+            0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+  8D:
+    05........:
+      4889:
+        01:
+          488D05........48894108488BC1C3:
+            0. 00 0000 0019 0000:?qt_static_plugin_QOffscreenIntegrationPlugin@@YA?BUQStaticPlugin@@XZ
+          C3:
+            0. 00 0000 000B 0000:??1QPlatformIntegration@@UEAA@XZ (REF 0003: ??_7QPlatformIntegration@@6B@)
+        02488BC2C3:
+          0. 00 0000 000E 0000:?name@QPlatformScreen@@UEBA?AVQString@@XZ
+      C3:
+        0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QOffscreenIntegrationPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__E?m_windowForWinIdHash@QOffscreenWindow@@0V?$QHash@_KPEAVQOffscreenWindow@@@@A@@YAXXZ (REF 0003: ??__F?m_windowForWinIdHash@QOffscreenWindow@@0V?$QHash@_KPEAVQOffscreenWindow@@@@A@@YAXXZ)
+      1. 00 0000 000C (l)0000:??__E?m_backingStoreForWinIdHash@QOffscreenBackingStore@@0V?$QHash@_KPEAVQOffscreenBackingStore@@@@A@@YAXXZ (REF 0003: ??__F?m_backingStoreForWinIdHash@QOffscreenBackingStore@@0V?$QHash@_KPEAVQOffscreenBackingStore@@@@A@@YAXXZ)
+    4110C3:
+      0. 00 0000 0005 0000:?paintDevice@QOffscreenBackingStore@@UEAAPEAVQPaintDevice@@XZ
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+89542410534883EC20E8........8B4C24388AD8E8........33C984C0750484:
+  0. 10 DD2D 0030 0000:?processEvents@?$QOffscreenEventDispatcher@VQEventDispatcherWin32@@@@UEAA_NV?$QFlags@W4ProcessEventsFlag@QEventLoop@@@@@Z
+B8:
+  04000000C3:
+    0. 00 0000 0006 0000:?format@QOffscreenScreen@@UEBA?AW4Format@QImage@@XZ
+  20000000C3:
+    0. 00 0000 0006 0000:?depth@QOffscreenScreen@@UEBAHXZ
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QOffscreenIntegrationPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QPlatformIntegrationPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

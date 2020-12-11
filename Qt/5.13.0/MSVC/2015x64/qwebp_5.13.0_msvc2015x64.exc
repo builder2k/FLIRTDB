@@ -1,0 +1,111 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+clip_max                                          	00 0000 3BCA0F4FCA8BC1C3................................................
+GetMin                                            	00 0000 3BCA0F4FCA8BC1C3................................................
+
+WebPPictureSmartARGBToYUVA                        	00 0000 41B9010000000F57D233D2E9........................................
+WebPPictureSharpARGBToYUVA                        	00 0000 41B9010000000F57D233D2E9........................................
+
+GradientPredictor_SSE2                            	0F 9CD9 440FB6C9410FB6C0442BC80FB6C24403C8418BC1418BC9C1F81F2501FFFFFF05
+GradientPredictor_C                               	0F 9CD9 440FB6C9410FB6C0442BC80FB6C24403C8418BC1418BC9C1F81F2501FFFFFF05
+GradientPredictor                                 	0F 9CD9 440FB6C9410FB6C0442BC80FB6C24403C8418BC1418BC9C1F81F2501FFFFFF05
+
+Predictor7_C                                      	00 0000 448B02418BC033C14423C1D1E8257F7F7F7F4103C0C3....................
+Predictor7                                        	00 0000 448B02418BC033C14423C1D1E8257F7F7F7F4103C0C3....................
+
+Predictor6_C                                      	00 0000 448B42FC418BC033C14423C1D1E8257F7F7F7F4103C0C3..................
+Predictor6                                        	00 0000 448B42FC418BC033C14423C1D1E8257F7F7F7F4103C0C3..................
+
+Predictor10_C                                     	23 2F10 448B42FC448BC98B0241BB7F7F7F7F448BD0418BC82342044133C94433520445
+Predictor10                                       	23 2F10 448B42FC448BC98B0241BB7F7F7F7F448BD0418BC82342044133C94433520445
+
+ConvertRGBToY_SSE2                                	0D 6A22 4883EC18660F6F12660F6F29660F6FC266410F6100660FF505........0F2934
+ConvertRGBToY_SSE41                               	0D 6A22 4883EC18660F6F12660F6F29660F6FC266410F6100660FF505........0F2934
+
+ConvertRGBToUV_SSE2                               	2D 7354 4883EC38488B4424600F297C2420660F6F39440F29442410660F6FEF440F291C
+ConvertRGBToUV_SSE41                              	2D 7354 4883EC38488B4424600F297C2420660F6F39440F29442410660F6FEF440F291C
+
+VP8LBitWriterWipeOut                              	00 0000 4885C97424534883EC20488BD9488B4910E8........33D2488BCB448D4230E8
+VP8BitWriterWipeOut                               	00 0000 4885C97424534883EC20488BD9488B4910E8........33D2488BCB448D4230E8
+
+HU4                                               	7C FC4E 48895C2408440FB652FC488BD9440FB64AFD440FB65AFB440FB642FE44885B63
+HU4_SSE2                                          	7C FC4E 48895C2408440FB652FC488BD9440FB64AFD440FB65AFB440FB642FE44885B63
+
+DC4                                               	25 CA37 48895C240848896C24104889742418574883EC20BD04000000488BF98BDD8BCD
+DC4_SSE2                                          	25 CA37 48895C240848896C24104889742418574883EC20BD04000000488BF98BDD8BCD
+
+Predictor13_C                                     	C8 063E 48895C2408488974241048897C24188B02BE000100008B7AFC8BD823C133D9D1
+Predictor13                                       	C8 063E 48895C2408488974241048897C24188B02BE000100008B7AFC8BD823C133D9D1
+
+Predictor12_C                                     	A7 A97E 48895C240848897C2410448B5AFCBF000100008B1A418BC3C1E818448BC341C1
+Predictor12                                       	A7 A97E 48895C240848897C2410448B5AFCBF000100008B1A418BC3C1E818448BC341C1
+
+SwapPtr                                           	00 0000 488B024C8B014889014C8902C3......................................
+HistogramSwap                                     	00 0000 488B024C8B014889014C8902C3......................................
+SwapModeScore                                     	00 0000 488B024C8B014889014C8902C3......................................
+
+ConvertYUV444ToRGB_SSE2                           	02 77BE 488B442428660F6F1D........660FE419660F6F0D........66410FE408660F
+ConvertYUV444ToRGB_SSE41                          	02 77BE 488B442428660F6F1D........660FE419660F6F0D........66410FE408660F
+
+Upsample32Pixels_SSE2                             	65 15E9 488BC44883EC680F2970E80F2978D8440F2948C8F3440F6F4901440F2950B8F3
+Upsample32Pixels_SSE41                            	65 15E9 488BC44883EC680F2970E80F2978D8440F2948C8F3440F6F4901440F2950B8F3
+
+HD4                                               	C5 EC06 488BC4488958084889681048897018488978200FB65AFE0FB66AFD0FB672FC44
+HD4_SSE2                                          	C5 EC06 488BC4488958084889681048897018488978200FB65AFE0FB66AFD0FB672FC44
+
+Predictor11_C                                     	14 ECD8 488BC4488958084889681048897018488978204154415641574883EC208B72FC
+Predictor11                                       	14 ECD8 488BC4488958084889681048897018488978204154415641574883EC208B72FC
+
+WebPSafeFree                                      	00 0000 48FF25..........................................................
+WebPFree                                          	00 0000 48FF25..........................................................
+
+YUV420ToRGB_SSE2                                  	15 2586 660F6E020F57ED488B442428660F6FE5660F6F15........660F6FDD660F60E0
+YUV420ToRGB_SSE41                                 	15 2586 660F6E020F57ED488B442428660F6FE5660F6F15........660F6FDD660F60E0
+
+Load_UV_HI_8_SSE2                                 	00 0000 660F6E090F57C0660F60C1660F61C0C3................................
+Load_UV_HI_8_SSE41                                	00 0000 660F6E090F57C0660F60C1660F61C0C3................................
+
+SubtractAndAccumulate_SSE2                        	15 A3E2 660F6F02660F6F11660FD8D0660FD801660FEBD00F57C0660F6FCA660F68D066
+SubtractAndSquare_SSE2                            	15 A3E2 660F6F02660F6F11660FD8D0660FD801660FEBD00F57C0660F6FCA660F68D066
+
+DC16NoTop_SSE2                                    	26 6D54 660F6F0A0F57C0660FF6C8660F70C102660FFEC1660F7EC083C008C1F8040FBE
+DC16NoLeft_SSE2                                   	26 6D54 660F6F0A0F57C0660FF6C8660F70C102660FFEC1660F7EC083C008C1F8040FBE
+
+HorizontalAddPack_SSE2                            	02 416E 660F6F11660F6F02660FF515........660FF505........660F6BD066410F7F
+HorizontalAddPack_SSE41                           	02 416E 660F6F11660F6F02660FF515........660FF505........660F6BD066410F7F
+
+Predictor9_C                                      	00 0000 8B0A8BC1334204234A04D1E8257F7F7F7F03C1C3........................
+Predictor9                                        	00 0000 8B0A8BC1334204234A04D1E8257F7F7F7F03C1C3........................
+
+Predictor5_C                                      	0B CCD5 8B420441B97F7F7F7F448BC023C14433C141D1E84523C14403C0418BC0442302
+Predictor5                                        	0B CCD5 8B420441B97F7F7F7F448BC023C14433C141D1E84523C14403C0418BC0442302
+
+Predictor8_C                                      	00 0000 8B4AFC8BC13302230AD1E8257F7F7F7F03C1C3..........................
+Predictor8                                        	00 0000 8B4AFC8BC13302230AD1E8257F7F7F7F03C1C3..........................
+
+WebPGetEncoderVersion                             	00 0000 B802000100C3....................................................
+WebPGetDemuxVersion                               	00 0000 B802000100C3....................................................
+WebPGetDecoderVersion                             	00 0000 B802000100C3....................................................
+WebPGetMuxVersion                                 	00 0000 B802000100C3....................................................
+
+VP8GetARGBIndex                                   	00 0000 C1E9080FB6C1C3..................................................
+ApplyPaletteHash0                                 	00 0000 C1E9080FB6C1C3..................................................
+
+BSwap64                                           	00 0000 E9..............................................................
+VP8LFreeHistogram                                 	00 0000 E9..............................................................
+VP8LFreeHistogramSet                              	00 0000 E9..............................................................
+BSwap32                                           	00 0000 E9..............................................................
+?qt_metacall@QWebpPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................
+Launch                                            	00 0000 E9..............................................................
+
+YUV444ToRGB_SSE2                                  	15 2E9B F30F7E020F57ED488B442428660F6FE5660F6F15........660F6FDD660F60E0
+YUV444ToRGB_SSE41                                 	15 2E9B F30F7E020F57ED488B442428660F6FE5660F6F15........660F6FDD660F60E0
+
+Load_HI_16_SSE2                                   	00 0000 F30F7E090F57C0660F60C1C3........................................
+Load_HI_16_SSE41                                  	00 0000 F30F7E090F57C0660F60C1C3........................................
+
+DC8uvNoTop_SSE2                                   	1D 58EF F30F7E0A0F57C0660FF6C8660F7EC883C004C1F8030FBEC0660F6EC0B8080000
+DC8uvNoLeft_SSE2                                  	1D 58EF F30F7E0A0F57C0660FF6C8660F7EC883C004C1F8030FBEC0660F6EC0B8080000

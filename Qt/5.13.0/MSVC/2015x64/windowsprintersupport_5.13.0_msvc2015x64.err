@@ -1,0 +1,237 @@
+40:
+  53:
+    4883EC20:
+      48:
+        634204488BDA4C:
+          6BC0704C0342104C03C248035210E8:
+            0. 00 0000 0037 0000:?freeData@?$QVector@VQWindowsPrinterInfo@@@@AEAAXPEAU?$QTypedArrayData@VQWindowsPrinterInfo@@@@@Z
+          8B4A104C8D04404F8D04C14C03C24903D1E8:
+            0. 00 0000 003A 0000:?freeData@?$QVector@UOutputBin@QPrint@@@@AEAAXPEAU?$QTypedArrayData@UOutputBin@QPrint@@@@@Z (REF 0020: ?destruct@?$QVector@UOutputBin@QPrint@@@@AEAAXPEAUOutputBin@QPrint@@0@Z)
+            1. 00 0000 003A 0000:?freeData@?$QVector@UInputSlot@QPrint@@@@AEAAXPEAU?$QTypedArrayData@UInputSlot@QPrint@@@@@Z (REF 0020: ?destruct@?$QVector@UInputSlot@QPrint@@@@AEAAXPEAUInputSlot@QPrint@@0@Z)
+        8B:
+          01488BD948390274:
+            3F488D4C2430E8........488B13488B:
+              0. 2C 6FE2 0059 0000:??4?$QVector@UOutputBin@QPrint@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@UOutputBin@QPrint@@@@QEAA@AEBV0@@Z)
+              1. 2C 6FE2 0059 0000:??4?$QVector@UInputSlot@QPrint@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@UInputSlot@QPrint@@@@QEAA@AEBV0@@Z)
+            43488D4C2430E8........488B0B488B:
+              0. 30 C1A7 005D 0000:??4?$QVector@W4DuplexMode@QPrint@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@W4DuplexMode@QPrint@@@@QEAA@AEBV0@@Z)
+              1. 30 C1A7 005D 0000:??4?$QVector@W4ColorMode@QPrint@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@W4ColorMode@QPrint@@@@QEAA@AEBV0@@Z)
+          CA488BDAE8........488BC34883C4205BC3:
+            0. 00 0000 001A 0000:?defaultPrintDeviceId@QWindowsPrinterSupport@@UEBA?AVQString@@XZ (REF 000D: ?defaultPrintDeviceId@QWindowsPrintDevice@@SA?AVQString@@XZ)
+            1. 00 0000 001A 0000:?availablePrintDeviceIds@QWindowsPrinterSupport@@UEBA?AVQStringList@@XZ (REF 000D: ?availablePrintDeviceIds@QWindowsPrintDevice@@SA?AVQStringList@@XZ)
+          D9:
+            48:
+              8B490883390074118339FF741E83C8FFF00FC10183F8:
+                0. 11 A4AF 0065 0000:??1OutputBin@QPrint@@QEAA@XZ
+                1. 11 A4AF 0065 0000:??1InputSlot@QPrint@@QEAA@XZ
+              8D4C2430E8........488BD0488D4B08E8........48:
+                0. 2B 18EA 0057 0000:?isDefault@QWindowsPrintDevice@@UEBA_NXZ
+            E8........48:
+              8B1348634208488D14C24883C210488953:
+                0. 24 C98C 0044 0000:??$qMakeForeachContainer@AEAV?$QList@VQPageSize@@@@@QtPrivate@@YA?AV?$QForeachContainer@V?$QList@VQPageSize@@@@@0@AEAV?$QList@VQPageSize@@@@@Z
+              8D05........488903488BC34883C4205B:
+                0. 01 EF04 0021 0000:??0QWindowsPrinterSupport@@QEAA@XZ
+        8D:
+          05........488BD948:
+            8901488B89A8000000E8........48:
+              0. 08 EA6B 002C 0000:??1QWindowsPrintDevice@@UEAA@XZ
+            8D5424304889442430E8........48:
+              0. 29 904A 0068 0000:??0QWindowsPrintDevice@@QEAA@XZ
+          5108:
+            33DB488B89A8000000E8........4885C0742BF74048:
+              0. 24 3204 0050 0000:?defaultDuplexMode@QWindowsPrintDevice@@UEBA?AW4DuplexMode@QPrint@@XZ
+            BB48000000488B89A8000000E8........33C94885C0:
+              0. 20 C22D 004C 0000:?defaultResolution@QWindowsPrintDevice@@UEBAHXZ
+      80B9:
+        B000000000488BD97505E8........8A43:
+          294883C4205BC3:
+            0. 00 0000 0020 0000:?supportsMultipleCopies@QWindowsPrintDevice@@UEBA_NXZ
+          2A4883C4205BC3:
+            0. 00 0000 0020 0000:?supportsCollateCopies@QWindowsPrintDevice@@UEBA_NXZ
+        B100000000488BD97505E8........8A43384883C4205BC3:
+          0. 00 0000 0020 0000:?supportsCustomPageSizes@QWindowsPrintDevice@@UEBA_NXZ
+    5556574155415641574883EC30488BF141BF0D0000004883C108E8:
+      0. 00 0000 01F8 0000:?loadResolutions@QWindowsPrintDevice@@MEBAXXZ
+  55535657415441:
+    5541564157488D6C24E14881ECF800000033FF488BDA448B:
+      0. 08 C022 05E1 0000:??0QWindowsPrintDevice@@QEAA@AEBVQString@@@Z
+    564157488BEC4883EC604533FF488D45504889442430488D:
+      0. 01 1C3B 0289 0000:?availablePrintDeviceIds@QWindowsPrintDevice@@SA?AVQStringList@@XZ
+48:
+  83:
+    B9A8000000000F95C0C3:
+      0. 00 0000 000C 0000:?isValid@QWindowsPrintDevice@@UEBA_NXZ
+    EC28:
+      488B:
+        0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+          0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QWindowsPrinterSupportPlugin@@YAPEAVQObject@@XZ@YAXXZ
+        15........833A007418833AFF741F83C8FFF00FC10283F80175:
+          0. 04 4EF5 0050 0000:??__Fholder@?1??innerFunction@Q_QGS_windowsDeviceLookup@?A0x431c93af@@YAPEAV?$QVector@VQWindowsPrinterInfo@@@@XZ@YAXXZ
+      65488B0425580000008B0D........BA........488B0CC88B040A39:
+        0. 01 D5A7 0077 (l)0000:?innerFunction@Q_QGS_windowsDeviceLookup@?A0x431c93af@@YAPEAV?$QVector@VQWindowsPrinterInfo@@@@XZ
+  89:
+    4C240855535657415441554156415748:
+      8BEC4883EC584C8BF933FF4883C1:
+        0. 07 D0B1 02BF 0000:?loadInputSlots@QWindowsPrintDevice@@MEBAXXZ
+      8D6C24E14881EC8800000033FF0F:
+        0. 18 2889 04C0 0000:?loadPageSizes@QWindowsPrintDevice@@MEBAXXZ
+    5C24:
+      08:
+        4889:
+          6C24:
+            104889:
+              74241857:
+                415641574883EC20488B01458BC84C63:
+                  0. 13 05D1 00FC 0000:?realloc@?$QVector@VQWindowsPrinterInfo@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                4883EC20488B02488BDA488901488BF9:
+                  0. 13 3DCD 0098 0000:??0?$QList@VQPageSize@@@@QEAA@AEBV0@@Z
+              7C241841564883EC20488BD9BD04000000488B49:
+                0. 26 0725 018E 0000:??1QWindowsPrinterInfo@@QEAA@XZ
+            188954241056574154415641574883EC20488B114C8BF1:
+              0. 18 3165 0143 0000:?detach_helper_grow@?$QList@VQPageSize@@@@AEAAPEAUNode@1@HH@Z
+          742410:
+            48897C24185541564157488BEC4883EC408BF24C8D3D:
+              0. 00 0000 00FD (l)0000:?paperBinToInputSlot@@YA?AUInputSlot@QPrint@@HAEBVQString@@@Z
+            5748:
+              81EC900000004C8B01488BD9418B7808418B7004:
+                0. 22 5F83 00BB 0000:?append@?$QVector@VQWindowsPrinterInfo@@@@QEAAXAEBVQWindowsPrinterInfo@@@Z
+              83EC:
+                2048:
+                  635A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  8B:
+                    01458BC84C63C2488BF9BA08000000:
+                      0. 0A F348 0139 0000:?realloc@?$QVector@UOutputBin@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (0038: 84)
+                      1. 0A F348 0147 0000:?realloc@?$QVector@UInputSlot@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (0038: 92)
+                    11833A007411833AFF744583C8FFF0:
+                      0. 30 1831 0071 0000:??1?$QList@VQPageSize@@@@QEAA@XZ
+                    FA488BF1E8........33DB84C07440:
+                      0. 09 F643 0072 0000:??8QWindowsPrinterInfo@@QEBA_NAEBV0@@Z
+                30488BF9488BCAE8........836424280045:
+                  0. 14 0CDE 008D (l)0000:?getDevmode@@YAPEAU_devicemodeW@@PEAXAEBVQString@@@Z
+                40:
+                  488D542420488BF9E8........488BD048:
+                    0. 04 0C8D 00C6 0000:?loadOutputBins@QWindowsPrintDevice@@MEBAXXZ
+                  80792B00488BF2488BD97509488B01FF90:
+                    0. 08 336A 00D0 0000:?defaultPageSize@QWindowsPrintDevice@@UEBA?AVQPageSize@@XZ
+        574883EC:
+          20:
+            48:
+              8B:
+                02488BFA48:
+                  8901488BD9833800740A8338FF7454:
+                    0. 09 810F 0082 0000:??0?$QList@H@@QEAA@AEBV0@@Z
+                  8BD983380074108338FF7403F0FF00:
+                    0. 25 607B 00AD 0000:??0?$QVector@UOutputBin@QPrint@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UOutputBin@QPrint@@@@AEAAXPEBUOutputBin@QPrint@@0PEAU23@@Z)
+                    1. 25 607B 00AD 0000:??0?$QVector@UInputSlot@QPrint@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UInputSlot@QPrint@@@@AEAAXPEBUInputSlot@QPrint@@0PEAU23@@Z)
+                    2. 25 7337 00AF 0000:??0?$QVector@W4DuplexMode@QPrint@@@@QEAA@AEBV0@@Z
+                    3. 25 7337 00AF 0000:??0?$QVector@W4ColorMode@QPrint@@@@QEAA@AEBV0@@Z
+                D9488BFA488B0ABA0100000048890B8B01FFC03B:
+                  0. 48 A5E9 0113 0000:??0QWindowsPrinterInfo@@QEAA@AEBV0@@Z
+                DA488BF94885D2750433C0EB23488D15:
+                  0. 04 BF6F 0047 0000:?qt_metacast@QWindowsPrinterSupportPlugin@@UEAAPEAXPEBD@Z
+              8D05........8BDA488901488BF9E8........F6C3:
+                0. 0C 71E1 003E 0000:??_GQWindowsPrinterSupport@@UEAAPEAXI@Z
+            4C8B01488BFA488BD9418B5008418B40040FBAF21FFF:
+              0. 1A 1A3C 008A 0000:?append@?$QVector@UOutputBin@QPrint@@@@QEAAX$$QEAUOutputBin@QPrint@@@Z (0009: 42) (001B: 23)
+              1. 1A 1A3C 0091 0000:?append@?$QVector@UInputSlot@QPrint@@@@QEAAX$$QEAUInputSlot@QPrint@@@Z (0009: 42) (001B: 2A)
+              2. 1A 1A3C 0068 0000:?append@?$QVector@W4DuplexMode@QPrint@@@@QEAAX$$QEAW4DuplexMode@QPrint@@@Z (0009: 4A) (REF 003A: ?realloc@?$QVector@W4DuplexMode@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+              3. 1A 1A3C 0068 0000:?append@?$QVector@W4ColorMode@QPrint@@@@QEAAX$$QEAW4ColorMode@QPrint@@@Z (0009: 4A) (REF 003A: ?realloc@?$QVector@W4ColorMode@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0105 (l)0000:?qt_plugin_instance_QWindowsPrinterSupportPlugin@@YAPEAVQObject@@XZ
+            80B9B100000000488BFA488BD97505E8........488B:
+              0. 13 417A 0033 0000:?maximumPhysicalPageSize@QWindowsPrintDevice@@UEBA?AVQSize@@XZ
+              1. 13 8154 0033 0000:?minimumPhysicalPageSize@QWindowsPrintDevice@@UEBA?AVQSize@@XZ
+            8BDA488BF9E8........F6C301740DBA:
+              10000000488B:
+                0. 02 632D 0034 0000:??_GQWindowsPrinterSupportPlugin@@UEAAPEAXI@Z
+              B8000000488B:
+                0. 02 632D 0034 0000:??_GQWindowsPrintDevice@@UEAAPEAXI@Z
+            B9:
+              28000000498BD88BFAE8........4C8BC38BD7488B:
+                0. 02 6B60 003F 0000:?createNativePrintEngine@QWindowsPrinterSupport@@UEAAPEAVQPrintEngine@@W4PrinterMode@QPrinter@@AEBVQString@@@Z
+              B8000000498BD8488BFAE8........488BD3488BC8:
+                0. 01 3E9B 003E 0000:?createPrintDevice@QWindowsPrinterSupport@@UEAA?AVQPrintDevice@@AEBVQString@@@Z
+          3048:
+            8BF94883C108E8........48836424200041B81200:
+              0. 0F 9316 00F9 0000:?loadCopiesSupport@QWindowsPrintDevice@@IEBAXXZ
+            8D3D........488BDA488BCFE8........89442420:
+              0. 1C 565E 0063 0000:?create@QWindowsPrinterSupportPlugin@@UEAAPEAVQPlatformPrinterSupport@@AEBVQString@@@Z
+      10:
+        4889742418574883EC2033DB488BF93899880000007509488B01FF:
+          0. 1B A92C 0088 0000:?defaultColorMode@QWindowsPrintDevice@@UEBA?AW4ColorMode@QPrint@@XZ
+        574883EC40488BF90F297C243033C9E8........488D4F080F28F8:
+          0. 01 3E9B 01A1 0000:?loadMinMaxPageSizes@QWindowsPrintDevice@@IEBAXXZ
+      18:
+        5556574154415541564157488BEC4883EC604C8BF2488BD9E8:
+          0. 00 0000 01C8 0000:?defaultInputSlot@QWindowsPrintDevice@@UEBA?AUInputSlot@QPrint@@XZ
+        574883EC20488BFA488BD9E8........488D5708488D4B08E8:
+          0. 00 0000 0152 0000:??4QWindowsPrinterInfo@@QEAAAEAV0@AEBV0@@Z
+  8B:
+    024C:
+      8BC9488901488D05........4889024C8B01498B50104903D0488951:
+        0. 24 2E46 0044 0000:??$qMakeForeachContainer@V?$QVector@UInputSlot@QPrint@@@@@QtPrivate@@YA?AV?$QForeachContainer@V?$QVector@UInputSlot@QPrint@@@@@0@$$QEAV?$QVector@UInputSlot@QPrint@@@@@Z
+      8D0D........4889014C8D05........4C890A488B4208488941084C:
+        0. BF 4BF9 00DF 0000:??0QWindowsPrinterInfo@@QEAA@$$QEAV0@@Z
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QWindowsPrinterSupportPlugin@@UEBAPEBUQMetaObject@@XZ
+    C44889:
+      58:
+        084889:
+          68:
+            10488970184889782041564883EC20:
+              4533F6488BEA48:
+                0. 43 525E 00B9 0000:?indexOf@?$QVector@VQWindowsPrinterInfo@@@@QEBAHAEBVQWindowsPrinterInfo@@H@Z
+              4863F2BD080000:
+                0. 14 4987 00C7 0000:?realloc@?$QVector@W4DuplexMode@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                1. 14 4987 00C7 0000:?realloc@?$QVector@W4ColorMode@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+            1848897020895010574883EC20488B11488BF94963E8:
+              0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@H@@AEAAPEAUNode@1@HH@Z
+          70:
+            184889782089501041564883EC20488B11488BD94963:
+              0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+            20574883EC208364243800488D501083601000488BF9:
+              0. 03 F2D9 00D0 0000:?defaultPrintDeviceId@QWindowsPrintDevice@@SA?AVQString@@XZ
+        1048897018:
+          48897820554154415541564157488D68A94881ECD0:
+            0. 65 589E 032E 0000:?printableMargins@QWindowsPrintDevice@@UEBA?AVQMarginsF@@AEBVQPageSize@@W4Orientation@QPageLayout@@H@Z
+          574883EC30:
+            33F6488BF9488B89A80000004533C989:
+              0. 12 65FB 009F 0000:?state@QWindowsPrintDevice@@UEBA?AW4DeviceState@QPrint@@XZ
+            83600800488DB190000000488BF9488D:
+              0. 06 1700 00F9 0000:?loadColorModes@QWindowsPrintDevice@@MEBAXXZ
+      681048897018574883EC3083600800488DB180000000488BE9488D:
+        0. 06 1700 0120 0000:?loadDuplexModes@QWindowsPrintDevice@@MEBAXXZ
+    CABA04000000448D4204E9:
+      0. 00 0000 0011 0000:?freeData@?$QVector@W4DuplexMode@QPrint@@@@AEAAXPEAU?$QTypedArrayData@W4DuplexMode@QPrint@@@@@Z
+      1. 00 0000 0011 0000:?freeData@?$QVector@W4ColorMode@QPrint@@@@AEAAXPEAU?$QTypedArrayData@W4ColorMode@QPrint@@@@@Z
+  8D:
+    05........:
+      488901:
+        488D05........48894108488BC1C3:
+          0. 00 0000 0019 0000:?qt_static_plugin_QWindowsPrinterSupportPlugin@@YA?BUQStaticPlugin@@XZ
+        E9:
+          0. 00 0000 000F 0000:??1QWindowsPrinterSupport@@UEAA@XZ (REF 0003: ??_7QWindowsPrinterSupport@@6B@)
+      C3:
+        0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QWindowsPrinterSupportPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+    4AE048F7DA481BC04823C1C3:
+      0. 00 0000 000E 0000:?createPaintEngine@QWindowsPrinterSupport@@UEAAPEAVQPaintEngine@@PEAVQPrintEngine@@W4PrinterMode@QPrinter@@@Z
+493BD0742B48895C2408574883EC20498BF8488BDA488BCB4883C3:
+  18E8:
+    0. 00 0000 0031 0000:?destruct@?$QVector@UOutputBin@QPrint@@@@AEAAXPEAUOutputBin@QPrint@@0@Z (REF 001D: ??1OutputBin@QPrint@@QEAA@XZ)
+    1. 00 0000 0031 0000:?destruct@?$QVector@UInputSlot@QPrint@@@@AEAAXPEAUInputSlot@QPrint@@0@Z (REF 001D: ??1InputSlot@QPrint@@QEAA@XZ)
+  70E8:
+    0. 00 0000 0031 0000:?destruct@?$QVector@VQWindowsPrinterInfo@@@@AEAAXPEAVQWindowsPrinterInfo@@0@Z
+4C:
+  2BC2498BC94983E0FCE9:
+    0. 00 0000 000F 0000:?copyConstruct@?$QVector@W4DuplexMode@QPrint@@@@AEAAXPEBW4DuplexMode@QPrint@@0PEAW423@@Z
+    1. 00 0000 000F 0000:?copyConstruct@?$QVector@W4ColorMode@QPrint@@@@AEAAXPEBW4ColorMode@QPrint@@0PEAW423@@Z
+  8B0149634804498B40104C8D0C884D03C8498D0C00493BC974128B02390174:
+    0. 11 8174 0031 0000:?contains@?$QVector@W4ColorMode@QPrint@@@@QEBA_NAEBW4ColorMode@QPrint@@@Z
+4D8BD0493BD074:
+  45498BC94983C1184885C974344C8B024C8901418B00FFC083:
+    0. 2E DCE5 004E 0000:?copyConstruct@?$QVector@UOutputBin@QPrint@@@@AEAAXPEBUOutputBin@QPrint@@0PEAU23@@Z
+  53488D4A10498BD14983C1184885D2743A4C8B41F04C890241:
+    0. 3C 15D5 005C 0000:?copyConstruct@?$QVector@UInputSlot@QPrint@@@@AEAAXPEBUInputSlot@QPrint@@0PEAU23@@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QWindowsPrinterSupportPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QPlatformPrinterSupportPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

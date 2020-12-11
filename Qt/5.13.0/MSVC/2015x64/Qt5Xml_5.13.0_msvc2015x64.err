@@ -1,0 +1,1501 @@
+33C0668901488BC1C3:
+  0. 00 0000 0009 0000:??0QChar@@QEAA@XZ
+40:
+  53:
+    4883EC:
+      20:
+        48:
+          634204488BDA4C8B4A104C8D04404F8D04C14C03C24903D1E8:
+            0. 00 0000 003A 0000:?freeData@?$QVector@UXmlRef@QXmlSimpleReaderPrivate@@@@AEAAXPEAU?$QTypedArrayData@UXmlRef@QXmlSimpleReaderPrivate@@@@@Z
+          83:
+            64244800488D4C2448E8........488D4C24488AD8E8:
+              0. 00 0000 002A 0000:?isSupported@QDomNode@@QEBA_NAEBVQString@@0@Z
+            C140488BDAE8........488BC34883C4205BC3:
+              0. 00 0000 001B 0000:?substringData@QDomCharacterDataPrivate@@QEBA?AVQString@@KK@Z
+          8B:
+            01488BD9833801762B8B500881E2FFFFFF7F7518448D4A02:
+              0. 0B DBFF 0062 0000:?removeLast@?$QVector@UXmlRef@QXmlSimpleReaderPrivate@@@@QEAAXXZ
+            09:
+              33DB4885C9741E488B01FF505083F816770FB908014000:
+                0. 16 A28F 0036 0000:?isCharacterData@QDomNode@@QEBA_NXZ
+              48:
+                85C9:
+                  74:
+                    0E488B11FF525083F8:
+                      010F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isElement@QDomNode@@QEBA_NXZ
+                      020F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isAttr@QDomNode@@QEBA_NXZ
+                      040F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isCDATASection@QDomNode@@QEBA_NXZ
+                      050F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isEntityReference@QDomNode@@QEBA_NXZ
+                      060F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isEntity@QDomNode@@QEBA_NXZ
+                      070F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isProcessingInstruction@QDomNode@@QEBA_NXZ
+                      080F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isComment@QDomNode@@QEBA_NXZ
+                      090F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isDocument@QDomNode@@QEBA_NXZ
+                      0A0F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isDocumentType@QDomNode@@QEBA_NXZ
+                      0B0F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isDocumentFragment@QDomNode@@QEBA_NXZ
+                      0C0F94C0EB0232C04883:
+                        0. 04 1875 0024 0000:?isNotation@QDomNode@@QEBA_NXZ
+                    11488B11FF525083C0FD83F8010F96C0EB0232:
+                      0. 07 BDF0 0027 0000:?isText@QDomNode@@QEBA_NXZ
+                  750432C0EB0F488B4968E8........4885C00F95:
+                    0. 07 BDF0 0027 0000:?hasAttributeNS@QDomElement@@QEBA_NAEBVQString@@0@Z
+                8BDA48:
+                  83C108498BD0E8........488B0848890B8B01:
+                    0. 13 A5F4 0033 0000:?uri@QXmlNamespaceSupport@@QEBA?AVQString@@AEBV2@@Z
+                  85C9:
+                    7424498B104885D2741C4D8B014D85C074:
+                      0. 22 CB28 0042 0000:?replaceChild@QDomNode@@QEAA?AV1@AEBV1@0@Z
+                    75:
+                      0548:
+                        210AEB:
+                          11E8........4889034885:
+                            0. 10 A632 0030 0000:?ownerDocument@QDomNode@@QEBA?AVQDomDocument@@XZ (REF 0017: ?ownerDocument@QDomNodePrivate@@QEAAPEAVQDomDocumentPrivate@@XZ)
+                            1. 10 A632 0030 0000:?documentElement@QDomDocument@@QEBA?AVQDomElement@@XZ (REF 0017: ?documentElement@QDomDocumentPrivate@@QEAAPEAVQDomElementPrivate@@XZ)
+                          14:
+                            418BD0E8........4889:
+                              0. 13 8C73 0033 0000:?item@QDomNodeList@@QEBA?AVQDomNode@@H@Z (REF 001A: ?item@QDomNodeListPrivate@@QEAAPEAVQDomNodePrivate@@H@Z)
+                              1. 13 8C73 0033 0000:?splitText@QDomText@@QEAA?AV1@H@Z (REF 001A: ?splitText@QDomTextPrivate@@QEAAPEAV1@H@Z)
+                              2. 13 8C73 0033 0000:?item@QDomNamedNodeMap@@QEBA?AVQDomNode@@H@Z (REF 001A: ?item@QDomNamedNodeMapPrivate@@QEBAPEAVQDomNodePrivate@@H@Z)
+                            498B:
+                              10E8........4889:
+                                0. 13 8C73 0033 0000:?setAttributeNode@QDomElement@@QEAA?AVQDomAttr@@AEBV2@@Z (REF 001A: ?setAttributeNode@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@PEAV2@@Z)
+                                1. 13 8C73 0033 0000:?setAttributeNodeNS@QDomElement@@QEAA?AVQDomAttr@@AEBV2@@Z (REF 001A: ?setAttributeNodeNS@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@PEAV2@@Z)
+                                2. 13 8C73 0033 0000:?setNamedItem@QDomNamedNodeMap@@QEAA?AVQDomNode@@AEBV2@@Z (REF 001A: ?setNamedItem@QDomNamedNodeMapPrivate@@QEAAPEAVQDomNodePrivate@@PEAV2@@Z)
+                                3. 13 8C73 0033 0000:?setNamedItemNS@QDomNamedNodeMap@@QEAA?AVQDomNode@@AEBV2@@Z (REF 001A: ?setNamedItemNS@QDomNamedNodeMapPrivate@@QEAAPEAVQDomNodePrivate@@PEAV2@@Z)
+                                4. 13 8C73 0033 0000:?removeAttributeNode@QDomElement@@QEAA?AVQDomAttr@@AEBV2@@Z (REF 001A: ?removeAttributeNode@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@PEAV2@@Z)
+                              D0E8........4889:
+                                0. 13 8C73 0033 0000:?namedItem@QDomNode@@QEBA?AV1@AEBVQString@@@Z (REF 001A: ?namedItem@QDomNodePrivate@@QEAAPEAV1@AEBVQString@@@Z)
+                                1. 13 8C73 0033 0000:?removeNamedItem@QDomNamedNodeMap@@QEAA?AVQDomNode@@AEBVQString@@@Z (REF 001A: ?removeNamedItem@QDomNamedNodeMapPrivate@@QEAAPEAVQDomNodePrivate@@AEBVQString@@@Z)
+                                2. 13 8C73 0033 0000:?namedItem@QDomNamedNodeMap@@QEBA?AVQDomNode@@AEBVQString@@@Z (REF 001A: ?namedItem@QDomNamedNodeMapPrivate@@QEBAPEAVQDomNodePrivate@@AEBVQString@@@Z)
+                          15488B01418AD0FF503848:
+                            0. 14 0230 0034 0000:?cloneNode@QDomNode@@QEBA?AV1@_N@Z
+                          18488B4968498BD0E8:
+                            0. 00 0000 0037 0000:?attributeNode@QDomElement@@QEAA?AVQDomAttr@@AEBVQString@@@Z
+                          1F498B104885D275054821:
+                            0. 1E 7635 003E 0000:?removeChild@QDomNode@@QEAA?AV1@AEBV1@@Z
+                        8B0AEB08E8........488B0B8339:
+                          0. 22 1005 004C 0000:?setAttributeNS@QDomElement@@QEAAXVQString@@AEBV2@1@Z
+                      0C488D05........488902EB:
+                        05E8:
+                          0. 00 0000 002B 0000:?text@QDomElement@@QEBA?AVQString@@XZ
+                        094883C1:
+                          0. 02 6722 002F 0000:?substringData@QDomCharacterData@@QEAA?AVQString@@KK@Z
+                      14498B0948890A8B01FFC083F801760A:
+                        0. 06 34EB 0033 0000:?attribute@QDomElement@@QEBA?AVQString@@AEBV2@0@Z
+              498BC0488BDA4885C9750548210AEB:
+                174D8BC1488BD0E8:
+                  0. 00 0000 0039 0000:?namedItemNS@QDomNamedNodeMap@@QEBA?AVQDomNode@@AEBVQString@@0@Z
+                1B488B49684D8BC1:
+                  0. 04 861E 003D 0000:?attributeNodeNS@QDomElement@@QEAA?AVQDomAttr@@AEBVQString@@0@Z
+              4D8BD0488BDA4885C9750548210AEB18488B014D8B0149:
+                0. 1A 4ECE 003A 0000:?insertAfter@QDomNode@@QEAA?AV1@AEBV1@0@Z
+                1. 1A F3AC 003A 0000:?insertBefore@QDomNode@@QEAA?AV1@AEBV1@0@Z
+            114885D2742983C8FFF00FC10283F801751D488B194885DB:
+              0. 06 5723 003D 0000:??1QDomNamedNodeMap@@QEAA@XZ (0005: 20)
+              1. 06 5723 003D 0000:??1QDomNodeList@@QEAA@XZ (0005: 30)
+            194885DB7415488BCBE8........BA:
+              10000000488BCBE8:
+                0. 00 0000 0029 0000:??1QXmlNamespaceSupport@@QEAA@XZ
+              20000000488BCBE8:
+                0. 00 0000 0029 0000:??1QXmlParseException@@QEAA@XZ
+            41088BDA3B50147D4C85D27848488B48088B5020EB0BFFCA:
+              0. 1A D9E4 0065 0000:?item@QDomNamedNodeMapPrivate@@QEBAPEAVQDomNodePrivate@@H@Z
+            42:
+              0833DB4839410875164883C2104883C110E8........84:
+                0. 10 517A 0030 0000:??8QDomNodeListPrivate@@QEBA_NAEBV0@@Z
+              3848894424308B10FFC283FA017603F0FF00488B496848:
+                0. 05 1223 0063 0000:?removeAttributeNode@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@PEAV2@@Z
+            4968498BC0488BDA4D8BC1488BD0E8........4885C0750A:
+              0. 26 CF92 0046 0000:?attributeNS@QDomElementPrivate@@QEBA?AVQString@@AEBV2@00@Z
+            5118488BD9837A10007413837A10FF741D83C8FFF00FC142:
+              0. 0D 991B 0068 0000:??1?$QHashNode@VQString@@V?$QHash@VQString@@H@@@@QEAA@XZ
+            5928EB12488B13488BCBFF525083F8017409488B5B184885:
+              0. 0C 186F 002C 0000:?documentElement@QDomDocumentPrivate@@QEAAPEAVQDomElementPrivate@@XZ
+            C2:
+              41B801000000488BD1488BD9458BC8488BC8E8:
+                0. 09 6390 0029 0000:??6@YAAEAVQTextStream@@AEAV0@AEBVQDomNode@@@Z
+              488D59:
+                38488BC8B226E8........488BC8488BD3E8:
+                  0. 00 0000 0031 0000:?save@QDomEntityReferencePrivate@@UEBAXAEAVQTextStream@@HH@Z
+                40488BC8488D15........E8........488BC848:
+                  0. 03 93FD 003B 0000:?save@QDomCDATASectionPrivate@@UEBAXAEAVQTextStream@@HH@Z
+            D9:
+              48:
+                85C9741D488B03488BCBFF505083F809740FF6435802:
+                  0. 1A 5635 003A 0000:?ownerDocument@QDomNodePrivate@@QEAAPEAVQDomDocumentPrivate@@XZ
+                8B:
+                  0948:
+                    83C108E8........488B0B488B018378040074:
+                      0. 07 CC78 0088 0000:?popContext@QXmlNamespaceSupport@@QEAAXXZ
+                    85C974:
+                      0D488B01FF5008488B03C64068014883:
+                        0. 04 1875 0024 0000:?setValue@QDomAttr@@QEAAXAEBVQString@@@Z
+                      1F:
+                        488B01FF505083F8017514488B0348:
+                          0. 18 0293 0038 0000:?hasAttributes@QDomNode@@QEBA_NXZ
+                        83C8FFF00FC1410883F8017512488B:
+                          0. 1A 55F0 003A 0000:?clear@QDomNode@@QEAAXXZ
+                      5E488B4968E8........4885C0745048:
+                        0. 1D 1D28 0075 0000:?removeAttributeNS@QDomElement@@QEAAXAEBVQString@@0@Z
+                  49:
+                    08:
+                      4885C9750433C0EB26E8........4885C07408:
+                        0. 0C 94BC 0042 0000:?length@QDomNodeListPrivate@@QEBAHXZ
+                      83390074118339FF741E83C8FFF00FC10183F8:
+                        0. 11 A4AF 0065 0000:??1XmlRef@QXmlSimpleReaderPrivate@@QEAA@XZ
+                        1. 11 A4AF 0065 0000:??1ExternParameterEntity@QXmlSimpleReaderPrivate@@QEAA@XZ
+                    684885C9741883C8FFF00FC10183F801750C488B:
+                      0. 06 C447 006A 0000:?clear@QDomDocumentPrivate@@UEAAXXZ
+                    7083390074118339FF741E83C8FFF00FC10183F8:
+                      0. 11 C44D 006E 0000:??1QDomNotationPrivate@@UEAA@XZ
+                  4B1883390074118339FF741E83C8FFF00FC10183F8:
+                    0. 11 E1DE 007E 0000:?destroySubTree@?$QMapNode@VQString@@V1@@@QEAAXXZ (0005: 8B)
+                    1. 11 E1DE 005B 0000:?destroySubTree@?$QMapNode@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEAAXXZ (0005: 8D) (REF 003A: ??1ExternParameterEntity@QXmlSimpleReaderPrivate@@QEAA@XZ)
+                    2. 11 E1DE 005B 0000:?destroySubTree@?$QMapNode@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEAAXXZ (0005: 8D) (REF 003A: ??1ExternEntity@QXmlSimpleReaderPrivate@@QEAA@XZ)
+                  89D80000004885C9740A4883C4205BE9........B9:
+                    0. 05 11FE 0040 0000:?initIncrementalParsing@QXmlSimpleReaderPrivate@@AEAAXXZ
+              4C8D442440488D4C2448:
+                4533C9E8........807C244000:
+                  0. 0C 0D83 0081 0000:?createElement@QDomDocumentPrivate@@QEAAPEAVQDomElementPrivate@@AEBVQString@@@Z (REF 003F: ??0QDomElementPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z)
+                  1. 0C 0D83 0081 0000:?createAttribute@QDomDocumentPrivate@@QEAAPEAVQDomAttrPrivate@@AEBVQString@@@Z (REF 003F: ??0QDomAttrPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z)
+                  2. 0C 6D6D 0081 0000:?createEntityReference@QDomDocumentPrivate@@QEAAPEAVQDomEntityReferencePrivate@@AEBVQString@@@Z
+                E8........807C244000750433:
+                  0. 09 A401 007E 0000:?createTextNode@QDomDocumentPrivate@@QEAAPEAVQDomTextPrivate@@AEBVQString@@@Z
+              B9:
+                10000000E8........488BC8E8........488903488B:
+                  0. 07 D358 0027 0000:??0QXmlNamespaceSupport@@QEAA@XZ
+                68000000E8........4533C0488BD3488BC8E8:
+                  0. 00 0000 002B 0000:?createDocumentFragment@QDomDocumentPrivate@@QEAAPEAVQDomDocumentFragmentPrivate@@XZ
+              E8........48:
+                8B:
+                  5308837A10007413837A10FF741D83C8:
+                    0. 12 20BE 0041 0000:??1QDomNamedNodeMapPrivate@@QEAA@XZ
+                  CB4883C4205BE9:
+                    0. 00 0000 001B 0000:?next_eat_ws@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                8D05........48:
+                  8903488BC34883C4205B:
+                    0. 01 EF04 0021 0000:??0QDomCharacterDataPrivate@@QEAA@PEAV0@_N@Z (REF 0011: ??_7QDomCharacterDataPrivate@@6B@)
+                    1. 01 EF04 0021 0000:??0QDomCommentPrivate@@QEAA@PEAV0@_N@Z (REF 0011: ??_7QDomCommentPrivate@@6B@)
+                    2. 01 EF04 0021 0000:??0QDomDocumentFragmentPrivate@@QEAA@PEAVQDomNodePrivate@@_N@Z (REF 0011: ??_7QDomDocumentFragmentPrivate@@6B@)
+                    3. 01 EF04 0021 0000:??0QDomEntityReferencePrivate@@QEAA@PEAVQDomNodePrivate@@_N@Z (REF 0011: ??_7QDomEntityReferencePrivate@@6B@)
+                    4. 01 EF04 0021 0000:??0QDomProcessingInstructionPrivate@@QEAA@PEAV0@_N@Z (REF 0011: ??_7QDomProcessingInstructionPrivate@@6B@)
+                    5. 01 EF04 0021 0000:??0QDomTextPrivate@@QEAA@PEAV0@_N@Z (REF 0011: ??_7QDomTextPrivate@@6B@)
+                    6. 01 EF04 0021 0000:??0QDomCDATASectionPrivate@@QEAA@PEAV0@_N@Z (REF 0011: ??_7QDomCDATASectionPrivate@@6B@)
+                  8BCB488903488D05:
+                    0. 00 0000 0042 0000:??0QDomDocumentTypePrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@@Z
+            DA488D542438E8........488BD0488BCBE8........488B:
+              0. 28 1FDD 0055 0000:?toByteArray@QDomDocument@@QEBA?AVQByteArray@@H@Z
+          8D:
+            05........48:
+              8BD94889:
+                01:
+                  48:
+                    8B49704885C9742083C8FFF0:
+                      0. 39 D9DC 006A 0000:??1QDomDocumentPrivate@@UEAA@XZ
+                    8D05........48894108488D:
+                      0. 01 D5A7 00AF 0000:??1QDomHandler@@UEAA@XZ
+                  B988070000E8........488BD3:
+                    0. 04 D745 0035 0000:??0QXmlSimpleReader@@QEAA@XZ
+                  E8........488BC34883C4205B:
+                    0. 01 EF04 0021 0000:??0QXmlInputSource@@QEAA@XZ
+                  F6C201740ABA:
+                    08000000E8:
+                      0. 00 0000 002B 0000:??_GQXmlDTDHandler@@UEAAPEAXI@Z (REF 0009: ??_7QXmlDTDHandler@@6B@)
+                      1. 00 0000 002B 0000:??_GQXmlDeclHandler@@UEAAPEAXI@Z (REF 0009: ??_7QXmlDeclHandler@@6B@)
+                      2. 00 0000 002B 0000:??_GQXmlEntityResolver@@UEAAPEAXI@Z (REF 0009: ??_7QXmlEntityResolver@@6B@)
+                      3. 00 0000 002B 0000:??_GQXmlErrorHandler@@UEAAPEAXI@Z (REF 0009: ??_7QXmlErrorHandler@@6B@)
+                      4. 00 0000 002B 0000:??_GQXmlLexicalHandler@@UEAAPEAXI@Z (REF 0009: ??_7QXmlLexicalHandler@@6B@)
+                      5. 00 0000 002B 0000:??_GQXmlLocator@@UEAAPEAXI@Z (REF 0009: ??_7QXmlLocator@@6B@)
+                      6. 00 0000 002B 0000:??_GQXmlReader@@UEAAPEAXI@Z (REF 0009: ??_7QXmlReader@@6B@)
+                      7. 00 0000 002B 0000:??_GQXmlContentHandler@@UEAAPEAXI@Z (REF 0009: ??_7QXmlContentHandler@@6B@)
+                    10000000E8:
+                      0. 00 0000 002B 0000:??_GQXmlSimpleReaderLocator@@UEAAPEAXI@Z
+                4128488D05........4889412048:
+                  0. 02 5E64 0062 0000:??_GQXmlDefaultHandler@@UEAAPEAXI@Z
+              8D5424384889442438E8........488B5C24:
+                0. 26 3704 006A 0000:?clear@?$QMap@VQString@@V1@@@QEAAXXZ
+            0D........488BDAE8........:
+              488BD0488D0D........E8:
+                0. 00 0000 0030 0000:?errorString@QXmlDefaultHandler@@UEBA?AVQString@@XZ
+              8BD0488D0D........E8:
+                0. 00 0000 002F 0000:?type@QXmlAttributes@@QEBA?AVQString@@AEBV2@@Z
+                1. 00 0000 002F 0000:?type@QXmlAttributes@@QEBA?AVQString@@H@Z
+                2. 00 0000 002F 0000:?type@QXmlAttributes@@QEBA?AVQString@@AEBV2@0@Z
+            99:
+              300300004C8D893C0300004C8D8138030000488D912C01:
+                0. 06 EE64 0033 0000:?name@QXmlSimpleReaderPrivate@@AEAAAEBVQString@@XZ
+              400500004C8D894C0500004C8D8148050000488D914003:
+                0. 06 EE64 0033 0000:?ref@QXmlSimpleReaderPrivate@@AEAAAEBVQString@@XZ
+              500700004C8D895C0700004C8D8158070000488D915005:
+                0. 06 EE64 0033 0000:?string@QXmlSimpleReaderPrivate@@AEAAAEBVQString@@XZ
+        4C8B4A10488BDA486342044D8D04C14C03C24903D1E8:
+          0. 11 F075 0035 0000:?freeData@?$QVector@V?$QMap@VQString@@V1@@@@@AEAAXPEAU?$QTypedArrayData@V?$QMap@VQString@@V1@@@@@@Z
+        B8FEFF0000488BD9668981200100004883C128E8........488B:
+          0. 07 6708 002B 0000:?initData@QXmlSimpleReaderPrivate@@AEAAXXZ
+        C70101000000488D05........488BD94883C110488901488943:
+          0. 04 0A71 004E 0000:??0QDomNodeListPrivate@@QEAA@PEAVQDomNodePrivate@@AEBVQString@@@Z
+      30:
+        48:
+          83C1E8488D05........48894424404C8D5424404C89542420:
+            0. 32 1F36 005E 0000:?externalEntityDecl@QDomHandler@@UEAA_NAEBVQString@@00@Z
+          8B:
+            5908488B83D80000004885C07435488B0083780400742C48:
+              0. 03 C2A6 0053 0000:?parseContinue@QXmlSimpleReader@@UEAA_NXZ
+            D9488B89D80000004885C97556488D0D........E8:
+              0. 00 0000 00EF 0000:?unexpectedEof@QXmlSimpleReaderPrivate@@AEAAXP81@EAA_NXZH@Z
+        4C8B014C8BCA0F29742420488BD9418B5008418B40040FBAF21F:
+          0. 37 8058 0080 0000:?append@?$QVector@UParseState@QXmlSimpleReaderPrivate@@@@QEAAXAEBUParseState@QXmlSimpleReaderPrivate@@@Z
+      40:
+        488B09488BDA4885C975:
+          0C488D05........488902EB7F488D51:
+            0. 48 84B0 00A5 0000:?nodeName@QDomNode@@QEBA?AVQString@@XZ
+          38214C2424488D05........0F57C048:
+            0. 14 93EB 0067 0000:?appendChild@QDomNode@@QEAA?AV1@AEBV1@@Z
+        8364242400488D05........488BDA48894424380F57C0C74424:
+          0. 08 14B9 0049 0000:?elementById@QDomDocument@@QEAA?AVQDomElement@@AEBVQString@@@Z
+    5556574154415541564883EC2033F64C8D712889742460488BF9498B068B:
+      0. 16 30F1 01D2 0000:?reportEndEntities@QXmlSimpleReaderPrivate@@AEAA_NXZ
+  5553565741:
+    5441:
+      5541:
+        56415748:
+          8BEC4883EC:
+            384533F6488BF944897548488B:
+              0. 0C 8BDE 039A 0000:?createList@QDomNodeListPrivate@@QEAAXXZ
+            58488D05........488BD94889:
+              0. 0B EDA6 0262 0000:?processElementAttribute@QXmlSimpleReaderPrivate@@AEAA_NXZ
+            684C8BF9E8........498B0F48:
+              0. 0E 9D72 0498 0000:?processElementETagBegin2@QXmlSimpleReaderPrivate@@AEAA_NXZ
+          8D:
+            6C24:
+              984881EC68010000488BF14533E448:
+                0. 19 676B 09C2 0000:?parseEntityDecl@QXmlSimpleReaderPrivate@@AEAA_NXZ
+              E14881EC:
+                88000000:
+                  4183CEFF488BD9:
+                    0. 25 C5AA 05BB 0000:?parseDoctype@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                  488BD94533FF48:
+                    0. 19 5B1B 06F3 0000:?parseElement@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                C8000000:
+                  4533FF488BF144:
+                    0. 20 6BDE 0986 0000:?parseContent@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                  488BD94533FF48:
+                    0. 19 08D8 06A5 0000:?parsePEReference@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                D8000000488B:
+                  01488D1D:
+                    0. 00 0000 06E9 0000:?processElementEmptyTag@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                  F14533FF48:
+                    0. 1E D346 0641 0000:?parseProlog@QXmlSimpleReaderPrivate@@AEAA_NXZ
+            AC2448FFFFFF4881ECB8010000488BD945:
+              0. 1F 65FC 087E 0000:?parsePI@QXmlSimpleReaderPrivate@@AEAA_NXZ
+        57488D6C24D94881ECE0000000488BD9488B89D80000:
+          0. 14 2959 050E 0000:?parseAttlistDecl@QXmlSimpleReaderPrivate@@AEAA_NXZ
+      57488BEC4883EC:
+        384183CFFF488BF1488D0D........4889:
+          0. 32 8BE4 0264 0000:?fetchData@QXmlInputSource@@UEAAXXZ
+        48488BD9488B89D80000004885C9746B48:
+          0. 0D A636 0380 0000:?parseReference@QXmlSimpleReaderPrivate@@AEAA_NXZ
+    56488BEC4883EC50488BD9488D3D........488BCFE8:
+      0. 1E D576 01A3 (l)0000:?stripTextDecl@@YA_NAEAVQString@@@Z
+    57488BEC4883EC40488BF1488B89D80000004885C9746A488B01:
+      0. 0B EEE2 02F5 0000:?parseMisc@QXmlSimpleReaderPrivate@@AEAA_NXZ
+  574883EC20:
+    488B:
+      01488BF983:
+        3801762B8B500881E2FFFFFF7F7518448D4A02:
+          0. 0B 8AA4 008D 0000:?top@?$QStack@UParseState@QXmlSimpleReaderPrivate@@@@QEAAAEAUParseState@QXmlSimpleReaderPrivate@@XZ
+          1. 0B DBFF 0091 0000:?top@?$QStack@UXmlRef@QXmlSimpleReaderPrivate@@@@QEAAAEAUXmlRef@QXmlSimpleReaderPrivate@@XZ
+        780400746D833801762B8B500881E2FFFFFF7F:
+          0. 11 A7E8 0085 0000:?clear@?$QVector@UParseState@QXmlSimpleReaderPrivate@@@@QEAAXXZ
+      11488D3D........488939833A007411833AFF741683C8FF:
+        0. 0F BA90 0065 0000:?clear@?$QList@UAttribute@QXmlAttributes@@@@QEAAXXZ (REF 002F: ?dealloc@?$QList@UAttribute@QXmlAttributes@@@@AEAAXPEAUData@QListData@@@Z)
+        1. 0F BA90 0065 (l)0000:??$clear@V?$stack@VQString@@VQStringList@@@std@@@?A0x9075ba8d@@YAXAEAV?$stack@VQString@@VQStringList@@@std@@@Z (REF 002F: ?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z)
+    4C8B01488D3D........4889394183781000741541837810FF74:
+      0. 12 B795 0072 0000:?clear@?$QHash@VQString@@V?$QHash@VQString@@H@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@VQString@@V?$QHash@VQString@@H@@@@CAXPEAUNode@QHashData@@@Z)
+      1. 12 B795 0072 0000:?clear@?$QHash@VQString@@PEAVQDomNodePrivate@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@VQString@@PEAVQDomNodePrivate@@@@CAXPEAUNode@QHashData@@@Z)
+      2. 12 B795 0072 0000:?clear@?$QHash@VQString@@H@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@VQString@@H@@CAXPEAUNode@QHashData@@@Z)
+48:
+  83:
+    2100488BC1C3:
+      0. 00 0000 0008 0000:??0QDomAttr@@QEAA@XZ
+      1. 00 0000 0008 0000:??0QDomCDATASection@@QEAA@XZ
+      2. 00 0000 0008 0000:??0QDomCharacterData@@QEAA@XZ
+      3. 00 0000 0008 0000:??0QDomComment@@QEAA@XZ
+      4. 00 0000 0008 0000:??0QDomDocument@@QEAA@XZ
+      5. 00 0000 0008 0000:??0QDomDocumentFragment@@QEAA@XZ
+      6. 00 0000 0008 0000:??0QDomDocumentType@@QEAA@XZ
+      7. 00 0000 0008 0000:??0QDomElement@@QEAA@XZ
+      8. 00 0000 0008 0000:??0QDomEntity@@QEAA@XZ
+      9. 00 0000 0008 0000:??0QDomEntityReference@@QEAA@XZ
+      10. 00 0000 0008 0000:??0QDomImplementation@@QEAA@XZ
+      11. 00 0000 0008 0000:??0QDomNamedNodeMap@@QEAA@XZ
+      12. 00 0000 0008 0000:??0QDomNode@@QEAA@XZ
+      13. 00 0000 0008 0000:??0QDomNodeList@@QEAA@XZ
+      14. 00 0000 0008 0000:??0QDomNotation@@QEAA@XZ
+      15. 00 0000 0008 0000:??0QDomProcessingInstruction@@QEAA@XZ
+      16. 00 0000 0008 0000:??0QDomText@@QEAA@XZ
+    39000F94C0C3:
+      0. 00 0000 0008 0000:?isNull@QDomNode@@QEBA_NXZ
+      1. 00 0000 0008 0000:?isNull@QDomImplementation@@QEAA_NXZ
+    C1:
+      08E9:
+        0. 00 0000 0009 0000:?clear@QXmlAttributes@@QEAAXXZ (REF 0005: ?clear@?$QList@UAttribute@QXmlAttributes@@@@QEAAXXZ)
+      40E9:
+        0. 00 0000 0009 0000:?deleteData@QDomCharacterDataPrivate@@QEAAXKK@Z (REF 0005: ?remove@QString@@QEAAAEAV1@HH@Z)
+        1. 00 0000 0009 0000:?replaceData@QDomCharacterDataPrivate@@QEAAXKKAEBVQString@@@Z (REF 0005: ?replace@QString@@QEAAAEAV1@HHAEBV1@@Z)
+        2. 00 0000 0009 0000:?setNodeValue@QDomNodePrivate@@UEAAXAEBVQString@@@Z (REF 0005: ??4QString@@QEAAAEAV0@AEBV0@@Z)
+        3. 00 0000 0009 0000:?appendData@QDomCharacterDataPrivate@@QEAAXAEBVQString@@@Z (REF 0005: ?append@QString@@QEAAAEAV1@AEBV1@@Z)
+    E9:
+      08E9:
+        0. 00 0000 0009 0000:?errorString@QXmlDefaultHandler@@W7EBA?AVQString@@XZ (REF 0005: ?errorString@QXmlDefaultHandler@@UEBA?AVQString@@XZ)
+        1. 00 0000 0009 0000:??_EQDomHandler@@W7EAAPEAXI@Z (REF 0005: ??_EQDomHandler@@UEAAPEAXI@Z)
+        2. 00 0000 0009 0000:??_EQXmlDefaultHandler@@W7EAAPEAXI@Z (REF 0005: ??_EQXmlDefaultHandler@@UEAAPEAXI@Z)
+      10E9:
+        0. 00 0000 0009 0000:?errorString@QXmlDefaultHandler@@WBA@EBA?AVQString@@XZ (REF 0005: ?errorString@QXmlDefaultHandler@@UEBA?AVQString@@XZ)
+        1. 00 0000 0009 0000:??_EQDomHandler@@WBA@EAAPEAXI@Z (REF 0005: ??_EQDomHandler@@UEAAPEAXI@Z)
+        2. 00 0000 0009 0000:??_EQXmlDefaultHandler@@WBA@EAAPEAXI@Z (REF 0005: ??_EQXmlDefaultHandler@@UEAAPEAXI@Z)
+      18E9:
+        0. 00 0000 0009 0000:?errorString@QXmlDefaultHandler@@WBI@EBA?AVQString@@XZ (REF 0005: ?errorString@QXmlDefaultHandler@@UEBA?AVQString@@XZ)
+        1. 00 0000 0009 0000:??_EQDomHandler@@WBI@EAAPEAXI@Z (REF 0005: ??_EQDomHandler@@UEAAPEAXI@Z)
+        2. 00 0000 0009 0000:??_EQXmlDefaultHandler@@WBI@EAAPEAXI@Z (REF 0005: ??_EQXmlDefaultHandler@@UEAAPEAXI@Z)
+      20E9:
+        0. 00 0000 0009 0000:?errorString@QXmlDefaultHandler@@WCA@EBA?AVQString@@XZ (REF 0005: ?errorString@QXmlDefaultHandler@@UEBA?AVQString@@XZ)
+        1. 00 0000 0009 0000:??_EQDomHandler@@WCA@EAAPEAXI@Z (REF 0005: ??_EQDomHandler@@UEAAPEAXI@Z)
+        2. 00 0000 0009 0000:??_EQXmlDefaultHandler@@WCA@EAAPEAXI@Z (REF 0005: ??_EQXmlDefaultHandler@@UEAAPEAXI@Z)
+      28E9:
+        0. 00 0000 0009 0000:?errorString@QXmlDefaultHandler@@WCI@EBA?AVQString@@XZ (REF 0005: ?errorString@QXmlDefaultHandler@@UEBA?AVQString@@XZ)
+        1. 00 0000 0009 0000:??_EQDomHandler@@WCI@EAAPEAXI@Z (REF 0005: ??_EQDomHandler@@UEAAPEAXI@Z)
+        2. 00 0000 0009 0000:??_EQXmlDefaultHandler@@WCI@EAAPEAXI@Z (REF 0005: ??_EQXmlDefaultHandler@@UEAAPEAXI@Z)
+    EC:
+      28:
+        0FB7C1A980FFFFFF75100FB7C1488D0D........0FBE0408EB248BC8:
+          0. 01 3E9B 0047 (l)0000:?determineNameChar@@YA?AW4NameChar@@VQChar@@@Z
+        48:
+          83C138E8........B0014883C428C3:
+            0. 00 0000 0014 0000:?startEntity@QDomHandler@@UEAA_NAEBVQString@@@Z
+          8B:
+            0948:
+              85C974:
+                05E8........4883C428C3:
+                  0. 00 0000 0016 0000:?setAttribute@QDomElement@@QEAAXAEBVQString@@0@Z (REF 000D: ?setAttribute@QDomElementPrivate@@QEAAXAEBVQString@@0@Z)
+                  1. 00 0000 0016 0000:?removeAttribute@QDomElement@@QEAAXAEBVQString@@@Z (REF 000D: ?removeAttribute@QDomElementPrivate@@QEAAXAEBVQString@@@Z)
+                06488B01FF50:
+                  084883C428C3:
+                    0. 00 0000 0017 0000:?setData@QDomProcessingInstruction@@QEAAXAEBVQString@@@Z
+                    1. 00 0000 0017 0000:?setNodeValue@QDomNode@@QEAAXAEBVQString@@@Z
+                    2. 00 0000 0017 0000:?setData@QDomCharacterData@@QEAAXAEBVQString@@@Z
+                  404883C428C3:
+                    0. 00 0000 0017 0000:?normalize@QDomNode@@QEAAXXZ
+                094883C1:
+                  38E8........4883C428C3:
+                    0. 00 0000 001A 0000:?setTagName@QDomElement@@QEAAXAEBVQString@@@Z
+                  40E8........4883C428C3:
+                    0. 00 0000 001A 0000:?deleteData@QDomCharacterData@@QEAAXKK@Z (REF 0011: ?remove@QString@@QEAAAEAV1@HH@Z)
+                    1. 00 0000 001A 0000:?replaceData@QDomCharacterData@@QEAAXKKAEBVQString@@@Z (REF 0011: ?replace@QString@@QEAAAEAV1@HHAEBV1@@Z)
+                    2. 00 0000 001A 0000:?appendData@QDomCharacterData@@QEAAXAEBVQString@@@Z (REF 0011: ?append@QString@@QEAAAEAV1@AEBV1@@Z)
+                174D8B084883C1404D8B41104D03C1458B4904E8:
+                  0. 00 0000 0028 0000:?insertData@QDomCharacterData@@QEAAXKAEBVQString@@@Z
+              8B12483BCA7504B001EB134885C9740C4885D27407E8:
+                0. 00 0000 0030 0000:??9QDomNodeList@@QEBA_NAEBV0@@Z
+            114885D274:
+              1783C8FFF00FC10283F801750B488B098D5003E8:
+                0. 00 0000 0028 0000:??1QDomImplementation@@QEAA@XZ
+              1F83C8FFF00FC1420883F8017512488B094885C974:
+                0. 10 F72C 0030 0000:??1QDomNode@@QEAA@XZ
+            42084839410875134883C2104883C110E8........33C984C075:
+              0. 0D 5E19 002D 0000:??9QDomNodeListPrivate@@QEBA_NAEBV0@@Z
+            4968E8........4885C0:
+              0F95C04883C428C3:
+                0. 00 0000 0018 0000:?hasAttributeNS@QDomElementPrivate@@QEAA_NAEBVQString@@0@Z
+              741483780800750E4C8B00BA01000000:
+                0. 0B D657 002B 0000:?removeAttribute@QDomElementPrivate@@QEAAXAEBVQString@@@Z
+            5110833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+              0. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@PEAVQDomNodePrivate@@@@CAXPEAUNode@QHashData@@@Z
+              1. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@@Z
+              2. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@H@@CAXPEAUNode@QHashData@@@Z
+            C1488D15........488B4938483BCA7428488950388339007411:
+              0. 1B F8BD 0046 0000:?endEntity@QDomHandler@@UEAA_NAEBVQString@@@Z
+          8D05........4889014883C108488B11833A007411833AFF741483:
+            0. 0F 9D29 0038 0000:??1QXmlAttributes@@UEAA@XZ
+        4C8BC94885D274548B410841BA01000000488322008942084C8B4110:
+          0. 3C E29C 0065 0000:?duplicateNode@?$QHash@VQString@@V?$QHash@VQString@@H@@@@CAXPEAUNode@QHashData@@PEAX@Z
+        B904000000E8........8320004883C428C3:
+          0. 00 0000 0016 0000:?clone@QDomImplementationPrivate@@QEAAPEAV1@XZ
+        E8........4885C00F95C04883C428C3:
+          0. 00 0000 0014 0000:?containsNS@QDomNamedNodeMapPrivate@@QEBA_NAEBVQString@@0@Z
+      38488B:
+        44246048894424284C894C24204D8BC84533C0E8........4883:
+          0. 03 C223 0023 0000:?setContent@QDomDocument@@QEAA_NAEBVQString@@PEAV2@PEAH2@Z (REF 001A: ?setContent@QDomDocument@@QEAA_NAEBVQString@@_NPEAV2@PEAH3@Z)
+          1. 03 C223 0023 0000:?setContent@QDomDocument@@QEAA_NPEAVQIODevice@@PEAVQString@@PEAH2@Z (REF 001A: ?setContent@QDomDocument@@QEAA_NPEAVQIODevice@@_NPEAVQString@@PEAH3@Z)
+          2. 03 C223 0023 0000:?setContent@QDomDocument@@QEAA_NAEBVQByteArray@@PEAVQString@@PEAH2@Z (REF 001A: ?setContent@QDomDocument@@QEAA_NAEBVQByteArray@@_NPEAVQString@@PEAH3@Z)
+        81D80000004885C074274C8D0D........4C3989B80000007517:
+          0. 13 BEC7 003C 0000:?parseFailed@QXmlSimpleReaderPrivate@@AEAAXP81@EAA_NXZH@Z
+        89D80000004889542420488D5424204489442428E8........48:
+          0. 04 7311 0024 0000:?pushParseState@QXmlSimpleReaderPrivate@@AEAAXP81@EAA_NXZH@Z
+  85D274:
+    1E8B410848832200894208488B491048894A108B01FFC083F8017603:
+      0. 04 49A0 0024 0000:?duplicateNode@?$QHash@VQString@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@PEAX@Z
+    268B4108488322008942084C8B41104C894210418B00FFC083F80176:
+      0. 0C 14B8 002C 0000:?duplicateNode@?$QHash@VQString@@H@@CAXPEAUNode@QHashData@@PEAX@Z
+    288B4108488322008942084C8B41104C894210418B00FFC083F80176:
+      0. 0E E38F 002E 0000:?duplicateNode@?$QHash@VQString@@PEAVQDomNodePrivate@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  89:
+    1148:
+      85D274:
+        03F0FF02488BC1C3:
+          0. 00 0000 000F 0000:??0QDomNamedNodeMap@@AEAA@PEAVQDomNamedNodeMapPrivate@@@Z
+          1. 00 0000 000F 0000:??0QDomImplementation@@AEAA@PEAVQDomImplementationPrivate@@@Z
+        04F0FF4208488BC1C3:
+          0. 00 0000 0010 0000:??0QDomAttr@@AEAA@PEAVQDomAttrPrivate@@@Z
+          1. 00 0000 0010 0000:??0QDomCDATASection@@AEAA@PEAVQDomCDATASectionPrivate@@@Z
+          2. 00 0000 0010 0000:??0QDomCharacterData@@AEAA@PEAVQDomCharacterDataPrivate@@@Z
+          3. 00 0000 0010 0000:??0QDomComment@@AEAA@PEAVQDomCommentPrivate@@@Z
+          4. 00 0000 0010 0000:??0QDomDocument@@AEAA@PEAVQDomDocumentPrivate@@@Z
+          5. 00 0000 0010 0000:??0QDomDocumentFragment@@AEAA@PEAVQDomDocumentFragmentPrivate@@@Z
+          6. 00 0000 0010 0000:??0QDomDocumentType@@AEAA@PEAVQDomDocumentTypePrivate@@@Z
+          7. 00 0000 0010 0000:??0QDomElement@@AEAA@PEAVQDomElementPrivate@@@Z
+          8. 00 0000 0010 0000:??0QDomEntity@@AEAA@PEAVQDomEntityPrivate@@@Z
+          9. 00 0000 0010 0000:??0QDomEntityReference@@AEAA@PEAVQDomEntityReferencePrivate@@@Z
+          10. 00 0000 0010 0000:??0QDomNode@@IEAA@PEAVQDomNodePrivate@@@Z
+          11. 00 0000 0010 0000:??0QDomNotation@@AEAA@PEAVQDomNotationPrivate@@@Z
+          12. 00 0000 0010 0000:??0QDomProcessingInstruction@@AEAA@PEAVQDomProcessingInstructionPrivate@@@Z
+          13. 00 0000 0010 0000:??0QDomText@@AEAA@PEAVQDomTextPrivate@@@Z
+      8BC1:
+        4C894108C3:
+          0. 00 0000 000B 0000:??$?HV?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@AEBV?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBUQLatin1Char@@@Z
+          1. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQChar@@VQString@@@@VQChar@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQChar@@VQString@@@@VQChar@@@@AEBV?$QStringBuilder@VQChar@@VQString@@@@AEBVQChar@@@Z
+          2. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@AEBV?$QStringBuilder@VQLatin1String@@VQString@@@@AEBUQLatin1Char@@@Z
+          3. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEBV?$QStringBuilder@VQString@@UQLatin1Char@@@@AEBVQString@@@Z
+          4. 00 0000 000B 0000:??$?HVQChar@@VQString@@@@YA?AV?$QStringBuilder@VQChar@@VQString@@@@AEBVQChar@@AEBVQString@@@Z
+          5. 00 0000 000B 0000:??$?HVQLatin1String@@VQString@@@@YA?AV?$QStringBuilder@VQLatin1String@@VQString@@@@AEBVQLatin1String@@AEBVQString@@@Z
+          6. 00 0000 000B 0000:??$?HVQString@@UQLatin1Char@@@@YA?AV?$QStringBuilder@VQString@@UQLatin1Char@@@@AEBVQString@@AEBUQLatin1Char@@@Z
+          7. 00 0000 000B 0000:??$?HUQLatin1Char@@VQString@@@@YA?AV?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBUQLatin1Char@@AEBVQString@@@Z
+        C3:
+          0. 00 0000 0007 0000:??0QDomNodeList@@AEAA@PEAVQDomNodeListPrivate@@@Z
+    5168C3:
+      0. 00 0000 0005 0000:?setDocumentLocator@QDomHandler@@UEAAXPEAVQXmlLocator@@@Z
+    542410555356574156488BEC4883EC2080791800488BDA488BD10F851001:
+      0. 60 69BE 013F 0000:?setNamedItem@QDomNamedNodeMapPrivate@@QEAAPEAVQDomNodePrivate@@PEAV2@@Z
+    5C24:
+      08:
+        4889:
+          6C24:
+            10:
+              4889:
+                74241857:
+                  41:
+                    544155415641574883EC:
+                      20488B0141:
+                        0. 1F BE3C 0117 0000:?realloc@?$QVector@V?$QMap@VQString@@V1@@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                      30488B014D:
+                        0. 11 4CA8 00EE 0000:?insert@?$QMap@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEAA?AViterator@1@AEBVQString@@AEBUExternEntity@QXmlSimpleReaderPrivate@@@Z
+                        1. 11 A191 00E1 0000:?insert@?$QMap@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEAA?AViterator@1@AEBVQString@@AEBUExternParameterEntity@QXmlSimpleReaderPrivate@@@Z
+                        2. 11 C62D 010E 0000:?insert@?$QMap@VQString@@V1@@@QEAA?AViterator@1@AEBVQString@@0@Z
+                    5641574883EC20:
+                      488B:
+                        01488BF2488B:
+                          0. 15 8288 012C 0000:?remove@?$QHash@VQString@@PEAVQDomNodePrivate@@@@QEAAHAEBVQString@@@Z
+                        410833DB4D8B:
+                          0. 2E 0C83 0099 0000:?index@QXmlAttributes@@QEBAHAEBVQString@@0@Z
+                      8BEA488BF1488B09:
+                        0. 0C 5B70 00AE 0000:?createNode@?$QHash@VQString@@V?$QHash@VQString@@H@@@@AEAAPEAU?$QHashNode@VQString@@V?$QHash@VQString@@H@@@@IAEBVQString@@AEBV?$QHash@VQString@@H@@PEAPEAU2@@Z
+                  4883EC:
+                    20:
+                      418AF9498BE8488BDA488BF1:
+                        0. 01 3E9B 00AA 0000:??0QDomHandler@@QEAA@PEAVQDomDocumentPrivate@@PEAVQXmlSimpleReader@@_N@Z
+                      48:
+                        635A0C488BFA48636A0848:
+                          0. 24 6F38 0076 0000:?dealloc@?$QList@UAttribute@QXmlAttributes@@@@AEAAXPEAUData@QListData@@@Z
+                        833900:
+                          418BE9418BF8488B:
+                            0. 07 D58C 0066 0000:?save@QDomNode@@QEBAXAEAVQTextStream@@HW4EncodingPolicy@1@@Z
+                          498BF1498BE8488B:
+                            0. 0C A60E 006D 0000:?createElementNS@QDomDocument@@QEAA?AVQDomElement@@AEBVQString@@0@Z (REF 0045: ?createElementNS@QDomDocumentPrivate@@QEAAPEAVQDomElementPrivate@@AEBVQString@@0@Z)
+                            1. 0C A60E 006D 0000:?createProcessingInstruction@QDomDocument@@QEAA?AVQDomProcessingInstruction@@AEBVQString@@0@Z (REF 0045: ?createProcessingInstruction@QDomDocumentPrivate@@QEAAPEAVQDomProcessingInstructionPrivate@@AEBVQString@@0@Z)
+                            2. 0C A60E 006D 0000:?createAttributeNS@QDomDocument@@QEAA?AVQDomAttr@@AEBVQString@@0@Z (REF 0045: ?createAttributeNS@QDomDocumentPrivate@@QEAAPEAVQDomAttrPrivate@@AEBVQString@@0@Z)
+                        8B:
+                          01458BC84863EA488BD9:
+                            0. 13 4705 0153 0000:?realloc@?$QVector@UXmlRef@QXmlSimpleReaderPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                          02488BE9488BCA418AF0:
+                            0. 4B 4245 01F9 0000:?importNode@QDomDocumentPrivate@@QEAAPEAVQDomNodePrivate@@PEAV2@_N@Z
+                          410833DB488BEA488BF1:
+                            0. 23 D2FB 007A 0000:?index@QXmlAttributes@@QEBAHAEBVQString@@@Z
+                          5928418BF9418BF0488B:
+                            0. 33 595C 0053 0000:?save@QDomNodePrivate@@UEBAXAEAVQTextStream@@HH@Z
+                          EA498BF9418B10498BF0:
+                            0. 07 9A52 0085 (l)0000:?updateValue@@YAXAEAVQString@@PEBVQChar@@AEAH2@Z
+                          F1488BEAB920000000E8:
+                            0. 00 0000 00C1 0000:?clone@QDomNamedNodeMapPrivate@@QEAAPEAV1@PEAVQDomNodePrivate@@@Z
+                          F9:
+                            418BF0488B09488BEA:
+                              0. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@V?$QHash@VQString@@H@@@@AEBAPEAPEAU?$QHashNode@VQString@@V?$QHash@VQString@@H@@@@AEBVQString@@I@Z
+                              1. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@PEAVQDomNodePrivate@@@@AEBAPEAPEAU?$QHashNode@VQString@@PEAVQDomNodePrivate@@@@AEBVQString@@I@Z
+                              2. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@UQHashDummyValue@@@@AEBAPEAPEAU?$QHashNode@VQString@@UQHashDummyValue@@@@AEBVQString@@I@Z
+                              3. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@H@@AEBAPEAPEAU?$QHashNode@VQString@@H@@AEBVQString@@I@Z
+                            498BF0488B4968488B:
+                              0. 02 E870 0092 0000:?setAttribute@QDomElementPrivate@@QEAAXAEBVQString@@0@Z
+                      49833800418AE9498BF0488B:
+                        0. 18 973B 0079 0000:?importNode@QDomDocument@@QEAA?AVQDomNode@@AEBV2@_N@Z
+                      8BEA488BD9488B09BA080000:
+                        0. 08 D93E 0082 0000:?createNode@?$QHash@VQString@@H@@AEAAPEAU?$QHashNode@VQString@@H@@IAEBVQString@@AEBHPEAPEAU2@@Z (0010: 25)
+                        1. 08 D93E 0083 0000:?createNode@?$QHash@VQString@@PEAVQDomNodePrivate@@@@AEAAPEAU?$QHashNode@VQString@@PEAVQDomNodePrivate@@@@IAEBVQString@@AEBQEAVQDomNodePrivate@@PEAPEAU2@@Z (0010: 26)
+                    30488B:
+                      410833DB488BEA488BF1:
+                        0. 2F EC38 0086 0000:?index@QXmlAttributes@@QEBAHVQLatin1String@@@Z
+                      E9498BD9B97800000049:
+                        0. 06 55E8 0073 0000:?notationDecl@QDomHandler@@UEAA_NAEBVQString@@00@Z
+                    4048:
+                      833900498BF9:
+                        418AF0488B:
+                          0. 0C F7C7 0092 0000:?setContent@QDomDocument@@QEAA_NPEAVQIODevice@@_NPEAVQString@@PEAH3@Z (0010: 8B)
+                          1. 0C F7C7 009C 0000:?setContent@QDomDocument@@QEAA_NAEBVQString@@_NPEAV2@PEAH3@Z (0010: 8D)
+                        498BF0488B:
+                          0. 0C F7C7 007A 0000:?setContent@QDomDocument@@QEAA_NPEAVQXmlInputSource@@PEAVQXmlReader@@PEAVQString@@PEAH3@Z
+                      8BE9498BD9B98000000049:
+                        0. 06 55E8 007D 0000:?unparsedEntityDecl@QDomHandler@@UEAA_NAEBVQString@@000@Z
+                    5048833900498BF9418AF0488B:
+                      0. 0C F7C7 00BD 0000:?setContent@QDomDocument@@QEAA_NAEBVQByteArray@@_NPEAVQString@@PEAH3@Z (000F: 33)
+                      1. 0C F7C7 00A9 0000:?setContent@QDomDocument@@QEAA_NPEAVQXmlInputSource@@_NPEAVQString@@PEAH3@Z (000F: 48)
+                7C241841564883EC20488BD9BD08000000488B49:
+                  0. 26 7C22 00AA 0000:??1QXmlParseExceptionPrivate@@QEAA@XZ (002C: 0B)
+                  1. 26 7C22 00D0 0000:??1Attribute@QXmlAttributes@@QEAA@XZ (002C: 4B)
+                  2. 26 A3E9 00B3 0000:??1QDomEntityPrivate@@UEAA@XZ
+                  3. 26 D571 00AA 0000:??1ExternEntity@QXmlSimpleReaderPrivate@@QEAA@XZ
+              56574154415641574883EC20833D........004D8BF8:
+                0. 2D 6A7E 012A (l)0000:?fixedCharData@@YA?AVQString@@AEBV1@PEA_N@Z
+              574883EC20488BD983CFFF488B4940BD080000008339:
+                0. 1E 5B4A 00A2 0000:??1QXmlInputSourcePrivate@@QEAA@XZ
+            1848897424205741544155415641574883EC304C8B124C:
+              0. 36 50E9 01D8 0000:?processName@QXmlNamespaceSupport@@QEBAXAEBVQString@@_NAEAV2@2@Z
+          742410:
+            48897C24:
+              18:
+                41564883EC20:
+                  48:
+                    8B:
+                      394C8BF2488BF1488B:
+                        0. 19 A9E8 0087 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEAPEAVQChar@@@Z
+                      D9498B:
+                        F8488B094C8B:
+                          0. 2B D654 00BB 0000:?erase@?$QList@VQString@@@@QEAA?AViterator@1@V21@@Z
+                        F9B930000000:
+                          0. 07 593D 0058 0000:?elementsByTagNameNS@QDomElement@@QEBA?AVQDomNodeList@@AEBVQString@@0@Z
+                          1. 07 593D 0058 0000:?elementsByTagNameNS@QDomDocument@@QEAA?AVQDomNodeList@@AEBVQString@@0@Z
+                      F24C8BF1E8:
+                        0. 03 616D 007C 0000:??0QDomEntityPrivate@@QEAA@PEAV0@_N@Z
+                    8D05........83CEFF48:
+                      0. 24 7F93 0121 0000:??1QDomDocumentTypePrivate@@UEAA@XZ
+                  498BF14C8BF1E8:
+                    0. 03 616D 007A 0000:??0QDomNotationPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@22@Z
+                  4C8BF1418BF1B920000000:
+                    0. 07 8A26 009B 0000:??0QXmlParseException@@QEAA@AEBVQString@@HH00@Z
+                55:
+                  41:
+                    5441:
+                      5541564157488BEC4883EC4049:
+                        0. 17 0FB2 0235 0000:?createDocumentType@QDomImplementation@@QEAA?AVQDomDocumentType@@AEBVQString@@00@Z
+                      56488BEC4883EC50498BF8488B:
+                        0. 02 D101 01DB 0000:?replaceChild@QDomDocumentTypePrivate@@UEAAPEAVQDomNodePrivate@@PEAV2@0@Z
+                    554157488BEC4883EC50833D:
+                      0. 00 0000 01A4 (l)0000:?fixedPubidLiteral@@YA?AVQString@@AEBV1@PEA_N@Z
+                  488BEC4883EC40488BF2488D4DE0488B:
+                    0. 09 7B24 00A1 0000:?createDocument@QDomImplementation@@QEAA?AVQDomDocument@@AEBVQString@@0AEBVQDomDocumentType@@@Z
+              20554154415541564157488BEC4883EC5049:
+                0. 17 73FE 043A 0000:?fromRawData@QXmlInputSource@@MEAA?AVQString@@AEBVQByteArray@@_N@Z
+            5557415441554157488BEC4883EC7083CBFF498BC083:
+              0. 01 1E1A 01EF 0000:?createProcessingInstruction@QDomDocumentPrivate@@QEAAPEAVQDomProcessingInstructionPrivate@@AEBVQString@@0@Z
+            574883EC:
+              20:
+                33F6488D05........488BDA488BF94839:
+                  0. 11 4EFC 0057 0000:?setAttributeNodeNS@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@PEAV2@@Z
+                48:
+                  635A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  833900498BF0488BDA488BF97515B980:
+                    0. 04 9897 005D 0000:?createCDATASection@QDomDocument@@QEAA?AVQDomCDATASection@@AEBVQString@@@Z (REF 003A: ?createCDATASection@QDomDocumentPrivate@@QEAAPEAVQDomCDATASectionPrivate@@AEBVQString@@@Z)
+                    1. 04 9897 005D 0000:?createComment@QDomDocument@@QEAA?AVQDomComment@@AEBVQString@@@Z (REF 003A: ?createComment@QDomDocumentPrivate@@QEAAPEAVQDomCommentPrivate@@AEBVQString@@@Z)
+                    2. 04 9897 005D 0000:?createElement@QDomDocument@@QEAA?AVQDomElement@@AEBVQString@@@Z (REF 003A: ?createElement@QDomDocumentPrivate@@QEAAPEAVQDomElementPrivate@@AEBVQString@@@Z)
+                    3. 04 9897 005D 0000:?createEntityReference@QDomDocument@@QEAA?AVQDomEntityReference@@AEBVQString@@@Z (REF 003A: ?createEntityReference@QDomDocumentPrivate@@QEAAPEAVQDomEntityReferencePrivate@@AEBVQString@@@Z)
+                    4. 04 9897 005D 0000:?createTextNode@QDomDocument@@QEAA?AVQDomText@@AEBVQString@@@Z (REF 003A: ?createTextNode@QDomDocumentPrivate@@QEAAPEAVQDomTextPrivate@@AEBVQString@@@Z)
+                    5. 04 9897 005D 0000:?createAttribute@QDomDocument@@QEAA?AVQDomAttr@@AEBVQString@@@Z (REF 003A: ?createAttribute@QDomDocumentPrivate@@QEAAPEAVQDomAttrPrivate@@AEBVQString@@@Z)
+                  8B:
+                    01488BF24C8B02488BF90F1000660F:
+                      0. 0F 99B1 006C 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQLatin1String@@VQString@@@@@@SAXAEBV?$QStringBuilder@VQLatin1String@@VQString@@@@AEAPEAVQChar@@@Z
+                    02488BF2488BD94885C07403F0FF00:
+                      0. 20 CF9E 006A 0000:??4QDomNamedNodeMap@@QEAAAEAV0@AEBV0@@Z (0005: 20)
+                      1. 20 CF9E 006A 0000:??4QDomNodeList@@QEAAAEAV0@AEBV0@@Z (0005: 30)
+                    41:
+                      28488BF9498BF1498BD8488B4870:
+                        0. 05 B41F 0063 0000:?startDTD@QDomHandler@@UEAA_NAEBVQString@@00@Z
+                      70488BF14885C0740D488B400880:
+                        0. 0D E869 006F 0000:?skippedEntity@QDomHandler@@UEAA_NAEBVQString@@@Z
+                    5910488B:
+                      F24885DB743E33FF488D4B:
+                        0. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEBAPEAU?$QMapNode@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@AEBVQString@@@Z
+                        1. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@V1@@@QEBAPEAU?$QMapNode@VQString@@V1@@@AEBVQString@@@Z
+                        2. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEBAPEAU?$QMapNode@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@AEBVQString@@@Z
+                      F9488B49104883C308488B:
+                        0. 02 B92B 00C0 0000:?entityExist@QXmlSimpleReaderPrivate@@AEBA_NAEBVQString@@@Z
+                    D9:
+                      498BF8B930000000488BF2E8:
+                        0. 00 0000 0046 0000:?elementsByTagName@QDomElement@@QEBA?AVQDomNodeList@@AEBVQString@@@Z
+                        1. 00 0000 0046 0000:?elementsByTagName@QDomDocument@@QEBA?AVQDomNodeList@@AEBVQString@@@Z
+                      8BF2488B0983390074118339FF74:
+                        0. 1A 484A 007E 0000:??_G?$QMap@VQString@@V1@@@QEAAPEAXI@Z
+                      E8........488B13488BF8488B4A:
+                        0. 0A 4BC7 009B 0000:?detach_helper@?$QMap@VQString@@V1@@@AEAAXXZ
+                    DA33C0488B11498BF0488BF9394214:
+                      0. 0E 7E18 0093 0000:?value@?$QHash@VQString@@V?$QHash@VQString@@H@@@@QEBA?BV?$QHash@VQString@@H@@AEBVQString@@@Z
+                    F1488B4928E8........488B4E4848:
+                      0. 39 842D 0059 0000:?comment@QDomHandler@@UEAA_NAEBVQString@@@Z
+                    F9:
+                      488B4948E8........488BF04885:
+                        0. 3E 37DE 005E 0000:?processingInstruction@QDomHandler@@UEAA_NAEBVQString@@0@Z
+                      8ADAB968000000E8........448A:
+                        0. 0B 0573 0050 0000:?cloneNode@QDomCharacterDataPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0037: ??_7QDomCharacterDataPrivate@@6B@)
+                        1. 0B 0573 0050 0000:?cloneNode@QDomCommentPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0037: ??_7QDomCommentPrivate@@6B@)
+                        2. 0B 0573 0050 0000:?cloneNode@QDomDocumentFragmentPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0037: ??_7QDomDocumentFragmentPrivate@@6B@)
+                        3. 0B 0573 0050 0000:?cloneNode@QDomEntityReferencePrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0037: ??_7QDomEntityReferencePrivate@@6B@)
+                        4. 0B 0573 0050 0000:?cloneNode@QDomProcessingInstructionPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0037: ??_7QDomProcessingInstructionPrivate@@6B@)
+                        5. 0B 0573 0050 0000:?cloneNode@QDomTextPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0037: ??_7QDomTextPrivate@@6B@)
+                        6. 0B 0573 0050 0000:?cloneNode@QDomCDATASectionPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0037: ??_7QDomCDATASectionPrivate@@6B@)
+                      B910000000E8........488BC8E8:
+                        0. 00 0000 0057 0000:?reset@QXmlNamespaceSupport@@QEAAXXZ
+                    FA488BF1E8........488D05:
+                      0. 00 0000 005F 0000:??0QDomNotationPrivate@@QEAA@PEAV0@_N@Z
+                  8D790833DB488B07488BF2395814742D:
+                    0. 0F 0F22 0060 0000:?namedItem@QDomNamedNodeMapPrivate@@QEBAPEAVQDomNodePrivate@@AEBVQString@@@Z
+                498B:
+                  D8488BFA488BF14885D20F84970100:
+                    0. 2C F714 01CA 0000:?replaceChild@QDomNodePrivate@@UEAAPEAV1@PEAV1@0@Z
+                  F0488BDA488BF94885D2750733C0E9:
+                    0. 23 5744 0186 0000:?insertBefore@QDomNodePrivate@@UEAAPEAV1@PEAV1@0@Z (0044: 10)
+                    1. 23 5744 0186 0000:?insertAfter@QDomNodePrivate@@UEAAPEAV1@PEAV1@0@Z (0044: 18)
+                4C8B09488BF2:
+                  488BF9498B01440FB60048:
+                    0. 26 D939 006E 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@AEAPEAVQChar@@@Z
+                  4C8B02488BF9498B010FB7:
+                    0. 25 8F43 006D 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@VQChar@@VQString@@@@VQChar@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@VQChar@@VQString@@@@VQChar@@@@AEAPEAVQChar@@@Z
+                C70101000000488D05........488BD949:
+                  0. 10 4644 0070 0000:??0QDomNodeListPrivate@@QEAA@PEAVQDomNodePrivate@@AEBVQString@@1@Z
+              30:
+                418BD8488D05........488BF948890241:
+                  0. 0E 6921 0065 0000:?toString@QDomDocument@@QEBA?AVQString@@H@Z
+                4533C9C644242000488BF2488BF9488BCE:
+                  0. 09 DF9A 00D0 0000:?copy@?$QMapNode@VQString@@V1@@@QEBAPEAU1@PEAU?$QMapData@VQString@@V1@@@@Z
+                48:
+                  8BF2C644242000488D5118488BF94C8D:
+                    0. 09 4BA7 0098 0000:?copy@?$QMapNode@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@@Z (REF 0029: ?createNode@?$QMapData@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEAAPEAU?$QMapNode@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@AEBVQString@@AEBUExternParameterEntity@QXmlSimpleReaderPrivate@@PEAU2@_N@Z)
+                    1. 09 4BA7 0098 0000:?copy@?$QMapNode@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@@Z (REF 0029: ?createNode@?$QMapData@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEAAPEAU?$QMapNode@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@AEBVQString@@AEBUExternEntity@QXmlSimpleReaderPrivate@@PEAU2@_N@Z)
+                  8D35........498BF8488BCE488BDAE8:
+                    0. 00 0000 009C 0000:?hasFeature@QDomImplementation@@QEBA_NAEBVQString@@0@Z
+              404C8B094C8BC241BBFFFFFF7F488BF9418B:
+                0. BB A5B8 0138 0000:?append@?$QVector@UXmlRef@QXmlSimpleReaderPrivate@@@@QEAAXAEBUXmlRef@QXmlSimpleReaderPrivate@@@Z
+          7C241055488BEC4883EC:
+            30488D3D........488BDA488BCFE8:
+              0. 00 0000 014D 0000:?hasFeature@QXmlSimpleReader@@UEBA_NAEBVQString@@@Z
+            40488BF9E8........48894528488B:
+              0. 41 DD7B 0119 0000:?insertBefore@QDomDocumentTypePrivate@@UEAAPEAVQDomNodePrivate@@PEAV2@0@Z (REF 0016: ?insertBefore@QDomNodePrivate@@UEAAPEAV1@PEAV1@0@Z)
+              1. 41 DD7B 0119 0000:?insertAfter@QDomDocumentTypePrivate@@UEAAPEAVQDomNodePrivate@@PEAV2@0@Z (REF 0016: ?insertAfter@QDomNodePrivate@@UEAAPEAV1@PEAV1@0@Z)
+        55:
+          565741:
+            54415541564157488D6C24B04881EC500100004533E448:
+              0. 07 EBEF 0CAA 0000:?processReference@QXmlSimpleReaderPrivate@@AEAA_NXZ
+            564157488BEC4883EC4041C60000488BF9488B02B90500:
+              0. 1B 0591 01BD (l)0000:?extractEncodingDecl@@YA?AVQString@@AEBV1@PEA_N@Z
+          57415441564157488BEC4883EC5083CBFF488BF9833D:
+            0. 30 D13B 018C 0000:?createCDATASection@QDomDocumentPrivate@@QEAAPEAVQDomCDATASectionPrivate@@AEBVQString@@@Z
+            1. 30 FFD6 0189 0000:?createComment@QDomDocumentPrivate@@QEAAPEAVQDomCommentPrivate@@AEBVQString@@@Z
+        565741564883EC30B83A000000488BDA4D8BF16689442460498BF0:
+          0. 0E 9BF1 00E9 0000:?splitName@QXmlNamespaceSupport@@QEBAXAEBVQString@@AEAV2@1@Z
+        574883EC:
+          20:
+            48:
+              83:
+                2100488BF9B980000000488BDAE8........488B:
+                  0. 05 8594 003A 0000:??0QDomDocument@@QEAA@AEBVQString@@@Z
+                  1. 05 F2DF 003A 0000:??0QDomDocument@@QEAA@AEBVQDomDocumentType@@@Z
+                3900488B:
+                  DA488BF9750648832200EB18B9300000:
+                    0. 02 0164 0042 0000:?childNodes@QDomNode@@QEBA?AVQDomNodeList@@XZ
+                  FA488BD97515B980000000E8:
+                    0. 04 D745 004D 0000:?createDocumentFragment@QDomDocument@@QEAA?AVQDomDocumentFragment@@XZ
+              8B:
+                01488BFA488BD9:
+                  4885C07434488D0D........48:
+                    0. 09 5BCC 0057 0000:?setPrefix@QDomNode@@QEAAXAEBVQString@@@Z
+                  83380176:
+                    298B500881E2FFFFFF:
+                      0. 10 2A7F 007E 0000:?pop@?$QStack@V?$QMap@VQString@@V1@@@@@QEAA?AV?$QMap@VQString@@V1@@@XZ
+                    2B8B500881E2FFFFFF:
+                      0. 12 B1DE 0074 0000:?pop@?$QStack@UParseState@QXmlSimpleReaderPrivate@@@@QEAA?AUParseState@QXmlSimpleReaderPrivate@@XZ
+                02488BFA488BD9:
+                  4885C07403F0FF00488B094885:
+                    0. 16 7221 004E 0000:??4QDomImplementation@@QEAAAEAV0@AEBV0@@Z
+                  83380074108338FF7403F0FF00:
+                    0. 09 8783 0077 0000:??0?$QMap@VQString@@V1@@@QEAA@AEBV0@@Z
+                  BA010000004885C07404F00150:
+                    0. 36 88C9 0056 0000:??4QDomNode@@QEAAAEAV0@AEBV0@@Z
+                4108488BFA488BD9:
+                  488BCF4C8B00418B50044533:
+                    0. 04 A893 0069 0000:??$convertTo@VQString@@@?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBA?AVQString@@XZ
+                  80782800740AC6402800488B:
+                    0. 29 F397 0049 0000:?data@QXmlInputSource@@UEBA?AVQString@@XZ
+                4968488BDA498BD0498BF9E8........4885C075:
+                  0. 27 D0A5 0047 0000:?attribute@QDomElementPrivate@@QEBA?AVQString@@AEBV2@0@Z
+                5168488D05........488901488BD983C8FFF00F:
+                  0. 14 D0D3 0057 0000:??1QDomElementPrivate@@UEAA@XZ
+                5910488BF94885DB7463488B4B18833900741183:
+                  0. 1E BDD7 008B 0000:?destroy@?$QMapData@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEAAXXZ (REF 0047: ??1ExternParameterEntity@QXmlSimpleReaderPrivate@@QEAA@XZ)
+                  1. 1E BDD7 008B 0000:?destroy@?$QMapData@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEAAXXZ (REF 0047: ??1ExternEntity@QXmlSimpleReaderPrivate@@QEAA@XZ)
+                7908488D05........488901488BD94885FF7415:
+                  0. 04 DF08 004A 0000:??1QXmlSimpleReader@@UEAA@XZ
+                C2488D7940488D5938488BC8488D15........E8:
+                  0. 00 0000 0065 0000:?save@QDomProcessingInstructionPrivate@@UEBAXAEAVQTextStream@@HH@Z
+                D9:
+                  48:
+                    63FA488B49084885C9750433C0EB37E8:
+                      0. 00 0000 005F 0000:?item@QDomNodeListPrivate@@QEAAPEAVQDomNodePrivate@@H@Z
+                    8B49:
+                      0883390074118339FF743883C8FFF00F:
+                        0. 15 C271 0082 0000:??1QXmlNamespaceSupportPrivate@@QEAA@XZ
+                      284885C97423488B791883C8FFF00FC1:
+                        0. 2E C547 004E 0000:?clear@QDomNodePrivate@@UEAAXXZ
+                  83CFFF488B49084885C9741C8BC7F00FC14108:
+                    0. 31 E767 00B2 0000:??1QDomNodeListPrivate@@QEAA@XZ
+                  BFFFFF00000FB789200100000FB7C16683C801:
+                    0. 22 AA15 007C 0000:?eat_ws@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                  E8........488B13488BF8488B4A104885C974:
+                    0. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@@Z)
+                    1. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@@Z)
+                DA488BF9:
+                  488B51084C634220443B42247C38807A:
+                    0. 69 35D5 0089 0000:?next@QXmlInputSource@@UEAA?AVQChar@@XZ
+                  498BD0E8........83F8FF750C488D05:
+                    0. 00 0000 005C 0000:?value@QXmlAttributes@@QEBA?AVQString@@AEBV2@@Z
+                  E8........488D05........:
+                    48:
+                      89078A:
+                        0. 13 DF24 0033 0000:??0QDomAttrPrivate@@QEAA@PEAV0@_N@Z
+                      8BD748:
+                        0. 07 FFCE 0040 0000:??0QDomElementPrivate@@QEAA@PEAV0@_N@Z
+                    B9040000:
+                      0. 05 A48A 0098 0000:??0QDomDocumentPrivate@@QEAA@PEAV0@_N@Z
+                F9:
+                  488BDA:
+                    48:
+                      83C140E8........B968000000E8:
+                        0. 00 0000 0077 0000:?setNodeValue@QDomAttrPrivate@@UEAAXAEBVQString@@@Z
+                      8B:
+                        09:
+                          4885C974:
+                            1C488B01FF505083F8:
+                              0. 26 22D2 0046 0000:?toDocument@QDomNode@@QEBA?AVQDomDocument@@XZ
+                              1. 26 3517 0046 0000:?toEntityReference@QDomNode@@QEBA?AVQDomEntityReference@@XZ
+                              2. 26 37AC 0046 0000:?toElement@QDomNode@@QEBA?AVQDomElement@@XZ
+                              3. 26 6B25 0046 0000:?toDocumentType@QDomNode@@QEBA?AVQDomDocumentType@@XZ
+                              4. 26 7CE0 0046 0000:?toEntity@QDomNode@@QEBA?AVQDomEntity@@XZ
+                              5. 26 7E5B 0046 0000:?toAttr@QDomNode@@QEBA?AVQDomAttr@@XZ
+                              6. 26 A38F 0046 0000:?toDocumentFragment@QDomNode@@QEBA?AVQDomDocumentFragment@@XZ
+                              7. 26 B44A 0046 0000:?toProcessingInstruction@QDomNode@@QEBA?AVQDomProcessingInstruction@@XZ
+                              8. 26 E8C3 0046 0000:?toNotation@QDomNode@@QEBA?AVQDomNotation@@XZ
+                              9. 26 EA78 0046 0000:?toComment@QDomNode@@QEBA?AVQDomComment@@XZ
+                              10. 26 FDBD 0046 0000:?toCDATASection@QDomNode@@QEBA?AVQDomCDATASection@@XZ
+                            1F488B01FF505083:
+                              C0:
+                                0. 29 564F 0049 0000:?toText@QDomNode@@QEBA?AVQDomText@@XZ
+                              F8:
+                                0. 29 B41E 0049 0000:?attributes@QDomNode@@QEBA?AVQDomNamedNodeMap@@XZ
+                            26488B01FF505083F8:
+                              0. 30 E5DA 0050 0000:?toCharacterData@QDomNode@@QEBA?AVQDomCharacterData@@XZ
+                          F64158027406488B4920EB0233:
+                            0. 3D 174F 005D 0000:?ownerElement@QDomAttr@@QEBA?AVQDomElement@@XZ
+                        49084883C110E8........488B13:
+                          0. 38 FE1C 0058 0000:?setData@QXmlInputSource@@UEAAXAEBVQString@@@Z
+                    B920000000E8........4C8B0B4C8BC0:
+                      0. 64 D10C 0084 0000:??0QXmlParseException@@QEAA@AEBV0@@Z
+                  498BC0488B09488BDA4885C9750548210AEB2D:
+                    0. 07 D5EF 005B 0000:?removeNamedItemNS@QDomNamedNodeMap@@QEAA?AVQDomNode@@AEBVQString@@0@Z
+                  8ADAB9:
+                    68000000E8........448AC3488BD748:
+                      0. 03 AA8C 0036 0000:?cloneNode@QDomNodePrivate@@UEAAPEAV1@_N@Z
+                    70000000E8........448AC3488BD748:
+                      0. 03 AA8C 0036 0000:?cloneNode@QDomElementPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0023: ??0QDomElementPrivate@@QEAA@PEAV0@_N@Z)
+                      1. 03 AA8C 0036 0000:?cloneNode@QDomAttrPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0023: ??0QDomAttrPrivate@@QEAA@PEAV0@_N@Z)
+                    78000000E8........448AC3488BD748:
+                      0. 03 AA8C 0036 0000:?cloneNode@QDomNotationPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z
+                    80000000E8........448AC3488BD748:
+                      0. 03 AA8C 0036 0000:?cloneNode@QDomEntityPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0023: ??0QDomEntityPrivate@@QEAA@PEAV0@_N@Z)
+                      1. 03 AA8C 0036 0000:?cloneNode@QDomDocumentPrivate@@UEAAPEAVQDomNodePrivate@@_N@Z (REF 0023: ??0QDomDocumentPrivate@@QEAA@PEAV0@_N@Z)
+                    90000000E8........448AC3488BD748:
+                      0. 03 AA8C 0036 0000:?cloneNode@QDomDocumentTypePrivate@@UEAAPEAVQDomNodePrivate@@_N@Z
+                  E8........488BD84885C00F84BB000000488B:
+                    0. 2F 440B 00E7 0000:?removeChild@QDomDocumentTypePrivate@@UEAAPEAVQDomNodePrivate@@PEAV2@@Z
+              8D:
+                05........488B:
+                  D9488901488B4108488B783048:
+                    0. 08 EDE2 0062 0000:??1QXmlInputSource@@UEAA@XZ
+                  DA488901488BF9E8........48:
+                    0. 0A 8F90 004E 0000:??0QXmlInputSource@@QEAA@PEAVQIODevice@@@Z
+                5908488BFA488B038378140074304533C0443940:
+                  0. 0A 9527 005D 0000:?contains@QDomNamedNodeMapPrivate@@QEBA_NAEBVQString@@@Z
+            498B:
+              C0488BDA488BD04D8BC1488BF9E8........83F8:
+                0. 06 9B05 0062 0000:?value@QXmlAttributes@@QEBA?AVQString@@AEBV2@0@Z
+              D9488BF9E8........:
+                488D05........488BD348:
+                  0. 07 58D0 0047 0000:??0QDomProcessingInstructionPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@2@Z (0004: 48) (0006: 54)
+                  1. 07 58D0 003D 0000:??0QDomAttrPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z (0004: 48) (0006: 5C)
+                  2. 07 58D0 0061 0000:??0QDomElementPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z (0004: B9)
+                4C8B442450488D05:
+                  0. 00 0000 0061 0000:??0QDomAttrPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@2@Z (002F: 48)
+                  1. 00 0000 0085 0000:??0QDomElementPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@2@Z (002F: B9)
+              F9488BD9E8........488D05........488BD748:
+                0. 07 94A7 0039 0000:??0QDomEntityReferencePrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z
+            4C8B01488BF9496340084983C010498D1CC0E8:
+              0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z
+            80791900488BF97559488B4108488B58088B4820EB0B:
+              0. 3F 068A 0084 0000:?clearMap@QDomNamedNodeMapPrivate@@QEAAXXZ
+            8BDA488BF9E8........F6C301740DBA:
+              10000000488B:
+                0. 02 632D 0034 0000:??_GQXmlSimpleReader@@UEAAPEAXI@Z (REF 0010: ??1QXmlSimpleReader@@UEAA@XZ)
+                1. 02 632D 0034 0000:??_GQXmlInputSource@@UEAAPEAXI@Z (REF 0010: ??1QXmlInputSource@@UEAA@XZ)
+              18000000488B:
+                0. 02 632D 0034 0000:??_GQXmlAttributes@@UEAAPEAXI@Z
+              68000000488B:
+                0. 02 632D 0034 0000:??_GQDomCharacterDataPrivate@@UEAAPEAXI@Z
+                1. 02 632D 0034 0000:??_GQDomCommentPrivate@@UEAAPEAXI@Z
+                2. 02 632D 0034 0000:??_GQDomDocumentFragmentPrivate@@UEAAPEAXI@Z
+                3. 02 632D 0034 0000:??_GQDomEntityReferencePrivate@@UEAAPEAXI@Z
+                4. 02 632D 0034 0000:??_GQDomNodePrivate@@UEAAPEAXI@Z
+                5. 02 632D 0034 0000:??_GQDomProcessingInstructionPrivate@@UEAAPEAXI@Z
+                6. 02 632D 0034 0000:??_GQDomTextPrivate@@UEAAPEAXI@Z
+                7. 02 632D 0034 0000:??_GQDomCDATASectionPrivate@@UEAAPEAXI@Z
+              70000000488B:
+                0. 02 632D 0034 0000:??_GQDomElementPrivate@@UEAAPEAXI@Z (REF 0010: ??1QDomElementPrivate@@UEAA@XZ)
+                1. 02 632D 0034 0000:??_GQDomAttrPrivate@@UEAAPEAXI@Z (REF 0010: ??1QDomNodePrivate@@UEAA@XZ)
+              78000000488B:
+                0. 02 632D 0034 0000:??_GQDomNotationPrivate@@UEAAPEAXI@Z (REF 0010: ??1QDomNotationPrivate@@UEAA@XZ)
+                1. 02 632D 0034 0000:??_GQDomHandler@@UEAAPEAXI@Z (REF 0010: ??1QDomHandler@@UEAA@XZ)
+              80000000488B:
+                0. 02 632D 0034 0000:??_GQDomEntityPrivate@@UEAAPEAXI@Z (REF 0010: ??1QDomEntityPrivate@@UEAA@XZ)
+                1. 02 632D 0034 0000:??_GQDomDocumentPrivate@@UEAAPEAXI@Z (REF 0010: ??1QDomDocumentPrivate@@UEAA@XZ)
+              90000000488B:
+                0. 02 632D 0034 0000:??_GQDomDocumentTypePrivate@@UEAAPEAXI@Z
+            B920000000498BD8488BFAE8........4C8BC8BA0100:
+              0. 5A 1209 007A 0000:?node_construct@?$QList@UAttribute@QXmlAttributes@@@@AEAAXPEAUNode@1@AEBUAttribute@QXmlAttributes@@@Z
+            F6425802488BDA488BF97406488B4220EB0233C0483B:
+              0. 0B 22D6 00BC 0000:?removeChild@QDomNodePrivate@@UEAAPEAV1@PEAV1@@Z
+          30:
+            410F1000488BDA488BF9488D542420F30F7F442420E8:
+              0. 00 0000 0068 0000:?value@QXmlAttributes@@QEBA?AVQString@@VQLatin1String@@@Z
+            4533C033D2488BD9E8........488D05........B904:
+              0. 07 C3AE 00D0 0000:??0QDomDocumentPrivate@@QEAA@XZ
+            48:
+              8B:
+                09498BF8488B442460488BDA4885C97517488B08:
+                  0. 1A E0F2 0077 0000:?attributeNS@QDomElement@@QEBA?AVQString@@V2@AEBV2@1@Z
+                D9:
+                  C744242008000000488B094C8D05........41:
+                    0. 08 13D9 0070 0000:?detach_helper@?$QHash@VQString@@UQHashDummyValue@@@@AEAAXXZ
+                    1. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@PEAVQDomNodePrivate@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@PEAVQDomNodePrivate@@@@CAXPEAUNode@QHashData@@@Z)
+                    2. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@V?$QHash@VQString@@H@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@V?$QHash@VQString@@H@@@@CAXPEAUNode@QHashData@@@Z)
+                    3. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@H@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@H@@CAXPEAUNode@QHashData@@@Z)
+                  E8........488D05........488D3D:
+                    0. 07 865C 005B 0000:??0QDomCommentPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z (REF 0015: ??_7QDomCommentPrivate@@6B@)
+                    1. 07 865C 005B 0000:??0QDomDocumentFragmentPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@@Z (REF 000E: ??0QDomNodePrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAV0@@Z)
+                    2. 07 865C 005B 0000:??0QDomTextPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z (REF 0015: ??_7QDomTextPrivate@@6B@)
+                    3. 07 865C 005B 0000:??0QDomCDATASectionPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z (REF 000E: ??0QDomTextPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z)
+                FA4533C033D2488BD9E8........488D05:
+                  0. 00 0000 00E6 0000:??0QDomDocumentPrivate@@QEAA@AEBVQString@@@Z (001D: B9)
+                  1. 00 0000 010B 0000:??0QDomDocumentPrivate@@QEAA@PEAVQDomDocumentTypePrivate@@@Z (001D: C7)
+              8D05........498BD8488BF94839027568488D0D:
+                0. 00 0000 00A6 0000:?setPrefix@QXmlNamespaceSupport@@QEAAXAEBVQString@@0@Z
+            498BD9488BF9E8........488D05........488BD348:
+              0. 07 8B9F 006A 0000:??0QDomCharacterDataPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@@Z
+            8A442460488BFABA:
+              3000000088442420498BD8448D42:
+                0. 02 FAF5 0087 0000:?createNode@?$QMapData@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@QEAAPEAU?$QMapNode@VQString@@UExternParameterEntity@QXmlSimpleReaderPrivate@@@@AEBVQString@@AEBUExternParameterEntity@QXmlSimpleReaderPrivate@@PEAU2@_N@Z
+              3800000088442420498BD8448D42:
+                0. 02 3A3B 009C 0000:?createNode@?$QMapData@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@QEAAPEAU?$QMapNode@VQString@@UExternEntity@QXmlSimpleReaderPrivate@@@@AEBVQString@@AEBUExternEntity@QXmlSimpleReaderPrivate@@PEAU2@_N@Z
+          40498BC0488BDA488BF94C8D442468488BD0488D4C2430:
+            0. 04 D254 009B 0000:?createElementNS@QDomDocumentPrivate@@QEAAPEAVQDomElementPrivate@@AEBVQString@@0@Z (REF 0054: ??0QDomElementPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@2@Z)
+            1. 04 D254 009B 0000:?createAttributeNS@QDomDocumentPrivate@@QEAAPEAVQDomAttrPrivate@@AEBVQString@@0@Z (REF 0054: ??0QDomAttrPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@2@Z)
+        6689542410574883EC20488D99:
+          38030000488BF9813B0001000075:
+            0. 1A 5385 005B 0000:?nameAddC@QXmlSimpleReaderPrivate@@AEAAXVQChar@@@Z
+          48050000488BF9813B0001000075:
+            0. 1A 7EFA 005B 0000:?refAddC@QXmlSimpleReaderPrivate@@AEAAXVQChar@@@Z
+          58070000488BF9813B0001000075:
+            0. 1A 453C 005B 0000:?stringAddC@QXmlSimpleReaderPrivate@@AEAAXVQChar@@@Z
+      10:
+        4889:
+          6C2418:
+            488974242057:
+              41:
+                5441564883EC30488BF14533F6488B:
+                  0. 40 846D 0120 0000:?save@QDomCommentPrivate@@UEBAXAEAVQTextStream@@HH@Z
+                5641574883EC4033F6448BF2897424:
+                  0. 27 3A1E 011D 0000:?splitText@QDomTextPrivate@@QEAAPEAV1@H@Z
+              4883EC:
+                20488B5928488BF1E989000000:
+                  0. 39 85B7 00C9 0000:?normalize@QDomNodePrivate@@UEAAXXZ
+                30488B01488BFA488BD9837810:
+                  0. 04 9AA3 00EB 0000:??A?$QHash@VQString@@V?$QHash@VQString@@H@@@@QEAAAEAV?$QHash@VQString@@H@@AEBVQString@@@Z
+            56:
+              415541574883EC30488B4138458BF9488BEA488BF1:
+                0. 0D 9023 0275 0000:?save@QDomDocumentTypePrivate@@UEBAXAEAVQTextStream@@HH@Z
+              5741:
+                544883EC20488B5908418AF0488BEA488D8B68:
+                  0. 04 B9C0 014F 0000:?parse@QXmlSimpleReader@@UEAA_NPEBVQXmlInputSource@@_N@Z
+                564883EC20488D05........498BE848890248:
+                  0. 2D EC4C 00F5 0000:?prefixes@QXmlNamespaceSupport@@QEBA?AVQStringList@@AEBVQString@@@Z
+          742418:
+            48897C242041564883EC20488D05........488BF248:
+              0. 2A BE27 00E5 0000:?prefixes@QXmlNamespaceSupport@@QEBA?AVQStringList@@XZ
+            555741:
+              5441:
+                554157488D6C24:
+                  C94881ECC0000000488B:
+                    0. 1B 8256 03BF 0000:?parseElementDecl@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                  E04881EC20010000488B:
+                    0. 1B 1B8E 049A 0000:?parseAttType@QXmlSimpleReaderPrivate@@AEAA_NXZ
+                564157488BEC4883EC4080796100488BF1:
+                  0. 0A 6B7F 0211 0000:?startElement@QDomHandler@@UEAA_NAEBVQString@@00AEBVQXmlAttributes@@@Z
+              5648:
+                8BEC4883EC3033FF4D8BF0897D20488BDA:
+                  0. 11 79E8 0161 0000:?previousSiblingElement@QDomNode@@QEBA?AVQDomElement@@AEBVQString@@@Z (0021: 10)
+                  1. 11 79E8 0161 0000:?nextSiblingElement@QDomNode@@QEBA?AVQDomElement@@AEBVQString@@@Z (0021: 18)
+                  2. 11 79E8 0161 0000:?firstChildElement@QDomNode@@QEBA?AVQDomElement@@AEBVQString@@@Z (0021: 28)
+                  3. 11 79E8 0161 0000:?lastChildElement@QDomNode@@QEBA?AVQDomElement@@AEBVQString@@@Z (0021: 30)
+                8D6C24B94881ECA0000000488B79084C8D:
+                  0. 01 5696 022C 0000:?setFeature@QXmlSimpleReader@@UEAAXAEBVQString@@_N@Z
+            57:
+              415441574883EC40488BD9488B89D80000004885C9:
+                0. 11 B9AC 022E 0000:?parseName@QXmlSimpleReaderPrivate@@AEAA_NXZ
+              4883EC:
+                20:
+                  48:
+                    833900498BF0488BFA488BD975:
+                      29488B:
+                        0. 2A E28B 00E1 0000:?setAttributeNS@QDomElement@@QEAAXVQString@@AEBV2@_K@Z (REF 0062: ?setNum@QString@@QEAAAEAV1@_KH@Z)
+                        1. 2A E28B 00E1 0000:?setAttributeNS@QDomElement@@QEAAXVQString@@AEBV2@_J@Z (REF 0062: ?setNum@QString@@QEAAAEAV1@_JH@Z)
+                      2C488B:
+                        0. 2D 5F8D 00E7 0000:?setAttributeNS@QDomElement@@QEAAXVQString@@AEBV2@N@Z
+                    8B:
+                      4238488BDA4889442430488BF9448B:
+                        0. 17 A634 0093 0000:?setAttributeNode@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@PEAV2@@Z
+                      5928488BF2EB5C488B433848894424:
+                        0. 16 4F9C 0090 0000:?namedItem@QDomNodePrivate@@QEAAPEAV1@AEBVQString@@@Z
+                    8D7928488BD9488B078B700485F67425:
+                      0. 04 DF08 00FA 0000:?next@QXmlSimpleReaderPrivate@@AEAAXXZ
+                  4C8B01488BF9418B5808418B70040FBAF3:
+                    0. 23 56B3 0104 0000:?append@?$QVector@V?$QMap@VQString@@V1@@@@@QEAAXAEBV?$QMap@VQString@@V1@@@@Z
+                30488B01488BFA488BD9837810017605E8:
+                  0. 00 0000 00A3 0000:??A?$QHash@VQString@@H@@QEAAAEAHAEBVQString@@@Z
+                40488BD9488B89D80000004885C974:
+                  6D488B:
+                    0. 0D BDBE 0225 0000:?parseEntityValue@QXmlSimpleReaderPrivate@@AEAA_NXZ (005A: 88)
+                    1. 0D BDBE 0246 0000:?parseChoiceSeq@QXmlSimpleReaderPrivate@@AEAA_NXZ (005A: A9)
+                    2. 0D BDBE 019D 0000:?parseNmtoken@QXmlSimpleReaderPrivate@@AEAA_NXZ (005A: E7)
+                  70488B:
+                    0. 0D D316 018E 0000:?parseString@QXmlSimpleReaderPrivate@@AEAA_NXZ
+          7C241855488BEC4883EC40488BF9E8........488D05:
+            0. 00 0000 0150 0000:??0QDomDocumentTypePrivate@@QEAA@PEAV0@_N@Z
+        4C896424184C8974242041574883EC304C8BF24C8BF9498BCE488D:
+          0. 01 54B7 017B 0000:?save@QDomNotationPrivate@@UEBAXAEAVQTextStream@@HH@Z
+        55565741:
+          5441:
+            554156415748:
+              8BEC4883EC40488BF133DB895D404C:
+                0. 19 AF86 01AE 0000:?characters@QDomHandler@@UEAA_NAEBVQString@@@Z
+              8D6C24F14881ECA000000033DB4D8B:
+                0. 17 72D6 0249 0000:?setContent@QDomDocumentPrivate@@QEAA_NPEAVQXmlInputSource@@PEAVQXmlReader@@PEAVQXmlSimpleReader@@PEAVQString@@PEAH4@Z
+            56488BEC4883EC600FB7812001000041BC01000000:
+              0. 12 FF71 0277 0000:?parseBeginOrContinue@QXmlSimpleReaderPrivate@@AEAA_NH_N@Z
+          564157488BEC4883EC20488BD9408AFA488D0D:
+            0. 01 3E9B 0137 (l)0000:?initializeReader@@YAXAEAVQXmlSimpleReader@@_N@Z
+        564883EC20488BD9B950000000E8........488D35........488B:
+          0. 58 9C0B 00E2 0000:?init@QXmlInputSource@@AEAAXXZ
+        574883EC:
+          20:
+            48:
+              833900:
+                488BFA488BD974640F57C9488D05:
+                  0. 18 344E 0085 0000:?setAttribute@QDomElement@@QEAAXAEBVQString@@M@Z
+                498BC0488BFA488BD9745D488D0D:
+                  0. 14 25AB 0081 0000:?setAttribute@QDomElement@@QEAAXAEBVQString@@_K@Z (REF 0034: ?setNum@QString@@QEAAAEAV1@_KH@Z)
+                  1. 14 25AB 0081 0000:?setAttribute@QDomElement@@QEAAXAEBVQString@@_J@Z (REF 0034: ?setNum@QString@@QEAAAEAV1@_JH@Z)
+              8B:
+                01488BFA488BD98338017605E8........488B0B:
+                  0. 04 8E53 0094 0000:??A?$QMap@VQString@@V1@@@QEAAAEAVQString@@AEBV1@@Z
+                02488BF948:
+                  3901745D488D4C2430E8........48:
+                    0. 34 2B0C 0080 0000:??4?$QMap@VQString@@V1@@@QEAAAEAV0@AEBV0@@Z
+                  8D0D........488944243048890A48:
+                    0. 25 6E3F 0071 0000:??4?$QMap@VQString@@V1@@@QEAAAEAV0@$$QEAV0@@Z
+                194C8BC24533C9488D542430488BF9FF5338488B:
+                  0. 31 C28B 0060 0000:?setData@QXmlInputSource@@UEAAXAEBVQByteArray@@@Z
+                FA488BD9488BCF488D542430E8........4C8B4B:
+                  0. 35 B166 0084 0000:?fatalError@QDomHandler@@UEAA_NAEBVQXmlParseException@@@Z
+            4C8B:
+              01488BFA488BD9488BCF498B000F1000498B4008:
+                0. 15 F8C8 006F 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@AEBA?AVQString@@XZ
+              02488BFA488BD9488B09498B000F1000498B4008:
+                0. 34 2DF9 00E5 0000:??$?YV?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@YAAEAVQString@@AEAV0@AEBV?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@@Z
+            80791800488BF9740433C0EB7AE8........488BD848:
+              0. 38 9272 009C 0000:?removeNamedItem@QDomNamedNodeMapPrivate@@QEAAPEAVQDomNodePrivate@@AEBVQString@@@Z
+          3048:
+            8BD9488BFA8A495880E1027406488B4320EB0233C0:
+              0. 3B EAE9 00A3 0000:?save@QDomTextPrivate@@UEBAXAEAVQTextStream@@HH@Z
+            8DB9B8000000488BD9488BCFE8........4883BBF0:
+              0. 0D 5451 012F 0000:?reportParseError@QXmlSimpleReaderPrivate@@AEAAXAEBVQString@@@Z
+      18:
+        4889742420:
+          5557415441554156488BEC4881EC800000004183CEFF:
+            0. 25 95FC 03FE 0000:?parseExternalID@QXmlSimpleReaderPrivate@@AEAA_NXZ
+          57:
+            415641574883EC40488BD9488B89D80000004885C9:
+              0. 11 27C8 020A 0000:?parseComment@QXmlSimpleReaderPrivate@@AEAA_NXZ
+            4883EC40488BFABB27000000488BF14533C00FB7D3:
+              0. 08 55AD 00A0 (l)0000:?quotedValue@@YA?AVQString@@AEBV1@@Z
+        55565741:
+          54415541564157488D6C24:
+            D94881ECF0000000488B05:
+              0. 00 0000 06F7 0000:?isExpandedEntityValueTooLarge@QXmlSimpleReaderPrivate@@AEAA_NPEAVQString@@@Z
+            E94881ECD00000004C8BF145:
+              0. 09 5FDE 04FC (l)0000:?encodeText@@YA?AVQString@@AEBV1@AEAVQTextStream@@_N22@Z
+          554156488BEC4883EC604C8BF1488B89D80000004885C9:
+            0. 10 53CD 0337 0000:?parseNotationDecl@QXmlSimpleReaderPrivate@@AEAA_NXZ
+        574883EC20488BD9488BFA488D0D........E8........8BD0488D:
+          0. 01 9D2B 010D 0000:?text@QDomElementPrivate@@QEAA?AVQString@@XZ
+      20:
+        48895424105556574883EC2080791800488BFA488BF10F85A60000:
+          0. 22 2D2E 00D6 0000:?setNamedItemNS@QDomNamedNodeMapPrivate@@QEAAPEAVQDomNodePrivate@@PEAV2@@Z
+        55565741544157488BEC4883EC40488BF1488B89D80000004885C9:
+          0. 10 53CD 0389 0000:?parseMarkupdecl@QXmlSimpleReaderPrivate@@AEAA_NXZ
+        574883EC20488D05........488BF9488901488D05........4889:
+          0. 05 2CC7 00DF 0000:??0QXmlNamespaceSupportPrivate@@QEAA@XZ
+    6C2408488974241048897C24184154415641574883EC20488B01488BF948:
+      0. 35 A615 0184 0000:?resize@?$QVector@UParseState@QXmlSimpleReaderPrivate@@@@QEAAXH@Z
+      1. 35 E5C7 01AD 0000:?resize@?$QVector@V?$QMap@VQString@@V1@@@@@QEAAXH@Z
+    7424:
+      08:
+        48897C24104C896C241855488BEC4883EC30833D........00498B:
+          0. 53 255E 0140 (l)0000:?fixedSystemLiteral@@YA?AVQString@@AEBV1@PEA_N@Z
+        574883EC20488B01488BF9837804000F8497000000833801762B8B:
+          0. 19 759A 00BC 0000:?clear@?$QVector@UXmlRef@QXmlSimpleReaderPrivate@@@@QEAAXXZ
+      105557415541564157488D6C24C94881EC900000004183CFFF4D8BF0:
+        0. 28 5291 0261 0000:?insertXmlRef@QXmlSimpleReaderPrivate@@AEAA_NAEBVQString@@0_N@Z
+  8B:
+    01:
+      4533C048FF:
+        6018:
+          0. 00 0000 000A 0000:?appendChild@QDomNodePrivate@@UEAAPEAV1@PEAV1@@Z
+          1. 00 0000 000A 0000:?appendChild@QDomDocumentTypePrivate@@UEAAPEAVQDomNodePrivate@@PEAV2@@Z
+        A0A8000000:
+          0. 00 0000 000D 0000:?parse@QXmlSimpleReader@@UEAA_NPEBVQXmlInputSource@@@Z
+          1. 00 0000 000D 0000:?parse@QXmlSimpleReader@@UEAA_NAEBVQXmlInputSource@@@Z
+      48:
+        85C0:
+          74:
+            048B40:
+              5CC383C8FFC3:
+                0. 00 0000 0010 0000:?lineNumber@QDomNode@@QEBAHXZ
+              60C383C8FFC3:
+                0. 00 0000 0010 0000:?columnNumber@QDomNode@@QEBAHXZ
+            08488B40408B4004C3C3:
+              0. 00 0000 0011 0000:?length@QDomCharacterData@@QEBAHXZ
+          75:
+            01C3:
+              48:
+                837828000F95C0C3:
+                  0. 00 0000 0012 0000:?hasChildNodes@QDomNode@@QEBA_NXZ
+                8B40088B4014C3:
+                  0. 00 0000 0011 0000:?length@QDomNamedNodeMap@@QEBAHXZ
+              8A4068C3:
+                0. 00 0000 000D 0000:?specified@QDomAttr@@QEBA_NXZ
+            05482102EB:
+              0F488B40:
+                684889024885C07403F0FF00488BC2C3:
+                  0. 00 0000 0020 0000:?entities@QDomDocumentType@@QEBA?AVQDomNamedNodeMap@@XZ
+                  1. 00 0000 0020 0000:?implementation@QDomDocument@@QEBA?AVQDomImplementation@@XZ
+                  2. 00 0000 0020 0000:?attributes@QDomElement@@QEBA?AVQDomNamedNodeMap@@XZ
+                704889024885C07403F0FF00488BC2C3:
+                  0. 00 0000 0020 0000:?notations@QDomDocumentType@@QEBA?AVQDomNamedNodeMap@@XZ
+              10488B40:
+                104889024885C07404F0FF4008488BC2:
+                  0. 01 EF04 0021 0000:?previousSibling@QDomNode@@QEBA?AV1@XZ
+                184889024885C07404F0FF4008488BC2:
+                  0. 01 EF04 0021 0000:?nextSibling@QDomNode@@QEBA?AV1@XZ
+                284889024885C07404F0FF4008488BC2:
+                  0. 01 EF04 0021 0000:?firstChild@QDomNode@@QEBA?AV1@XZ
+                304889024885C07404F0FF4008488BC2:
+                  0. 01 EF04 0021 0000:?lastChild@QDomNode@@QEBA?AV1@XZ
+                704889024885C07404F0FF4008488BC2:
+                  0. 01 EF04 0021 0000:?doctype@QDomDocument@@QEBA?AVQDomDocumentType@@XZ
+              1AF64058027406488B4020EB0233C04889024885:
+                0. 0B 48BE 002B 0000:?parentNode@QDomNode@@QEBA?AV1@XZ
+        8B:
+          0848890A8B01FFC083F8017603F0FF01488BC2C3:
+            0. 00 0000 0019 0000:?message@QXmlParseException@@QEBA?AVQString@@XZ
+          48:
+            1048890A8B01FFC083F8017603F0FF01488BC2C3:
+              0. 00 0000 001A 0000:?publicId@QXmlParseException@@QEBA?AVQString@@XZ
+            1848890A8B01FFC083F8017603F0FF01488BC2C3:
+              0. 00 0000 001A 0000:?systemId@QXmlParseException@@QEBA?AVQString@@XZ
+      8B40:
+        08C3:
+          0. 00 0000 0007 0000:?columnNumber@QXmlParseException@@QEBAHXZ
+        0CC3:
+          0. 00 0000 0007 0000:?lineNumber@QXmlParseException@@QEBAHXZ
+    0248:
+      39010F:
+        94C0C3:
+          0. 00 0000 000A 0000:??8QDomNamedNodeMap@@QEBA_NAEBV0@@Z
+          1. 00 0000 000A 0000:??8QDomNode@@QEBA_NAEBV0@@Z
+          2. 00 0000 000A 0000:??8QDomImplementation@@QEBA_NAEBV0@@Z
+        95C0C3:
+          0. 00 0000 000A 0000:??9QDomNamedNodeMap@@QEBA_NAEBV0@@Z
+          1. 00 0000 000A 0000:??9QDomNode@@QEBA_NAEBV0@@Z
+          2. 00 0000 000A 0000:??9QDomImplementation@@QEBA_NAEBV0@@Z
+      89014885C074:
+        03F0FF00488BC1C3:
+          0. 00 0000 0012 0000:??0QDomNamedNodeMap@@QEAA@AEBV0@@Z
+          1. 00 0000 0012 0000:??0QDomNodeList@@QEAA@AEBV0@@Z
+          2. 00 0000 0012 0000:??0QDomImplementation@@QEAA@AEBV0@@Z
+        04F0FF4008488BC1C3:
+          0. 00 0000 0013 0000:??0QDomAttr@@QEAA@AEBV0@@Z
+          1. 00 0000 0013 0000:??0QDomCDATASection@@QEAA@AEBV0@@Z
+          2. 00 0000 0013 0000:??0QDomCharacterData@@QEAA@AEBV0@@Z
+          3. 00 0000 0013 0000:??0QDomComment@@QEAA@AEBV0@@Z
+          4. 00 0000 0013 0000:??0QDomDocument@@QEAA@AEBV0@@Z
+          5. 00 0000 0013 0000:??0QDomDocumentFragment@@QEAA@AEBV0@@Z
+          6. 00 0000 0013 0000:??0QDomDocumentType@@QEAA@AEBV0@@Z
+          7. 00 0000 0013 0000:??0QDomElement@@QEAA@AEBV0@@Z
+          8. 00 0000 0013 0000:??0QDomEntity@@QEAA@AEBV0@@Z
+          9. 00 0000 0013 0000:??0QDomEntityReference@@QEAA@AEBV0@@Z
+          10. 00 0000 0013 0000:??0QDomNode@@QEAA@AEBV0@@Z
+          11. 00 0000 0013 0000:??0QDomNotation@@QEAA@AEBV0@@Z
+          12. 00 0000 0013 0000:??0QDomProcessingInstruction@@QEAA@AEBV0@@Z
+          13. 00 0000 0013 0000:??0QDomText@@QEAA@AEBV0@@Z
+    0948:
+      85C9:
+        741BF64158017515488B493848890A8B01FFC083F801760FF0FF:
+          0. 06 ADE8 0031 0000:?localName@QDomNode@@QEBA?AVQString@@XZ
+        75:
+          03:
+            32C0C3:
+              488B4968E9:
+                0. 00 0000 0014 0000:?hasAttribute@QDomElement@@QEBA_NAEBVQString@@@Z
+              E9:
+                0. 00 0000 0010 0000:?contains@QDomNamedNodeMap@@QEBA_NAEBVQString@@@Z
+            33C0C3E9:
+              0. 00 0000 0010 0000:?length@QDomNodeList@@QEBAHXZ
+          048D41:
+            15C3488B0148FF6050:
+              0. 00 0000 0013 0000:?nodeType@QDomNode@@QEBA?AW4NodeType@1@XZ
+            16C3488B0148FF6050:
+              0. 00 0000 0013 0000:?nodeType@QDomCharacterData@@QEBA?AW4NodeType@QDomNode@@XZ
+          0C488D05........488902EB:
+            13488B49:
+              3848890A8B01FFC083:
+                0. 0B 1E29 002B 0000:?name@QDomDocumentType@@QEBA?AVQString@@XZ
+                1. 0B 1E29 002B 0000:?tagName@QDomElement@@QEBA?AVQString@@XZ
+                2. 0B 1E29 002B 0000:?target@QDomProcessingInstruction@@QEBA?AVQString@@XZ
+                3. 0B 1E29 002B 0000:?name@QDomAttr@@QEBA?AVQString@@XZ
+              4048890A8B01FFC083:
+                0. 0B 1E29 002B 0000:?data@QDomProcessingInstruction@@QEBA?AVQString@@XZ
+                1. 0B 1E29 002B 0000:?nodeValue@QDomNode@@QEBA?AVQString@@XZ
+                2. 0B 1E29 002B 0000:?value@QDomAttr@@QEBA?AVQString@@XZ
+                3. 0B 1E29 002B 0000:?data@QDomCharacterData@@QEBA?AVQString@@XZ
+              4848890A8B01FFC083:
+                0. 0B 1E29 002B 0000:?prefix@QDomNode@@QEBA?AVQString@@XZ
+              5048890A8B01FFC083:
+                0. 0B 1E29 002B 0000:?namespaceURI@QDomNode@@QEBA?AVQString@@XZ
+              6848890A8B01FFC083:
+                0. 0B 1E29 002B 0000:?systemId@QDomNotation@@QEBA?AVQString@@XZ
+                1. 0B 1E29 002B 0000:?systemId@QDomEntity@@QEBA?AVQString@@XZ
+              7048890A8B01FFC083:
+                0. 0B 1E29 002B 0000:?publicId@QDomNotation@@QEBA?AVQString@@XZ
+                1. 0B 1E29 002B 0000:?publicId@QDomEntity@@QEBA?AVQString@@XZ
+              7848890A8B01FFC083:
+                0. 0B 1E29 002B 0000:?publicId@QDomDocumentType@@QEBA?AVQString@@XZ
+                1. 0B 1E29 002B 0000:?notationName@QDomEntity@@QEBA?AVQString@@XZ
+            16488B89:
+              8000000048890A8B01:
+                0. 0E 402A 002E 0000:?systemId@QDomDocumentType@@QEBA?AVQString@@XZ
+              8800000048890A8B01:
+                0. 0E 402A 002E 0000:?internalSubset@QDomDocumentType@@QEBA?AVQString@@XZ
+      8B12483BCA7504B001EB104885C974094885D20F85........32C0C3:
+        0. 00 0000 0020 0000:??8QDomNodeList@@QEBA_NAEBV0@@Z
+      8D5108E9:
+        0. 00 0000 000C 0000:?pushContext@QXmlNamespaceSupport@@QEAAXXZ
+    41:
+      08:
+        48:
+          8990:
+            00010000C3:
+              0. 00 0000 000C 0000:?setEntityResolver@QXmlSimpleReader@@UEAAXPEAVQXmlEntityResolver@@@Z
+            08010000C3:
+              0. 00 0000 000C 0000:?setLexicalHandler@QXmlSimpleReader@@UEAAXPEAVQXmlLexicalHandler@@@Z
+            10010000C3:
+              0. 00 0000 000C 0000:?setDeclHandler@QXmlSimpleReader@@UEAAXPEAVQXmlDeclHandler@@@Z
+            E8000000C3:
+              0. 00 0000 000C 0000:?setContentHandler@QXmlSimpleReader@@UEAAXPEAVQXmlContentHandler@@@Z
+            F0000000C3:
+              0. 00 0000 000C 0000:?setErrorHandler@QXmlSimpleReader@@UEAAXPEAVQXmlErrorHandler@@@Z
+            F8000000C3:
+              0. 00 0000 000C 0000:?setDTDHandler@QXmlSimpleReader@@UEAAXPEAVQXmlDTDHandler@@@Z
+          8B:
+            480883C8FF8B91:
+              240100003BD074038D4201C3:
+                0. 00 0000 0019 0000:?lineNumber@QXmlSimpleReaderLocator@@UEBAHXZ
+              280100003BD074038D4201C3:
+                0. 00 0000 0019 0000:?columnNumber@QXmlSimpleReaderLocator@@UEBAHXZ
+            80:
+              00010000C3:
+                0. 00 0000 000C 0000:?entityResolver@QXmlSimpleReader@@UEBAPEAVQXmlEntityResolver@@XZ
+              08010000C3:
+                0. 00 0000 000C 0000:?lexicalHandler@QXmlSimpleReader@@UEBAPEAVQXmlLexicalHandler@@XZ
+              10010000C3:
+                0. 00 0000 000C 0000:?declHandler@QXmlSimpleReader@@UEBAPEAVQXmlDeclHandler@@XZ
+              E8000000C3:
+                0. 00 0000 000C 0000:?contentHandler@QXmlSimpleReader@@UEBAPEAVQXmlContentHandler@@XZ
+              F0000000C3:
+                0. 00 0000 000C 0000:?errorHandler@QXmlSimpleReader@@UEBAPEAVQXmlErrorHandler@@XZ
+              F8000000C3:
+                0. 00 0000 000C 0000:?DTDHandler@QXmlSimpleReader@@UEBAPEAVQXmlDTDHandler@@XZ
+        8B:
+          4014C3:
+            0. 00 0000 0008 0000:?length@QDomNamedNodeMapPrivate@@QEBAHXZ
+          480C2B48088BC1C3:
+            0. 00 0000 000D 0000:?length@QXmlAttributes@@QEBAHXZ
+        C6402800488B410883602000C3:
+          0. 00 0000 0011 0000:?reset@QXmlInputSource@@UEAAXXZ
+      408B4004C3:
+        0. 00 0000 0008 0000:?dataLength@QDomCharacterDataPrivate@@QEBAHXZ
+      48483941500F94C0C3:
+        0. 00 0000 000C 0000:?endDocument@QDomHandler@@UEAA_NXZ
+      5033D24885C07417483B41487411F64058027404488B502048895150B0:
+        0. 05 0CD7 0025 0000:?endElement@QDomHandler@@UEAA_NAEBVQString@@00@Z
+    4968E9:
+      0. 00 0000 0009 0000:?attributeNodeNS@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@AEBVQString@@0@Z (REF 0005: ?namedItemNS@QDomNamedNodeMapPrivate@@QEBAPEAVQDomNodePrivate@@AEBVQString@@0@Z)
+      1. 00 0000 0009 0000:?hasAttribute@QDomElementPrivate@@QEAA_NAEBVQString@@@Z (REF 0005: ?contains@QDomNamedNodeMapPrivate@@QEBA_NAEBVQString@@@Z)
+      2. 00 0000 0009 0000:?attributeNode@QDomElementPrivate@@QEAAPEAVQDomAttrPrivate@@AEBVQString@@@Z (REF 0005: ?namedItem@QDomNamedNodeMapPrivate@@QEBAPEAVQDomNodePrivate@@AEBVQString@@@Z)
+    C4:
+      448940184889501048894808555356574154415541564157488D68A148:
+        0. 24 6E91 0547 0000:?saveDocument@QDomDocumentPrivate@@QEBAXAEAVQTextStream@@HW4EncodingPolicy@QDomNode@@@Z
+      488958:
+        084889:
+          68:
+            1048897018:
+              4889782041:
+                55415641574883EC20488D05:
+                  0. 00 0000 0111 0000:??0QDomNodePrivate@@QEAA@PEAV0@_N@Z
+                564883EC:
+                  20:
+                    48:
+                      63F2BD080000:
+                        0. 14 FF35 00CA 0000:?realloc@?$QVector@UParseState@QXmlSimpleReaderPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                      8B:
+                        01:
+                          498BE848:
+                            0. 2A 1B95 00CA 0000:?prefix@QXmlNamespaceSupport@@QEBA?AVQString@@AEBV2@@Z
+                          4D8BF048:
+                            0. 0C 4BB5 00DF 0000:?insert@?$QHash@VQString@@UQHashDummyValue@@@@QEAA?AViterator@1@AEBVQString@@AEBUQHashDummyValue@@@Z
+                        4108498BE8:
+                          0. 30 C6A7 00B2 0000:?namedItemNS@QDomNamedNodeMapPrivate@@QEBAPEAVQDomNodePrivate@@AEBVQString@@0@Z
+                        B9D8000000:
+                          0. 32 DBFB 0488 0000:??1QXmlSimpleReaderPrivate@@QEAA@XZ
+                        F148:
+                          8B0A48:
+                            0. 33 8D41 00D2 (l)0000:?encodeEntity@@YA?AVQByteArray@@AEBV1@@Z
+                          8D2D:
+                            0. 00 0000 01B5 0000:??0QXmlSimpleReaderPrivate@@AEAA@PEAVQXmlSimpleReader@@@Z
+                    498BE94C8BF1E8:
+                      0. 00 0000 0095 0000:??0QDomEntityPrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAVQDomNodePrivate@@AEBVQString@@222@Z
+                  30488B01:
+                    498BE949:
+                      0. 0F 6FBB 009D 0000:?insertMulti@?$QHash@VQString@@PEAVQDomNodePrivate@@@@QEAA?AViterator@1@AEBVQString@@AEBQEAVQDomNodePrivate@@@Z
+                    4D8BF149:
+                      0. 0F 81A7 00C4 0000:?insert@?$QHash@VQString@@H@@QEAA?AViterator@1@AEBVQString@@AEBH@Z
+                574883EC20488B5928488D05:
+                  0. 00 0000 0138 0000:??1QDomNodePrivate@@UEAA@XZ
+              574883EC50488BE9498BF9488D48E8418A:
+                0. 05 BB98 008C 0000:?setContent@QDomDocumentPrivate@@QEAA_NPEAVQXmlInputSource@@_NPEAVQString@@PEAH3@Z
+            1848897020895010574883EC20488B11488BF94963E8:
+              0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQDomNodePrivate@@@@AEAAPEAUNode@1@HH@Z
+          70:
+            1048897818:
+              44884820554154415541564157488BEC48:
+                0. 06 A7CF 0308 (l)0000:?fixedXmlName@@YA?AVQString@@AEBV1@PEA_N_N@Z
+              4C89:
+                6020:
+                  41574883EC20488BD9BE200000:
+                    0. 04 68E2 0130 0000:?init@QDomDocumentTypePrivate@@QEAAXXZ
+                  5541564157488BEC4883EC50B8:
+                    0. 22 A1BC 017C (l)0000:?qt_split_namespace@@YAXAEAVQString@@0AEBV1@_N@Z
+                702041574883EC2083A12401000000:
+                  0. 14 B495 01C3 0000:?init@QXmlSimpleReaderPrivate@@AEAAXPEBVQXmlInputSource@@@Z
+            184889782089501041564883EC20488B11:
+              488BD94963:
+                0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+              4C8BF14963:
+                0. 16 A7E5 00E7 0000:?detach_helper_grow@?$QList@UAttribute@QXmlAttributes@@@@AEAAPEAUNode@1@HH@Z
+        10:
+          44894820448940185556574154415541564157488D68884881:
+            0. 4B 37B1 0794 0000:?save@QDomElementPrivate@@UEBAXAEAVQTextStream@@HH@Z
+          488970184889782055415441:
+            5541564157488D68A14881EC90:
+              0. 3A A041 03CA 0000:?save@QDomEntityPrivate@@UEBAXAEAVQTextStream@@HH@Z
+            56488D68A14881ECA000000048:
+              0. 1A 65B1 024C 0000:?feature@QXmlSimpleReader@@UEBA_NAEBVQString@@PEA_N@Z
+        20574881EC500100000F2970E8488B05........4833C4488984:
+          0. 1E C487 0121 0000:?setAttribute@QDomElement@@QEAAXAEBVQString@@N@Z
+    CABA10000000448D42F8E9:
+      0. 00 0000 0011 0000:?freeData@?$QVector@UParseState@QXmlSimpleReaderPrivate@@@@AEAAXPEAU?$QTypedArrayData@UParseState@QXmlSimpleReaderPrivate@@@@@Z
+  8D05........4889:
+    01:
+      48:
+        8BC1C3:
+          0. 00 0000 000E 0000:??0QXmlLocator@@QEAA@XZ
+        8D05........:
+          4889410848:
+            8BC1C3:
+              0. 00 0000 0019 0000:??0QXmlAttributes@@QEAA@XZ
+            8D05........48894110:
+              0. 03 616D 0045 0000:??0QXmlDefaultHandler@@QEAA@XZ
+          C74108010000004889413848894140:
+            0. 42 0CDE 0062 0000:??0QDomNodePrivate@@QEAA@PEAVQDomDocumentPrivate@@PEAV0@@Z
+      C3:
+        0. 00 0000 000B 0000:??1QXmlDTDHandler@@UEAA@XZ (REF 0003: ??_7QXmlDTDHandler@@6B@)
+        1. 00 0000 000B 0000:??1QXmlDeclHandler@@UEAA@XZ (REF 0003: ??_7QXmlDeclHandler@@6B@)
+        2. 00 0000 000B 0000:??1QXmlEntityResolver@@UEAA@XZ (REF 0003: ??_7QXmlEntityResolver@@6B@)
+        3. 00 0000 000B 0000:??1QXmlErrorHandler@@UEAA@XZ (REF 0003: ??_7QXmlErrorHandler@@6B@)
+        4. 00 0000 000B 0000:??1QXmlLexicalHandler@@UEAA@XZ (REF 0003: ??_7QXmlLexicalHandler@@6B@)
+        5. 00 0000 000B 0000:??1QXmlLocator@@UEAA@XZ (REF 0003: ??_7QXmlLocator@@6B@)
+        6. 00 0000 000B 0000:??1QXmlReader@@UEAA@XZ (REF 0003: ??_7QXmlReader@@6B@)
+        7. 00 0000 000B 0000:??1QXmlContentHandler@@UEAA@XZ (REF 0003: ??_7QXmlContentHandler@@6B@)
+    4128488D05........48894120488D05........488941:
+      0. 04 0A71 0042 0000:??1QXmlDefaultHandler@@UEAA@XZ
+49:
+  3BD0:
+    0F849500000048895C24084889742410574883EC20498BF9498BF0482B:
+      0. 0A 01DB 009F 0000:?node_copy@?$QList@UAttribute@QXmlAttributes@@@@AEAAXPEAUNode@1@00@Z
+    74:
+      2B48895C2408574883EC20498BF8488BDA488BCB4883C318E8:
+        0. 00 0000 0031 0000:?destruct@?$QVector@UXmlRef@QXmlSimpleReaderPrivate@@@@AEAAXPEAUXmlRef@QXmlSimpleReaderPrivate@@0@Z
+      2D48895C2408574883EC20498BF8488BDA488BCB33D24883C308E8:
+        0. 00 0000 0033 0000:?destruct@?$QVector@V?$QMap@VQString@@V1@@@@@AEAAXPEAV?$QMap@VQString@@V1@@@0@Z
+  832100B001C3:
+    0. 00 0000 0007 0000:?resolveEntity@QXmlDefaultHandler@@UEAA_NAEBVQString@@0AEAPEAVQXmlInputSource@@@Z
+4C:
+  2BC2488BCA4983E0F033D2E9:
+    0. 00 0000 0011 0000:?defaultConstruct@?$QVector@UParseState@QXmlSimpleReaderPrivate@@@@AEAAXPEAUParseState@QXmlSimpleReaderPrivate@@0@Z
+  8B:
+    49084963C0496349084803C8498B44C910488B:
+      0848890A8B01FFC083F801:
+        0. 09 71CB 0029 0000:?qName@QXmlAttributes@@QEBA?AVQString@@H@Z
+      48:
+        0848890A8B01FFC083F8:
+          0. 0A C935 002A 0000:?uri@QXmlAttributes@@QEBA?AVQString@@H@Z
+        1048890A8B01FFC083F8:
+          0. 0A C935 002A 0000:?localName@QXmlAttributes@@QEBA?AVQString@@H@Z
+        1848890A8B01FFC083F8:
+          0. 0A C935 002A 0000:?value@QXmlAttributes@@QEBA?AVQString@@H@Z
+    DC49895B:
+      0849897310574883EC40488D05........488BF1498D4BD84989:
+        0. 15 5D03 00B2 0000:?append@QXmlAttributes@@QEAAXAEBVQString@@000@Z
+      104989:
+        6B18565741564883EC40488D05........498BF94C8BF2:
+          0. 1A F43C 012D 0000:?setAttributeNS@QDomElementPrivate@@QEAAXAEBVQString@@00@Z
+        731849897B2041:
+          54415541574883EC404C8BFAC6442428:
+            0. 04 7357 01F3 0000:?save@QDomAttrPrivate@@UEBAXAEAVQTextStream@@HH@Z
+          564883EC40488BD9488B89D800000048:
+            0. 12 5F26 0211 0000:?parseAttValue@QXmlSimpleReaderPrivate@@AEAA_NXZ
+            1. 12 E496 022F 0000:?parseAttribute@QXmlSimpleReaderPrivate@@AEAA_NXZ
+4D:
+  85C074:
+    0441C6000033C0C3:
+      0. 00 0000 000C 0000:?property@QXmlSimpleReader@@UEBAPEAXAEBVQString@@PEA_N@Z
+    4248895C240848896C24104889742418574883EC20498BF1498BD848:
+      0. 28 AE31 0048 0000:??_H@YAXPEAX_K1P6APEAX0@Z@Z
+  8B084883C1404D8B41104D03C1458B4904E9:
+    0. 00 0000 0017 0000:?insertData@QDomCharacterDataPrivate@@QEAAXKAEBVQString@@@Z
+6689542410534883EC204C8B09488BD9418339017715458B4108418B4104410F:
+  0. 16 8988 0078 0000:??YQString@@QEAAAEAV0@VQChar@@@Z
+89:
+  0D........C3:
+    0. 00 0000 0007 0000:?setInvalidDataPolicy@QDomImplementation@@SAXW4InvalidDataPolicy@1@@Z (REF 0002: ?invalidDataPolicy@QDomImplementationPrivate@@2W4InvalidDataPolicy@QDomImplementation@@A)
+  515C44894160C3:
+    0. 00 0000 0008 0000:?setLocation@QDomNodePrivate@@QEAAXHH@Z
+8B05........C3:
+  0. 00 0000 0007 0000:?invalidDataPolicy@QDomImplementation@@SA?AW4InvalidDataPolicy@1@XZ (REF 0002: ?invalidDataPolicy@QDomImplementationPrivate@@2W4InvalidDataPolicy@QDomImplementation@@A)
+B8:
+  01000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomElementPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  02000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomAttrPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  03000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomTextPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  04000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomCDATASectionPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  05000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomEntityReferencePrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  06000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomEntityPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  07000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomProcessingInstructionPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  08000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomCommentPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  09000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomDocumentPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  0A000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomDocumentTypePrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  0B000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomDocumentFragmentPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  0C000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomNotationPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  15000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomNodePrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+  16000000C3:
+    0. 00 0000 0006 0000:?nodeType@QDomCharacterDataPrivate@@UEBA?AW4NodeType@QDomNode@@XZ
+C64140:
+  00B001C3:
+    0. 00 0000 0007 0000:?endCDATA@QDomHandler@@UEAA_NXZ
+  01B001C3:
+    0. 00 0000 0007 0000:?startCDATA@QDomHandler@@UEAA_NXZ
+C70101000000488D05........488941:
+  08488BC1668361180048895110C3:
+    0. 00 0000 001E 0000:??0QDomNamedNodeMapPrivate@@QEAA@PEAVQDomNodePrivate@@@Z
+  1048894118488D05........48894120:
+    0. 15 7F78 0035 0000:??0QDomNodeListPrivate@@QEAA@PEAVQDomNodePrivate@@@Z
+E9:
+  0. 00 0000 0005 0000:?deleteNode2@?$QHash@VQString@@V?$QHash@VQString@@H@@@@CAXPEAUNode@QHashData@@@Z (REF 0001: ??1?$QHashNode@VQString@@V?$QHash@VQString@@H@@@@QEAA@XZ)
+  1. 00 0000 0005 0000:??1QDomDocument@@QEAA@XZ (REF 0001: ??1QDomNode@@QEAA@XZ)
+  2. 00 0000 0005 0000:??4QDomAttr@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  3. 00 0000 0005 0000:??4QDomCDATASection@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  4. 00 0000 0005 0000:??4QDomCharacterData@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  5. 00 0000 0005 0000:??4QDomComment@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  6. 00 0000 0005 0000:??4QDomDocument@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  7. 00 0000 0005 0000:??4QDomDocumentFragment@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  8. 00 0000 0005 0000:??4QDomDocumentType@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  9. 00 0000 0005 0000:??4QDomElement@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  10. 00 0000 0005 0000:??4QDomEntity@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  11. 00 0000 0005 0000:??4QDomEntityReference@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  12. 00 0000 0005 0000:??4QDomNotation@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  13. 00 0000 0005 0000:??4QDomProcessingInstruction@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+  14. 00 0000 0005 0000:??4QDomText@@QEAAAEAV0@AEBV0@@Z (REF 0001: ??4QDomNode@@QEAAAEAV0@AEBV0@@Z)
+EB16488BC24883C2084885C0740A488D0D........488908493BD075E5C3:
+  0. 00 0000 001E 0000:?defaultConstruct@?$QVector@V?$QMap@VQString@@V1@@@@@AEAAXPEAV?$QMap@VQString@@V1@@@0@Z

@@ -1,0 +1,19 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+??1OutputBin@QPrint@@QEAA@XZ                      	11 A4AF 40534883EC20488BD9488B490883390074118339FF741E83C8FFF00FC10183F8
+??1InputSlot@QPrint@@QEAA@XZ                      	11 A4AF 40534883EC20488BD9488B490883390074118339FF741E83C8FFF00FC10183F8
+
+??0?$QVector@W4DuplexMode@QPrint@@@@QEAA@AEBV0@@Z 	25 7337 48895C2408574883EC20488B02488BFA488BD983380074108338FF7403F0FF00
+??0?$QVector@W4ColorMode@QPrint@@@@QEAA@AEBV0@@Z  	25 7337 48895C2408574883EC20488B02488BFA488BD983380074108338FF7403F0FF00
+
+?realloc@?$QVector@W4DuplexMode@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z	14 4987 488BC44889580848896810488970184889782041564883EC204863F2BD080000
+?realloc@?$QVector@W4ColorMode@QPrint@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z	14 4987 488BC44889580848896810488970184889782041564883EC204863F2BD080000
+
+?freeData@?$QVector@W4DuplexMode@QPrint@@@@AEAAXPEAU?$QTypedArrayData@W4DuplexMode@QPrint@@@@@Z	00 0000 488BCABA04000000448D4204E9......................................
+?freeData@?$QVector@W4ColorMode@QPrint@@@@AEAAXPEAU?$QTypedArrayData@W4ColorMode@QPrint@@@@@Z	00 0000 488BCABA04000000448D4204E9......................................
+
+?copyConstruct@?$QVector@W4DuplexMode@QPrint@@@@AEAAXPEBW4DuplexMode@QPrint@@0PEAW423@@Z	00 0000 4C2BC2498BC94983E0FCE9..........................................
+?copyConstruct@?$QVector@W4ColorMode@QPrint@@@@AEAAXPEBW4ColorMode@QPrint@@0PEAW423@@Z	00 0000 4C2BC2498BC94983E0FCE9..........................................

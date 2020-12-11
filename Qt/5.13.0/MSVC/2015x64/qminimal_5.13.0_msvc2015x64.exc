@@ -1,0 +1,9 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+??_GQFreeTypeFontDatabase@@UEAAPEAXI@Z            	02 632D 48895C2408574883EC208BDA488BF9E8........F6C301740DBA08000000488B
+??_GQPlatformFontDatabase@@UEAAPEAXI@Z            	02 632D 48895C2408574883EC208BDA488BF9E8........F6C301740DBA08000000488B
+??_GQWindowsFontDatabaseFT@@UEAAPEAXI@Z           	02 632D 48895C2408574883EC208BDA488BF9E8........F6C301740DBA08000000488B
+??_GDummyFontDatabase@@UEAAPEAXI@Z                	02 632D 48895C2408574883EC208BDA488BF9E8........F6C301740DBA08000000488B

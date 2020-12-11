@@ -1,0 +1,354 @@
+33:
+  C04885D274:
+    0A4885C97417E9........4885C9740A488D05........488901:
+      0. 04 1E0D 0024 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z (REF 000D: ??0?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@QEAA@AEBV0@@Z)
+      1. 04 1E0D 0024 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z (REF 000D: ??0?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@QEAA@AEBV0@@Z)
+    3F4885C974760F10020F11010F104A100F1149100F1042200F11:
+      0. 66 767E 0086 0000:?Construct@?$QMetaTypeFunctionHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+  D2E9:
+    0. 00 0000 0007 0000:?Destruct@?$QMetaTypeFunctionHelper@UFilter@QXdgDesktopPortalFileDialog@@$00@QtMetaTypePrivate@@SAXPEAX@Z (REF 0003: ??_GFilter@QXdgDesktopPortalFileDialog@@QEAAPEAXI@Z)
+40:
+  53:
+    48:
+      81EC90000000488D4C2420498BD8E8........0F10442420B0010F104C:
+        0. 44 1D56 0064 0000:?convert@?$ConverterFunctor@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@3@@QtPrivate@@SA_NPEBUAbstractConverterFunction@2@PEBXPEAX@Z (REF 0012: ??$?0V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@QEAA@PEBV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z)
+        1. 44 1D56 0064 0000:?convert@?$ConverterFunctor@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@3@@QtPrivate@@SA_NPEBUAbstractConverterFunction@2@PEBXPEAX@Z (REF 0012: ??$?0V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@QEAA@PEBV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z)
+      83EC:
+        20:
+          48:
+            83610800488BD94889118B05........85C0751A448D400148:
+              0. 06 B81B 00AF 0000:??$?0V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@QEAA@PEBV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z (REF 0013: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@UFilterCondition@QXdgDesktopPortalFileDialog@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              1. 06 B81B 00AF 0000:??$?0V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@QEAA@PEBV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z (REF 0013: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@UFilter@QXdgDesktopPortalFileDialog@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+            8B:
+              01488BD9483902743F488D4C2430E8........488B13488B:
+                0. 2C 6FE2 0059 0000:??4?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@QEAAAEAV0@AEBV0@@Z
+              4110488BDA488B4810488B01FF50:
+                50488BC34883C4205BC3:
+                  0. 00 0000 0020 0000:?themeHint@QXdgDesktopPortalTheme@@UEBA?AVQVariant@@W4ThemeHint@QPlatformTheme@@@Z
+                58488BC34883C4205BC3:
+                  0. 00 0000 0020 0000:?standardPixmap@QXdgDesktopPortalTheme@@UEBA?AVQPixmap@@W4StandardPixmap@QPlatformTheme@@AEBVQSizeF@@@Z
+                60488BC34883C4205BC3:
+                  0. 00 0000 0020 0000:?fileIcon@QXdgDesktopPortalTheme@@UEBA?AVQIcon@@AEBVQFileInfo@@V?$QFlags@W4IconOption@QPlatformTheme@@@@@Z
+                70488BC34883C4205BC3:
+                  0. 00 0000 0020 0000:?keyBindings@QXdgDesktopPortalTheme@@UEBA?AV?$QList@VQKeySequence@@@@W4StandardKey@QKeySequence@@@Z
+                78488BC34883C4205BC3:
+                  0. 00 0000 0020 0000:?standardButtonText@QXdgDesktopPortalTheme@@UEBA?AVQString@@H@Z
+              592048837B4000741EE8........488B4B40488BD0E8:
+                0. 00 0000 0035 0000:?setFilter@QXdgDesktopPortalFileDialog@@UEAAXXZ
+              D948:
+                85D274264885C97436488B0A48890B8B01FFC083F801:
+                  0. 0E 539A 0054 0000:?Construct@?$QMetaTypeFunctionHelper@UFilter@QXdgDesktopPortalFileDialog@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+                8B4B1883390074118339FF741E83C8FFF00FC10183F8:
+                  0. 11 E1DE 005B 0000:?destroySubTree@?$QMapNode@VQString@@VQVariant@@@@QEAAXXZ
+          4C634204488BDA49C1E0044C0342104C03C248035210E8:
+            0. 00 0000 0037 0000:?freeData@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXPEAU?$QTypedArrayData@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z (REF 001D: ?destruct@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXPEAUFilterCondition@QXdgDesktopPortalFileDialog@@0@Z)
+            1. 00 0000 0037 0000:?freeData@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXPEAU?$QTypedArrayData@UFilter@QXdgDesktopPortalFileDialog@@@@@Z (REF 001D: ?destruct@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXPEAUFilter@QXdgDesktopPortalFileDialog@@0@Z)
+          8B:
+            05........85C00F85D6000000488D0D........E8:
+              0. 06 B2AF 00F0 0000:?qt_metatype_id@?$QMetaTypeIdQObject@PEAVQDBusPendingCallWatcher@@$07@@SAHXZ
+            1D........85DB751C448D43014883CAFF488D0D........E8:
+              0. 00 0000 0049 0000:??$qDBusRegisterMetaType@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAHPEAUFilterCondition@QXdgDesktopPortalFileDialog@@@Z (000C: 4C) (REF 0008: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@UFilterCondition@QXdgDesktopPortalFileDialog@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              1. 00 0000 0049 0000:??$qDBusRegisterMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@YAHPEAV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z (000C: 4C) (REF 0008: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              2. 00 0000 0049 0000:??$qDBusRegisterMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@YAHPEAV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z (000C: 4C) (REF 0008: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              3. 00 0000 0049 0000:??$qDBusRegisterMetaType@UFilter@QXdgDesktopPortalFileDialog@@@@YAHPEAUFilter@QXdgDesktopPortalFileDialog@@@Z (000C: 4C) (REF 0008: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@UFilter@QXdgDesktopPortalFileDialog@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              4. 00 0000 003F 0000:??1?$ConverterFunctor@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@3@@QtPrivate@@QEAA@XZ (000C: E8) (REF 002D: ?qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@SAHXZ)
+              5. 00 0000 003F 0000:??1?$ConverterFunctor@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@3@@QtPrivate@@QEAA@XZ (000C: E8) (REF 002D: ?qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@SAHXZ)
+        304C8B02488BD94C89442420418B00FFC083F8017604F041FF0048:
+          0. 09 636A 0040 0000:??$qDBusMarshallHelper@UFilter@QXdgDesktopPortalFileDialog@@@@YAXAEAVQDBusArgument@@PEBUFilter@QXdgDesktopPortalFileDialog@@@Z
+    55565741564883EC20488B5920488BF2488BF948837B4000743CE8:
+      0. 00 0000 0123 0000:?selectedFiles@QXdgDesktopPortalFileDialog@@UEBA?AV?$QList@VQUrl@@@@XZ
+  55535657415541564157488BEC4883EC50488B5920488BF948837B40007411:
+    0. 01 3E9B 0318 0000:?initializeDialog@QXdgDesktopPortalFileDialog@@AEAAXXZ
+48:
+  63C248C1E004480101C3:
+    0. 00 0000 000B 0000:?advance@?$IteratorOwner@PEBUFilterCondition@QXdgDesktopPortalFileDialog@@@QtMetaTypePrivate@@SAXPEAPEAXH@Z
+    1. 00 0000 000B 0000:?advance@?$IteratorOwner@PEBUFilter@QXdgDesktopPortalFileDialog@@@QtMetaTypePrivate@@SAXPEAPEAXH@Z
+  83EC28:
+    33C04885D2740E4885C974134883C428E9........4885C97405E8:
+      0. 00 0000 0028 0000:?Construct@?$QMetaTypeFunctionHelper@VQDBusArgument@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+    488B:
+      0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+        0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QXdgDesktopPortalThemePlugin@@YAPEAVQObject@@XZ@YAXXZ
+      11833A007411833AFF74:
+        1483C8FFF00FC10283F8017508488B11:
+          0. 01 3E9B 002A 0000:?Destruct@?$QMetaTypeFunctionHelper@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtMetaTypePrivate@@SAXPEAX@Z (REF 0021: ?freeData@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXPEAU?$QTypedArrayData@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z)
+          1. 01 3E9B 002A 0000:?Destruct@?$QMetaTypeFunctionHelper@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtMetaTypePrivate@@SAXPEAX@Z (REF 0021: ?freeData@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXPEAU?$QTypedArrayData@UFilter@QXdgDesktopPortalFileDialog@@@@@Z)
+        1D83C8FFF00FC10283F8017511488B09:
+          0. 0A 7FD3 0033 0000:?Destruct@?$QMetaTypeFunctionHelper@VQDBusObjectPath@@$00@QtMetaTypePrivate@@SAXPEAX@Z
+      4120488B48404885C97406488B01FF50704883C428C3:
+        0. 00 0000 001C 0000:?hide@QXdgDesktopPortalFileDialog@@UEAAXXZ
+      5108833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+        0. 0C AAB4 0035 0000:?Destruct@?$QMetaTypeFunctionHelper@UFilterCondition@QXdgDesktopPortalFileDialog@@$00@QtMetaTypePrivate@@SAXPEAX@Z
+    4C8BC285C9741983F9017526498B5108498D4810488B124883C428E9:
+      0. 00 0000 003B 0000:?impl@?$QFunctorSlotObject@V<lambda_f81b6166ac6f0be4325601155057cb15>@@$00U?$List@PEAVQDBusPendingCallWatcher@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+    65488B0425580000008B0D........BA........488B0CC88B040A39:
+      0. 01 D5A7 0068 0000:?types@?$ConnectionTypes@U?$List@PEAVQDBusPendingCallWatcher@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ
+    85D275144585C0750F498B41084D8B41108B10E8........4883C428:
+      0. 01 EF04 0021 0000:?qt_static_metacall@QXdgDesktopPortalFileDialog@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+    8B05........85C0751A448D40014883CAFF488D0D........E8:
+      0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@UFilterCondition@QXdgDesktopPortalFileDialog@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@UFilterCondition@QXdgDesktopPortalFileDialog@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      1. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      2. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      3. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@VQDBusArgument@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@VQDBusArgument@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      4. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@VQDBusObjectPath@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@VQDBusObjectPath@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      5. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@VQSequentialIterableImpl@QtMetaTypePrivate@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@VQSequentialIterableImpl@QtMetaTypePrivate@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      6. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@UFilter@QXdgDesktopPortalFileDialog@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@UFilter@QXdgDesktopPortalFileDialog@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+  85D274:
+    0B4885C97406488B02488901488BC1C3:
+      0. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAVQDBusPendingCallWatcher@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+    194885C97423488B124889118B02FFC083F8017614F0FF02EB0F4885:
+      0. 06 6F9A 0031 0000:?Construct@?$QMetaTypeFunctionHelper@VQDBusObjectPath@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+    1F4885C9742C8B028901488B5208488951088B02FFC083F8017619F0:
+      0. 0C 7B02 003C 0000:?Construct@?$QMetaTypeFunctionHelper@UFilterCondition@QXdgDesktopPortalFileDialog@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+  89:
+    4C2408555356574154415541564157488DAC2448FEFFFF4881ECB8020000:
+      0. 19 6889 0EF9 0000:?openPortal@QXdgDesktopPortalFileDialog@@AEAAXXZ
+    5C24:
+      08:
+        4889:
+          6C24:
+            10:
+              4889:
+                7424:
+                  1857:
+                    41:
+                      544155415641574883EC30488B014D:
+                        0. 11 C62D 0103 0000:?insert@?$QMap@VQString@@VQVariant@@@@QEAA?AViterator@1@AEBVQString@@AEBVQVariant@@@Z
+                      5641574883EC:
+                        20488B01458BC84C63:
+                          0. 13 B670 0128 0000:?realloc@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                        508BBC249800000033:
+                          0. 16 5E99 00B2 0000:??$connect@P8QDBusPendingCallWatcher@@EAAXPEAV1@@ZV<lambda_f81b6166ac6f0be4325601155057cb15>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQDBusPendingCallWatcher@@P83@EAAXPEAV3@@ZPEBV0@V<lambda_f81b6166ac6f0be4325601155057cb15>@@W4ConnectionType@Qt@@@Z
+                    4883EC20498BF98BF2488BE9E8:
+                      0. 00 0000 006C 0000:?qt_metacall@QXdgDesktopPortalFileDialog@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                  20574883EC208B35........488BEA488BF9:
+                    0. 0F 8FAC 010B 0000:?metaType@?$QVariantValueHelper@VQDBusObjectPath@@@QtPrivate@@SA?AVQDBusObjectPath@@AEBVQVariant@@@Z
+                7C241841564883EC20488BD983CFFF4883C13848:
+                  0. 19 3355 0112 0000:??1QXdgDesktopPortalFileDialogPrivate@@QEAA@XZ
+              574883EC30488BFA488BD9E8........488BCFE8:
+                0. 00 0000 00E0 0000:??$?5VQVector@@UFilter@QXdgDesktopPortalFileDialog@@@@YAAEBVQDBusArgument@@AEBV0@AEAV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z
+            188954241056574154415641574883EC20488B114C8BF1:
+              0. 18 3165 0143 0000:?detach_helper_grow@?$QList@VQUrl@@@@AEAAPEAUNode@1@HH@Z
+          742410574883EC:
+            20:
+              48:
+                635A0C488BFA486372084883C3024883:
+                  0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                8B:
+                  01458BC84C63C2488BF9BA08000000:
+                    0. 0A 93A6 0108 0000:?realloc@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                  11833A007411833AFF744583C8FFF0:
+                    0. 30 1831 0071 0000:??1?$QList@VQUrl@@@@QEAA@XZ
+                  59:
+                    10488BF24885DB743E33FF488D4B:
+                      0. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@VQVariant@@@@QEBAPEAU?$QMapNode@VQString@@VQVariant@@@@AEBVQString@@@Z
+                    188BF2488BF94885DB742783C8FF:
+                      0. 20 DE05 0072 0000:??_GQPlatformFileDialogHelper@@UEAAPEAXI@Z
+                  7920488BDA488BF148837F40007439:
+                    0. 01 3E9B 007B 0000:?directory@QXdgDesktopPortalFileDialog@@UEBA?AVQUrl@@XZ
+                  D9488BFA488BCAE8........8BF08B:
+                    0. 01 D5A7 0092 0000:??$qdbus_cast@VQDBusObjectPath@@@@YA?AVQDBusObjectPath@@AEBVQVariant@@PEAV0@@Z
+                  DA488BF1E8........488BD3488D7B:
+                    0. 05 8E78 009D 0000:??6@YAAEAVQDBusArgument@@AEAV0@UFilter@QXdgDesktopPortalFileDialog@@@Z
+                  FA488BF1E8........8B17488BCEE8:
+                    0. 00 0000 004B 0000:??6@YAAEAVQDBusArgument@@AEAV0@AEBUFilterCondition@QXdgDesktopPortalFileDialog@@@Z
+              8B:
+                05........488BFA488BD985C0751A44:
+                  0. 0A 1DA6 008A 0000:??$?6VQVector@@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAAEAVQDBusArgument@@AEAV0@AEBV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z
+                3D........488BF2488BD985FF751C44:
+                  0. 0A FF4F 00AE 0000:?metaType@?$QVariantValueHelper@VQDBusArgument@@@QtPrivate@@SA?AVQDBusArgument@@AEBVQVariant@@@Z
+            30:
+              4533C9C644242000488BF2488BF9488BCE:
+                0. 09 37F9 00C6 0000:?copy@?$QMapNode@VQString@@VQVariant@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQVariant@@@@@Z
+              4C8B01:
+                488BF941BAFFFFFF7F418B480845:
+                  0. 91 1C24 011D 0000:?append@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@QEAAXAEBUFilterCondition@QXdgDesktopPortalFileDialog@@@Z
+                4C8BCA488BD9418B7808418B7004:
+                  0. 40 CA72 0154 0000:?append@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@QEAAXAEBUFilter@QXdgDesktopPortalFileDialog@@@Z
+              8B05........488BDA488BF985C0751A44:
+                0. 0A 1DA6 00B1 0000:??$?6VQVector@@UFilter@QXdgDesktopPortalFileDialog@@@@YAAEAVQDBusArgument@@AEAV0@AEBV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z
+          7C241055488BEC4883EC30488D3D........488BDA488BCFE8:
+            0. 00 0000 00D1 0000:?create@QXdgDesktopPortalThemePlugin@@UEAAPEAVQPlatformTheme@@AEBVQString@@AEBVQStringList@@@Z
+        55574156488BEC4883EC70488D4210488BD948F7DA488D4DE0481B:
+          0. 05 850D 01EF (l)0000:??R<lambda_f81b6166ac6f0be4325601155057cb15>@@QEBAXPEAVQDBusPendingCallWatcher@@@Z
+        574883EC:
+          20:
+            48:
+              8B:
+                02488BFA48:
+                  8901488BD9833800740A8338FF745D:
+                    0. 09 1D8B 008B 0000:??0?$QList@VQString@@@@QEAA@AEBV0@@Z
+                  8BD983380074108338FF7403F0FF00:
+                    0. 25 2C8A 00AD 0000:??0?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXPEBUFilterCondition@QXdgDesktopPortalFileDialog@@0PEAU23@@Z)
+                    1. 25 2C8A 00AD 0000:??0?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXPEBUFilter@QXdgDesktopPortalFileDialog@@0PEAU23@@Z)
+                59:
+                  10488BF94885DB7463488B4B18833900741183:
+                    0. 1E BDD7 008B 0000:?destroy@?$QMapData@VQString@@VQVariant@@@@QEAAXXZ
+                  2048:
+                    8BFA48837B40007421E8........488B4B:
+                      0. 05 0DEC 0044 0000:?selectNameFilter@QXdgDesktopPortalFileDialog@@UEAAXAEBVQString@@@Z
+                    8D05........488901488BF94885DB7415:
+                      0. 04 BF6F 0077 0000:??1QXdgDesktopPortalFileDialog@@UEAA@XZ
+                7910488B4F10488B0185D2753AFF5028B9280000:
+                  0. 06 6FF3 0061 0000:?createPlatformDialogHelper@QXdgDesktopPortalTheme@@UEBAPEAVQPlatformDialogHelper@@W4DialogType@QPlatformTheme@@@Z
+                D9:
+                  8BFA48:
+                    83C1084C8B01418338007413418338FF:
+                      0. 13 28D9 0082 0000:??_GFilter@QXdgDesktopPortalFileDialog@@QEAAPEAXI@Z
+                    8B49104885C9740A488B01BA01000000:
+                      0. 06 842D 004B 0000:??_GQXdgDesktopPortalTheme@@UEAAPEAXI@Z
+                  E8........488B13488BF8488B4A104885C974:
+                    0. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@VQVariant@@@@AEAAXXZ
+                DA488BF94885D2750433C0EB23488D15:
+                  0. 04 BF6F 0047 0000:?qt_metacast@QXdgDesktopPortalThemePlugin@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QXdgDesktopPortalThemePlugin@@3Uqt_meta_stringdata_QXdgDesktopPortalThemePlugin_t@@B)
+                  1. 04 BF6F 0047 0000:?qt_metacast@QXdgDesktopPortalFileDialog@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QXdgDesktopPortalFileDialog@@3Uqt_meta_stringdata_QXdgDesktopPortalFileDialog_t@@B)
+                FA418BD8488BD1488D4C2448E8........448BC3:
+                  0. 09 738E 006A 0000:??$qRegisterMetaType@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAHPEBDPEAUFilterCondition@QXdgDesktopPortalFileDialog@@W4DefinedType@?$MetaTypeDefinedHelper@UFilterCondition@QXdgDesktopPortalFileDialog@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAHAEBVQByteArray@@PEAUFilterCondition@QXdgDesktopPortalFileDialog@@W4DefinedType@?$MetaTypeDefinedHelper@UFilterCondition@QXdgDesktopPortalFileDialog@@$00@QtPrivate@@@Z)
+                  1. 09 738E 006A 0000:??$qRegisterMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@YAHPEBDPEAV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@YAHAEBVQByteArray@@PEAV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@@Z)
+                  2. 09 738E 006A 0000:??$qRegisterMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@YAHPEBDPEAV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@YAHAEBVQByteArray@@PEAV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@@Z)
+                  3. 09 738E 006A 0000:??$qRegisterMetaType@VQDBusArgument@@@@YAHPEBDPEAVQDBusArgument@@W4DefinedType@?$MetaTypeDefinedHelper@VQDBusArgument@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@VQDBusArgument@@@@YAHAEBVQByteArray@@PEAVQDBusArgument@@W4DefinedType@?$MetaTypeDefinedHelper@VQDBusArgument@@$00@QtPrivate@@@Z)
+                  4. 09 738E 006A 0000:??$qRegisterMetaType@VQDBusObjectPath@@@@YAHPEBDPEAVQDBusObjectPath@@W4DefinedType@?$MetaTypeDefinedHelper@VQDBusObjectPath@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@VQDBusObjectPath@@@@YAHAEBVQByteArray@@PEAVQDBusObjectPath@@W4DefinedType@?$MetaTypeDefinedHelper@VQDBusObjectPath@@$00@QtPrivate@@@Z)
+                  5. 09 738E 006A 0000:??$qRegisterMetaType@VQSequentialIterableImpl@QtMetaTypePrivate@@@@YAHPEBDPEAVQSequentialIterableImpl@QtMetaTypePrivate@@W4DefinedType@?$MetaTypeDefinedHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@VQSequentialIterableImpl@QtMetaTypePrivate@@@@YAHAEBVQByteArray@@PEAVQSequentialIterableImpl@QtMetaTypePrivate@@W4DefinedType@?$MetaTypeDefinedHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtPrivate@@@Z)
+                  6. 09 738E 006A 0000:??$qRegisterMetaType@UFilter@QXdgDesktopPortalFileDialog@@@@YAHPEBDPEAUFilter@QXdgDesktopPortalFileDialog@@W4DefinedType@?$MetaTypeDefinedHelper@UFilter@QXdgDesktopPortalFileDialog@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@UFilter@QXdgDesktopPortalFileDialog@@@@YAHAEBVQByteArray@@PEAUFilter@QXdgDesktopPortalFileDialog@@W4DefinedType@?$MetaTypeDefinedHelper@UFilter@QXdgDesktopPortalFileDialog@@$00@QtPrivate@@@Z)
+              8D05........488BD94889018BFA488B49104885C9:
+                0. 10 7216 0055 0000:??_GQXdgDesktopPortalThemePrivate@@UEAAPEAXI@Z
+            4C8B01488BF9496340084983C010498D1CC0E8:
+              0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0105 (l)0000:?qt_plugin_instance_QXdgDesktopPortalThemePlugin@@YAPEAVQObject@@XZ
+            8B:
+              1D........8BF985DB751C448D43014883CAFF488D:
+                0. 01 9D2B 00BF 0000:?registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z (REF 005C: ?$TSS0@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z@4HA)
+                1. 01 9D2B 00BF 0000:?registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z (REF 005C: ?$TSS0@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z@4HA)
+              DA488BF9E8........F6C301740DBA:
+                10000000488B:
+                  0. 02 632D 0034 0000:??_GQXdgDesktopPortalThemePlugin@@UEAAPEAXI@Z
+                28000000488B:
+                  0. 02 632D 0034 0000:??_GQXdgDesktopPortalFileDialog@@UEAAPEAXI@Z
+          30:
+            418BF8488BD94885D27516E8........83F8FF740C8B:
+              0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@UFilter@QXdgDesktopPortalFileDialog@@@@YAHAEBVQByteArray@@PEAUFilter@QXdgDesktopPortalFileDialog@@W4DefinedType@?$MetaTypeDefinedHelper@UFilter@QXdgDesktopPortalFileDialog@@$00@QtPrivate@@@Z (0005: 35) (0010: 03) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@UFilter@QXdgDesktopPortalFileDialog@@@@SAHXZ)
+              1. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAHAEBVQByteArray@@PEAUFilterCondition@QXdgDesktopPortalFileDialog@@W4DefinedType@?$MetaTypeDefinedHelper@UFilterCondition@QXdgDesktopPortalFileDialog@@$00@QtPrivate@@@Z (0005: 35) (0010: 03) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@UFilterCondition@QXdgDesktopPortalFileDialog@@@@SAHXZ)
+              2. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@VQDBusObjectPath@@@@YAHAEBVQByteArray@@PEAVQDBusObjectPath@@W4DefinedType@?$MetaTypeDefinedHelper@VQDBusObjectPath@@$00@QtPrivate@@@Z (0005: 35) (0010: 07) (0022: 08) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@VQDBusObjectPath@@@@SAHXZ)
+              3. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@VQDBusArgument@@@@YAHAEBVQByteArray@@PEAVQDBusArgument@@W4DefinedType@?$MetaTypeDefinedHelper@VQDBusArgument@@$00@QtPrivate@@@Z (0005: 35) (0010: 07) (0022: 08) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@VQDBusArgument@@@@SAHXZ)
+              4. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@VQSequentialIterableImpl@QtMetaTypePrivate@@@@YAHAEBVQByteArray@@PEAVQSequentialIterableImpl@QtMetaTypePrivate@@W4DefinedType@?$MetaTypeDefinedHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtPrivate@@@Z (0005: 35) (0010: 07) (0022: 68)
+              5. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@PEAVQDBusPendingCallWatcher@@@@YAHAEBVQByteArray@@PEAPEAVQDBusPendingCallWatcher@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQDBusPendingCallWatcher@@$00@QtPrivate@@@Z (0005: 3B)
+              6. 05 21A3 007A 0000:??$qRegisterNormalizedMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@YAHAEBVQByteArray@@PEAV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@@Z (0005: 44) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@SAHXZ)
+              7. 05 21A3 007A 0000:??$qRegisterNormalizedMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@YAHAEBVQByteArray@@PEAV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@@Z (0005: 44) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@SAHXZ)
+            488BFA488BD9E8........488BCFE8........EB5148:
+              0. 02 5E64 0092 0000:??$?5VQVector@@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAAEBVQDBusArgument@@AEBV0@AEAV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z
+      10:
+        4889742418574883EC30488BDA488BF933D2448D4220E8:
+          0. 04 DF08 00F4 0000:??0QXdgDesktopPortalFileDialog@@QEAA@PEAVQPlatformFileDialogHelper@@@Z
+        55565741564157488BEC4883EC504C8B7120498BF8488BD985D20F:
+          0. 08 21E9 01AA 0000:?gotResponse@QXdgDesktopPortalFileDialog@@AEAAXIAEBV?$QMap@VQString@@VQVariant@@@@@Z
+        574883EC:
+          20488B:
+            01488BFA488BD98338017629BAFFFFFF7F41B801:
+              0. 04 9897 0073 0000:??6QStringList@@QEAAAEAV0@AEBVQString@@@Z
+            5920488BFA48837B40007421E8........488B4B:
+              0. 05 0DEC 0098 0000:?setDirectory@QXdgDesktopPortalFileDialog@@UEAAXAEBVQUrl@@@Z (0010: 80)
+              1. 05 0DEC 0096 0000:?selectFile@QXdgDesktopPortalFileDialog@@UEAAXAEBVQUrl@@@Z (0010: 90)
+            D9488BFA488B0A448B410C8B5108443BC20F84C6:
+              0. 09 9E3E 00F7 0000:??Y?$QList@VQString@@@@QEAAAEAV0@AEBV0@@Z
+            DA488BF9E8........488BD3488BCFE8:
+              0. 08 7CA7 006F 0000:??0?$QDBusPendingReply@VQDBusObjectPath@@XXXXXXX@@QEAA@AEBVQDBusPendingCall@@@Z
+          40488B7920488BD948837F40007436E8........488B08:
+            0. 01 3E9B 00DC 0000:?exec@QXdgDesktopPortalFileDialog@@UEAAXXZ
+      18574883EC20488D05........488BDA4889442438488BF9:
+        48894424:
+          0. 02 A3D2 00C6 0000:??5@YAAEBVQDBusArgument@@AEBV0@AEAUFilter@QXdgDesktopPortalFileDialog@@@Z
+        E8:
+          0. 00 0000 0093 0000:??5@YAAEBVQDBusArgument@@AEBV0@AEAUFilterCondition@QXdgDesktopPortalFileDialog@@@Z
+      2055565741564157488BEC4883EC204C8BF1E8........488D05:
+        0. 00 0000 01C3 0000:??0QXdgDesktopPortalTheme@@QEAA@XZ
+    742408574883EC20488B01488BF9837804000F8491000000833801762B8B:
+      0. 19 24C1 00B6 0000:?clear@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@QEAAXXZ (REF 0046: ?realloc@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+      1. 19 24C1 00B6 0000:?clear@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@QEAAXXZ (REF 0046: ?realloc@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+  8B:
+    01:
+      4863480448C1E104480348104803C848890AC3:
+        0. 00 0000 0016 0000:??$moveToEndImpl@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+        1. 00 0000 0016 0000:??$moveToEndImpl@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+      8B4004C3:
+        0. 00 0000 0007 0000:??$sizeImpl@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAHPEBX@Z
+        1. 00 0000 0007 0000:??$sizeImpl@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAHPEBX@Z
+    0248:
+      39010F94C0C3:
+        0. 00 0000 000A 0000:?equal@?$IteratorOwner@PEBUFilterCondition@QXdgDesktopPortalFileDialog@@@QtMetaTypePrivate@@SA_NPEBQEAX0@Z
+        1. 00 0000 000A 0000:?equal@?$IteratorOwner@PEBUFilter@QXdgDesktopPortalFileDialog@@@QtMetaTypePrivate@@SA_NPEBQEAX0@Z
+      89:
+        01C3:
+          0. 00 0000 0007 0000:?assign@?$IteratorOwner@PEBUFilterCondition@QXdgDesktopPortalFileDialog@@@QtMetaTypePrivate@@SAXPEAPEAXPEBQEAX@Z
+          1. 00 0000 0007 0000:?assign@?$IteratorOwner@PEBUFilter@QXdgDesktopPortalFileDialog@@@QtMetaTypePrivate@@SAXPEAPEAXPEBQEAX@Z
+        4108488BC144890144894910C3:
+          0. 00 0000 0012 0000:??$getImpl@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SA?AUVariantData@1@PEBQEAXHI@Z
+          1. 00 0000 0012 0000:??$getImpl@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SA?AUVariantData@1@PEBQEAXHI@Z
+    4110488B4810488B0148FF60:
+      08:
+        0. 00 0000 000F 0000:?createPlatformMenuItem@QXdgDesktopPortalTheme@@UEBAPEAVQPlatformMenuItem@@XZ
+      10:
+        0. 00 0000 000F 0000:?createPlatformMenu@QXdgDesktopPortalTheme@@UEBAPEAVQPlatformMenu@@XZ
+      18:
+        0. 00 0000 000F 0000:?createPlatformMenuBar@QXdgDesktopPortalTheme@@UEBAPEAVQPlatformMenuBar@@XZ
+      20:
+        0. 00 0000 000F 0000:?showPlatformMenuBar@QXdgDesktopPortalTheme@@UEAAXXZ
+      38:
+        0. 00 0000 000F 0000:?createPlatformSystemTrayIcon@QXdgDesktopPortalTheme@@UEBAPEAVQPlatformSystemTrayIcon@@XZ
+      40:
+        0. 00 0000 000F 0000:?palette@QXdgDesktopPortalTheme@@UEBAPEBVQPalette@@W4Palette@QPlatformTheme@@@Z
+      48:
+        0. 00 0000 000F 0000:?font@QXdgDesktopPortalTheme@@UEBAPEBVQFont@@W4Font@QPlatformTheme@@@Z
+      68:
+        0. 00 0000 000F 0000:?createIconEngine@QXdgDesktopPortalTheme@@UEBAPEAVQIconEngine@@AEBVQString@@@Z
+    49:
+      0848837928000F85........488D05........C3:
+        0. 00 0000 0017 0000:?metaObject@QXdgDesktopPortalThemePlugin@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QXdgDesktopPortalThemePlugin@@2UQMetaObject@@B)
+        1. 00 0000 0017 0000:?metaObject@QXdgDesktopPortalFileDialog@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QXdgDesktopPortalFileDialog@@2UQMetaObject@@B)
+      1085D27503B001C3488B4910488B0148FF6028:
+        0. 00 0000 0016 0000:?usePlatformNativeDialog@QXdgDesktopPortalTheme@@UEBA_NW4DialogType@QPlatformTheme@@@Z
+    C4488958084889:
+      681848897020895010574883EC20488B7920498BF1418B:
+        0. 05 F18B 00AB 0000:?show@QXdgDesktopPortalFileDialog@@UEAA_NV?$QFlags@W4WindowType@Qt@@@@W4WindowModality@Qt@@PEAVQWindow@@@Z
+      70184889782089501041564883EC20488B11488BD94963:
+        0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+  8D:
+    05........:
+      4889:
+        01488D05........48894108488BC1C3:
+          0. 00 0000 0019 0000:?qt_static_plugin_QXdgDesktopPortalThemePlugin@@YA?BUQStaticPlugin@@XZ
+        02488BC2C3:
+          0. 00 0000 000E 0000:?selectedNameFilter@QXdgDesktopPortalFileDialog@@UEBA?AVQString@@XZ
+      C3:
+        0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QXdgDesktopPortalThemePlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+    0D........E9:
+      0. 00 0000 000C 0000:??__Ff@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z@YAXXZ (REF 0003: ?f@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z@4U?$ConverterFunctor@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@3@@3@B)
+      1. 00 0000 000C 0000:??__Ff@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z@YAXXZ (REF 0003: ?f@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@$00@QtPrivate@@SA_NH@Z@4U?$ConverterFunctor@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@3@@3@B)
+493BD074:
+  2D48895C2408574883EC20498BF8488BDA488BCB33D24883C310E8:
+    0. 00 0000 0033 0000:?destruct@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXPEAUFilter@QXdgDesktopPortalFileDialog@@0@Z
+  5248895C2408574883EC20498BF8488BDA4C8BCB4883C310498B4908:
+    0. 24 A0A2 0058 0000:?destruct@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXPEAUFilterCondition@QXdgDesktopPortalFileDialog@@0@Z
+  5B48895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+    0. 24 0957 0061 0000:?copyConstruct@?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@AEAAXPEBUFilter@QXdgDesktopPortalFileDialog@@0PEAU23@@Z
+4C8B01:
+  4863C248C1E004490340104903C0C3:
+    0. 00 0000 0012 0000:??$atImpl@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAPEBXPEBXH@Z
+    1. 00 0000 0012 0000:??$atImpl@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAPEBXPEBXH@Z
+  498B48104903C848890AC3:
+    0. 00 0000 000E 0000:??$moveToBeginImpl@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+    1. 00 0000 000E 0000:??$moveToBeginImpl@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+E9:
+  0. 00 0000 0005 0000:??$qDBusDemarshallHelper@UFilter@QXdgDesktopPortalFileDialog@@@@YAXAEBVQDBusArgument@@PEAUFilter@QXdgDesktopPortalFileDialog@@@Z (REF 0001: ??5@YAAEBVQDBusArgument@@AEBV0@AEAUFilter@QXdgDesktopPortalFileDialog@@@Z)
+  1. 00 0000 0005 0000:??$qDBusDemarshallHelper@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAXAEBVQDBusArgument@@PEAUFilterCondition@QXdgDesktopPortalFileDialog@@@Z (REF 0001: ??5@YAAEBVQDBusArgument@@AEBV0@AEAUFilterCondition@QXdgDesktopPortalFileDialog@@@Z)
+  2. 00 0000 0005 0000:??$qDBusDemarshallHelper@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@YAXAEBVQDBusArgument@@PEAV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z (REF 0001: ??$?5VQVector@@UFilter@QXdgDesktopPortalFileDialog@@@@YAAEBVQDBusArgument@@AEBV0@AEAV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z)
+  3. 00 0000 0005 0000:??$qDBusDemarshallHelper@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@YAXAEBVQDBusArgument@@PEAV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z (REF 0001: ??$?5VQVector@@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAAEBVQDBusArgument@@AEBV0@AEAV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z)
+  4. 00 0000 0005 0000:??$qDBusMarshallHelper@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAXAEAVQDBusArgument@@PEBUFilterCondition@QXdgDesktopPortalFileDialog@@@Z (REF 0001: ??6@YAAEAVQDBusArgument@@AEAV0@AEBUFilterCondition@QXdgDesktopPortalFileDialog@@@Z)
+  5. 00 0000 0005 0000:??$qDBusMarshallHelper@V?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@@YAXAEAVQDBusArgument@@PEBV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z (REF 0001: ??$?6VQVector@@UFilter@QXdgDesktopPortalFileDialog@@@@YAAEAVQDBusArgument@@AEAV0@AEBV?$QVector@UFilter@QXdgDesktopPortalFileDialog@@@@@Z)
+  6. 00 0000 0005 0000:??$qDBusMarshallHelper@V?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@@YAXAEAVQDBusArgument@@PEBV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z (REF 0001: ??$?6VQVector@@UFilterCondition@QXdgDesktopPortalFileDialog@@@@YAAEAVQDBusArgument@@AEAV0@AEBV?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@@Z)
+  7. 00 0000 0005 0000:?Destruct@?$QMetaTypeFunctionHelper@VQDBusArgument@@$00@QtMetaTypePrivate@@SAXPEAX@Z (REF 0001: ??1QDBusArgument@@QEAA@XZ)
+  8. 00 0000 0005 0000:?qt_metacall@QXdgDesktopPortalThemePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QPlatformThemePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+EB294D8BD14983C1104D85D2741D8B02418902488B4A0849894A088B01FFC083:
+  0. 11 80F3 0031 0000:?copyConstruct@?$QVector@UFilterCondition@QXdgDesktopPortalFileDialog@@@@AEAAXPEBUFilterCondition@QXdgDesktopPortalFileDialog@@0PEAU23@@Z

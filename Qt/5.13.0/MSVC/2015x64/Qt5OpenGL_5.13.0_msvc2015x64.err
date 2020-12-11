@@ -1,0 +1,1879 @@
+33C0:
+  384130740948890248894208EB178B412889028B412C8942048B41208942:
+    0. 0B 4366 002B 0000:?boundingRect@QGL2PEXVertexArray@@QEBA?AUQGLRect@@XZ
+  4889411048894118C3:
+    0. 00 0000 000B 0000:?invalidateResource@QGLGlyphTexture@@UEAAXXZ
+3991:
+  80000000740A899180000000C6412001C3:
+    0. 00 0000 0013 0000:?setSrcPixelType@QGLEngineShaderManager@@QEAAXW4PixelSrcType@1@@Z
+    1. 00 0000 0013 0000:?setSrcPixelType@QGLEngineShaderManager@@QEAAXW4BrushStyle@Qt@@@Z
+  84000000740A899184000000C6412001C3:
+    0. 00 0000 0013 0000:?setOpacityMode@QGLEngineShaderManager@@QEAAXW4OpacityMode@1@@Z
+  88000000740A899188000000C6412001C3:
+    0. 00 0000 0013 0000:?setMaskType@QGLEngineShaderManager@@QEAAXW4MaskType@1@@Z
+  8C000000740A89918C000000C6412001C3:
+    0. 00 0000 0013 0000:?setCompositionMode@QGLEngineShaderManager@@QEAAXW4CompositionMode@QPainter@@@Z
+40:
+  53:
+    4883EC:
+      20:
+        48:
+          634204488BDA4C69C0A80000004C0342104C03C248035210E8:
+            0. 00 0000 003C 0000:?freeData@?$QVector@VQPainterClipInfo@@@@AEAAXPEAU?$QTypedArrayData@VQPainterClipInfo@@@@@Z
+          8911488D05........48894108488BD9C7411001000000833D:
+            0. 00 0000 0044 0000:??0QGLContextGroup@@AEAA@PEBVQGLContext@@@Z
+          8B:
+            01488B:
+              D9:
+                48:
+                  39027443488D4C2430E8........488B0B488B:
+                    0. 30 C1A7 005D 0000:??4?$QVector@I@@QEAAAEAV0@AEBV0@@Z
+                  8B48104885C97406488B01FF5010488B03488B:
+                    0. 36 C11D 005A 0000:??1QGLTemporaryContext@@QEAA@XZ
+                FF5008488BCB4883C4205BE9:
+                  0. 00 0000 001C 0000:?regenerateClip@QGL2PaintEngineExPrivate@@QEAAXXZ
+              DAFF5050488BC8488BD3E8........488BC34883C4:
+                0. 03 3F06 0023 0000:?format@QGLPaintDevice@@UEBA?AVQGLFormat@@XZ
+            0A488BDAFF15........488B4B08FF15........BA300000:
+              0. 0A 4812 002E 0000:?cleanupVectorPath@QGL2PaintEngineExPrivate@@SAXPEAVQPaintEngineEx@@PEAX@Z
+            11488BD983C8FFF00FC10283F8017512E8........488B0B:
+              0. 06 2417 0030 0000:??1QGLBuffer@@QEAA@XZ
+            19488B4B084885C9740AE8........48836308004883C420:
+              0. 02 8FCC 0022 0000:?destroy@QGLBuffer@@QEAAXXZ
+            41:
+              0841B8C8010000488B59184885C0488D90C0010000490F:
+                0. 07 CA63 0056 0000:?clipEnabledChanged@QGL2PaintEngineEx@@UEAAXXZ
+              28488BD98B5008C1EA0AF6C2017515488B01FF90B00100:
+                0. 13 487C 0033 0000:?paintEvent@QGLWidget@@MEAAXPEAVQPaintEvent@@@Z
+            4908488BDABA80000000E8........33C984C0488BC30F95:
+              0. 09 1BF2 0029 0000:?textureListFlags@QWidgetPrivate@@UEAA?AV?$QFlags@W4Flag@QPlatformTextureList@@@@XZ
+            5908488D4C2430E8........488B0B488D542430E8:
+              0. 00 0000 005B 0000:?getProcAddress@QGLContext@@QEBAP6AXXZAEBVQString@@@Z
+            CA488BDAE8........488BC34883C4205BC3:
+              0. 00 0000 001A 0000:?overlayTransparentColor@QGLContext@@QEBA?AVQColor@@XZ (REF 000D: ?invalidate@QColor@@AEAAXXZ)
+              1. 00 0000 001A 0000:?grabFramebuffer@QWidgetPrivate@@UEAA?AVQImage@@XZ (REF 000D: ??0QImage@@QEAA@XZ)
+            D9:
+              48:
+                85C9750833C04883C4205BC3E8........4885C0740D:
+                  0. 09 D7C0 0047 0000:?fromOpenGLContext@QGLContext@@SAPEAV1@PEAVQOpenGLContext@@@Z
+                8B:
+                  49:
+                    1083390074118339FF741E83C8FFF00FC10183F8:
+                      0. 11 4B62 0067 0000:??1QVertexIndexVector@@QEAA@XZ
+                    20:
+                      4885C9740B488B01BA01000000FF5018488B4B:
+                        0. 25 529A 007B 0000:??1QGLEngineShaderProg@@QEAA@XZ
+                      E8........:
+                        488BCB4883C4205BE9:
+                          0. 00 0000 001F 0000:?beginPaint@QGLPBufferGLPaintDevice@@UEAAXXZ
+                        84C07409488B4B20E8........48:
+                          0. 08 EA6B 002C 0000:?endPaint@QGLWidgetGLPaintDevice@@UEAAXXZ
+                    484885C974:
+                      0A488B01BA01000000FF1048836348:
+                        0. 3B 7C4F 005B 0000:?cleanup@QGLPixelBufferPrivate@@QEAA_NXZ
+                      2083C8FFF00FC1410883F801751348:
+                        0. 45 2A06 0069 0000:??1QStaticTextItem@@QEAA@XZ
+                    704885C9740AE8........48836370004883C420:
+                      0. 02 8FCC 0022 0000:?deleteShader@QGLShaderPrivate@@QEAAXXZ
+                  89:
+                    900000004885C97405E8........4883A3900000:
+                      0. 0C 165F 002C 0000:?removeCustomStage@QGLEngineShaderManager@@QEAAXXZ
+                    B8000000E8........33C0488D4B68488983B800:
+                      0. 1C 1428 0040 0000:?clear@QGLTextureGlyphCache@@QEAAXXZ
+                    C8010000488B01FF5010E8........488BC833C0:
+                      0. 06 FA4C 003A 0000:?makeCurrent@QGLWidgetPrivate@@QEAA_NXZ
+                  CAE8........:
+                    33D24885C07404488D501048891348:
+                      0. 05 28D1 0025 0000:?initializeGLFunctions@QGLFunctions@@QEAAXPEBVQGLContext@@@Z
+                      1. 08 5E3B 0028 0000:??0QGLFunctions@@QEAA@PEBVQGLContext@@@Z
+                    488BD0488BCBE8........488D05:
+                      0. 00 0000 0045 0000:??0QGL2GradientCache@@QEAA@PEAVQOpenGLContext@@@Z
+                8D:
+                  05........33C933D248890B48894B08488D4B2048:
+                    0. 0C ED36 0075 0000:??0QGLTextureCache@@QEAA@XZ
+                  4C2440E8........488B442440488BCB488B501048:
+                    0. 03 D51D 005F 0000:?compileSourceCode@QGLShader@@QEAA_NAEBVQString@@@Z (0009: 8A)
+                    1. 03 D51D 005F 0000:?uniformLocation@QGLShaderProgram@@QEBAHAEBVQString@@@Z (0009: 8B) (REF 0023: ?uniformLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+                    2. 03 D51D 005F 0000:?attributeLocation@QGLShaderProgram@@QEBAHAEBVQString@@@Z (0009: 8B) (REF 0023: ?attributeLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+              B9:
+                08050000E8........488BD3488BC8E8........488B:
+                  0. 05 21A3 003C 0000:??0QGL2PaintEngineEx@@QEAA@XZ
+                20000000E8........B9E4880000C700010000004883:
+                  0. 21 C167 0041 0000:??0QGLBuffer@@QEAA@XZ
+                3C000000E8........33D283C9FFC7000100000048C7:
+                  0. 38 88F8 0058 0000:??0QGLFormat@@QEAA@XZ
+              E8........:
+                48:
+                  8BC8:
+                    488D15........E8........E8:
+                      0. 00 0000 0089 0000:??1QGLTextureCache@@QEAA@XZ
+                    E8........488B10FF929800000048:
+                      0. 08 EA6B 002C 0000:?endPaint@QGLPBufferGLPaintDevice@@UEAAXXZ
+                  8D05........48:
+                    8903:
+                      488BC34883C4205B:
+                        0. 01 EF04 0021 0000:??0QGLWidgetGLPaintDevice@@QEAA@XZ
+                      83C8FF83A3CC0100:
+                        0. 30 0005 0050 0000:??0QGL2PaintEngineState@@QEAA@XZ
+                    8D8B98000000488903E8:
+                      0. 00 0000 00C2 0000:??0QGLTextureGlyphCache@@QEAA@W4GlyphFormat@QFontEngine@@AEBVQTransform@@@Z
+                83:
+                  631C00488D05........488903488BC348:
+                    0. 05 28D1 0025 0000:??0QGLPaintDevice@@QEAA@XZ
+                  F8FF7417488B4B08488B91A00000008BC8:
+                    0. 10 5C71 0030 0000:?disableAttributeArray@QGLShaderProgram@@QEAAXPEBD@Z
+                    1. 10 E937 0030 0000:?enableAttributeArray@QGLShaderProgram@@QEAAXPEBD@Z
+            DA48:
+              85D2741CE8........B9E0010000E8........488BD3:
+                0. 04 D745 004C 0000:?createState@QGL2PaintEngineEx@@UEBAPEAVQPainterState@@PEAV2@@Z
+              8B51:
+                084881C290000000488BCBE8........488BC348:
+                  0. 05 28D1 0025 0000:?shaders@QGLShaderProgram@@QEBA?AV?$QList@PEAVQGLShader@@@@XZ
+                184883C258488BCBE8........488BC34883C420:
+                  0. 02 8FCC 0022 0000:?format@QGLPixelBuffer@@QEBA?AVQGLFormat@@XZ
+              8D:
+                05........488B11483BD07424488B52084885D274:
+                  0. 16 6FCC 004D 0000:?entryColor@QGLColormap@@QEBA?AVQColor@@H@Z
+                5128488BCBE8........488BC34883C4205BC3:
+                  0. 00 0000 001E 0000:?format@QGLFBOGLPaintDevice@@UEBA?AVQGLFormat@@XZ
+          8D05........488BD9488901:
+            488B:
+              4108488B88A80000004885:
+                0. 16 6A3F 003A 0000:??1QGraphicsShaderEffect@@UEAA@XZ
+              89:
+                880000004885C9740ABA:
+                  0. 05 11FE 0076 0000:??1QGLShaderPrivate@@UEAA@XZ
+                C80000004885C9740B48:
+                  0. 17 2FC7 0048 0000:??1QGLTextureGlyphCache@@UEAA@XZ
+            833D........FE7F0433C0EB05:
+              0. 01 3E9B 006C 0000:??1QGLContext@@UEAA@XZ
+            B918000000E8........488D0D:
+              0. 00 0000 003E 0000:??0QGLCustomShaderStage@@QEAA@XZ
+            E8........488BCB4883C4205B:
+              0. 01 B78A 0025 0000:??1QGLEngineShaderManager@@UEAA@XZ
+        4C8B:
+          0933DB498B41084885C0741E3958107419498B5118418B49:
+            0. 1A 50D4 003A 0000:?unmap@QGLBuffer@@QEAA_NXZ
+          19:
+            488BDA498B43084885C0742283781000741C498B431845:
+              0. 1D 52CC 003D 0000:?allocate@QGLBuffer@@QEAAXPEBXH@Z
+            498BD8498B43084885C0742183781000741B498B431841:
+              0. 1C 5C32 003C 0000:?write@QGLBuffer@@QEAAXHPEBXH@Z
+          42184D85C07408488B4220498940204C8B42204D85C07408:
+            0. 34 1729 008D 0000:?unlink@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@AEAAXAEAUNode@1@@Z
+        65488B042558000000488D1D........8B0D........41B8:
+          0. 00 0000 00A9 (l)0000:?innerFunction@Q_QGS_defaultOverlayFormatInstance@?A0xb67c8be3@@YAPEAVQGLDefaultOverlayFormat@@XZ
+        83:
+          3D........FE488BD97F0433C0EB05E8........488B:
+            004889:
+              0. 0D CDF7 002D 0000:?defaultOverlayFormat@QGLFormat@@SA?AV1@XZ (REF 0008: ?guard@Q_QGS_defaultOverlayFormatInstance@?A0xb67c8be3@@3V?$QBasicAtomicInteger@H@@A)
+              1. 0D CDF7 002D 0000:?defaultFormat@QGLFormat@@SA?AV1@XZ (REF 0008: ?guard@Q_QGS_qgl_default_format@?A0xb67c8be3@@3V?$QBasicAtomicInteger@H@@A)
+            D3488B:
+              0. 07 09A0 002B 0000:?cleanupTexturesForCacheKey@QGLTextureCache@@SAX_J@Z (REF 0008: ?guard@Q_QGS_qt_gl_texture_cache@?A0xb67c8be3@@3V?$QBasicAtomicInteger@H@@A)
+              1. 07 09A0 002B 0000:?setDefaultFormat@QGLFormat@@SAXAEBV1@@Z (REF 0008: ?guard@Q_QGS_qgl_default_format@?A0xb67c8be3@@3V?$QBasicAtomicInteger@H@@A)
+              2. 07 09A0 002B 0000:?shadersForContext@QGLEngineSharedShaders@@SAPEAV1@PEBVQGLContext@@@Z (REF 0008: ?guard@Q_QGS_qt_shader_storage@?A0xd533d996@@3V?$QBasicAtomicInteger@H@@A)
+          610800488BD9498BC0488D0D........41B85800000048890B:
+            0. 0B 9923 0079 0000:??0QTextureGlyphCache@@QEAA@W4GlyphFormat@QFontEngine@@AEBVQTransform@@@Z
+          64243000488B5908E8........488BC8E8........84C0751B:
+            0. 25 CB91 0045 0000:?maxGeometryOutputVertices@QGLShaderProgram@@QEBAHXZ
+        8B:
+          0233DB390175578B4204394104754F8B420839410875478B42:
+            0. 3A 8905 006D 0000:??8QGLEngineShaderProg@@QEBA_NAEBV0@@Z
+          D9E8........:
+            33D24885C0741CE8........488BC8E8:
+              0. 00 0000 004C 0000:?qgl_hasFeature@@YA_NW4OpenGLFeature@QOpenGLFunctions@@@Z
+            4885C07416488BC8E8........33D28BCB4C8B:
+              0. 0E FB63 002E 0000:?release@QGLBuffer@@SAXW4Type@1@@Z
+          DAE8........488BC8E8........8BCB4C8B004883C4205B49:
+            0. 06 523F 0026 (l)0000:?freeShaderFunc@?A0x32c62542@@YAXPEAVQGLContext@@I@Z
+            1. 06 A073 0026 (l)0000:?freeProgramFunc@?A0x32c62542@@YAXPEAVQGLContext@@I@Z
+        BA000D0500488BD9E8........4883637000488D05........48:
+          0. 16 570B 006E 0000:??0QGraphicsShaderEffectPrivate@@QEAA@XZ
+        E8........:
+          488D4C2430488BD8E8........488D542430488BCB:
+            0. 01 3E9B 0044 0000:?qgl1_functions@@YAPEAVQOpenGLFunctions_1_1@@XZ
+          B902170000488BD8488B5020FF5268488B4B20FF51:
+            0. 3E 14ED 005E (l)0000:?qt_restore_gl_state@@YAXXZ
+      30:
+        0F29742420488BD90F28F2E8........8BD00F28D6488BCB0F28:
+          0. 09 7A95 002D 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDM@Z (REF 0012: ?uniformLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+          1. 09 7A95 002D 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDM@Z (REF 0012: ?attributeLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+        488BD9B918000000E8........488903E8........4885C0740D:
+          0. 04 D745 0121 0000:??0QGLTemporaryContext@@QEAA@_NPEAVQWidget@@@Z
+        4C8B5A08488BD94C8B1241B9010000004963C04803C0410F1004:
+          0. AB 1AE4 00EF 0000:?addCentroid@QGL2PEXVertexArray@@AEAAXAEBVQVectorPath@@H@Z
+        8B024C8D8130030000418900488BD98B4204418940048B420841:
+          0. 74 C4EA 0094 0000:?composite@QGL2PaintEngineExPrivate@@QEAAXAEBUQGLRect@@@Z
+      40:
+        0F29742430488BD90F297C24200F28F30F28FAE8........8BD0:
+          0. 19 A2A8 003D 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDMM@Z (REF 001A: ?uniformLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+          1. 19 A2A8 003D 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDMM@Z (REF 001A: ?attributeLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+        488B:
+          05........4833C44889442430488B8108020000488BD9B9:
+            0. 6C 8C28 016F 0000:?resetGLState@QGL2PaintEngineExPrivate@@QEAAXXZ
+          4108488BDA807878007426488B48704885C9741D8B491085:
+            0. 21 2B3D 00A6 0000:?uniformLocation@QGLShaderProgram@@QEBAHPEBD@Z
+            1. 21 FB41 00A6 0000:?attributeLocation@QGLShaderProgram@@QEBAHPEBD@Z
+          5908488953284885D2745F488B02488BCAFF500883F80174:
+            0. 27 FC03 0078 0000:?setDevice@QGLContext@@IEAAXPEAVQPaintDevice@@@Z
+          8110020000488BD9B9BC010000488B50084885D2488D82B4:
+            0. 9F D044 013B 0000:?updateCompositionMode@QGL2PaintEngineExPrivate@@QEAAXXZ
+      500F29742440488BD90F297C24300F28F30F28FAE8........8BD0:
+        0. 19 F6F1 003D 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDMMMM@Z (REF 0039: ?setAttributeValue@QGLShaderProgram@@QEAAXHMMMM@Z)
+        1. 19 F6F1 003D 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDMMM@Z (REF 0039: ?setUniformValue@QGLShaderProgram@@QEAAXHMMM@Z)
+        2. 19 F6F1 003D 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDMMMM@Z (REF 0039: ?setUniformValue@QGLShaderProgram@@QEAAXHMMMM@Z)
+        3. 19 F6F1 003D 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDMMM@Z (REF 0039: ?setAttributeValue@QGLShaderProgram@@QEAAXHMMM@Z)
+    55565741544155415641574883EC78488B05........4833C44889442468:
+      0. 2F 8639 02AD 0000:?renderText@QGLWidget@@QEAAXHHAEBVQString@@AEBVQFont@@@Z
+    5741564883EC508364247000488B7918488B4F484885C9750733C0E95301:
+      0. 08 39C4 017E 0000:?generateDynamicTexture@QGLPixelBuffer@@QEBAIXZ
+  55:
+    488BEC4883EC20F20F1002F20F584210F20F1012660F5AD2660F5AD8F20F:
+      0. 42 B75D 0090 0000:?addQuad@QGL2PEXVertexArray@@QEAAXAEBVQRectF@@@Z
+    535657:
+      415441:
+        554156415748:
+          8BEC4883EC78488B79084533FF4C8BF1488B:
+            0. 61 F38E 03A6 0000:?link@QGLShaderProgram@@UEAA_NXZ
+          8D6C24E14881EC880000004533ED44896D67:
+            0. 01 3E9B 073F (l)0000:?qt_gl_resolve_features@@YAHXZ
+        564157488BEC4883EC20498B384C8BF9488D4D584C8BF2E8:
+          0. 00 0000 0343 0000:??6@YA?AVQDebug@@V0@AEBVQGLFormat@@@Z
+      488BEC4883EC38488D7910488BF2488B07833801760B8B5004488B:
+        0. 02 632D 00BF 0000:?cleanupCustomStage@QGLEngineSharedShaders@@QEAAXPEAVQGLCustomShaderStage@@@Z
+  574883EC204C8B01488D3D........4889394183781000741541837810FF74:
+    0. 12 B795 0072 0000:?clear@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@CAXPEAUNode@QHashData@@@Z)
+    1. 12 B795 0072 0000:?clear@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@CAXPEAUNode@QHashData@@@Z)
+    2. 12 B795 0072 0000:?clear@?$QHash@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@CAXPEAUNode@QHashData@@@Z)
+48:
+  83:
+    2100488BC1:
+      4883610800C3:
+        0. 00 0000 000D 0000:??0QPointF@@QEAA@XZ
+      C3:
+        0. 00 0000 0008 0000:??0QGLFunctionsPrivate@@QEAA@PEBVQGLContext@@@Z
+        1. 00 0000 0008 0000:??0QGLFunctions@@QEAA@XZ
+    E910E9:
+      0. 00 0000 0009 0000:??_EQGLWidget@@WBA@EAAPEAXI@Z (REF 0005: ??_EQGLWidget@@UEAAPEAXI@Z)
+    EC:
+      18660F6E224C8BC1F30FE6E40F293C240F57DB660F6E7A04F20F59E2F3:
+        0. 0D 89CA 00BE 0000:??D@YA?BVQSize@@AEBV0@N@Z
+      28:
+        448B:
+          C283FAFF7428488B4108488D542430F30F11542430F30F115C24:
+            0. 19 1875 0039 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHMM@Z
+          CA83FAFF74:
+            1A488B4108:
+              418BD0488B88A0000000488B01418BC9:
+                0. 0B 40FD 002B 0000:?setUniformValue@QGLShaderProgram@@QEAAXHI@Z
+                1. 0B 40FD 002B 0000:?setUniformValue@QGLShaderProgram@@QEAAXHH@Z
+              498BD0488B88A0000000488B01418BC9:
+                0. 0B 574B 002B 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQVector4D@@@Z
+                1. 0B 6EBC 002B 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQVector2D@@@Z
+                2. 0B FA43 002B 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQVector3D@@@Z
+            1C488B4108BA01000000488B88A0000000488B0141:
+              0. 0D 3CD9 002D 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQVector2D@@@Z
+              1. 0D 5F3F 002D 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQVector4D@@@Z
+              2. 0D 66C8 002D 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQVector3D@@@Z
+            2D488B41084C8D442430F30F11542430BA01000000:
+              0. 1E 9AD0 003E 0000:?setUniformValue@QGLShaderProgram@@QEAAXHMM@Z
+          D283FAFF74:
+            1A488B4108418BD1488B88A0000000488B01418BCA:
+              0. 0B 278A 002B 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBVQVector2D@@H@Z
+              1. 0B 446C 002B 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBVQVector4D@@H@Z
+              2. 0B 7D9B 002B 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBVQVector3D@@H@Z
+              3. 0B 8A82 002B 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBIH@Z
+              4. 0B 8A82 002B 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBHH@Z
+            204585C97E1B488B4108438D14:
+              09488B88A0000000:
+                0. 11 DC70 0031 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$01$02M@@H@Z
+                1. 11 E587 0031 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$01$03M@@H@Z
+              49488B88A0000000:
+                0. 11 8661 0031 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$02$01M@@H@Z
+                1. 11 E587 0031 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$02$03M@@H@Z
+            21488B41084D8BC84533C0488B88A0000000418D50:
+              0. 12 0AAB 0032 0000:?setUniformValue@QGLShaderProgram@@QEAAXHQEAY01$$CBM@Z
+              1. 12 9E54 0032 0000:?setUniformValue@QGLShaderProgram@@QEAAXHQEAY03$$CBM@Z
+              2. 12 C0D4 0032 0000:?setUniformValue@QGLShaderProgram@@QEAAXHQEAY02$$CBM@Z
+            224585C97E1D488B4108418BD1C1E202488B88A000:
+              0. 13 A8D0 0033 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$03$01M@@H@Z
+              1. 13 F2C1 0033 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$03$02M@@H@Z
+        458BD1448BDA83FAFF74254585C97E20488B41084D8BC84533C0418B:
+          0. 19 56C6 0039 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$02$02M@@H@Z
+          1. 19 9CB9 0039 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$01$01M@@H@Z
+        48:
+          85C9740A488B01BA01000000FF104883C428C3:
+            0. 00 0000 0018 (l)0000:?qDeleteQGLContext@@YAXPEAX@Z
+            1. 00 0000 0018 0000:?deleteData@?$QThreadStorage@PEAVQPaintEngine@@@@CAXPEAX@Z
+          8B:
+            01FF5050BA08000000488B48084883C1184883C428E9:
+              0. 00 0000 0020 0000:?alphaRequested@QGLPaintDevice@@UEBA_NXZ
+            1183C8FFF00FC10283F80175:
+              08488B09E8........4883C428C3:
+                0. 00 0000 0020 0000:??1QGLColormap@@QEAA@XZ
+              0B488B098D50:
+                17E8........4883:
+                  0. 03 53B6 0023 0000:??1QGLFramebufferObjectFormat@@QEAA@XZ
+                3BE8........4883:
+                  0. 03 53B6 0023 0000:??1QGLFormat@@QEAA@XZ
+            4108:
+              41B901000000488B90C8010000488B4208443948307C0A44:
+                0. 3A F516 005A 0000:?updateGL@QGLWidget@@UEAAXXZ
+              488B:
+                0848:
+                  83200048836008004885C9741183C8FFF00FC101:
+                    0. 06 F68B 002F 0000:?setInactive@QGLCustomShaderStage@@QEAAXXZ
+                  85C97405E8........4883C428C3:
+                    0. 00 0000 001A 0000:?moveToThread@QGLContext@@QEAAXPEAVQThread@@@Z
+                88A80000004885C97405E8........4883C428C3:
+                  0. 00 0000 001E 0000:?setUniformsDirty@QGraphicsShaderEffect@@IEAAXXZ
+            491880790800740432C0EB0C488B4910488B01FF5018B0014883:
+              0. 03 53B6 0023 0000:?doneCurrent@QGLPixelBuffer@@QEAA_NXZ
+            51:
+              0833C9488B024885C0740B39480474064C8B4208EB034C8BC1:
+                0. 14 AB50 003D 0000:?setUniformsDirty@QGLCustomShaderStage@@QEAAXXZ
+              10833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+                0. 0C 9AB6 0035 0000:?deleteNode2@?$QHash@VQByteArray@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@@Z
+              20833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+                0. 0C F6D9 0035 0000:?deleteNode2@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@CAXPEAUNode@QHashData@@@Z
+            C148:
+              85C9750AE8........4885C07424488BC8E8........488B:
+                0. 07 3791 003F 0000:?hasOpenGLShaderPrograms@QGLShaderProgram@@SA_NPEBVQGLContext@@@Z
+              8B89C80100004885C9740E80B809020000007505E8:
+                0. 00 0000 0026 0000:?aboutToDestroy@QGLWidgetPrivate@@UEAAXXZ
+          8D0D........E8........:
+            48:
+              8B0D........83390074188339FF74:
+                0. 10 457E 0055 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_context_groups@?A0xb67c8be3@@YAPEAUQGLContextGroupList@@XZ@YAXXZ
+              8D0D........E8........8B05:
+                0. 00 0000 0038 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_gradient_caches@?A0xebdf13a3@@YAPEAVQGL2GradientCacheWrapper@@XZ@YAXXZ
+            8B05........B9FEFFFFFF83F8FF0F44:
+              0. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_shader_storage@?A0xd533d996@@YAPEAVQGLShaderStorage@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_qt_shader_storage@?A0xd533d996@@YAPEAVQGLShaderStorage@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              1. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_buffer_2_engine@?A0x8678cc6e@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_qt_buffer_2_engine@?A0x8678cc6e@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              2. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_buffer_2_engine@?A0x0c2c968f@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_qt_buffer_2_engine@?A0x0c2c968f@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              3. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_gl_functions_resource@?A0x22b4528e@@YAPEAVQOpenGLMultiGroupSharedResource@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_qt_gl_functions_resource@?A0x22b4528e@@YAPEAVQOpenGLMultiGroupSharedResource@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              4. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_defaultOverlayFormatInstance@?A0xb67c8be3@@YAPEAVQGLDefaultOverlayFormat@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_defaultOverlayFormatInstance@?A0xb67c8be3@@YAPEAVQGLDefaultOverlayFormat@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              5. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qgl_default_format@?A0xb67c8be3@@YAPEAVQGLFormat@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_qgl_default_format@?A0xb67c8be3@@YAPEAVQGLFormat@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              6. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_gl_2_engine@?A0xb67c8be3@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_qt_gl_2_engine@?A0xb67c8be3@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              7. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_qt_gl_texture_cache@?A0xb67c8be3@@YAPEAVQGLTextureCache@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_qt_gl_texture_cache@?A0xb67c8be3@@YAPEAVQGLTextureCache@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              8. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_theSignalProxy@?A0xb67c8be3@@YAPEAVQGLSignalProxy@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_theSignalProxy@?A0xb67c8be3@@YAPEAVQGLSignalProxy@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+        4C8B:
+          09498B41084885C0741A837810007414498B411833D2418B4904:
+            0. 0F B91F 002F 0000:?release@QGLBuffer@@QEAAXXZ
+          11498B42084885C0742D837810007427834C2430FF4C8D442430:
+            0. 25 03A5 0045 0000:?size@QGLBuffer@@QEBAHXZ
+        4D8B004D034010E8........4883C428C3:
+          0. 00 0000 0015 0000:?addShaderFromSourceCode@QGLShaderProgram@@QEAA_NV?$QFlags@W4ShaderTypeBit@QGLShader@@@@AEBVQByteArray@@@Z
+        65488B0425580000008B0D........:
+          41B8........488B14C8418B04:
+            0. 03 4E75 0097 (l)0000:?innerFunction@Q_QGS_theSignalProxy@?A0xb67c8be3@@YAPEAVQGLSignalProxy@@XZ (0027: 33) (0028: C0)
+            1. 03 4E75 0097 (l)0000:?innerFunction@Q_QGS_qt_gradient_caches@?A0xebdf13a3@@YAPEAVQGL2GradientCacheWrapper@@XZ (0027: 33) (0028: D2) (0030: 44)
+            2. 03 4E75 0086 (l)0000:?innerFunction@Q_QGS_qt_buffer_2_engine@?A0x8678cc6e@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ (0027: 33) (0028: D2) (0030: 89) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qt_buffer_2_engine@?A0x8678cc6e@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@4HA)
+            3. 03 4E75 0086 (l)0000:?innerFunction@Q_QGS_qt_buffer_2_engine@?A0x0c2c968f@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ (0027: 33) (0028: D2) (0030: 89) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qt_buffer_2_engine@?A0x0c2c968f@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@4HA)
+            4. 03 4E75 0086 (l)0000:?innerFunction@Q_QGS_qt_gl_2_engine@?A0xb67c8be3@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ (0027: 33) (0028: D2) (0030: 89) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qt_gl_2_engine@?A0xb67c8be3@@YAPEAV?$QGLEngineThreadStorage@VQGL2PaintEngineEx@@@@XZ@4HA)
+            5. 03 4E75 0086 (l)0000:?innerFunction@Q_QGS_qt_shader_storage@?A0xd533d996@@YAPEAVQGLShaderStorage@@XZ (0027: 33) (0028: D2) (0030: 89) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qt_shader_storage@?A0xd533d996@@YAPEAVQGLShaderStorage@@XZ@4HA)
+            6. 03 4E75 0077 (l)0000:?innerFunction@Q_QGS_qt_gl_functions_resource@?A0x22b4528e@@YAPEAVQOpenGLMultiGroupSharedResource@@XZ (0027: 48) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qt_gl_functions_resource@?A0x22b4528e@@YAPEAVQOpenGLMultiGroupSharedResource@@XZ@4HA)
+            7. 03 4E75 0077 (l)0000:?innerFunction@Q_QGS_qt_gl_texture_cache@?A0xb67c8be3@@YAPEAVQGLTextureCache@@XZ (0027: 48) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qt_gl_texture_cache@?A0xb67c8be3@@YAPEAVQGLTextureCache@@XZ@4HA)
+            8. 03 4E75 0077 (l)0000:?innerFunction@Q_QGS_qgl_default_format@?A0xb67c8be3@@YAPEAVQGLFormat@@XZ (0027: 48) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qgl_default_format@?A0xb67c8be3@@YAPEAVQGLFormat@@XZ@4HA)
+            9. 03 4E75 0077 (l)0000:?innerFunction@Q_QGS_qtDefaultExtensions@?A0xb67c8be3@@YAPEAVQGLDefaultExtensions@@XZ (0027: 48) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_qtDefaultExtensions@?A0xb67c8be3@@YAPEAVQGLDefaultExtensions@@XZ@4HA)
+          BA........488B0CC88B040A39:
+            0. 01 D5A7 0088 (l)0000:?innerFunction@Q_QGS_qt_context_groups@?A0xb67c8be3@@YAPEAUQGLContextGroupList@@XZ
+        83FAFF7416488B4108488B88A0000000488B018BCAFF90:
+          3802000048:
+            0. 04 E284 0024 0000:?disableAttributeArray@QGLShaderProgram@@QEAAXH@Z
+          4002000048:
+            0. 04 E284 0024 0000:?enableAttributeArray@QGLShaderProgram@@QEAAXH@Z
+        85D275:
+          0A4585C07505E8........4883C428C3:
+            0. 00 0000 0017 0000:?qt_static_metacall@QGLShaderProgram@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+          224585C074144183F8017517488B014883C42848FFA0700100:
+            0. 0F C15C 002F 0000:?qt_static_metacall@QGLWidget@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        E8........:
+          48:
+            85C0:
+              740C488BC84883C428E9........4883C428C3:
+                0. 00 0000 001F 0000:?qgl_extensions@@YAPEAVQOpenGLExtensions@@XZ (REF 0016: ?functions@QOpenGLContext@@QEBAPEAVQOpenGLFunctions@@XZ)
+                1. 00 0000 001F 0000:?currentContext@QGLContext@@SAPEBV1@XZ (REF 0016: ?fromOpenGLContext@QGLContext@@SAPEAV1@PEAVQOpenGLContext@@@Z)
+              75:
+                0883C8FF4883C428C3488B4808F74124000100:
+                  0. 04 D086 0040 0000:?maxTextureHeight@QGLTextureGlyphCache@@UEBAHXZ
+                0AB8000100004883C428C3488B48084883C428:
+                  0. 01 B78A 0025 0000:?maxTextureWidth@QGLTextureGlyphCache@@UEBAHXZ
+            8B:
+              C833C04885C97405E8........48:
+                83C428C3:
+                  0. 00 0000 001D 0000:?qgl_functions@@YAPEAVQOpenGLFunctions@@XZ
+                8B00B900410000:
+                  0. 08 6B88 0028 0000:?paintGL@QGLWidget@@MEAAXXZ
+              D0488D4C2430E8........488BC8BA00040000E8:
+                0. 00 0000 0028 0000:?hasOpenGLFramebufferBlit@QGLFramebufferObject@@SA_NXZ
+          84C00F94C04883C428C3:
+            0. 00 0000 0013 0000:??9@YA_NAEBVQGLFormat@@0@Z (REF 0005: ??8@YA_NAEBVQGLFormat@@0@Z)
+            1. 00 0000 0013 0000:??9QGLFramebufferObjectFormat@@QEBA_NAEBV0@@Z (REF 0005: ??8QGLFramebufferObjectFormat@@QEBA_NAEBV0@@Z)
+      38:
+        0F297C24204C8BDAF20F10390F57ED0F28DF440F29442410F20F5859:
+          0. 06 B1D0 0168 0000:?toRect@QRectF@@QEBA?AVQRect@@XZ
+        448B:
+          D283FAFF742E488B41084C8944242841B80614000044894C2420:
+            0. 1F 7BE1 003F 0000:?setAttributeArray@QGLShaderProgram@@QEAAXHPEBVQVector3D@@H@Z
+            1. 1F 9C19 003F 0000:?setAttributeArray@QGLShaderProgram@@QEAAXHPEBVQVector2D@@H@Z
+            2. 1F EC1B 003F 0000:?setAttributeArray@QGLShaderProgram@@QEAAXHPEBVQVector4D@@H@Z
+          DA83FAFF74:
+            2C488B41088B5424604C894C242841B101488B88A0:
+              0. 1D 886B 003D 0000:?setAttributeArray@QGLShaderProgram@@QEAAXHIPEBXHH@Z
+            2F488B41088B542460488B88A00000004963C141B1:
+              0. 20 6C79 0040 0000:?setAttributeBuffer@QGLShaderProgram@@QEAAXHIHHH@Z
+        488B49088B44246089442420488B89C8010000E8........4883C438:
+          0. 01 EF04 0021 0000:?bindTexture@QGLWidget@@QEAAIAEBVQPixmap@@IHV?$QFlags@W4BindOption@QGLContext@@@@@Z
+      48F20F104920488BC2F20F1069100F28D9F20F1061280F28C50F297424:
+        0. 2A DE2A 0128 0000:?pointAt@QBezier@@QEBA?AVQPointF@@N@Z
+  85:
+    C974:
+      194885D27414488B42084C8B4108488B4858493948580F94C0C332C0:
+        0. 01 EF04 0021 0000:?areSharing@QGLContext@@SA_NPEBV1@0@Z
+      1F534883EC20488BD9E8........BA18000000488BCBE8........48:
+        0. 05 28D1 0025 0000:?deleteData@?$QThreadStorage@PEAVQOpenGLMultiGroupSharedResource@@@@CAXPEAX@Z
+    D274:
+      248B410848832200894208488B410C4889420C0F1041140F114214F2:
+        0. 0A EC4C 002A 0000:?duplicateNode@?$QHash@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@CAXPEAUNode@QHashData@@PEAX@Z
+      2D8B4108488322008942080F104110F30F7F42100F1041200F114220:
+        0. 13 5B94 0033 0000:?duplicateNode@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      4D48895C2408574883EC208B4108488BDA48832200488BF989420848:
+        0. 16 B0F0 0053 0000:?duplicateNode@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  89:
+    11488BC14C894108C3:
+      0. 00 0000 000B 0000:??$?HVQLatin1String@@V0@@@YA?AV?$QStringBuilder@VQLatin1String@@V1@@@AEBVQLatin1String@@0@Z
+      1. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQLatin1String@@V1@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@V1@@@VQString@@@@AEBV?$QStringBuilder@VQLatin1String@@V1@@@AEBVQString@@@Z
+    5120C3:
+      0. 00 0000 0005 0000:?setPBuffer@QGLPBufferGLPaintDevice@@QEAAXPEAVQGLPixelBuffer@@@Z
+      1. 00 0000 0005 0000:?setWidget@QGLWidgetGLPaintDevice@@QEAAXPEAVQGLWidget@@@Z
+    54241048894C240853574883EC28488B4108488B5858488B4208488B7858:
+      0. 12 88B0 0108 0000:?addShare@QGLContextGroup@@SAXPEBVQGLContext@@0@Z
+    5C24:
+      08:
+        4489442418574883EC20488B018BFA488BD98338017405E8:
+          0. 00 0000 0067 0000:?setEntry@QGLColormap@@QEAAXHI@Z
+        4889:
+          6C24:
+            10:
+              4889:
+                74241857:
+                  41:
+                    5441554156415748:
+                      81EC800000004D:
+                        0. 0C 0429 022D 0000:?blitFramebuffer@QGLFramebufferObject@@SAXPEAV1@AEBVQRect@@01II@Z
+                      83EC304C8B7948:
+                        0. 10 59FD 00D0 0000:?bindTexture@QGLContextPrivate@@QEAAPEAVQGLTexture@@AEBVQImage@@IHV?$QFlags@W4BindOption@QGLContext@@@@@Z
+                    5641574883EC:
+                      20:
+                        488B:
+                          01488BF2488B:
+                            0. 15 82E7 014D 0000:?remove@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@QEAAHAEB_K@Z
+                          7918488BF248:
+                            0. 03 E300 00DC 0000:?drawStaticTextItem@QGL2PaintEngineEx@@UEAAXPEAVQStaticTextItem@@@Z
+                          D9498BF9488B:
+                            0. 3E 9FBE 0112 0000:?erase@?$QList@PEAVQGLEngineShaderProg@@@@QEAA?AViterator@1@V21@0@Z
+                        498B38498BE9488B:
+                          0. 13 10EA 00A8 0000:??$_Remove_if_unchecked@Viterator@?$QList@PEAVQGLEngineShaderProg@@@@V<lambda_7c79fac52f909d4750675b9e93c19c14>@@@std@@YA?AViterator@?$QList@PEAVQGLEngineShaderProg@@@@V12@0AEAV<lambda_7c79fac52f909d4750675b9e93c19c14>@@@Z
+                        8BEA488BF1488B09:
+                          0. 0C 5B70 0098 0000:?createNode@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@AEAAPEAU?$QHashNode@_KUCacheInfo@QGL2GradientCache@@@@IAEB_KAEBUCacheInfo@QGL2GradientCache@@PEAPEAU2@@Z
+                      30488D59204C8BFA48:
+                        0. 14 AC46 0137 0000:?remove@QGLTextureCache@@QEAAX_J@Z
+                      60418AF1418AE8488B:
+                        0. 20 BDCF 011A 0000:?qt_gl_read_frame_buffer@@YA?AVQImage@@AEBVQSize@@_N1@Z
+                  4883EC:
+                    20:
+                      488B:
+                        5908498BF8488BF2488B:
+                          0. 0D 055C 0095 0000:?init@QGLWidgetPrivate@@QEAAXPEAVQGLContext@@PEBVQGLWidget@@@Z
+                        6918488BF1488B454848:
+                          0. 06 CE45 00B7 0000:?paintEngine@QGLFramebufferObject@@UEBAPEAVQPaintEngine@@XZ
+                        D9498BE8B9200000008B:
+                          0. 02 B92B 006D 0000:??$createSharedResourceGuard@P6AXPEAVQGLContext@@I@Z@@YAPEAVQGLSharedResourceGuardBase@@PEAVQGLContext@@IP6AX0I@Z@Z
+                        EA488BF1E8........33:
+                          0. 0F 7DA4 0084 0000:?shadersForThread@QGLShaderStorage@@QEAAPEAVQGLEngineSharedShaders@@PEBVQGLContext@@@Z
+                        FA488BF1E8........48:
+                          0. 03 A2C1 01B3 0000:?fromSurfaceFormat@QGLFormat@@SA?AV1@AEBVQSurfaceFormat@@@Z
+                      498B:
+                        D8488BEA488BF9483BCA:
+                          0. 21 3933 0072 0000:??$_Equal_unchecked@PEBU?$QPair@NVQColor@@@@PEBU1@U?$equal_to@X@std@@@std@@YA_NPEBU?$QPair@NVQColor@@@@00AEAU?$equal_to@X@0@@Z
+                        F18BFA488BE9E8:
+                          0. 00 0000 006B 0000:?qt_metacall@QGLSignalProxy@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                      4C8B:
+                        01488BD9496340084983:
+                          0. 07 5FFD 00D5 0000:?detach_helper@?$QList@UQGLTextureCacheKey@@@@AEAAXH@Z
+                        C233FF488B11488BF18B:
+                          0. 69 7389 010D 0000:?removeAll@?$QList@PEBVQGLContext@@@@QEAAHAEBQEBVQGLContext@@@Z (REF 0089: ?detach_helper@?$QList@PEBVQGLContext@@@@AEAAXH@Z)
+                          1. 69 7389 010D 0000:?removeAll@?$QList@PEAVQGLShader@@@@QEAAHAEBQEAVQGLShader@@@Z (REF 0089: ?detach_helper@?$QList@PEAVQGLShader@@@@AEAAXH@Z)
+                      8BEA488BD9488B09BA080000:
+                        0. 08 D93E 0083 0000:?createNode@?$QHash@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@AEAAPEAU?$QHashNode@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@IAEBUGlyphAndSubPixelPosition@QTextureGlyphCache@@AEBUCoord@4@PEAPEAU2@@Z (0010: 26)
+                        1. 08 D93E 008E 0000:?createNode@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@AEAAPEAU?$QHashNode@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@IAEBUQGLTextureCacheKey@@AEBUNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@PEAPEAU2@@Z (0010: 31)
+                    3048:
+                      8B:
+                        01498BE9498BF8488BF2:
+                          0. 0A 764E 00C2 0000:?insertMulti@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@QEAA?AViterator@1@AEB_KAEBUCacheInfo@QGL2GradientCache@@@Z
+                        E9418BF9488BCA418BF0:
+                          0. 04 F6E3 0062 0000:?bindTexture@QGLContext@@QEAAIAEBVQPixmap@@IH@Z (000B: 1D) (000C: 48) (REF 0024: ?isNull@QPixmap@@QEBA_NXZ)
+                          1. 04 F6E3 0062 0000:?bindTexture@QGLContext@@QEAAIAEBVQImage@@IH@Z (000B: 1D) (000C: 48) (REF 0024: ?isNull@QImage@@QEBA_NXZ)
+                          2. 04 F6E3 0062 0000:?bindTexture@QGLContext@@QEAAIAEBVQPixmap@@IHV?$QFlags@W4BindOption@QGLContext@@@@@Z (000B: 1D) (000C: 8B) (REF 0024: ?isNull@QPixmap@@QEBA_NXZ)
+                          3. 04 F6E3 0062 0000:?bindTexture@QGLContext@@QEAAIAEBVQImage@@IHV?$QFlags@W4BindOption@QGLContext@@@@@Z (000B: 1D) (000C: 8B) (REF 0024: ?isNull@QImage@@QEBA_NXZ)
+                          4. 04 F6E3 0066 0000:?bindTexture@QGLWidget@@QEAAIAEBVQPixmap@@IH@Z (000B: 21) (0013: 44) (REF 0024: ?isNull@QPixmap@@QEBA_NXZ)
+                          5. 04 F6E3 0066 0000:?bindTexture@QGLWidget@@QEAAIAEBVQImage@@IH@Z (000B: 21) (0013: 44) (REF 0024: ?isNull@QImage@@QEBA_NXZ)
+                          6. 04 F6E3 0066 0000:?bindTexture@QGLWidget@@QEAAIAEBVQImage@@IHV?$QFlags@W4BindOption@QGLContext@@@@@Z (000B: 21) (0013: 8B)
+                      8D5920498BF0488BEA488B:
+                        0. 13 96CF 008B 0000:?getTexture@QGLTextureCache@@QEAAPEAVQGLTexture@@PEAVQGLContext@@_J@Z
+                    40488B5908488B43704885C074:
+                      0. 19 75E8 0144 0000:?init@QGLShaderProgram@@AEAA_NXZ
+                    60488B7908488BE9488BCA488B:
+                      0. 02 B92B 0133 0000:?setOnPainter@QGLCustomShaderStage@@QEAA_NPEAVQPainter@@@Z
+                7C24184154415541574883EC40488BEA458BE8BA:
+                  0. 08 5CBD 03D0 0000:?writeClip@QGL2PaintEngineExPrivate@@QEAAXAEBVQVectorPath@@I@Z
+              574883EC20498BD9418BE8488BFA4D85C9757783CBFF:
+                0. 15 C01F 012F 0000:?canBindCompressedTexture@QGLTexture@@QEAA_NPEBDH0PEA_N@Z
+            20565741564883EC20488BF9E8........4885C0740D48:
+              0. 03 AA8C 015C 0000:?openGLVersionFlags@QGLFormat@@SA?AV?$QFlags@W4OpenGLVersionFlag@QGLFormat@@@@XZ
+          7424:
+            10:
+              4489442418574883EC20488BFA488BF1BA000D0500E8:
+                0. 00 0000 0086 0000:??0QGLShaderPrivate@@QEAA@PEBVQGLContext@@V?$QFlags@W4ShaderTypeBit@QGLShader@@@@@Z
+              48897C2418:
+                41564883EC:
+                  20:
+                    48:
+                      8B:
+                        01488BF9FF5050488B:
+                          0. 0F D25E 00AA 0000:?beginPaint@QGLPaintDevice@@UEAAXXZ
+                          1. 02 FAF5 00A8 0000:?ensureActiveTarget@QGLPaintDevice@@UEAAXXZ
+                        4108488BF2488B7918:
+                          0. 11 6D52 010A 0000:?setState@QGL2PaintEngineEx@@UEAAXPEAVQPainterState@@@Z
+                        D9498BF0488B094C8B:
+                          0. 2B 5479 008E 0000:?erase@?$QList@PEAVQGLEngineShaderProg@@@@QEAA?AViterator@1@V21@@Z
+                        F1E8........488BC8:
+                          0. 01 3E9B 00B6 0000:?cleanCache@QGL2GradientCache@@AEAAXXZ
+                        F9418BF0488B094C8B:
+                          0. 47 1D21 0098 0000:?findNode@?$QHash@VQByteArray@@UQHashDummyValue@@@@AEBAPEAPEAU?$QHashNode@VQByteArray@@UQHashDummyValue@@@@AEBVQByteArray@@I@Z
+                      8D05........488BF248:
+                        0. 0D ABB0 00D6 0000:?keys@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@QEBA?AV?$QList@UQGLTextureCacheKey@@@@XZ
+                    498BD9498BF8488BF24C8B:
+                      0. 02 D101 0073 0000:??0QGLPixelBuffer@@QEAA@AEBVQSize@@AEBVQGLFormat@@PEAVQGLWidget@@@Z
+                    4D8BF18B:
+                      F2488BF9E8:
+                        0. 00 0000 0081 0000:?qt_metacall@QGLWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                      FA488BF1E8:
+                        0. 00 0000 0064 0000:?qt_metacall@QGLShaderProgram@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                  40418BF8488BF24C8BF1E8:
+                    0. 00 0000 009F 0000:??0QGLFramebufferObject@@QEAA@AEBVQSize@@I@Z
+                554154415541564157488D6C24804881EC:
+                  0. 0E 3D6C 02E1 0000:?createTextureData@QGLTextureGlyphCache@@UEAAXHH@Z
+              574883EC:
+                20:
+                  418B:
+                    D9418BF8488BF2E8........488BC8:
+                      0. 19 D079 003D 0000:?drawTexture@QGLFramebufferObject@@QEAAXAEBVQRectF@@II@Z (REF 0039: ?drawTexture@QGLContext@@QEAAXAEBVQRectF@@II@Z)
+                      1. 19 D079 003D 0000:?drawTexture@QGLFramebufferObject@@QEAAXAEBVQPointF@@II@Z (REF 0039: ?drawTexture@QGLContext@@QEAAXAEBVQPointF@@II@Z)
+                    F9498BF0488BD9E8........:
+                      83F8FF:
+                        0. 2E 2B96 004E 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBVQVector2D@@H@Z
+                        1. 2E 96C3 004E 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBVQVector3D@@H@Z
+                        2. 2E FD38 004E 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBIH@Z
+                        3. 2E FD38 004E 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBHH@Z
+                        4. 2E FDF0 004E 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBVQVector4D@@H@Z
+                      8BD044:
+                        0. 18 3CFE 003C 0000:?setAttributeArray@QGLShaderProgram@@QEAAXPEBDPEBVQVector2D@@H@Z (REF 0038: ?setAttributeArray@QGLShaderProgram@@QEAAXHPEBVQVector2D@@H@Z)
+                        1. 18 3CFE 003C 0000:?setAttributeArray@QGLShaderProgram@@QEAAXPEBDPEBVQVector3D@@H@Z (REF 0038: ?setAttributeArray@QGLShaderProgram@@QEAAXHPEBVQVector3D@@H@Z)
+                        2. 18 3CFE 003C 0000:?setAttributeArray@QGLShaderProgram@@QEAAXPEBDPEBVQVector4D@@H@Z (REF 0038: ?setAttributeArray@QGLShaderProgram@@QEAAXHPEBVQVector4D@@H@Z)
+                        3. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$01$01M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$01$01M@@H@Z)
+                        4. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$01$02M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$01$02M@@H@Z)
+                        5. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$01$03M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$01$03M@@H@Z)
+                        6. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$02$01M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$02$01M@@H@Z)
+                        7. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$02$02M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$02$02M@@H@Z)
+                        8. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$02$03M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$02$03M@@H@Z)
+                        9. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$03$01M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$03$01M@@H@Z)
+                        10. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBV?$QGenericMatrix@$03$02M@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBV?$QGenericMatrix@$03$02M@@H@Z)
+                        11. 18 3CFE 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBVQMatrix4x4@@H@Z (REF 0038: ?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBVQMatrix4x4@@H@Z)
+                  48:
+                    8B:
+                      01488B:
+                        D9418B304863FA833801762B:
+                          0. 1A 13A8 0069 0000:?replace@?$QVector@I@@QEAAXHAEBI@Z
+                        F24C8B02488BF90F1000660F:
+                          0. 0F 99B1 0074 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQLatin1String@@V1@@@@@SAXAEBV?$QStringBuilder@VQLatin1String@@V1@@@AEAPEAVQChar@@@Z
+                        F9FF5050488BC8488BD8488B:
+                          0. 09 B147 0090 0000:?endPaint@QGLPaintDevice@@UEAAXXZ
+                      11:
+                        48637A0C48635A084883C7024883:
+                          0. 18 AC9F 0062 0000:??$qDeleteAll@V?$QList@PEAVQGLEngineShaderProg@@@@@@YAXAEBV?$QList@PEAVQGLEngineShaderProg@@@@@Z
+                        833A007411833AFF744A83C8FFF0:
+                          0. 35 D4FE 0076 0000:??1?$QList@UQGLTextureCacheKey@@@@QEAA@XZ
+                      31488B5E084885DB74058B7B10EB02:
+                        0. 0B 9F90 005D 0000:?bind@QGLBuffer@@QEAA_NXZ
+                      4208418BF1488BFA488338007444B9:
+                        0. 05 A0C4 0073 0000:?emitFreeTexture@QGLTextureDestroyer@@QEAAXPEAVQGLContext@@PEAVQPlatformPixmap@@I@Z
+                      59:
+                        08:
+                          418BF8488BF2E8........84C0:
+                            0. 3C 8CC1 005C 0000:?bindAttributeLocation@QGLShaderProgram@@QEAAXPEBDH@Z
+                          488B:
+                            F2488BF948837B2800750A:
+                              0. 0B C2BA 00AA 0000:?create@QGLContext@@UEAA_NPEBV1@@Z
+                            FA488B0A488DB3A0000000:
+                              0. 1F B586 0080 0000:?setPixelShaderFragment@QGraphicsShaderEffect@@QEAAXAEBVQByteArray@@@Z
+                          8BF2488BF9EB1439771C7E1448:
+                            0. 0A EAB9 0043 0000:?trim@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@AEAAXH@Z
+                        18:
+                          418BF8488BF2E8........488B:
+                            0. 02 6B60 0057 0000:?bindTexture@QGLPixelBuffer@@QEAAIAEBVQPixmap@@I@Z (REF 0053: ?bindTexture@QGLContext@@QEAAIAEBVQPixmap@@IH@Z)
+                            1. 02 6B60 0057 0000:?bindTexture@QGLPixelBuffer@@QEAAIAEBVQImage@@I@Z (REF 0053: ?bindTexture@QGLContext@@QEAAIAEBVQImage@@IH@Z)
+                          488D05........488BF1488901:
+                            0. 1D 5A97 00C6 0000:??1QGLFramebufferObject@@UEAA@XZ
+                        48488BFA488BF1498BD04883C118:
+                          0. 01 3E9B 007E 0000:?init@QGLContextPrivate@@QEAAXPEAVQPaintDevice@@AEBVQGLFormat@@@Z
+                      71:
+                        18:
+                          488D05........488901488BF9:
+                            0. 01 3E9B 00BD 0000:??1QGLPixelBuffer@@UEAA@XZ
+                          E8........33DB488BF84885C0:
+                            0. 07 139A 0050 0000:?isBound@QGLFramebufferObject@@QEBA_NXZ
+                        48488DB98800000033DB803F0048:
+                          0. 05 FB44 006C 0000:?syncGlState@QGLContextPrivate@@QEAAXXZ
+                      79:
+                        0833DB488B4F284885C97445488B:
+                          0. 1E 44D8 0073 0000:?swapBuffers@QGLContext@@UEBAXXZ
+                        10488D05........4889018BF248:
+                          0. 0B 3043 006A 0000:??_GQGLEngineSharedShadersResource@@UEAAPEAXI@Z
+                        18F64740010F849C000000488B07:
+                          0. 15 30ED 00CB 0000:?bind@QGLFramebufferObject@@QEAA_NXZ
+                      C24C8D4A0848F7D8488BDA488BF94D:
+                        0. 0E FDCB 01FF 0000:??0QPainterState@@QEAA@AEBV0@@Z
+                      D9488B:
+                        CAE8........488BF04885C0:
+                          0. 0C D2CA 0087 0000:?freeResource@QGLGlyphTexture@@UEAAXPEAVQOpenGLContext@@@Z
+                        FA488BCAE8........488BC8:
+                          0. 01 3E9B 0094 0000:??0QGLGlyphTexture@@QEAA@PEBVQGLContext@@@Z
+                      DA488BF9E8........488D8F080200:
+                        0. 02 0164 0209 0000:??0QGL2PaintEngineExPrivate@@QEAA@PEAVQGL2PaintEngineEx@@@Z
+                      F1:
+                        488BFA:
+                          488BCAE8........488BD0:
+                            0. 04 0711 0069 0000:??0QGLEngineSharedShadersResource@@QEAA@PEAVQOpenGLContext@@@Z
+                          B9A8000000E8........48:
+                            0. 03 3B19 005D 0000:??0QGLShaderProgram@@QEAA@PEAVQObject@@@Z
+                        498B:
+                          D8498BC8488BFAE8:
+                            0. 80 720E 00D9 0000:?shouldDrawCachedGlyphs@QGL2PaintEngineEx@@UEBA_NPEAVQFontEngine@@AEBVQTransform@@@Z
+                          F8B9A8000000488BDAE8:
+                            0. 00 0000 0058 0000:??0QGLShaderProgram@@QEAA@PEBVQGLContext@@PEAVQObject@@@Z
+                    8D:
+                      05........488BF1488901498BF8B9:
+                        0. 08 C10C 005C 0000:??0QGLContext@@QEAA@AEBVQGLFormat@@PEAVQPaintDevice@@@Z
+                      7910488BF2488B07488BD983781001:
+                        0. 06 5584 00A7 0000:?relink@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@AEAAPEAVQGLTexture@@AEBUQGLTextureCacheKey@@@Z
+                  498B00498BD8488B7918488BF283780400:
+                    0. 03 0A3F 004D 0000:?fill@QGL2PaintEngineEx@@UEAAXAEBVQVectorPath@@AEBVQBrush@@@Z
+                  4C8B01488BD9496340084983C010498D34:
+                    0. 02 ABAE 0092 0000:?detach_helper@?$QList@_K@@AEAAXH@Z
+                    1. 02 ABAE 0092 0000:?detach_helper@?$QList@PEAVQGLShader@@@@AEAAXH@Z
+                    2. 02 ABAE 0092 0000:?detach_helper@?$QList@PEAVQGLContextGroup@@@@AEAAXH@Z
+                    3. 02 ABAE 0092 0000:?detach_helper@?$QList@PEBVQGLContext@@@@AEAAXH@Z
+                    4. 02 ABAE 0092 0000:?detach_helper@?$QList@PEAVQGLEngineShaderProg@@@@AEAAXH@Z
+                  833D........FE:
+                    418BF8488B5948488BF2:
+                      0. 07 5953 008A 0000:?textureCacheLookup@QGLContextPrivate@@QEAAPEAVQGLTexture@@_JI@Z
+                    488BF17F0433FFEB08E8:
+                      0. 00 0000 0076 0000:?cacheForContext@QGL2GradientCache@@SAPEAV1@PEBVQGLContext@@@Z
+                    8BF17F0433FFEB08E8:
+                      0. 00 0000 0077 0000:?setTextureCacheLimit@QGLContext@@SAXH@Z
+                  8B:
+                    442450418BF08BFA488BD983F8FF740C:
+                      0. 9D FB19 00BD 0000:?updateTextureFilter@QGL2PaintEngineExPrivate@@QEAAXII_NI@Z
+                    7110488BF985F67417488B19488BCAE8:
+                      0. 00 0000 0040 0000:?freeResource@QGLSharedResourceGuardBase@@MEAAXPEAVQOpenGLContext@@@Z
+                  F20F100D........488BD9488B41100F28:
+                    0. 29 DF10 007D 0000:?prepareForCachedGlyphDraw@QGL2PaintEngineExPrivate@@QEAA_NAEBVQFontEngineGlyphCache@@@Z
+                  F6411401488BF9488B5918488BB3300200:
+                    0. 11 977A 00FF 0000:?ensureActive@QGL2PaintEngineEx@@QEAAXXZ
+                30:
+                  418BF9:
+                    418BF0488BD9E8........8BD044:
+                      0. 18 5061 003C 0000:?setAttributeBuffer@QGLShaderProgram@@QEAAXPEBDIHHH@Z
+                    498BF0488BD9E8........8BD044:
+                      0. 18 ED03 003C 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDPEBMHH@Z (REF 0038: ?setAttributeValue@QGLShaderProgram@@QEAAXHPEBMHH@Z)
+                      1. 18 ED03 003C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXPEBDPEBMHH@Z (REF 0019: ?uniformLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+                      2. 18 ED03 003C 0000:?setAttributeArray@QGLShaderProgram@@QEAAXPEBDPEBMHH@Z (REF 0038: ?setAttributeArray@QGLShaderProgram@@QEAAXHPEBMHH@Z)
+                  488BF90F297424204883C108418BD90F28:
+                    0. 05 82B4 0076 0000:??0CacheInfo@QGL2GradientCache@@QEAA@V?$QVector@U?$QPair@NVQColor@@@@@@NW4InterpolationMode@QGradient@@@Z
+                  498BF9418BF0488BD9E8........8BD04C:
+                    0. 18 5061 003C 0000:?setAttributeArray@QGLShaderProgram@@QEAAXPEBDIPEBXHH@Z
+                40:
+                  418BF88BF2488BD983FA017C184585C078:
+                    0. 02 F8DB 007D 0000:?setVersion@QGLFormat@@QEAAXHH@Z
+                  498BD8488BFA488BF1E8........488D05:
+                    0. 00 0000 0088 0000:??0QGLFramebufferObject@@QEAA@AEBVQSize@@AEBVQGLFramebufferObjectFormat@@@Z
+                50488BDA488BF1498BD0488D4C2440498BF9:
+                  0. 01 3E9B 00CE 0000:?bindCompressedTexture@QGLTexture@@QEAA?AVQSize@@AEBVQString@@PEBD@Z
+            18:
+              4889542410574883EC20488B7908488BDA488BF1488B:
+                0. 4A 8B59 00A8 0000:?removeShader@QGLShaderProgram@@QEAAXPEAVQGLShader@@@Z
+              89542410574883EC20488BF1498BF8B990000000E8:
+                0. 00 0000 006F 0000:??0QGLShader@@QEAA@V?$QFlags@W4ShaderTypeBit@QGLShader@@@@PEAVQObject@@@Z
+          7C24:
+            10:
+              41564883EC20488D05........488BF9488901488B89:
+                0. B4 BD36 0248 0000:??1QGL2PaintEngineExPrivate@@UEAA@XZ
+              4C89742418:
+                41574883EC308B81380200008BFA488BD9:
+                  0. FF 691A 01C1 0000:?transferMode@QGL2PaintEngineExPrivate@@QEAAXW4EngineMode@@@Z
+                55488BEC4883EC50488B791041BEC80100:
+                  0. D0 B05B 01FC 0000:?updateClipScissorTest@QGL2PaintEngineExPrivate@@QEAAXXZ
+              55488BEC4883EC60488BD9488BFA488D4DC8E8:
+                0. 00 0000 0113 0000:?compileSourceFile@QGLShader@@QEAA_NAEBVQString@@@Z
+            1855488BEC4883EC40E8........4885C0750732C0E927:
+              0. 07 ACAA 015A 0000:?checkFramebufferStatus@QGLFramebufferObjectPrivate@@QEBA_NXZ
+        4C8B11488BDA4C8BD941837A14007459418B4A204533C985C97440:
+          0. 57 C58D 0077 0000:?value@?$QHash@PEAVQOpenGLMultiGroupSharedResource@@PEAVQOpenGLSharedResource@@@@QEBAQEAVQOpenGLSharedResource@@AEBQEAVQOpenGLMultiGroupSharedResource@@AEBQEAV2@@Z
+        55488BEC4883EC40448BC24183E8010F84B10000004183E8010F84:
+          0. 1D 1B8A 00E2 0000:?metric@QGLPaintDevice@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z
+        574883EC:
+          20:
+            0FB6FA488BD9E8........488B0B8BC7488B5C243033:
+              0. 0E 0141 002E 0000:?setMipmap@QGLFramebufferObjectFormat@@QEAAX_N@Z
+            33:
+              DB83C8FF488919488BF94889590848895910488959:
+                0. 10 CD20 0073 0000:??0QGLFramebufferObjectPrivate@@QEAA@XZ
+              FF488BD94885C97508E8........488BD8833D:
+                0. 00 0000 004A (l)0000:?qt_gl_functions@@YAPEAUQGLFunctionsPrivateEx@@PEBVQGLContext@@@Z
+            418BF8488BD9E8........8BD0448BC7488BCB488B5C:
+              0. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDI@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHI@Z)
+              1. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDH@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHH@Z)
+            48:
+              63FA488BD985D27E3E4533C94C8BC7418D51088D4A:
+                0. 02 A9B1 006A 0000:??0?$QVector@I@@QEAA@H@Z
+              83:
+                3900488BD97445488B03488B78084885FF742AF6:
+                  0. 18 A134 0075 0000:?clear@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@QEAAXXZ
+                611000488BF9488911C64108014883C118E8:
+                  0. 00 0000 007F 0000:??0QGLPixelBufferPrivate@@QEAA@PEAVQGLPixelBuffer@@@Z
+                B99000000000488BFA488BD97405E8........48:
+                  0. 15 0D9C 0035 0000:?setCustomStage@QGLEngineShaderManager@@QEAAXPEAVQGLCustomShaderStage@@@Z
+              8B:
+                01:
+                  488B:
+                    D9833801:
+                      0F8495000000B93C000000E8:
+                        0. 00 0000 00B9 0000:?detach@QGLFormat@@AEAAXXZ
+                      745CB918000000E8........4C:
+                        0. 4A A3E6 007C 0000:?detach@QGLFramebufferObjectFormat@@AEAAXXZ
+                    DA488D48F048F7D8481BFF4823F9750421:
+                      0. 0A BA60 0044 0000:?openGLFeatures@QGLFunctions@@QEBA?AV?$QFlags@W4OpenGLFeature@QGLFunctions@@@@XZ
+                  8BFA488D48F048F7D8481BDB4823D9750432C0:
+                    0. 09 0771 0041 0000:?hasOpenGLFeature@QGLFunctions@@QEBA_NW4OpenGLFeature@1@@Z
+                02488BFA48:
+                  8901488BD9833800740A8338FF7454:
+                    0. 09 810F 0082 0000:??0?$QList@PEBVQGLContext@@@@QEAA@AEBV0@@Z
+                    1. 09 810F 0082 0000:??0?$QList@PEAVQGLShader@@@@QEAA@AEBV0@@Z
+                  8BD9:
+                    48390174:
+                      24F0FF004C8B0183C8:
+                        0. 12 4AB5 004A 0000:??4QGLFramebufferObjectFormat@@QEAAAEAV0@AEBV0@@Z
+                        1. 12 D93F 004A 0000:??4QGLFormat@@QEAAAEAV0@AEBV0@@Z
+                      2BF0FF004C8B0183C8:
+                        0. 0C 8B83 0051 0000:??4QGLBuffer@@QEAAAEAV0@AEBV0@@Z
+                    83380074108338FF7403F0FF00:
+                      0. 25 607B 00AD 0000:??0?$QVector@U?$QPair@NVQColor@@@@@@QEAA@AEBV0@@Z
+                      1. 25 7337 00AF 0000:??0?$QVector@I@@QEAA@AEBV0@@Z
+                      2. 27 7DB0 00B2 0000:??0?$QVector@VQPainterClipInfo@@@@QEAA@AEBV0@@Z
+                    F0FF004C8B0183C8FFF0410FC1:
+                      0. 0A 8761 0042 0000:??4QGLColormap@@QEAAAEAV0@AEBV0@@Z
+                4108488BF9488B59184885C0B9C8010000488D90:
+                  0. 14 240B 00A9 0000:?renderHintsChanged@QGL2PaintEngineEx@@UEAAXXZ
+                59:
+                  0848:
+                    8B:
+                      4B284885C90F8494000000488B01FF50:
+                        0. 1F 46A6 00BA 0000:?makeCurrent@QGLContext@@UEAAXXZ
+                      F948:
+                        83BB80000000007527B908000000:
+                          0. 01 3E9B 0054 0000:?functions@QGLContext@@QEBAPEAVQGLFunctions@@XZ
+                        85DB7437488B0B83390074118339:
+                          0. 1C A67D 0069 0000:?cleanup@QGLColormap@@CAXPEAUQGLColormapData@1@@Z
+                      FA488BCAE8........488BC84C8B0041:
+                        0. 13 DEE8 00BC 0000:?removeFromPainter@QGLCustomShaderStage@@QEAAXPEAVQPainter@@@Z
+                    8D05........488901488BF9488B034885:
+                      0. 2A 843A 008E 0000:??1QGLCustomShaderStage@@UEAA@XZ
+                  10488BF94885DB7415488BCBE8........BA20:
+                    0. 07 111F 003B 0000:?invalidateResource@QGLEngineSharedShadersResource@@UEAAXXZ
+                  18F64340017462488B034885C0745A83781000:
+                    0. 03 A4FA 0083 0000:?release@QGLFramebufferObject@@QEAA_NXZ
+                79:
+                  08:
+                    33DB488B47704885C074058B4010EB028BC3:
+                      0. 05 B5FB 004A 0000:?programId@QGLShaderProgram@@QEBAIXZ
+                    48:
+                      8B:
+                        47704885C074058B5810EB0233DB85DB:
+                          0. 35 D55D 0055 0000:?bind@QGLShaderProgram@@QEAA_NXZ
+                        D9E8........:
+                          488B:
+                            CBE8........84C0:
+                              0. 0A 2EC1 00EB 0000:?resizeEvent@QGLWidget@@MEAAXPEAVQResizeEvent@@@Z
+                            D0488D0D:
+                              0. 01 3E9B 0046 0000:?shaderDestroyed@QGLShaderProgram@@AEAAXXZ
+                          84C07427488BCFE8:
+                            0. 00 0000 004C 0000:?glInit@QGLWidget@@MEAAXXZ
+                        DAE8........488D4F18488BD3E8:
+                          0. 00 0000 0038 0000:?setFormat@QGLContext@@QEAAXAEBVQGLFormat@@@Z
+                      8D05........488901488BD9488D05:
+                        0. 00 0000 0056 0000:??1QGLWidget@@UEAA@XZ
+                  18488BDA807F0800740A488BCAE8........EB:
+                    0. 02 CBF8 0062 0000:?toImage@QGLPixelBuffer@@QEBA?AVQImage@@XZ
+                  48488BD9488B09E8........4885C07417488B:
+                    0. 02 6B60 0040 0000:?setupSharing@QGLContextPrivate@@QEAAXXZ
+                D9:
+                  418BF8488D4C2448E8........488B44244844:
+                    0. 0D 0B70 006A 0000:?bindAttributeLocation@QGLShaderProgram@@QEAAXAEBVQString@@H@Z
+                  488B:
+                    89800000004885C9740ABA08000000E8:
+                      0. 00 0000 007C 0000:??1QGLContextPrivate@@QEAA@XZ
+                    FA8B4904FFC13B0B7E2E833B007506C703:
+                      0. 1F 1D87 0069 0000:??6?$QDataBuffer@VQGLPoint@@@@QEAAAEAV0@AEBVQGLPoint@@@Z
+                  8BFA488B:
+                    491083390074118339FF741E83C8FF:
+                      0. 17 F7D3 007D 0000:??_GQGLCustomShaderStagePrivate@@QEAAPEAXI@Z
+                    89A000000083390074118339FF7421:
+                      0. 1D EF25 006A 0000:??_GQGraphicsShaderEffectPrivate@@UEAAPEAXI@Z
+                  B918000000E8........488BF8C70001000000:
+                    0. 17 27EA 0080 0000:?detach_helper@QGLColormap@@AEAAXXZ
+                DA488BF9:
+                  33D2E8........488D05........4889:
+                    0. 10 B8A6 007A 0000:??0QGLEngineShaderManager@@QEAA@PEAVQGLContext@@@Z
+                  4885D2750433C0EB23488D15:
+                    0. 04 BF6F 0047 0000:?qt_metacast@QGLEngineShaderManager@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGLEngineShaderManager@@3Uqt_meta_stringdata_QGLEngineShaderManager_t@@B)
+                    1. 04 BF6F 0047 0000:?qt_metacast@QGLShader@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGLShader@@3Uqt_meta_stringdata_QGLShader_t@@B)
+                    2. 04 BF6F 0047 0000:?qt_metacast@QGLShaderProgram@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGLShaderProgram@@3Uqt_meta_stringdata_QGLShaderProgram_t@@B)
+                    3. 04 BF6F 0047 0000:?qt_metacast@QGLSignalProxy@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGLSignalProxy@@3Uqt_meta_stringdata_QGLSignalProxy_t@@B)
+                    4. 04 BF6F 0047 0000:?qt_metacast@QGLWidget@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGLWidget@@3Uqt_meta_stringdata_QGLWidget_t@@B)
+                    5. 04 BF6F 0047 0000:?qt_metacast@QGraphicsShaderEffect@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGraphicsShaderEffect@@3Uqt_meta_stringdata_QGraphicsShaderEffect_t@@B)
+                  E8........488D05........48890783:
+                    0. 95 7E2D 00B5 0000:??0QGL2PaintEngineState@@QEAA@AEAV0@@Z
+                F9:
+                  488B:
+                    4910488B:
+                      09E8........488B471841B001:
+                        0. 0A 863F 005C 0000:?useBlitProgram@QGLEngineShaderManager@@QEAAXXZ
+                      4908E8........488B471841B0:
+                        0. 0B BB06 005C 0000:?useSimpleProgram@QGLEngineShaderManager@@QEAAXXZ
+                    8930020000E8........4885C07406488B:
+                      0. 21 803F 005E 0000:?resetOpenGLContextActiveEngine@QGL2PaintEngineExPrivate@@QEAA_NXZ
+                    DA:
+                      48:
+                        83C110E8........488D4F18E8:
+                          0. 00 0000 007F 0000:??0QGLContextPrivate@@QEAA@PEAVQGLContext@@@Z
+                        8BCAE8........4883671000488BCB:
+                          0. 01 3E9B 006D 0000:??0QGLFunctionsPrivateEx@@QEAA@PEAVQOpenGLContext@@@Z
+                      B9:
+                        10000000E8........4C8D4F104C8B:
+                          0. 11 5FBC 0050 0000:?setFormat@QGLWidget@@QEAAXAEBVQGLFormat@@@Z
+                        B0000000E8........488BC8E8:
+                          0. 00 0000 0048 0000:??0QGraphicsShaderEffect@@QEAA@PEAVQObject@@@Z
+                  8BDA:
+                    4883C128E8........488BCFE8:
+                      0. 0E FDD6 0040 0000:??_GQGLFBOGLPaintDevice@@UEAAPEAXI@Z
+                    498BC8E8........448BC08BD3488BCF48:
+                      0. 0A 9C27 002E 0000:?setEntry@QGLColormap@@QEAAXHAEBVQColor@@@Z
+                    B920000000E8........B9E4880000C700:
+                      0. 28 33FC 0048 0000:??0QGLBuffer@@QEAA@W4Type@0@@Z
+                  B918000000E8........488BD8C70001000000:
+                    0. 14 44AB 0073 0000:??0QGLFramebufferObjectFormat@@QEAA@XZ
+              8D:
+                05........:
+                  488B:
+                    D948:
+                      8901:
+                        488B89A00000004885:
+                          0. 09 EEE2 00CB 0000:??1QGLShaderProgramPrivate@@UEAA@XZ
+                        8BFA488B49:
+                          104885C9:
+                            0. 08 992E 0055 0000:??_GQGLFunctionsPrivateEx@@UEAAPEAXI@Z
+                          684885C9:
+                            0. 04 42BA 007E 0000:??_GQOpenGLStaticTextUserData@?A0x50bcde17@@UEAAPEAXI@Z
+                      8D7910488901488BCFE8:
+                        0. 00 0000 0069 0000:??1QGL2GradientCache@@UEAA@XZ
+                    F9488901:
+                      488BDAB990000000E8:
+                        0. 00 0000 004E 0000:??0QGLContext@@QEAA@AEBVQGLFormat@@@Z
+                      8BDA4881C100020000:
+                        0. 01 3E9B 0059 0000:??_GQGLWidgetPrivate@@UEAAPEAXI@Z
+                  8BDA488901488BF9E8........F6C3:
+                    0. 0C 3D7A 003E 0000:??_GQGLPaintDevice@@UEAAPEAXI@Z (REF 000D: ??_7QGLPaintDevice@@6B@)
+                    1. 0C 3D7A 003E 0000:??_GQGL2PaintEngineEx@@UEAAPEAXI@Z (REF 000D: ??_7QGL2PaintEngineEx@@6B@)
+                    2. 0C 8157 003E 0000:??_GQGLWidgetGLPaintDevice@@UEAAPEAXI@Z
+                    3. 0C B597 003E 0000:??_GQGLShaderProgram@@UEAAPEAXI@Z (REF 000D: ??_7QGLShaderProgram@@6B@)
+                    4. 0C B597 003E 0000:??_GQGLShader@@UEAAPEAXI@Z (REF 000D: ??_7QGLShader@@6B@)
+                    5. 0C FB4B 003E 0000:??_GQGL2PaintEngineState@@UEAAPEAXI@Z
+                5918488BF94885DB740C488BCBE8........4883:
+                  0. 07 4730 0047 0000:?invalidateResource@QGL2GradientCache@@UEAAXXZ
+            498BF8488BD9E8........:
+              488B4B08:
+                4533C04C8BCF48:
+                  0. 20 0AC9 0040 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$01$01M@@@Z
+                  1. 20 AB0A 0040 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQMatrix4x4@@@Z
+                  2. 20 D22C 0040 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$02$02M@@@Z
+                4C8BC7488B91A0:
+                  0. 1E 7BD7 003E 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$03$01M@@@Z
+                  1. 1E 7F53 003E 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$02$01M@@@Z
+                  2. 1E 9F4E 003E 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$03$02M@@@Z
+                  3. 1E A472 003E 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$01$03M@@@Z
+                  4. 1E C845 003E 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$02$03M@@@Z
+                  5. 1E F7FD 003E 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBV?$QGenericMatrix@$01$02M@@@Z
+              8BD04C8BC7488BCB488B5C:
+                0. 08 F921 002C 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDAEBVQColor@@@Z (REF 0028: ?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQColor@@@Z)
+                1. 08 F921 002C 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDAEBVQVector2D@@@Z (REF 0028: ?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQVector2D@@@Z)
+                2. 08 F921 002C 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDAEBVQVector3D@@@Z (REF 0028: ?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQVector3D@@@Z)
+                3. 08 F921 002C 0000:?setAttributeValue@QGLShaderProgram@@QEAAXPEBDAEBVQVector4D@@@Z (REF 0028: ?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQVector4D@@@Z)
+                4. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQColor@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQColor@@@Z)
+                5. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQPoint@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQPoint@@@Z)
+                6. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQPointF@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQPointF@@@Z)
+                7. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQSize@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQSize@@@Z)
+                8. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQSizeF@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQSizeF@@@Z)
+                9. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQTransform@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQTransform@@@Z)
+                10. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQVector2D@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQVector2D@@@Z)
+                11. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQVector3D@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQVector3D@@@Z)
+                12. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDAEBVQVector4D@@@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQVector4D@@@Z)
+                13. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDQEAY01$$CBM@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHQEAY01$$CBM@Z)
+                14. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDQEAY02$$CBM@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHQEAY02$$CBM@Z)
+                15. 08 F921 002C 0000:?setUniformValue@QGLShaderProgram@@QEAAXPEBDQEAY03$$CBM@Z (REF 0028: ?setUniformValue@QGLShaderProgram@@QEAAXHQEAY03$$CBM@Z)
+            4C8B:
+              01488BFA488BD9418B5008418B40040FBAF21FFF:
+                0. 1A 1A3C 006A 0000:?append@?$QVector@G@@QEAAX$$QEAG@Z
+              CA488BF9488B11448B420C442B42084585C07E2E:
+                0. 4B 7BFA 009E 0000:?removeOne@?$QList@PEAVQGLContextGroup@@@@QEAA_NAEBQEAVQGLContextGroup@@@Z
+            833D........FE:
+              488BF97F0433DBEB08E8........48:
+                0. 09 CD69 0044 0000:?setDefaultOverlayFormat@QGLFormat@@SAXAEBV1@@Z
+              7F0433FFEB:
+                08E8........488BF848:
+                  0. 15 8E8C 0063 0000:?textureCacheLimit@QGLContext@@SAHXZ
+                  1. 03 A2C1 0065 0000:?qt_qgl_paint_engine@@YAPEAVQPaintEngine@@XZ (REF 000C: ?guard@Q_QGS_qt_gl_2_engine@?A0xb67c8be3@@3V?$QBasicAtomicInteger@H@@A)
+                  2. 03 A2C1 0065 0000:?paintEngine@QGLPixelBuffer@@UEBAPEAVQPaintEngine@@XZ (REF 000C: ?guard@Q_QGS_qt_buffer_2_engine@?A0x0c2c968f@@3V?$QBasicAtomicInteger@H@@A)
+                5AE8........488BF848:
+                  0. 07 532B 007F 0000:?instance@QGLSignalProxy@@SAPEAV1@XZ
+            8B:
+              02488B:
+                D98901488BFA8B42048941048B4208894108:
+                  0. 37 F136 007B 0000:??0QGLEngineShaderProg@@QEAA@AEBV0@@Z
+                DA8901488BF94883C1084883C20841B85800:
+                  0. 03 8AAD 007A 0000:??0QPainterClipInfo@@QEAA@AEBV0@@Z
+              3A488BD94585C07907488B01448B4004418BD0E8:
+                0. 00 0000 005B 0000:?fill@?$QVector@I@@QEAAAEAV1@AEBIH@Z
+              DA488BF9E8........F6C301740DBA:
+                08050000488B:
+                  0. 02 632D 0034 0000:??_GQGL2PaintEngineExPrivate@@UEAAPEAXI@Z
+                10000000488B:
+                  0. 02 632D 0034 0000:??_GQGLCustomShaderStage@@UEAAPEAXI@Z (REF 0010: ??1QGLCustomShaderStage@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQStaticTextUserData@@UEAAPEAXI@Z (REF 0010: ??1QStaticTextUserData@@UEAA@XZ)
+                  2. 02 632D 0034 0000:??_GQGLContext@@UEAAPEAXI@Z (REF 0010: ??1QGLContext@@UEAA@XZ)
+                  3. 02 632D 0034 0000:??_GQGLSignalProxy@@UEAAPEAXI@Z (REF 0010: ??1QObject@@UEAA@XZ)
+                  4. 02 632D 0034 0000:??_GQGraphicsShaderEffect@@UEAAPEAXI@Z (REF 0010: ??1QGraphicsShaderEffect@@UEAA@XZ)
+                18:
+                  000000488B:
+                    0. 02 632D 0034 0000:??_GQGLSharedResourceGuardBase@@UEAAPEAXI@Z (REF 0010: ??1QOpenGLSharedResource@@UEAA@XZ)
+                    1. 02 632D 0034 0000:??_GQGLCustomShaderEffectStage@@UEAAPEAXI@Z (REF 0010: ??1QGLCustomShaderStage@@UEAA@XZ)
+                  010000488B:
+                    0. 02 632D 0034 0000:??_GQGLTextureGlyphCache@@UEAAPEAXI@Z
+                20000000488B:
+                  0. 02 632D 0034 0000:??_GQGL2GradientCache@@UEAAPEAXI@Z (REF 0010: ??1QGL2GradientCache@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_G?$QGLSharedResourceGuard@P6AXPEAVQGLContext@@I@Z@@UEAAPEAXI@Z
+                  2. 02 632D 0034 0000:??_GQGLFramebufferObject@@UEAAPEAXI@Z
+                  3. 02 632D 0034 0000:??_GQImage@@UEAAPEAXI@Z
+                  4. 02 632D 0034 0000:??_GQGLPixelBuffer@@UEAAPEAXI@Z
+                  5. 02 632D 0034 0000:??_GQOpenGLSharedResourceGuard@@UEAAPEAXI@Z
+                  6. 02 632D 0034 0000:??_GQGLGlyphTexture@@UEAAPEAXI@Z
+                28000000488B:
+                  0. 02 632D 0034 0000:??_GQGLPBufferGLPaintDevice@@UEAAPEAXI@Z
+                30000000488B:
+                  0. 02 632D 0034 0000:??_GQGLWidget@@UEAAPEAXI@Z
+                68000000488B:
+                  0. 02 632D 0034 0000:??_GQFontEngineGlyphCache@@UEAAPEAXI@Z
+                90000000488B:
+                  0. 02 632D 0034 0000:??_GQGLShaderPrivate@@UEAAPEAXI@Z
+                98000000488B:
+                  0. 02 632D 0034 0000:??_GQTextureGlyphCache@@UEAAPEAXI@Z
+                A0000000488B:
+                  0. 02 632D 0034 0000:??_GQGLEngineShaderManager@@UEAAPEAXI@Z (REF 0010: ??1QGLEngineShaderManager@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQGraphicsEffectPrivate@@UEAAPEAXI@Z (REF 0010: ??1QGraphicsEffectPrivate@@UEAA@XZ)
+                A8000000488B:
+                  0. 02 632D 0034 0000:??_GQGLShaderProgramPrivate@@UEAAPEAXI@Z
+                B8000000488B:
+                  0. 02 632D 0034 0000:??_GQImageTextureGlyphCache@@UEAAPEAXI@Z
+                C8010000488B:
+                  0. 02 632D 0034 0000:??_GQPainterState@@UEAAPEAXI@Z
+              F9E8........33DB4885C07421E8........4885C0:
+                0. 06 C7DC 005B 0000:?qgl_hasExtension@@YA_NW4OpenGLExtension@QOpenGLExtensions@@@Z
+              FA488BD9E8........488B03488B5C24308978:
+                0448:
+                  0. 05 48B6 0025 0000:?setSamples@QGLFramebufferObjectFormat@@QEAAXH@Z
+                0848:
+                  0. 05 48B6 0025 0000:?setPlane@QGLFormat@@QEAAXH@Z (REF 0010: ?detach@QGLFormat@@AEAAXXZ)
+                  1. 05 48B6 0025 0000:?setAttachment@QGLFramebufferObjectFormat@@QEAAXW4Attachment@QGLFramebufferObject@@@Z (REF 0010: ?detach@QGLFramebufferObjectFormat@@AEAAXXZ)
+                0C48:
+                  0. 05 48B6 0025 0000:?setTextureTarget@QGLFramebufferObjectFormat@@QEAAXI@Z
+                1048:
+                  0. 05 48B6 0025 0000:?setInternalTextureFormat@QGLFramebufferObjectFormat@@QEAAXI@Z
+                2C48:
+                  0. 05 48B6 0025 0000:?setSwapInterval@QGLFormat@@QEAAXH@Z
+                3848:
+                  0. 05 48B6 0025 0000:?setProfile@QGLFormat@@QEAAXW4OpenGLContextProfile@1@@Z
+            BA000D0500488BF9E8........4883677000488D05:
+              0. 00 0000 0096 0000:??0QGLShaderProgramPrivate@@QEAA@PEBVQGLContext@@@Z
+            E8........33FF4885C0740B488BC8E8........488B:
+              0. 02 C9D6 00E9 (l)0000:?qt_save_gl_state@@YAXXZ
+          30488BD9C744242008000000488B094C8D05........41:
+            0. 08 7C64 0070 0000:?detach_helper@?$QHash@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@AEAAXXZ
+            1. 08 90BA 0070 0000:?detach_helper@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@AEAAXXZ
+            2. 08 DCAB 0070 0000:?detach_helper@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@AEAAXXZ
+          40:
+            488B:
+              01488BF933DBFF50088BD083EA010F8491000000:
+                0. 12 A643 00CA 0000:?getDevice@QGLPaintDevice@@SAPEAV1@PEAVQPaintDevice@@@Z
+              D9E8........488BF84885C00F8490000000488B:
+                0. 0B BB82 00D4 0000:?create@QGLShaderPrivate@@QEAA_NXZ
+            8BDA488BF9E8........85DB79:
+              388364242400488D05:
+                0. 00 0000 0061 0000:?setRedBufferSize@QGLFormat@@QEAAXH@Z (002F: 06) (0035: 18)
+                1. 00 0000 0061 0000:?setGreenBufferSize@QGLFormat@@QEAAXH@Z (002F: 06) (0035: 1C)
+                2. 00 0000 0061 0000:?setBlueBufferSize@QGLFormat@@QEAAXH@Z (002F: 06) (0035: 20)
+                3. 00 0000 0078 0000:?setSamples@QGLFormat@@QEAAXH@Z (002F: 1D) (0038: 00)
+                4. 00 0000 0078 0000:?setAlphaBufferSize@QGLFormat@@QEAAXH@Z (002F: 1D) (0038: 08)
+                5. 00 0000 0078 0000:?setAccumBufferSize@QGLFormat@@QEAAXH@Z (002F: 1D) (0038: 10)
+                6. 00 0000 0078 0000:?setStencilBufferSize@QGLFormat@@QEAAXH@Z (002F: 1D) (0038: 20)
+              398364242400488D15:
+                0. 00 0000 0079 0000:?setDepthBufferSize@QGLFormat@@QEAAXH@Z
+          50488B59188BFA440F29442440E8........660F6EC0F3:
+            0. 07 C213 01E8 0000:?metric@QGLFramebufferObject@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z (007B: 30)
+            1. 07 C213 01E8 0000:?metric@QGLPixelBuffer@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z (007B: 7C)
+        89542410574883EC2033DB488BF9833D........FE7F048BC3EB09:
+          0. 01 3E9B 006B 0000:?deleteTexture@QGLContext@@QEAAXI@Z
+      10:
+        44894C2420555657415641574883EC204C8BF933F6B91002000089:
+          0. 0A 5E68 00F3 0000:??0QGLWidget@@QEAA@PEAVQWidget@@PEBV0@V?$QFlags@W4WindowType@Qt@@@@@Z
+        4889:
+          4C24085556574154415541564157488D6C24C04881EC400100:
+            0. 3C 9D21 08EB 0000:?findProgramInCache@QGLEngineSharedShaders@@QEAAPEAVQGLEngineShaderProg@@AEBV2@@Z
+          6C2418:
+            488974242057:
+              415641574883EC404863BC2480000000:
+                0. 82 85BB 0129 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHPEBMHH@Z
+              4883EC20:
+                48:
+                  8BFA488BD9E8........48:
+                    0. 1F 5C66 016D 0000:?toSurfaceFormat@QGLFormat@@SA?AVQSurfaceFormat@@AEBV1@@Z
+                  8D05........488BFA4889:
+                    0. 0C ACAF 00ED 0000:?keys@?$QHash@_KUCacheInfo@QGL2GradientCache@@@@QEBA?AV?$QList@_K@@XZ
+                8364243000488BFA488B5908:
+                  0. 11 6FD8 00F1 0000:?initContext@QGLWidgetPrivate@@QEAAXPEAVQGLContext@@PEBVQGLWidget@@@Z
+            4C894C242056574155415641574883EC40488B810802:
+              0. 2E 1992 0491 0000:?fillStencilWithVertexArray@QGL2PaintEngineExPrivate@@QEAAXPEBMHPEAHHAEBUQGLRect@@W4StencilFillMode@1@@Z
+            565741:
+              54415641574883EC20488D5920:
+                458BE04C8BFA:
+                  0. 15 8606 0128 0000:?remove@QGLTextureCache@@QEAA_NPEAVQGLContext@@I@Z
+                4C8BE2488BF9:
+                  0. 12 E931 00FE 0000:?removeContextTextures@QGLTextureCache@@QEAAXPEAVQGLContext@@@Z
+              5648:
+                81ECA0000000488B024C8DB17002000033:
+                  0. 1E B79C 0140 0000:?setBrush@QGL2PaintEngineExPrivate@@QEAAXAEBVQBrush@@@Z
+                83EC:
+                  20488BB998000000488BE94863DA48:
+                    0. 2A 1C8E 00EA 0000:?getUniformLocation@QGLEngineShaderManager@@QEAAIW4Uniform@1@@Z
+                  30488B01498BF9498BF04C8BF2488B:
+                    0. 08 35FB 00F4 0000:?insert@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@QEAA?AViterator@1@AEBUQGLTextureCacheKey@@AEBUNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@Z
+                  40418B:
+                    E9418BF88BDA4C8BF1E8:
+                      0. 00 0000 00A5 0000:??0QGLFramebufferObject@@QEAA@HHI@Z
+                    F1418BE8448BF2488BD9E8:
+                      0. 00 0000 00B7 0000:??0QGLFramebufferObject@@QEAA@HHW4Attachment@0@II@Z
+                  50488D7110418BE9488B06498BF84C:
+                    0. 0F 5682 0111 0000:?insert@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@QEAA_NAEBUQGLTextureCacheKey@@PEAVQGLTexture@@H@Z
+            57415641574883EC600F29742450488B05........48:
+              0. 22 32E2 024C 0000:?drawTexture@QGL2PaintEngineExPrivate@@QEAAXAEBUQGLRect@@0AEBVQSize@@_N2@Z
+          742418:
+            48897C2420:
+              41564883EC:
+                20498BF1418BF88BDA4C8BF1:
+                  0. 01 3E9B 007E 0000:??0QGLPixelBuffer@@QEAA@HHAEBVQGLFormat@@PEAVQGLWidget@@@Z
+                40498BF1418BF88BDA4C8BF1:
+                  0. 01 3E9B 009C 0000:??0QGLFramebufferObject@@QEAA@HHAEBVQGLFramebufferObjectFormat@@@Z
+              5541:
+                54415541564157488BEC4881EC8000:
+                  0. 16 7784 01F9 0000:?drawTexture@QGLContext@@QEAAXAEBVQPointF@@II@Z
+                564157488BEC4883EC50488B410848:
+                  0. 2E 5D98 0177 0000:?drawTexture@QGLContext@@QEAAXAEBVQRectF@@II@Z
+            55574156488D6C24:
+              B94881ECC0000000488B05:
+                0. 00 0000 0344 0000:?beginNativePainting@QGL2PaintEngineEx@@UEAAXXZ
+              E04881EC20010000488B79084C8B:
+                0. 14 D9F3 018C 0000:?draw@QGraphicsShaderEffect@@MEAAXPEAVQPainter@@@Z
+            574883EC:
+              20:
+                488B:
+                  01498BF841B8010000008BF2488BD9:
+                    0. 06 5106 0072 0000:?insert@?$QList@PEAVQGLEngineShaderProg@@@@QEAAXHAEBQEAVQGLEngineShaderProg@@@Z
+                  39488B47084885C0740D8378100074:
+                    0. 09 F08B 00E2 0000:?create@QGLBuffer@@QEAA_NXZ
+                  7118807E0800740732C0E9E5000000:
+                    0. 1B F81B 0115 0000:?makeCurrent@QGLPixelBuffer@@QEAA_NXZ
+                4C8B02488BDA488BF1488B09498B000F10:
+                  0. 42 7E2B 010E 0000:??$?YV?$QStringBuilder@VQLatin1String@@V1@@@VQString@@@@YAAEAVQString@@AEAV0@AEBV?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@V1@@@VQString@@@@@Z
+                833D........FE488BF97F0433F6EB08E8:
+                  0. 00 0000 0092 0000:??1QGLContextGroup@@QEAA@XZ
+              30488BF1498BD9B930000000498BF8E8:
+                0. 00 0000 007B 0000:?init@QGLPixelBufferPrivate@@QEAA_NAEBVQSize@@AEBVQGLFormat@@PEAVQGLWidget@@@Z
+              40488B59188BF2807B08000F850F01000048:
+                0. 0B 1E9E 013E 0000:?updateDynamicTexture@QGLPixelBuffer@@QEBAXI@Z
+              50488B01488BFA488BD9837810017605E8:
+                0. 00 0000 00DB 0000:??A?$QHash@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@QEAAAEAUCoord@QTextureGlyphCache@@AEBUGlyphAndSubPixelPosition@2@@Z
+          7C24184C896424205541564157488BEC4883EC504C8B71104C:
+            0. 25 3089 031F 0000:?updateBrushTexture@QGL2PaintEngineExPrivate@@QEAAXXZ
+        555657:
+          41:
+            5441554156415748:
+              8BEC4883EC3033FF4C8BE1897D404C:
+                0. 4F 8369 0218 0000:?chooseContext@QGLContext@@MEAA_NPEBV1@@Z
+              8D6C24:
+                B04881EC500100004533FF48:
+                  0. 02 5E64 0946 0000:??0QGLEngineSharedShaders@@QEAA@PEBVQGLContext@@@Z
+                D94881EC90000000488B4170:
+                  0. 96 E977 0346 0000:?compile@QGLShaderPrivate@@QEAA_NPEAVQGLShader@@@Z
+            56415748:
+              8BEC4881EC80000000488B05........4833C4:
+                0. 14 F126 0146 (l)0000:?qt_gl_draw_text@@YAXPEAVQPainter@@HHAEBVQString@@AEBVQFont@@@Z
+              8D6C24C94881ECE0000000488BD9488D35:
+                0. 00 0000 0425 0000:?qOpenGLVersionFlagsFromString@@YA?AV?$QFlags@W4OpenGLVersionFlag@QGLFormat@@@@AEBVQString@@@Z
+          48:
+            83EC20488B:
+              6908488BFA488B45704885C074058B7010EB:
+                0. 0A EAB3 010D 0000:?sourceCode@QGLShader@@QEBA?AVQByteArray@@XZ
+              F1488BEA488BCAE8........488D5E10488B:
+                0. 0A BDF1 00A4 0000:??$value@VQGLEngineSharedShadersResource@@@QOpenGLMultiGroupSharedResource@@QEAAPEAVQGLEngineSharedShadersResource@@PEAVQOpenGLContext@@@Z (0037: 18)
+                1. 0A BDF1 00A4 0000:??$value@UQGLFunctionsPrivateEx@@@QOpenGLMultiGroupSharedResource@@QEAAPEAUQGLFunctionsPrivateEx@@PEAVQOpenGLContext@@@Z (0037: 20) (REF 006E: ??0QGLFunctionsPrivateEx@@QEAA@PEAVQOpenGLContext@@@Z)
+                2. 0A BDF1 00A4 0000:??$value@VQGL2GradientCache@@@QOpenGLMultiGroupSharedResource@@QEAAPEAVQGL2GradientCache@@PEAVQOpenGLContext@@@Z (0037: 20) (REF 006E: ??0QGL2GradientCache@@QEAA@PEAVQOpenGLContext@@@Z)
+            8D6C24B94881EC90000000488B4118488BFA488BF14889:
+              0. 0C F148 0186 0000:?toImage@QGLFramebufferObject@@QEBA?AVQImage@@XZ
+        574883EC:
+          20:
+            488B:
+              09488BDA488D542430E8........4C8B4318488B:
+                0. 1D 4C80 00AB (l)0000:??R<lambda_7c79fac52f909d4750675b9e93c19c14>@@QEBA_NPEAVQGLEngineShaderProg@@@Z
+              19488BF94885DB7404488B5B084885DB743C80BB:
+                0. 08 DDD4 0065 0000:?refreshCurrentFbo@QGLContextPrivate@@QEAAXXZ
+              791833C9488B8708020000488B9F30020000FF90:
+                0. 0D 016A 00B4 0000:?end@QGL2PaintEngineEx@@UEAA_NXZ
+              D9488BFA488B4920E8........4885C07413488B:
+                0. 03 69A1 007B 0000:?size@QGLWidgetGLPaintDevice@@UEBA?AVQSize@@XZ
+              F94885C9750433C0EB60488B4108488D4C243048:
+                0. 08 0E75 0081 0000:?qt_gl_transfer_context@@YAPEBVQGLContext@@PEBV1@@Z
+              FA488BD94885D2740A488BCAE8........EB0383:
+                0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+            8BDA488BF9488D91580200004533C0488D4C2430E8:
+              0. 00 0000 00A6 0000:?clearClip@QGL2PaintEngineExPrivate@@QEAAXI@Z
+            E8........488BF84885C0745F488BC8E8........48:
+              0. 08 BAF2 0087 0000:?bindDefault@QGLFramebufferObject@@SA_NXZ
+          40488B:
+            05........4833C44889442430488B7908488BD9:
+              0. 17 DCBF 00DC 0000:?reset@QGLContext@@QEAAXXZ
+            DA488BF9488BCB488D542450E8........488BD0:
+              0. 0A F4CE 006D 0000:?convertToGLFormat@QGLWidget@@SA?AVQImage@@AEBV2@@Z
+          604C8B4108488BD98B7904488D4C24304863C20F297424:
+            0. 50 BF6B 00EC 0000:?addClosingLine@QGL2PEXVertexArray@@AEAAXH@Z
+      18:
+        44894C242048895424105556574154415541564157488BEC4881EC:
+          0. 0E E990 0895 0000:?init@QGLFramebufferObjectPrivate@@QEAAXPEAVQGLFramebufferObject@@AEBVQSize@@W4Attachment@2@IIH_N@Z
+        4889:
+          542410:
+            48894C24085556574154415541564157488BEC4881EC:
+              0. 28 7311 028B 0000:?bindCompressedTextureDDS@QGLTexture@@QEAA?AVQSize@@PEBDH@Z
+            555657488BEC4883EC50488B5908488BF9E8:
+              0. 86 45A6 017E 0000:?addShader@QGLShaderProgram@@QEAA_NPEAVQGLShader@@@Z
+            574883EC20488D5908488BF94885DB740C488BCBE8:
+              0. 00 0000 0098 0000:?append@QGLContextGroupList@@QEAAXPEAVQGLContextGroup@@@Z
+          6C2420565741:
+            564883EC2048895120488BF1488B4218458BF0:
+              0. 1A A063 00DF 0000:?setFBO@QGLFBOGLPaintDevice@@QEAAXPEAVQGLFramebufferObject@@W4Attachment@2@@Z
+            574883EC30488B6908488BF90F29742420E8:
+              0. 00 0000 01E5 0000:?glDraw@QGLWidget@@MEAAXXZ
+          742420:
+            574883EC:
+              20488D05........488BF1488901488BFAB9:
+                0. 05 249A 00BF 0000:??0QGLContext@@AEAA@PEAVQOpenGLContext@@@Z
+              50488D5960488BF18B0383F8FF0F85240100:
+                0. 02 0164 0155 0000:?maxTextureSize@QGLContextPrivate@@QEAAHXZ
+            89542410574883EC20488BF9418BF0B93C000000E8:
+              0. 00 0000 00B0 0000:??0QGLFormat@@QEAA@V?$QFlags@W4FormatOption@QGL@@@@H@Z
+        555657:
+          41:
+            544156488D6C24C94881EC90000000488B7910488D7120:
+              0. 23 45AB 02AE 0000:?systemStateChanged@QGL2PaintEngineExPrivate@@UEAAXXZ
+            56415748:
+              83EC:
+                20488B71084533FF488B4670C6467A0148:
+                  0. DA 13F4 01A7 0000:?removeAllShaders@QGLShaderProgram@@QEAAXXZ
+                50488BF10F29742440488B4908418AE848:
+                  0. 03 B809 0167 0000:?grabFrameBuffer@QGLWidget@@QEAA?AVQImage@@_N@Z
+              8D6C24D14881EC900000004C8B5128BB010000:
+                0. 45 00B5 0192 0000:?renderPixmap@QGLWidget@@QEAA?AVQPixmap@@HH_N@Z
+          488BEC4883EC30488B5918488BF1488B02488BCA488BFAFF:
+            0. 14 6EB6 0250 0000:?begin@QGL2PaintEngineEx@@UEAA_NPEAVQPaintDevice@@@Z
+        565741564883EC20488B5118488BF148637A0C48635A084883C702:
+          0. 43 A4AE 0174 0000:??1QGLEngineSharedShaders@@QEAA@XZ
+        574883EC20488BF933DB4889194533C0488D4C2438B201E8:
+          0. 00 0000 0071 0000:??0QGLDefaultExtensions@@QEAA@XZ
+        89542410555657488BEC4883EC30488B5908498BF0488BF9E8:
+          0. 00 0000 0140 0000:?addShaderFromSourceFile@QGLShaderProgram@@QEAA_NV?$QFlags@W4ShaderTypeBit@QGLShader@@@@AEBVQString@@@Z (REF 0050: ?compileSourceFile@QGLShader@@QEAA_NAEBVQString@@@Z)
+          1. 00 0000 0140 0000:?addShaderFromSourceCode@QGLShaderProgram@@QEAA_NV?$QFlags@W4ShaderTypeBit@QGLShader@@@@PEBD@Z (REF 0050: ?compileSourceCode@QGLShader@@QEAA_NPEBD@Z)
+      20:
+        5556574154415541564157488DAC24:
+          40F0FFFFB8C0100000E8:
+            0. 00 0000 02A0 0000:?addCacheElement@QGL2GradientCache@@AEAAI_KAEBVQGradient@@N@Z
+          F0F3FFFF4881EC100D000048:
+            0. 02 8E30 0263 0000:?drawTextItem@QGL2PaintEngineEx@@UEAAXAEBVQPointF@@AEBVQTextItem@@@Z
+        574883EC40488BF90F29742430488BCA0F297C24200F28F2488BDA:
+          0. 01 3E9B 00B1 0000:?qt_premultiplyColor@@YA?AVQColor@@V1@M@Z
+    6C2408488974241048897C24184154415641574883EC20488B01488BF948:
+      0. 35 A615 0184 0000:?resize@?$QVector@I@@QEAAXH@Z
+  8B:
+    01:
+      488B480833C04885C974:
+        038B4110C3:
+          0. 00 0000 0012 0000:?bufferId@QGLBuffer@@QEBAIXZ
+        06488B018B4004C3:
+          0. 00 0000 0015 0000:?size@QGLColormap@@QEBAHXZ
+        0A3941107405B801000000C3:
+          0. 00 0000 0019 0000:?isCreated@QGLBuffer@@QEBA_NXZ
+      6685D274078550040F95C0C3C1FA108550040F94C0C3:
+        0. 00 0000 0019 0000:?testOption@QGLFormat@@QEBA_NV?$QFlags@W4FormatOption@QGL@@@@@Z
+      89:
+        5014895010C3:
+          0. 00 0000 000A 0000:?setUsagePattern@QGLBuffer@@QEAAXW4UsagePattern@1@@Z
+        51644885C07404488B40084885C07407C680F000000000C3:
+          0. 00 0000 001C 0000:?setCurrentFbo@QGLContextPrivate@@QEAAXI@Z
+      8B40:
+        04C3:
+          0. 00 0000 0007 0000:?samples@QGLFramebufferObjectFormat@@QEBAHXZ
+          1. 00 0000 0007 0000:?type@QGLBuffer@@QEBA?AW4Type@1@XZ
+        08C3:
+          0. 00 0000 0007 0000:?plane@QGLFormat@@QEBAHXZ
+          1. 00 0000 0007 0000:?attachment@QGLFramebufferObjectFormat@@QEBA?AW4Attachment@QGLFramebufferObject@@XZ
+        0CC3:
+          0. 00 0000 0007 0000:?depthBufferSize@QGLFormat@@QEBAHXZ
+          1. 00 0000 0007 0000:?textureTarget@QGLFramebufferObjectFormat@@QEBAIXZ
+        10C3:
+          0. 00 0000 0007 0000:?internalTextureFormat@QGLFramebufferObjectFormat@@QEBAIXZ
+          1. 00 0000 0007 0000:?accumBufferSize@QGLFormat@@QEBAHXZ
+          2. 00 0000 0007 0000:?usagePattern@QGLBuffer@@QEBA?AW4UsagePattern@1@XZ
+        14:
+          83E001C3:
+            0. 00 0000 000A 0000:?mipmap@QGLFramebufferObjectFormat@@QEBA_NXZ
+          C3:
+            0. 00 0000 0007 0000:?stencilBufferSize@QGLFormat@@QEBAHXZ
+        18C3:
+          0. 00 0000 0007 0000:?redBufferSize@QGLFormat@@QEBAHXZ
+        1CC3:
+          0. 00 0000 0007 0000:?greenBufferSize@QGLFormat@@QEBAHXZ
+        20C3:
+          0. 00 0000 0007 0000:?blueBufferSize@QGLFormat@@QEBAHXZ
+        24C3:
+          0. 00 0000 0007 0000:?alphaBufferSize@QGLFormat@@QEBAHXZ
+        28C3:
+          0. 00 0000 0007 0000:?samples@QGLFormat@@QEBAHXZ
+        2CC3:
+          0. 00 0000 0007 0000:?swapInterval@QGLFormat@@QEBAHXZ
+        30C3:
+          0. 00 0000 0007 0000:?majorVersion@QGLFormat@@QEBAHXZ
+        34C3:
+          0. 00 0000 0007 0000:?minorVersion@QGLFormat@@QEBAHXZ
+        38C3:
+          0. 00 0000 0007 0000:?profile@QGLFormat@@QEBA?AW4OpenGLContextProfile@1@XZ
+    02488901F0FF00488BC1C3:
+      0. 00 0000 000D 0000:??0QGLFramebufferObjectFormat@@QEAA@AEBV0@@Z
+      1. 00 0000 000D 0000:??0QGLColormap@@QEAA@AEBV0@@Z
+      2. 00 0000 000D 0000:??0QGLFormat@@QEAA@AEBV0@@Z
+      3. 00 0000 000D 0000:??0QGLBuffer@@QEAA@AEBV0@@Z
+    0D........BA02000000488B0148FF6008:
+      0. 00 0000 0013 0000:?hasOpenGL@QGLFormat@@SA_NXZ
+    11488D05........483BD07419488B420833C94885C0740E488B00394804:
+      0. 10 968A 0030 0000:?isEmpty@QGLColormap@@QEBA_NXZ
+    1248035210E9:
+      0. 00 0000 000C 0000:?bindAttributeLocation@QGLShaderProgram@@QEAAXAEBVQByteArray@@H@Z (REF 0008: ?bindAttributeLocation@QGLShaderProgram@@QEAAXPEBDH@Z)
+      1. 00 0000 000C 0000:?compileSourceCode@QGLShader@@QEAA_NAEBVQByteArray@@@Z (REF 0008: ?compileSourceCode@QGLShader@@QEAA_NPEBD@Z)
+      2. 00 0000 000C 0000:?uniformLocation@QGLShaderProgram@@QEBAHAEBVQByteArray@@@Z (REF 0008: ?uniformLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+      3. 00 0000 000C 0000:?attributeLocation@QGLShaderProgram@@QEBAHAEBVQByteArray@@@Z (REF 0008: ?attributeLocation@QGLShaderProgram@@QEBAHPEBD@Z)
+    41:
+      08:
+        41B8:
+          8300000066443942107507C680090200000166837A10157507C6:
+            0. 07 5943 002B 0000:?event@QGLWidget@@MEAA_NPEAVQEvent@@@Z
+          C8010000488B51184885C0488D88C0010000490F44C88309:
+            20C6:
+              0. 07 EBC0 0027 0000:?compositionModeChanged@QGL2PaintEngineEx@@UEAAXXZ
+            4066:
+              0. 09 916A 0029 0000:?opacityChanged@QGL2PaintEngineEx@@UEAAXXZ
+        448B:
+          CABA:
+            02000000488B88A0000000488B01418BC948FFA0:
+              C8030000:
+                0. 00 0000 0020 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$01$02M@@@Z
+              E8030000:
+                0. 00 0000 0020 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$01$03M@@@Z
+            03000000488B88A0000000488B01418BC948FFA0:
+              A8030000:
+                0. 00 0000 0020 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$02$01M@@@Z
+              E8030000:
+                0. 00 0000 0020 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$02$03M@@@Z
+            04000000488B88A0000000488B01418BC948FFA0:
+              A8030000:
+                0. 00 0000 0020 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$03$01M@@@Z
+              C8030000:
+                0. 00 0000 0020 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$03$02M@@@Z
+          D24D8BC84533C0488B88A0000000418D5001488B01418BCA48FF:
+            0. 05 0AA3 0025 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$02$02M@@@Z
+            1. 05 7385 0025 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQMatrix4x4@@@Z
+            2. 05 D246 0025 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBV?$QGenericMatrix@$01$01M@@@Z
+        48:
+          0500020000C3:
+            0. 00 0000 000B 0000:?colormap@QGLWidget@@QEBAAEBVQGLColormap@@XZ
+          8B:
+            00C3:
+              0. 00 0000 0008 0000:?contextHandle@QGLContext@@QEBAPEAVQOpenGLContext@@XZ
+            40:
+              28C3:
+                0. 00 0000 0009 0000:?device@QGLContext@@QEBAPEAVQPaintDevice@@XZ
+              58488B40088B480C2B480883F9020F9DC0C3:
+                0. 00 0000 0019 0000:?isSharing@QGLContext@@QEBA_NXZ
+            48:
+              1048890A:
+                8B01FFC083F8017603F0FF01488BC2C3:
+                  0. 00 0000 001B 0000:?source@QGLCustomShaderStage@@QEBA?AVQByteArray@@XZ
+                F0FF01488BC2C3:
+                  0. 00 0000 0012 0000:?format@QGLContext@@QEBA?AVQGLFormat@@XZ
+              1848890AF0FF01488BC2C3:
+                0. 00 0000 0012 0000:?requestedFormat@QGLContext@@QEBA?AVQGLFormat@@XZ
+              7033C04885C974038B4110C3:
+                0. 00 0000 0013 0000:?shaderId@QGLShader@@QEBAIXZ
+            80C8010000:
+              4885C0740E488B4008B901000000844824750233C9:
+                0. 03 BF9E 0023 0000:?isValid@QGLWidget@@QEBA_NXZ
+              C3:
+                0. 00 0000 000C 0000:?context@QGLWidget@@QEBAPEAVQGLContext@@XZ
+            88:
+              8000000048890A8B01FFC083F8017603F0FF01488BC2C3:
+                0. 00 0000 001E 0000:?log@QGLShader@@QEBA?AVQString@@XZ
+              8800000048890A8B01FFC083F8017603F0FF01488BC2C3:
+                0. 00 0000 001E 0000:?log@QGLShaderProgram@@QEBA?AVQString@@XZ
+              A000000048:
+                890A8B01FFC083F8017603F0FF01488BC2C3:
+                  0. 00 0000 001E 0000:?pixelShaderFragment@QGraphicsShaderEffect@@QEBA?AVQByteArray@@XZ
+                8B0133C948FFA018040000:
+                  0. 00 0000 0017 0000:?release@QGLShaderProgram@@QEAAXXZ
+              C8010000488B:
+                0148FF60:
+                  18:
+                    0. 00 0000 0012 0000:?doneCurrent@QGLWidget@@QEAAXXZ
+                  20:
+                    0. 00 0000 0012 0000:?swapBuffers@QGLWidget@@QEAAXXZ
+                4108488B:
+                  40:
+                    108A40042401C3:
+                      0. 00 0000 0019 0000:?doubleBuffer@QGLWidget@@QEBA_NXZ
+                    58488B40088B480C2B480883F902:
+                      0. 04 1C06 0024 0000:?isSharing@QGLWidget@@QEBA_NXZ
+                  481048890AF0FF01488BC2C3:
+                    0. 00 0000 001D 0000:?format@QGLWidget@@QEBA?AVQGLFormat@@XZ
+        8890F8010000C3:
+          0. 00 0000 000B 0000:?setAutoBufferSwap@QGLWidget@@IEAAX_N@Z
+        89:
+          507CC3:
+            0. 00 0000 0008 0000:?setGeometryOutputVertexCount@QGLShaderProgram@@QEAAXH@Z
+          90:
+            80000000C3:
+              0. 00 0000 000B 0000:?setGeometryInputType@QGLShaderProgram@@QEAAXI@Z
+            84000000C3:
+              0. 00 0000 000B 0000:?setGeometryOutputType@QGLShaderProgram@@QEAAXI@Z
+        8A:
+          40:
+            78C3:
+              0. 00 0000 0008 0000:?isLinked@QGLShaderProgram@@QEBA_NXZ
+            7CC3:
+              0. 00 0000 0008 0000:?isCompiled@QGLShader@@QEBA_NXZ
+          80F8010000C3:
+            0. 00 0000 000B 0000:?autoBufferSwap@QGLWidget@@IEBA_NXZ
+        8B:
+          40:
+            24:
+              83E001C3:
+                0. 00 0000 000B 0000:?isValid@QGLContext@@QEBA_NXZ
+              C1E8:
+                0283E001C3:
+                  0. 00 0000 000E 0000:?initialized@QGLContext@@IEBA_NXZ
+                0383E001C3:
+                  0. 00 0000 000E 0000:?windowCreated@QGLContext@@IEBA_NXZ
+            7CC3:
+              0. 00 0000 0008 0000:?geometryOutputVertexCount@QGLShaderProgram@@QEBAHXZ
+          4878488BC2890AC3:
+            0. 00 0000 000D 0000:?shaderType@QGLShader@@QEBA?AV?$QFlags@W4ShaderTypeBit@QGLShader@@@@XZ
+          80:
+            80000000C3:
+              0. 00 0000 000B 0000:?geometryInputType@QGLShaderProgram@@QEBAIXZ
+            84000000C3:
+              0. 00 0000 000B 0000:?geometryOutputType@QGLShaderProgram@@QEBAIXZ
+      10488B:
+        00C3:
+          0. 00 0000 0008 0000:?blitProgram@QGLEngineShaderManager@@QEAAPEAVQGLShaderProgram@@XZ
+        4008C3:
+          0. 00 0000 0009 0000:?simpleProgram@QGLEngineShaderManager@@QEAAPEAVQGLShaderProgram@@XZ
+      18:
+        488B:
+          0833C04885C974038B4110C3:
+            0. 00 0000 0012 0000:?handle@QGLFramebufferObject@@QEBAIXZ
+          4010C3:
+            0. 00 0000 0009 0000:?context@QGLPixelBuffer@@QEBAPEAVQGLContext@@XZ
+          48:
+            0833C04885C974038B4110C3:
+              0. 00 0000 0013 0000:?texture@QGLFramebufferObject@@QEBAIXZ
+            2C488BC248890AC3:
+              0. 00 0000 000F 0000:?size@QGLFramebufferObject@@QEBA?AVQSize@@XZ
+            3848890AF0FF01488BC2C3:
+              0. 00 0000 0012 0000:?format@QGLFramebufferObject@@QEBA?AVQGLFramebufferObjectFormat@@XZ
+            78488BC248890AC3:
+              0. 00 0000 000F 0000:?size@QGLPixelBuffer@@QEBA?AVQSize@@XZ
+        80780800:
+          0F94C0C3:
+            0. 00 0000 000C 0000:?isValid@QGLPixelBuffer@@QEBA_NXZ
+          740333C0C3488B8080000000C3:
+            0. 00 0000 0015 0000:?handle@QGLPixelBuffer@@QEBAPEAXXZ
+        8A8071030000C3:
+          0. 00 0000 000B 0000:?isNativePaintingActive@QGL2PaintEngineEx@@QEBA_NXZ
+        BAC8010000C6804002000001488B41084885C0488D88C0010000480F:
+          0. 06 9617 0026 0000:?transformChanged@QGL2PaintEngineEx@@UEAAXXZ
+        C680A403000001:
+          C3:
+            0. 00 0000 000C 0000:?invalidateState@QGL2PaintEngineEx@@QEAAXXZ
+          C6807103000000C3:
+            0. 00 0000 0013 0000:?endNativePainting@QGL2PaintEngineEx@@UEAAXXZ
+        F30F1080000500000F2EC17A02740FF30F118800050000C680460200:
+          0. 03 832B 0023 0000:?setTranslateZ@QGL2PaintEngineEx@@QEAAXM@Z
+        F640400174048B4044C333C0C3:
+          0. 00 0000 0011 0000:?attachment@QGLFramebufferObject@@QEBA?AW4Attachment@1@XZ
+      20488B:
+        4018488B4010C3:
+          0. 00 0000 000D 0000:?context@QGLPBufferGLPaintDevice@@UEBAPEAVQGLContext@@XZ
+        4818488B41:
+          2C488902488BC2C3:
+            0. 00 0000 0013 0000:?size@QGLFBOGLPaintDevice@@UEBA?AVQSize@@XZ
+          78488902488BC2C3:
+            0. 00 0000 0013 0000:?size@QGLPBufferGLPaintDevice@@UEBA?AVQSize@@XZ
+    4424280F57E4F20F5AC9F20F5AE0F30F1148040F57C0F30F11480C0F57C9:
+      0. 26 32DA 0046 0000:?qt_add_texcoords_to_array@@YAXNNNNPEAM@Z
+    49:
+      08:
+        48:
+          83:
+            7928000F85........488D05........C3:
+              0. 00 0000 0017 0000:?metaObject@QGLEngineShaderManager@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGLEngineShaderManager@@2UQMetaObject@@B)
+              1. 00 0000 0017 0000:?metaObject@QGLShader@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGLShader@@2UQMetaObject@@B)
+              2. 00 0000 0017 0000:?metaObject@QGLShaderProgram@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGLShaderProgram@@2UQMetaObject@@B)
+              3. 00 0000 0017 0000:?metaObject@QGLSignalProxy@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGLSignalProxy@@2UQMetaObject@@B)
+              4. 00 0000 0017 0000:?metaObject@QGLWidget@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGLWidget@@2UQMetaObject@@B)
+              5. 00 0000 0017 0000:?metaObject@QGraphicsShaderEffect@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGraphicsShaderEffect@@2UQMetaObject@@B)
+            C110E9:
+              0. 00 0000 000D 0000:?setSource@QGLCustomShaderStage@@IEAAXAEBVQByteArray@@@Z
+          8B:
+            09E9:
+              0. 00 0000 000C 0000:?doneCurrent@QGLContext@@UEAAXXZ
+            89C8010000E9:
+              0. 00 0000 0010 0000:?deleteTexture@QGLWidget@@QEAAXI@Z (REF 000C: ?deleteTexture@QGLContext@@QEAAXI@Z)
+              1. 00 0000 0010 0000:?drawTexture@QGLWidget@@QEAAXAEBVQPointF@@II@Z (REF 000C: ?drawTexture@QGLContext@@QEAAXAEBVQPointF@@II@Z)
+              2. 00 0000 0010 0000:?drawTexture@QGLWidget@@QEAAXAEBVQRectF@@II@Z (REF 000C: ?drawTexture@QGLContext@@QEAAXAEBVQRectF@@II@Z)
+              3. 00 0000 0010 0000:?bindTexture@QGLWidget@@QEAAIAEBVQString@@@Z (REF 000C: ?bindTexture@QGLContext@@QEAAIAEBVQString@@@Z)
+        E9:
+          0. 00 0000 0009 0000:?makeCurrent@QGLWidget@@QEAAXXZ (REF 0005: ?makeCurrent@QGLWidgetPrivate@@QEAA_NXZ)
+      10488B0148FF6070:
+        0. 00 0000 000B 0000:?setUniforms@QGLCustomShaderEffectStage@@UEAAXPEAVQGLShaderProgram@@@Z
+      18:
+        488B4910E9:
+          0. 00 0000 000D 0000:?deleteTexture@QGLPixelBuffer@@QEAAXI@Z (REF 0009: ?deleteTexture@QGLContext@@QEAAXI@Z)
+          1. 00 0000 000D 0000:?drawTexture@QGLPixelBuffer@@QEAAXAEBVQPointF@@II@Z (REF 0009: ?drawTexture@QGLContext@@QEAAXAEBVQPointF@@II@Z)
+          2. 00 0000 000D 0000:?drawTexture@QGLPixelBuffer@@QEAAXAEBVQRectF@@II@Z (REF 0009: ?drawTexture@QGLContext@@QEAAXAEBVQRectF@@II@Z)
+          3. 00 0000 000D 0000:?bindTexture@QGLPixelBuffer@@QEAAIAEBVQString@@@Z (REF 0009: ?bindTexture@QGLContext@@QEAAIAEBVQString@@@Z)
+        B801000000844140740E488B094885C9740683791000750233C0C3:
+          0. 00 0000 001F 0000:?isValid@QGLFramebufferObject@@QEBA_NXZ
+      20:
+        48:
+          83C110488B0148FF6010:
+            0. 00 0000 000F 0000:?paintEngine@QGLWidgetGLPaintDevice@@UEBAPEAVQPaintEngine@@XZ
+          8B0148FF6010:
+            0. 00 0000 000B 0000:?paintEngine@QGLPBufferGLPaintDevice@@UEBAPEAVQPaintEngine@@XZ
+            1. 00 0000 000B 0000:?paintEngine@QGLFBOGLPaintDevice@@UEBAPEAVQPaintEngine@@XZ
+        E9:
+          0. 00 0000 0009 0000:?context@QGLWidgetGLPaintDevice@@UEBAPEAVQGLContext@@XZ (REF 0005: ?context@QGLWidget@@QEBAPEAVQGLContext@@XZ)
+      48488B0148FF6020:
+        0. 00 0000 000B 0000:?swapRegion@QGLContextPrivate@@QEAAXAEBVQRegion@@@Z
+    510833C08D4801394A307C07394A347C028BC884C90F94C0C3:
+      0. 00 0000 001B 0000:?deviceIsPixmap@QGLContext@@IEBA_NXZ
+    81980000004885C07405488B4020C3488B4110488B4008C3:
+      0. 00 0000 001A 0000:?currentProgram@QGLEngineShaderManager@@QEAAPEAVQGLShaderProgram@@XZ
+    C24C8BC9418BD0488BC849FF6118:
+      0. 00 0000 0010 0000:?freeResource@?$QGLSharedResourceGuard@P6AXPEAVQGLContext@@I@Z@@MEAAXPEAVQGLContext@@I@Z
+    C4:
+      488958:
+        08:
+          4489482055565741544155415641574881EC80000000488BFA:
+            0. 1C AEF5 05BD 0000:?generateGradientColorTable@QGL2GradientCache@@AEBAXAEBVQGradient@@PEAIHN@Z
+          4889:
+            68:
+              1048897018:
+                4889782041564883EC:
+                  20:
+                    48:
+                      63F2BD080000:
+                        0. 14 4987 00C7 0000:?realloc@?$QVector@I@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                        1. 14 D1BC 00C9 0000:?realloc@?$QVector@G@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                      8B:
+                        01:
+                          418BF14D:
+                            0. 0E 18A5 0091 0000:?setEntries@QGLColormap@@QEAAXHPEBIH@Z
+                          488BF248:
+                            0. 16 B9A8 00E8 0000:?remove@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@QEAAHAEBUQGLTextureCacheKey@@@Z
+                        19498BE84C:
+                          0. 0F 2C1B 00AE 0000:?read@QGLBuffer@@QEAA_NHPEAXH@Z
+                        29498BF949:
+                          0. 09 137D 009A 0000:?common_init@QGLPixelBufferPrivate@@QEAAXAEBVQSize@@AEBVQGLFormat@@PEAVQGLWidget@@@Z
+                    4C8B:
+                      7148418AF8:
+                        0. 19 2619 0099 0000:?setVertexAttribArrayEnabled@QGLContextPrivate@@QEAAXH_N@Z
+                      F1498BE9B9:
+                        0. 0B 3ABF 00BE 0000:??0QGLWidget@@QEAA@PEAVQGLContext@@PEAVQWidget@@PEBV0@V?$QFlags@W4WindowType@Qt@@@@@Z (0053: 4E)
+                        1. 0B 3ABF 00E5 0000:??0QGLWidget@@QEAA@AEBVQGLFormat@@PEAVQWidget@@PEBV0@V?$QFlags@W4WindowType@Qt@@@@@Z (0053: 7E)
+                    8B:
+                      B92C02000048:
+                        0. 63 B250 0083 0000:?setScissor@QGL2PaintEngineExPrivate@@QEAAXAEBVQRect@@@Z
+                      DA488BF9E8:
+                        0. 00 0000 00DB 0000:?findNearest@QGLColormap@@QEBAHI@Z
+                  30488D5920498BF1:
+                    0. 1B 33F2 009B 0000:?insert@QGLTextureCache@@QEAAXPEAVQGLContext@@_JPEAVQGLTexture@@H@Z
+                  40:
+                    33DB8BEA458AF1:
+                      0. 11 CA57 00DA (l)0000:?convertFromGLImage@@YAXAEAVQImage@@HH_N1@Z
+                    418BF1418BE84C:
+                      0. 06 6663 00B1 0000:??0QGLFramebufferObject@@QEAA@AEBVQSize@@W4Attachment@0@II@Z
+                    488B6908418AF1:
+                      0. 1D 719C 00D0 0000:?setContext@QGLWidget@@QEAAXPEAVQGLContext@@PEBV2@_N@Z
+                  50488B59184D8BF1:
+                    0. 1B CE24 0160 0000:?drawTexture@QGL2PaintEngineEx@@QEAA_NAEBVQRectF@@IAEBVQSize@@0@Z
+                57415441:
+                  55415641574883EC50488BF20F:
+                    0. 15 FCDE 02A3 (l)0000:?convertToGLFormatHelper@@YAXAEAVQImage@@AEBV1@I@Z
+                  564883EC304533F60F2970D88A:
+                    0. 1D D9C0 0280 0000:?prepareForDraw@QGL2PaintEngineExPrivate@@QEAA_N_N@Z
+              184889702089501057:
+                41544155415641574883EC2048:
+                  0. 1D 7C0C 0161 0000:?detach_helper_grow@?$QList@UQGLTextureCacheKey@@@@AEAAPEAUNode@1@HH@Z
+                4883EC20488B:
+                  11488BF94963E8:
+                    0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQGLShader@@@@AEAAPEAUNode@1@HH@Z
+                    1. 15 32D5 010F 0000:?detach_helper_grow@?$QList@_K@@AEAAPEAUNode@1@HH@Z
+                    2. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQGLContextGroup@@@@AEAAPEAUNode@1@HH@Z
+                    3. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEBVQGLContext@@@@AEAAPEAUNode@1@HH@Z
+                    4. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQGLEngineShaderProg@@@@AEAAPEAUNode@1@HH@Z
+                  F9498BF1B99000:
+                    0. 06 ACC7 0083 0000:??0QGLShader@@QEAA@V?$QFlags@W4ShaderTypeBit@QGLShader@@@@PEBVQGLContext@@PEAVQObject@@@Z
+            7010:
+              48897818:
+                44894820554154415541564157488BEC48:
+                  0. 14 80CF 01CA 0000:?bindTexture@QGLContextPrivate@@QEAAPEAVQGLTexture@@AEBVQPixmap@@IHV?$QFlags@W4BindOption@QGLContext@@@@@Z
+                4C89:
+                  6820554156415748:
+                    8BEC4883EC704C:
+                      0. 67 2811 02B6 0000:?compileSourceCode@QGLShader@@QEAA_NPEBD@Z
+                    8D68A14881EC90:
+                      0. 2E A3B4 03A9 0000:?clip@QGL2PaintEngineEx@@UEAAXAEBVQVectorPath@@W4ClipOperation@Qt@@@Z
+                  702041574883EC204183CFFF418BF1:
+                    0. 2A 0141 0150 0000:?bindCompressedTexture@QGLTexture@@QEAA?AVQSize@@PEBDH0@Z
+                554154415541564157488D68A14881ECF0:
+                  0. 0C ACF2 070D 0000:?resizeTextureData@QGLTextureGlyphCache@@UEAAXHH@Z
+              574883EC600F2970E8488BF90F2978D8440F2940C8:
+                0. 06 62A6 0151 0000:?beginPaint@QGLWidgetGLPaintDevice@@UEAAXXZ
+            78104C89781855488D68A14881ECC000000083B9680200:
+              0. 17 B7E4 0247 0000:?resetClipIfNeeded@QGL2PaintEngineExPrivate@@QEAAXXZ
+        10:
+          44894820448940185556574154415541564157488D68B14881:
+            0. 17 4BB1 0669 0000:?bindTexture@QGLContextPrivate@@QEAAPEAVQGLTexture@@AEBVQImage@@IH_JV?$QFlags@W4BindOption@QGLContext@@@@@Z
+          4889:
+            68184889702057:
+              4156415748:
+                81EC800000004C8B79184C:
+                  0. 14 2135 0101 0000:?stroke@QGL2PaintEngineEx@@UEAAXAEBVQVectorPath@@AEBVQPen@@@Z
+                83EC30488D59180F2970D8:
+                  0. 12 E577 019F 0000:?getBuffer@QGL2GradientCache@@QEAAIAEBVQGradient@@N@Z
+              4883EC50488B6908488BF20F2970E80F:
+                0. 09 F99C 0171 0000:?qglClearColor@QGLWidget@@QEBAXAEBVQColor@@@Z
+            7018:
+              48897820554154415541564157488D:
+                68:
+                  A14881ECE0:
+                    0. 29 59C6 05A3 0000:?useCorrectShaderProg@QGLEngineShaderManager@@QEAA_NXZ
+                  A94881ECA0:
+                    0. 27 46BB 02A8 0000:?drawImage@QGL2PaintEngineEx@@UEAAXAEBVQRectF@@AEBVQImage@@0V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z
+                A8B8FEFFFF48:
+                  0. 28 7225 057E 0000:?renderText@QGLWidget@@QEAAXNNNAEBVQString@@AEBVQFont@@@Z
+              5557415541564157488DA8C8FBFFFF4881EC100500:
+                0. 1B A11F 0A97 0000:?updateBrushUniforms@QGL2PaintEngineExPrivate@@QEAAXXZ
+              574883EC60488B7908488BF20F2970E80F2978D844:
+                0. 0A 41A0 0167 0000:?qglColor@QGLWidget@@QEBAXAEBVQColor@@@Z
+          5556574154415541564157488D6C24A04881EC600100000F29:
+            0. 43 6822 0D02 0000:?drawPixmapFragments@QGL2PaintEngineExPrivate@@QEAAXPEBVPixmapFragment@QPainter@@HAEBVQPixmap@@V?$QFlags@W4PixmapFragmentHint@QPainter@@@@@Z
+        18:
+          4489482048895010488948085556574154415541564157488D:
+            0. 13 2B31 04D1 0000:?fillTexture@QGLTextureGlyphCache@@UEAAXAEBUCoord@QTextureGlyphCache@@IUQFixed@@@Z
+          4889:
+            5010:
+              488948085556574154415541564157488D68A14881:
+                0. 54 8094 0367 0000:?bindCompressedTexturePVR@QGLTexture@@QEAA?AVQSize@@PEBDH@Z
+              5556574154415541564157488D68A14881EC900000:
+                0. 25 4F9D 02F2 0000:?drawPixmap@QGL2PaintEngineEx@@UEAAXAEBVQRectF@@AEBVQPixmap@@0@Z
+            70205557415541564157488DA818FBFFFF4881ECC00500:
+              0. 15 B9E5 0A3F 0000:?fill@QGL2PaintEngineExPrivate@@QEAAXAEBVQVectorPath@@@Z
+          5556574154415541564157488D68884881EC400100000F2970:
+            0. 08 09C6 042C 0000:?addPath@QGL2PEXVertexArray@@QEAAXAEBVQVectorPath@@M_N@Z
+        205556574154415541564157488D:
+          6C24804881EC800100000F29:
+            0. 1B 7334 049E 0000:?stroke@QGL2PaintEngineExPrivate@@QEAAXAEBVQVectorPath@@AEBVQPen@@@Z
+          A828FEFFFF4881ECA0020000:
+            0. 1D 3548 0E36 0000:?drawCachedGlyphs@QGL2PaintEngineExPrivate@@QEAAXW4GlyphFormat@QFontEngine@@PEAVQStaticTextItem@@@Z
+      534883EC4048:
+        8948D84C8BC233DBC740E4E10D0000488D50088958E048:
+          0. 0E 5F21 006A 0000:?bindTexture@QGLContext@@QEAAIAEBVQString@@@Z
+        8BD90F2970E88B49040F28F2FFC10F2978D80F28F9F30F:
+          0. 32 F1DC 00B8 0000:?lineToArray@QGL2PEXVertexArray@@QEAAXMM@Z
+      55535657415648:
+        8BEC4883EC60660F6E8128020000488BD90F2978C844:
+          0. 09 DA77 0301 0000:?updateMatrix@QGL2PaintEngineExPrivate@@QEAAXXZ
+        8D68A14881ECA00000000F2970C80F2978B8488B05:
+          0. 00 0000 01DF (l)0000:?qDrawTextureRect@@YAXAEBVQRectF@@HHI@Z
+    CABA:
+      02000000448D4206E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@G@@AEAAXPEAU?$QTypedArrayData@G@@@Z
+      04000000448D4204E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@I@@AEAAXPEAU?$QTypedArrayData@I@@@Z
+      08000000448BC2E9:
+        0. 00 0000 0010 0000:?freeData@?$QVector@N@@AEAAXPEAU?$QTypedArrayData@N@@@Z
+      10000000448D42F8E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@VQStringRef@@@@AEAAXPEAU?$QTypedArrayData@VQStringRef@@@@@Z
+      18000000448D42F0E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@U?$QPair@NVQColor@@@@@@AEAAXPEAU?$QTypedArrayData@U?$QPair@NVQColor@@@@@@@Z
+  8D05........488901:
+    E9:
+      0. 00 0000 000F 0000:??1QGL2PaintEngineState@@UEAA@XZ (REF 0003: ??_7QGL2PaintEngineState@@6B@)
+      1. 00 0000 000F 0000:??1QGLShader@@UEAA@XZ (REF 0003: ??_7QGLShader@@6B@)
+      2. 00 0000 000F 0000:??1QGLShaderProgram@@UEAA@XZ (REF 0003: ??_7QGLShaderProgram@@6B@)
+      3. 00 0000 000F 0000:??1QGLPaintDevice@@UEAA@XZ (REF 0003: ??_7QGLPaintDevice@@6B@)
+      4. 00 0000 000F 0000:??1QGL2PaintEngineEx@@UEAA@XZ (REF 0003: ??_7QGL2PaintEngineEx@@6B@)
+    F0FF05........488BC1C3:
+      0. 00 0000 0015 0000:??0QGLColormap@@QEAA@XZ
+493BD074:
+  4548895C24084889742410574883EC20498BF0488BFA488BDF4881C7:
+    0. 09 7274 004B 0000:?destruct@?$QVector@VQPainterClipInfo@@@@AEAAXPEAVQPainterClipInfo@@0@Z
+  4A48895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+    0. 10 0547 0050 0000:?copyConstruct@?$QVector@VQPainterClipInfo@@@@AEAAXPEBVQPainterClipInfo@@0PEAV2@@Z
+4C:
+  2BC2:
+    488BCA4983E0FC33D2E9:
+      0. 00 0000 0011 0000:?defaultConstruct@?$QVector@I@@AEAAXPEAI0@Z
+    498BC94983E0FCE9:
+      0. 00 0000 000F 0000:?copyConstruct@?$QVector@I@@AEAAXPEBI0PEAI@Z
+  8B:
+    01:
+      48:
+        8B0A4C3BC1:
+          0F84810000008B41044139400475758B41084139400875:
+            0. 76 D91E 0096 0000:??8@YA_NAEBVQGLFormat@@0@Z
+          7506B801000000C38B410441394004752B8B4108413940:
+            0. 2A D09A 004A 0000:??8QGLFramebufferObjectFormat@@QEBA_NAEBV0@@Z
+        8D05........4C3BC0741C4D8B40084D85C074134D8B004863D2498B:
+          0. 0E 2326 002E 0000:?entryRgb@QGLColormap@@QEBAIH@Z
+      4C8B0A4D3BC17503B001C3418B410441394004740332C0C34963400449:
+        0. 22 28F6 0046 0000:??8?$QVector@U?$QPair@NVQColor@@@@@@QEBA_NAEBV0@@Z
+    09498B41084885C07418837810007412498B4118418B49044C8B0049FFA0:
+      0. 07 A431 0027 0000:?map@QGLBuffer@@QEAAPEAXW4Access@1@@Z
+    41080FB6C283E001:
+      41836024FE41094024C3:
+        0. 00 0000 0014 0000:?setValid@QGLContext@@IEAAX_N@Z
+      C1E0:
+        0241836024FB41094024C3:
+          0. 00 0000 0017 0000:?setInitialized@QGLContext@@IEAAX_N@Z
+        0341836024F741094024C3:
+          0. 00 0000 0017 0000:?setWindowCreated@QGLContext@@IEAAX_N@Z
+    8190000000496340084963480C4883C0024883C102498D04C0498D0CC8EB:
+      0. 1D DB7E 003D 0000:?hasShader@QGLShaderProgramPrivate@@QEBA_NV?$QFlags@W4ShaderTypeBit@QGLShader@@@@@Z
+    D14533C9488B094C8BDA4439492075054D85C074254C8B4A08488B0249C1:
+      0. 64 FCF3 0084 0000:?findNode@?$QHash@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@AEBAPEAPEAU?$QHashNode@UQGLTextureCacheKey@@UNode@?$QCache@UQGLTextureCacheKey@@VQGLTexture@@@@@@AEBUQGLTextureCacheKey@@PEAI@Z
+    DA45:
+      33D2488B114C8BC94439522075054D85C07428418B43048D0C80418B:
+        0. 65 6802 0085 0000:?findNode@?$QHash@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@AEBAPEAPEAU?$QHashNode@UGlyphAndSubPixelPosition@QTextureGlyphCache@@UCoord@2@@@AEBUGlyphAndSubPixelPosition@QTextureGlyphCache@@PEAI@Z
+      8BD033D24585C0790E488B01448B50044503D0440F48D24C8B01453B:
+        0. 44 50E6 0064 0000:?indexOf@?$QVector@I@@QEBAHAEBIH@Z
+    DC4989:
+      53104883EC38498363E800498D43104D8D4BE8498943F04533C048:
+        0. 02 DF74 0030 0000:?aboutToDestroyContext@QGLSignalProxy@@QEAAXPEBVQGLContext@@@Z
+      5B:
+        084989:
+          6B:
+            1049897318:
+              49897B2041564883EC508B7A14488BC248:
+                0. 1A B034 0077 0000:?fillStencilWithVertexArray@QGL2PaintEngineExPrivate@@QEAAXAEAVQGL2PEXVertexArray@@_N@Z
+              57415641574883EC:
+                3033FF4963D94D8BF8:
+                  0. 7D 04BF 009D 0000:?drawVertexArrays@QGL2PaintEngineExPrivate@@QEAAXPEBMPEAHHI@Z
+                50418AC0458AF0F6D8:
+                  0. 19 3ECF 0107 0000:?qt_gl_read_texture@@YA?AVQImage@@AEBVQSize@@_N1@Z
+            2089542410565741564883EC208B41044D8D4B10488B:
+              0. 2D 39B5 00AB 0000:?realloc@?$QVarLengthArray@H$03@@AEAAXHH@Z
+              1. 2D E5EF 00AB 0000:?realloc@?$QVarLengthArray@PEBD$03@@AEAAXHH@Z
+          731049897B1841564883EC20498BC1498BF0458B4B304C:
+            0. 06 203E 0090 0000:??0QGLWidget@@IEAA@AEAVQGLWidgetPrivate@@AEBVQGLFormat@@PEAVQWidget@@PEBV0@V?$QFlags@W4WindowType@Qt@@@@@Z
+        104989:
+          6B18565741564883EC50488B4108488BF24C8B71184885:
+            0. 29 BBE9 0101 0000:?drawPixmapFragments@QGL2PaintEngineEx@@UEAAXPEBVPixmapFragment@QPainter@@HAEBVQPixmap@@V?$QFlags@W4PixmapFragmentHint@QPainter@@@@@Z
+          731849894B08574883EC20488B4108488BF1488B785848:
+            0. 16 DD94 00B8 0000:?removeShare@QGLContextGroup@@SAXPEBVQGLContext@@@Z
+4D85C074:
+  4248895C240848896C24104889742418574883EC20498BF1498BD848:
+    0. 28 AE31 0048 0000:??_H@YAXPEAX_K1P6APEAX0@Z@Z
+  4948895C240848896C24104889742418574883EC20488BFA498BE949:
+    0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+83:
+  3D........FE7F0333C0C3E9:
+    0. 00 0000 0011 0000:?instance@QGLTextureCache@@SAPEAV1@XZ
+  4918FFC3:
+    0. 00 0000 0005 0000:?invalidateResource@QGLFunctionsPrivateEx@@UEAAXXZ
+  61:
+    040083611400C6413001C3:
+      0. 00 0000 000D 0000:?clear@QGL2PEXVertexArray@@QEAAXXZ
+    1000C3:
+      0. 00 0000 0005 0000:?invalidateResource@QOpenGLSharedResourceGuard@@MEAAXXZ
+      1. 00 0000 0005 0000:?invalidateResource@QGLSharedResourceGuardBase@@MEAAXXZ
+  FAFF:
+    0F84:
+      12010000574883EC40837C247001418BF9488B4108448BDA751C48:
+        0. 86 1D64 011C 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBMHH@Z
+      9F0000005356574883EC40488B05........4833C4488944243048:
+        0. 0C 5408 00A9 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHAEBVQColor@@@Z
+      A40000005356574883EC40488B05........4833C4488944243048:
+        0. 0C 5408 00AE 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQColor@@@Z
+      D90000004883EC58488B05........4833C44889442448F2410F10:
+        0. BA 3EF8 00E3 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQTransform@@@Z
+      F0000000488BC44889580848896810488970184889782041564881:
+        0. 37 4A06 00FA 0000:?setUniformValueArray@QGLShaderProgram@@QEAAXHPEBVQMatrix4x4@@H@Z
+    74:
+      2DF30F115424184883EC28488B4108448BC2488D542440488B88A000:
+        0. 13 940A 0033 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHM@Z
+      32F30F115424184883EC28488B41084C8D442440448BCABA01000000:
+        0. 18 973A 0038 0000:?setUniformValue@QGLShaderProgram@@QEAAXHM@Z
+      40534883EC30488B4108418BD9448BDA4C894424284533C941B80614:
+        0. 26 A817 0046 0000:?setAttributeArray@QGLShaderProgram@@QEAAXHPEBMHH@Z
+      5B4883EC48488B05........4833C44889442430488B4108448BC2F3:
+        0. 38 929D 0061 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHMMM@Z
+      604883EC48488B05........4833C44889442430488B41084C8D4424:
+        0. 3D 5246 0066 0000:?setUniformValue@QGLShaderProgram@@QEAAXHMMM@Z
+      674883EC48488B05........4833C44889442430488B4108448BC2F3:
+        0. 44 CA7D 006D 0000:?setAttributeValue@QGLShaderProgram@@QEAAXHMMMM@Z
+      6C4883EC48488B05........4833C44889442430:
+        488B41084C8D4424:
+          0. 49 9CD5 0072 0000:?setUniformValue@QGLShaderProgram@@QEAAXHMMMM@Z
+        66410F6E0033C066:
+          0. 49 F6FD 0072 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQSize@@@Z
+          1. 49 F6FD 0072 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQPoint@@@Z
+      6E4883EC48488B05........4833C44889442430F2410F100033C0F2:
+        0. 4B CC37 0074 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQSizeF@@@Z
+        1. 4B CC37 0074 0000:?setUniformValue@QGLShaderProgram@@QEAAXHAEBVQPointF@@@Z
+85D275114585C07527498B5108488B12E9........83FA0A7516498B4108488D:
+  0. 01 9D2B 0031 0000:?qt_static_metacall@QGLSignalProxy@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+89:
+  4C24085356574883EC2033FF488BC2897C24484885D27512E8........4885:
+    0. 23 1FC0 0100 0000:?hasOpenGLShaders@QGLShader@@SA_NV?$QFlags@W4ShaderTypeBit@QGLShader@@@@PEBVQGLContext@@@Z
+  542410:
+    4883EC28:
+      488B01488B48084885C9740F4533C0488D542438E8:
+        0. 00 0000 002B 0000:?find@QGLColormap@@QEBAHI@Z
+      E8........488BC8E8........488D542438B9010000004C:
+        0. 0E 2026 002E (l)0000:?freeFramebufferFunc@?A0x8678cc6e@@YAXPEAVQGLContext@@I@Z
+        1. 0E 7EA6 002E (l)0000:?freeBufferFunc@?A0x96f81b5f@@YAXPEAVQGLContext@@I@Z
+        2. 0E 8D2E 002E (l)0000:?freeRenderbufferFunc@?A0x8678cc6e@@YAXPEAVQGLContext@@I@Z
+        3. 0B F157 002B 0000:?freeTextureFunc@QGLTextureDestroyer@@CAXPEAVQOpenGLFunctions@@I@Z (REF 0009: ?currentContext@QOpenGLContext@@SAPEAV1@XZ)
+        4. 0B F157 002B (l)0000:?freeTextureFunc@?A0x8678cc6e@@YAXPEAVQGLContext@@I@Z (REF 0009: ?contextHandle@QGLContext@@QEBAPEAVQOpenGLContext@@XZ)
+    534883EC20488BD9:
+      498BD0488D4C2448E8........488B442448488B:
+        0. 0D 8834 0069 0000:?addShaderFromSourceCode@QGLShaderProgram@@QEAA_NV?$QFlags@W4ShaderTypeBit@QGLShader@@@@AEBVQString@@@Z
+      E8........8B442438488B0B6685C07405094104:
+        0. 10 8245 0030 0000:?setOption@QGLFormat@@QEAAXV?$QFlags@W4FormatOption@QGL@@@@@Z
+8B:
+  05........B9FEFFFFFF83F8FF0F44C18905........C3:
+    0. 00 0000 0018 0000:??__Fholder@?1??innerFunction@Q_QGS_qtDefaultExtensions@?A0xb67c8be3@@YAPEAVQGLDefaultExtensions@@XZ@YAXXZ
+  4124488BD13D000400007C05C1F80AF7D84863C84863422848C1E118480BC8:
+    0. 0C A68E 0030 0000:?cleanupTexturesForPixampData@QGLTextureCache@@SAXPEAVQPlatformPixmap@@@Z
+B8:
+  00010000C3:
+    0. 00 0000 0006 0000:?maxTextureWidth@QTextureGlyphCache@@UEBAHXZ
+  01000000C3:
+    0. 00 0000 0006 0000:?glyphPadding@QGLTextureGlyphCache@@UEBAHXZ
+  06000000C3:
+    0. 00 0000 0006 0000:?devType@QGLPixelBuffer@@MEBAHXZ
+  07000000C3:
+    0. 00 0000 0006 0000:?devType@QGLFramebufferObject@@MEBAHXZ
+  0B000000C3:
+    0. 00 0000 0006 0000:?devType@QGLPaintDevice@@UEBAHXZ
+  0E000000C3:
+    0. 00 0000 0006 0000:?type@QGL2PaintEngineEx@@UEBA?AW4Type@QPaintEngine@@XZ
+B908000000E9:
+  0. 00 0000 000A 0000:?hasOpenGLFramebufferObjects@QGLFramebufferObject@@SA_NXZ (REF 0006: ?qgl_hasFeature@@YA_NW4OpenGLFeature@QOpenGLFunctions@@@Z)
+C6412001C3:
+  0. 00 0000 0005 0000:?setDirty@QGLEngineShaderManager@@QEAAXXZ
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QGLEngineShaderManager@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?qt_metacall@QGLShader@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  2. 00 0000 0005 0000:?freeResource@QGL2GradientCache@@UEAAXPEAVQOpenGLContext@@@Z (REF 0001: ?cleanCache@QGL2GradientCache@@AEAAXXZ)
+  3. 00 0000 0005 0000:?context@QGLFBOGLPaintDevice@@UEBAPEAVQGLContext@@XZ (REF 0001: ?currentContext@QGLContext@@SAPEBV1@XZ)
+  4. 00 0000 0005 0000:?hasOpenGLPbuffers@QGLPixelBuffer@@SA_NXZ (REF 0001: ?hasOpenGLFramebufferObjects@QGLFramebufferObject@@SA_NXZ)
+  5. 00 0000 0005 0000:?cleanupBeforePixmapDestruction@QGLTextureCache@@SAXPEAVQPlatformPixmap@@@Z (REF 0001: ?cleanupTexturesForPixampData@QGLTextureCache@@SAXPEAVQPlatformPixmap@@@Z)
+  6. 00 0000 0005 0000:?paintEngine@QGLWidget@@UEBAPEAVQPaintEngine@@XZ (REF 0001: ?qt_qgl_paint_engine@@YAPEAVQPaintEngine@@XZ)
+  7. 00 0000 0005 0000:?qt_metacall@QGraphicsShaderEffect@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QGraphicsEffect@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+EB2E498BC94983C1184885C97422488B024889018B4208894108F20F10420CF2:
+  0. 16 D926 0036 0000:?copyConstruct@?$QVector@U?$QPair@NVQColor@@@@@@AEAAXPEBU?$QPair@NVQColor@@@@0PEAU2@@Z
+F20F10:
+  010F57D2660F2EC24C8BC1F20F102D........7A02740CF20F101A660F:
+    0. 0E 79A7 00F2 0000:??8@YA_NAEBVQPointF@@0@Z
+  4108F20F10210F28D8F20F586110F20F585918F20F1011660F5AC8660F:
+    0. 32 45BB 0052 0000:?qt_add_rect_to_array@@YAXAEBVQRectF@@PEAM@Z
+  5220F2410F595008F20F1002F2410F5900F20F104A40F2410F594810F2:
+    0. CF 2CD2 00EF (l)0000:?transform_point@@YAXQEANQEBN1@Z
+F6DA1BD281E2:
+  00:
+    0100FF81C200000001E9:
+      0. 00 0000 0015 0000:?setOverlay@QGLFormat@@QEAAX_N@Z
+    0200FE81C200000002E9:
+      0. 00 0000 0015 0000:?setSampleBuffers@QGLFormat@@QEAAX_N@Z
+  0100FFFF81C200000100E9:
+    0. 00 0000 0015 0000:?setDoubleBuffer@QGLFormat@@QEAAX_N@Z
+  0200FEFF81C200000200E9:
+    0. 00 0000 0015 0000:?setDepth@QGLFormat@@QEAAX_N@Z
+  0400FCFF81C200000400E9:
+    0. 00 0000 0015 0000:?setRgba@QGLFormat@@QEAAX_N@Z
+  0800F8FF81C200000800E9:
+    0. 00 0000 0015 0000:?setAlpha@QGLFormat@@QEAAX_N@Z
+  1000F0FF81C200001000E9:
+    0. 00 0000 0015 0000:?setAccum@QGLFormat@@QEAAX_N@Z
+  2000E0FF81C200002000E9:
+    0. 00 0000 0015 0000:?setStencil@QGLFormat@@QEAAX_N@Z
+  4000C0FF81C200004000E9:
+    0. 00 0000 0015 0000:?setStereo@QGLFormat@@QEAAX_N@Z
+  800080FF81C200008000E9:
+    0. 00 0000 0015 0000:?setDirectRendering@QGLFormat@@QEAAX_N@Z

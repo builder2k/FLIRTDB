@@ -1,0 +1,17 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+?impl@?$QSlotObject@P8VirtualCanServer@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z	24 C78E 4883EC284C8BD285C9742B83E901741B83F9017533488B4210493901488B4424
+?impl@?$QSlotObject@P8VirtualCanBackend@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z	24 C78E 4883EC284C8BD285C9742B83E901741B83F9017533488B4210493901488B4424
+
+??$connect@P8QAbstractSocket@@EAAXXZP8VirtualCanServer@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXXZPEBVVirtualCanServer@@P84@EAAXXZW4ConnectionType@Qt@@@Z	03 B809 48895C240848897424104C89442418574883EC50488BF1498BD9B91800000048
+??$connect@P8QIODevice@@EAAXXZP8VirtualCanBackend@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBVVirtualCanBackend@@P84@EAAXXZW4ConnectionType@Qt@@@Z	03 B809 48895C240848897424104C89442418574883EC50488BF1498BD9B91800000048
+??$connect@P8QIODevice@@EAAXXZP8VirtualCanServer@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBVVirtualCanServer@@P84@EAAXXZW4ConnectionType@Qt@@@Z	03 B809 48895C240848897424104C89442418574883EC50488BF1498BD9B91800000048
+??$connect@P8QTcpServer@@EAAXXZP8VirtualCanServer@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQTcpServer@@P83@EAAXXZPEBVVirtualCanServer@@P84@EAAXXZW4ConnectionType@Qt@@@Z	03 B809 48895C240848897424104C89442418574883EC50488BF1498BD9B91800000048
+??$connect@P8QAbstractSocket@@EAAXXZP8VirtualCanBackend@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractSocket@@P83@EAAXXZPEBVVirtualCanBackend@@P84@EAAXXZW4ConnectionType@Qt@@@Z	03 B809 48895C240848897424104C89442418574883EC50488BF1498BD9B91800000048
+
+?qt_metacall@VirtualCanServer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................
+?qt_metacall@VirtualCanBusPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................
+?qt_metacall@VirtualCanBackend@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................

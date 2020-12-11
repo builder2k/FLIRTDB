@@ -1,0 +1,309 @@
+33C04885D2740A4885C97417E9........4885C9740A488D05........488901:
+  0. 04 1E0D 0024 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QVector@VQCanBusFrame@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z (REF 000D: ??0?$QVector@VQCanBusFrame@@@@QEAA@AEBV0@@Z)
+  1. 04 1E0D 0024 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QList@UFilter@QCanBusDevice@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z (REF 000D: ??0?$QList@UFilter@QCanBusDevice@@@@QEAA@AEBV0@@Z)
+40:
+  53:
+    4883EC:
+      20:
+        33:
+          C0:
+            488BD948890133D24889410841B820100000488941104883:
+              0. 03 9DA6 0030 0000:??0Message@J2534@@QEAA@XZ
+            891148894104488BD94889410C33D289411441B820100000:
+              0. 05 873C 0032 0000:??0Message@J2534@@QEAA@W4Protocol@1@@Z
+          D2488BD9E8........488D05........488903488D05:
+            0. 00 0000 0076 0000:??0PassThruCanBusPlugin@@QEAA@XZ
+        418BC0448BD2488BD94533C94533C08BD0418BCAFF53708BD048:
+          0. 08 EA6B 002C 0000:?clear@PassThru@J2534@@QEAA?AW4Status@12@KW4ClearTarget@12@@Z
+        48:
+          634204488BDA4C8B4A104C8D04804F8D04C14C03C24903D1E8:
+            0. 00 0000 003A 0000:?freeData@?$QVector@VQCanBusFrame@@@@AEAAXPEAU?$QTypedArrayData@VQCanBusFrame@@@@@Z
+          8B:
+            01488BD9448B4008410FBAF01F413BD07E084533C0E8:
+              0. 00 0000 0052 0000:?reserve@?$QVector@VQCanBusFrame@@@@QEAAXH@Z
+            CA488BDAE8........488BC34883C4205BC3:
+              0. 00 0000 001A 0000:?availableDevices@PassThruCanBusPlugin@@UEBA?AV?$QList@VQCanBusDeviceInfo@@@@PEAVQString@@@Z
+            D98BCAFF53:
+              388BD0488BCB4883C4205BE9:
+                0. 00 0000 001D 0000:?close@PassThru@J2534@@QEAA?AW4Status@12@K@Z
+              488BD0488BCB4883C4205BE9:
+                0. 00 0000 001D 0000:?disconnect@PassThru@J2534@@QEAA?AW4Status@12@K@Z
+          8D05........488BD9488901F6C201740ABA08000000E8:
+            0. 00 0000 002B 0000:??_GQCanBusFactory@@MEAAPEAXI@Z
+        498BC14D8BD0448B4C2450448BDA488BD94C8BC0498BD2418BCB:
+          0. 0E 7475 0032 0000:?readMsgs@PassThru@J2534@@QEAA?AW4Status@12@KPEAVMessage@2@PEAKI@Z
+          1. 0E 987F 0032 0000:?writeMsgs@PassThru@J2534@@QEAA?AW4Status@12@KPEBVMessage@2@PEAKI@Z
+        4C8B0A488BD933C9413949047407498B49104903C9498BD0FF53:
+          0. 0C 5BDE 0030 0000:?open@PassThru@J2534@@QEAA?AW4Status@12@AEBVQByteArray@@PEAK@Z
+        B930000000488BDAE8........4533C0488BD3488BC84883C420:
+          0. 02 D742 0026 0000:?createDevice@PassThruCanBusPlugin@@UEBAPEAVQCanBusDevice@@AEBVQString@@PEAV3@@Z
+      30:
+        418BC1458BD04C8B4C2468448BDA488BD94C894C2420448B4C24:
+          0. 13 E4AF 003D 0000:?connect@PassThru@J2534@@QEAA?AW4Status@12@KW4Protocol@2@V?$QFlags@W4ConnectFlag@PassThru@J2534@@@@IPEAK@Z
+        4883642420004C8D4C2420488BDA4889542428488D15:
+          0. 07 8B57 0055 0000:?messagesReceived@PassThruCanIO@@QEAAXV?$QVector@VQCanBusFrame@@@@@Z
+        4D8BD1488BD985D20F85F20000004585C00F84D40000004183E8:
+          0. 3F 185E 0177 0000:?qt_static_metacall@PassThruCanIO@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        8364244000488BD9488D4C2440498BC14C8B4C2460458BD0448B:
+          0. 1E B211 0048 0000:?startMsgFilter@PassThru@J2534@@QEAA?AW4Status@12@KW4FilterType@12@AEBVMessage@2@1@Z
+        8BC244894C24204533C94C89442428488BD94C8D4424208BC841:
+          0. 0C BBA8 0036 0000:?setConfig@PassThru@J2534@@QEAA?AW4Status@12@KPEBVConfig@2@K@Z
+      404883791000488BD9:
+        0F84E8000000488B49204885C9740B488B01:
+          0. 15 20F1 0109 0000:?close@PassThruCanIO@@QEAAXXZ
+        7546E8........F6401201744AE8:
+          0. 06 4D0F 006B 0000:?pollForMessages@PassThruCanIO@@AEAAXXZ
+    B870100000E8........482BE0488B05........4833C448898424601000:
+      0. 05 37FA 0091 0000:??0PassThruCanIO@@QEAA@PEAVQObject@@@Z
+  55:
+    488D6C24E04881EC20010000488B85900000000F1000488B8588000000F3:
+      0. D5 F328 0102 0000:?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericArgument@@333333333@Z
+    53565741:
+      5441:
+        5541564157488BEC4883EC78488D593033F64C8D61284C8B:
+          0. 17 0E36 039B 0000:?writeMessages@PassThruCanIO@@AEAA_NXZ
+        564157488DAC2460FFFFFF4881ECA0010000488BF9E8:
+          0. 00 0000 03DF 0000:?open@PassThruCanBackend@@MEAA_NXZ
+      5541564157488BEC4883EC60488D05........4C8BF248890148:
+        0. 06 A70F 0256 (l)0000:?libraryForAdapter@?A0xf8190a9b@@YA?AVQString@@AEBV2@@Z
+      564157488BEC4883EC48488D05........488BF1488901488D55:
+        0. 04 1CA4 01A9 0000:?interfaces@PassThruCanBackend@@SA?AV?$QList@VQCanBusDeviceInfo@@@@XZ
+4533C9488D15........458D4104E9:
+  0. 00 0000 0013 0000:?closeFinished@PassThruCanIO@@QEAAXXZ
+48:
+  83:
+    E910E9:
+      0. 00 0000 0009 0000:??_EPassThruCanBusPlugin@@WBA@EAAPEAXI@Z (REF 0005: ??_EPassThruCanBusPlugin@@UEAAPEAXI@Z)
+    EC28:
+      488B:
+        0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+          0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_PassThruCanBusPlugin@@YAPEAVQObject@@XZ@YAXXZ
+        11833A007411833AFF741483C8FFF00FC10283F8017508488B11:
+          0. 01 3E9B 002A 0000:?Destruct@?$QMetaTypeFunctionHelper@V?$QVector@VQCanBusFrame@@@@$00@QtMetaTypePrivate@@SAXPEAX@Z
+      4C8BD285C974:
+        2B83E901741B83F9017533488B4210493901488B4424:
+          0. 24 C78E 004D 0000:?impl@?$QSlotObject@P8QEventLoop@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+          1. 24 C78E 004D 0000:?impl@?$QSlotObject@P8PassThruCanIO@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+          2. 24 C78E 004D 0000:?impl@?$QSlotObject@P8PassThruCanBackend@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        2F83E901741B83F9017537488B4210493901488B4424:
+          0. 28 1FD4 0051 0000:?impl@?$QSlotObject@P8QCanBusDevice@@EAAXAEBV?$QVector@VQCanBusFrame@@@@@ZU?$List@V?$QVector@VQCanBusFrame@@@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        3183E901741B83F9017539488B4210493901488B4424:
+          0. 2A 2623 0053 0000:?impl@?$QSlotObject@P8PassThruCanBackend@@EAAX_N@ZU?$List@_N@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        3283E901741B83F901753A488B4210493901488B4424:
+          0. 2B 8819 0054 0000:?impl@?$QSlotObject@P8QCanBusDevice@@EAAX_J@ZU?$List@_J@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+      4D8BD84C8BD285C9743683E901741B83F901753E488B421049390148:
+        0. 32 2B04 005B 0000:?impl@?$QSlotObject@P8QCanBusDevice@@EAAXAEBVQString@@W4CanBusError@1@@ZU?$List@AEBVQString@@W4CanBusError@QCanBusDevice@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+      65488B0425580000008B0D........:
+        41B8........488B14C8418B04:
+          0. 03 4E75 007D 0000:?QT_CANBUS_PLUGINS_PASSTHRU@@YAAEBVQLoggingCategory@@XZ
+        BA........488B0CC88B040A39:
+          0. 01 D5A7 0086 0000:?types@?$ConnectionTypes@U?$List@V?$QVector@VQCanBusFrame@@@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 48) (0030: 85)
+          1. 01 D5A7 0090 0000:?types@?$ConnectionTypes@U?$List@AEBVQString@@W4CanBusError@QCanBusDevice@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 48) (0030: C7)
+          2. 01 D5A7 0067 0000:?types@?$ConnectionTypes@U?$List@_N@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 83) (003B: 01)
+          3. 01 D5A7 0067 0000:?types@?$ConnectionTypes@U?$List@_J@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (001E: 83) (003B: 04)
+      8954243041B9010000008B511C488B491044894424344C8D442430E8:
+        0. 00 0000 002E 0000:?setConfigValue@PassThruCanIO@@AEAA_NW4Parameter@Config@J2534@@K@Z
+      8B05........85C0751A448D40014883CAFF488D0D........E8:
+        0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@V?$QVector@VQCanBusFrame@@@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@V?$QVector@VQCanBusFrame@@@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+        1. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@W4CanBusError@QCanBusDevice@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@W4CanBusError@QCanBusDevice@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+        2. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@V?$QList@UFilter@QCanBusDevice@@@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@V?$QList@UFilter@QCanBusDevice@@@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+  85D274094885C974048B028901488BC1C3:
+    0. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4CanBusError@QCanBusDevice@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+  89:
+    5C24:
+      08:
+        4889:
+          6C24:
+            10:
+              48897424:
+                1857:
+                  415641574883EC20488B:
+                    01458BC84863:
+                      0. 21 060B 0199 0000:?realloc@?$QVector@VMessage@J2534@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                    D9498BF1488B:
+                      0. 3E A007 0161 0000:?erase@?$QList@VQCanBusFrame@@@@QEAA?AViterator@1@V21@0@Z
+                  4883EC20:
+                    488B02488BFA488901488BD9:
+                      0. 13 1981 009F 0000:??0?$QList@UFilter@QCanBusDevice@@@@QEAA@AEBV0@@Z
+                    498BF18BFA488BE9E8:
+                      0. 00 0000 006C 0000:?qt_metacall@PassThruCanIO@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                    4C8B01488BD9496340084983:
+                      0. 07 5FFD 00D5 0000:?detach_helper@?$QList@UFilter@QCanBusDevice@@@@AEAAXH@Z
+                20574883EC208B3D........488BF2488BD9:
+                  0. 0F FB70 00B1 0000:?metaType@?$QVariantValueHelper@V?$QList@UFilter@QCanBusDevice@@@@@QtPrivate@@SA?AV?$QList@UFilter@QCanBusDevice@@@@AEBVQVariant@@@Z
+              4C89:
+                442418565741564883EC508BBC249800000033DB:
+                  0. 12 8A02 00B3 0000:??$connect@P8PassThruCanIO@@EAAXV?$QVector@VQCanBusFrame@@@@@ZP8QCanBusDevice@@EAAXAEBV2@@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVPassThruCanIO@@P83@EAAXV?$QVector@VQCanBusFrame@@@@@ZPEBVQCanBusDevice@@P85@EAAXAEBV4@@ZW4ConnectionType@Qt@@@Z (REF 0032: ?types@?$ConnectionTypes@U?$List@V?$QVector@VQCanBusFrame@@@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                  1. 12 8A02 00B3 0000:??$connect@P8PassThruCanIO@@EAAX_J@ZP8QCanBusDevice@@EAAX0@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVPassThruCanIO@@P83@EAAX_J@ZPEBVQCanBusDevice@@P84@EAAX1@ZW4ConnectionType@Qt@@@Z (REF 0032: ?types@?$ConnectionTypes@U?$List@_J@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                  2. 12 8A02 00B3 0000:??$connect@P8PassThruCanIO@@EAAX_N@ZP8PassThruCanBackend@@EAAX0@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVPassThruCanIO@@P83@EAAX_N@ZPEBVPassThruCanBackend@@P84@EAAX1@ZW4ConnectionType@Qt@@@Z (REF 0032: ?types@?$ConnectionTypes@U?$List@_N@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                  3. 12 8A02 00B3 0000:??$connect@P8PassThruCanIO@@EAAXAEBVQString@@W4CanBusError@QCanBusDevice@@@ZP84@EAAX01@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVPassThruCanIO@@P83@EAAXAEBVQString@@W4CanBusError@QCanBusDevice@@@ZPEBV6@P86@EAAX12@ZW4ConnectionType@Qt@@@Z (REF 0032: ?types@?$ConnectionTypes@U?$List@AEBVQString@@W4CanBusError@QCanBusDevice@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                4C2420565741564883EC20498BF9498BE8488BF2:
+                  0. 1F 9E5F 0088 0000:??$_Copy_unchecked1@PEBUFilter@QCanBusDevice@@V?$back_insert_iterator@V?$QList@UFilter@QCanBusDevice@@@@@std@@@std@@YA?AV?$back_insert_iterator@V?$QList@UFilter@QCanBusDevice@@@@@0@PEBUFilter@QCanBusDevice@@0V10@U_General_ptr_iterator_tag@0@@Z
+            188954241056574154415641574883EC20488B11:
+              488BF1:
+                0. 18 3165 0145 0000:?detach_helper_grow@?$QList@VQCanBusFrame@@@@AEAAPEAUNode@1@HH@Z
+              4C8BF1:
+                0. 18 3165 0143 0000:?detach_helper_grow@?$QList@VQCanBusDeviceInfo@@@@AEAAPEAUNode@1@HH@Z
+          742410:
+            4C89442418574883EC50488BF1498BD9B91800000048:
+              0. 03 B809 009B 0000:??$connect@P8QThread@@EAAXUQPrivateSignal@1@@ZP8QEventLoop@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQThread@@P83@EAAXUQPrivateSignal@3@@ZPEBVQEventLoop@@P85@EAAXXZW4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QSlotObject@P8QEventLoop@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+              1. 03 B809 009B 0000:??$connect@P8QTimer@@EAAXUQPrivateSignal@1@@ZP8PassThruCanIO@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQTimer@@P83@EAAXUQPrivateSignal@3@@ZPEBVPassThruCanIO@@P85@EAAXXZW4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QSlotObject@P8PassThruCanIO@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+              2. 03 B809 009B 0000:??$connect@P8PassThruCanIO@@EAAXXZP8PassThruCanBackend@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVPassThruCanIO@@P83@EAAXXZPEBVPassThruCanBackend@@P84@EAAXXZW4ConnectionType@Qt@@@Z (REF 0032: ?impl@?$QSlotObject@P8PassThruCanBackend@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+            5557415441564157488BEC4883EC604863F2488BF985:
+              0. 1A 472E 01FE 0000:?handleResult@PassThru@J2534@@AEAA?AW4Status@12@J@Z
+            574883EC20:
+              48:
+                63:
+                  5A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  FA498BF0488BD985D20F8ED1000000:
+                    0. 10 2BDD 010E 0000:??0?$QVector@VMessage@J2534@@@@QEAA@HAEBVMessage@J2534@@@Z
+                8B11833A007411833AFF744A83C8FFF0:
+                  0. 35 D4FE 0076 0000:??1?$QList@UFilter@QCanBusDevice@@@@QEAA@XZ
+                8D5930488BF2488BF94885DB740C488B:
+                  0. 02 034A 008B 0000:?enqueueMessage@PassThruCanIO@@QEAA_NAEBVQCanBusFrame@@@Z
+              498BF88BF2488BD9E8........488BCBE8:
+                0. 00 0000 0046 0000:?setConfigurationParameter@PassThruCanBackend@@UEAAXHAEBVQVariant@@@Z
+              806105E24D8BC880490502488BD98A4104:
+                0. 52 B7C2 00CE 0000:??0QCanBusFrame@@QEAA@IAEBVQByteArray@@@Z
+          7C241055488D6C24A04881EC60010000408AFA488BD9E8:
+            0. 00 0000 0236 0000:?ackOpenFinished@PassThruCanBackend@@AEAAX_N@Z
+        55:
+          488D6C24E04881EC20010000488BD9E8........83F8037448E8:
+            0. 00 0000 011D 0000:?close@PassThruCanBackend@@MEAAXXZ
+          5657488BEC4883EC:
+            40488BDA488BF9E8........BE020000003B:
+              0. 09 3405 0160 0000:?writeFrame@PassThruCanBackend@@UEAA_NAEBVQCanBusFrame@@@Z
+            608B45C84C8D4DC0488365C0004C8D453025:
+              0. 18 A9E0 0143 (l)0000:?canAdapterName@?A0xf8190a9b@@YA?AVQString@@AEBVQSettings@@@Z
+        574883EC:
+          20:
+            48:
+              8B:
+                02488BFA488BD983380074108338FF7403F0FF00:
+                  0. 25 E991 00AD 0000:??0?$QVector@VQCanBusFrame@@@@QEAA@AEBV0@@Z
+                DA488BF94885D2750433C0EB23488D15:
+                  0. 04 BF6F 0047 0000:?qt_metacast@PassThruCanIO@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_PassThruCanIO@@3Uqt_meta_stringdata_PassThruCanIO_t@@B)
+                  1. 04 BF6F 0047 0000:?qt_metacast@PassThru@J2534@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_J2534__PassThru@@3Uqt_meta_stringdata_J2534__PassThru_t@@B)
+                  2. 04 BF6F 0047 0000:?qt_metacast@PassThruCanBackend@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_PassThruCanBackend@@3Uqt_meta_stringdata_PassThruCanBackend_t@@B)
+                F9:
+                  33D24883C118E8........83CAFF488D4F18E8:
+                    0. 00 0000 0038 0000:?ackCloseFinished@PassThruCanBackend@@AEAAXXZ
+                  8BDA4883C110E8........488BCFE8:
+                    0. 0E 0D60 0040 0000:??_GPassThruCanBusPlugin@@UEAAPEAXI@Z
+                FA:
+                  418BD8488BD1488D4C2448E8........448BC3:
+                    0. 09 738E 006A 0000:??$qRegisterMetaType@V?$QVector@VQCanBusFrame@@@@@@YAHPEBDPEAV?$QVector@VQCanBusFrame@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@VQCanBusFrame@@@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@V?$QVector@VQCanBusFrame@@@@@@YAHAEBVQByteArray@@PEAV?$QVector@VQCanBusFrame@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@VQCanBusFrame@@@@$00@QtPrivate@@@Z)
+                    1. 09 738E 006A 0000:??$qRegisterMetaType@W4CanBusError@QCanBusDevice@@@@YAHPEBDPEAW4CanBusError@QCanBusDevice@@W4DefinedType@?$MetaTypeDefinedHelper@W4CanBusError@QCanBusDevice@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@W4CanBusError@QCanBusDevice@@@@YAHAEBVQByteArray@@PEAW4CanBusError@QCanBusDevice@@W4DefinedType@?$MetaTypeDefinedHelper@W4CanBusError@QCanBusDevice@@$00@QtPrivate@@@Z)
+                    2. 09 738E 006A 0000:??$qRegisterMetaType@V?$QList@UFilter@QCanBusDevice@@@@@@YAHPEBDPEAV?$QList@UFilter@QCanBusDevice@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QList@UFilter@QCanBusDevice@@@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@V?$QList@UFilter@QCanBusDevice@@@@@@YAHAEBVQByteArray@@PEAV?$QList@UFilter@QCanBusDevice@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QList@UFilter@QCanBusDevice@@@@$00@QtPrivate@@@Z)
+                  488BD94885D2750433C0EB58488D15:
+                    0. 04 DF08 007C 0000:?qt_metacast@PassThruCanBusPlugin@@UEAAPEAXPEBD@Z
+              8D05........488B:
+                D94889014883C110E8:
+                  0. 28 4F79 0067 0000:??1PassThru@J2534@@UEAA@XZ
+                F94889014883C138488B11833A:
+                  0. 30 B269 00A5 0000:??1PassThruCanIO@@UEAA@XZ
+            4C8B01488BFA488BD9418B5008418B40040FBAF21FFF:
+              0. 1A 1A3C 006F 0000:?append@?$QVector@VQCanBusFrame@@@@QEAAX$$QEAVQCanBusFrame@@@Z
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0103 (l)0000:?qt_plugin_instance_PassThruCanBusPlugin@@YAPEAVQObject@@XZ
+            8BDA488BF9E8........F6C301740DBA:
+              08000000488B:
+                0. 02 632D 0034 0000:??_GQCanBusFactoryV2@@MEAAPEAXI@Z
+              30000000488B:
+                0. 02 632D 0034 0000:??_GPassThruCanBackend@@UEAAPEAXI@Z
+              40000000488B:
+                0. 02 632D 0034 0000:??_GPassThruCanIO@@UEAAPEAXI@Z
+              88000000488B:
+                0. 02 632D 0034 0000:??_GPassThru@J2534@@UEAAPEAXI@Z
+          30418BF8488BD94885D27516E8........83F8FF740C8B:
+            0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@V?$QVector@VQCanBusFrame@@@@@@YAHAEBVQByteArray@@PEAV?$QVector@VQCanBusFrame@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@VQCanBusFrame@@@@$00@QtPrivate@@@Z (0005: 35) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@V?$QVector@VQCanBusFrame@@@@@@SAHXZ)
+            1. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@V?$QList@UFilter@QCanBusDevice@@@@@@YAHAEBVQByteArray@@PEAV?$QList@UFilter@QCanBusDevice@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QList@UFilter@QCanBusDevice@@@@$00@QtPrivate@@@Z (0005: 35) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@V?$QList@UFilter@QCanBusDevice@@@@@@SAHXZ)
+            2. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@W4CanBusError@QCanBusDevice@@@@YAHAEBVQByteArray@@PEAW4CanBusError@QCanBusDevice@@W4DefinedType@?$MetaTypeDefinedHelper@W4CanBusError@QCanBusDevice@@$00@QtPrivate@@@Z (0005: 3B)
+      10:
+        48897C242041564883EC208364243000488BF9488BCA488BDAE8:
+          0. 00 0000 0121 0000:?fromLatin1@QString@@SA?AV1@AEBVQByteArray@@@Z
+        55:
+          488BEC4883EC504883791000488BD97541E8........F6401201:
+            0. 07 903A 00D7 0000:?listen@PassThruCanIO@@QEAAXXZ
+          5657:
+            41564157488BEC4881EC800000004883791000488BF14C63:
+              0. 04 7E58 027C 0000:?applyConfig@PassThruCanIO@@QEAAXHAEBVQVariant@@@Z
+            488BEC4883EC40488BDA488BF9498BD0E8........488D05:
+              0. 00 0000 024D 0000:??0PassThru@J2534@@QEAA@AEBVQString@@PEAVQObject@@@Z
+        574883EC30488D05........488BFA488901488BD9488B4208482B:
+          0. 07 F41F 006C 0000:??0?$QList@UFilter@QCanBusDevice@@@@QEAA@V?$initializer_list@UFilter@QCanBusDevice@@@std@@@Z
+      18:
+        48897424205557415441564157488D6C24C94881ECE0000000488B:
+          0. 01 D5A7 03E8 0000:?readMessages@PassThruCanIO@@AEAAX_N@Z
+        574883EC40488BDA488BF9498BD0E8........488D05........48:
+          0. 1C EEB0 016E 0000:??0PassThruCanBackend@@QEAA@AEBVQString@@PEAVQObject@@@Z
+    742418574883EC40488D05........488BF9488901E8........85C00F84:
+      0. 0C D994 0106 0000:??1PassThruCanBackend@@UEAA@XZ
+  8B:
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@PassThruCanIO@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@PassThruCanIO@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@PassThru@J2534@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@PassThru@J2534@@2UQMetaObject@@B)
+      2. 00 0000 0017 0000:?metaObject@PassThruCanBusPlugin@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@PassThruCanBusPlugin@@2UQMetaObject@@B)
+      3. 00 0000 0017 0000:?metaObject@PassThruCanBackend@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@PassThruCanBackend@@2UQMetaObject@@B)
+    C4488958:
+      08488968:
+        10488970184889782041:
+          54415641574883EC20488B01:
+            0. 1C 24E4 0141 0000:?realloc@?$QVector@VQCanBusFrame@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+          564883EC204C8B014C8BF149:
+            0. 0C 85DB 00CE 0000:?detach_helper@?$QList@VQCanBusFrame@@@@AEAAXH@Z
+        18488970208950105741544155415641574883EC2048:
+          0. 1D 7C0C 0161 0000:?detach_helper_grow@?$QList@UFilter@QCanBusDevice@@@@AEAAPEAUNode@1@HH@Z
+      1048897018:
+        488978205541564157488DA808E0FFFFB8E0200000:
+          0. 01 3E9B 01E4 0000:?setMessageFilters@PassThruCanIO@@AEAA_NAEBV?$QList@UFilter@QCanBusDevice@@@@@Z
+        4C8960205541564157488D68A14881ECA000000048:
+          0. 13 E81C 0242 0000:?open@PassThruCanIO@@QEAAXAEBVQString@@AEBVQByteArray@@I@Z
+    CA41B808000000BA38100000E9:
+      0. 00 0000 0013 0000:?freeData@?$QVector@VMessage@J2534@@@@AEAAXPEAU?$QTypedArrayData@VMessage@J2534@@@@@Z
+  8D:
+    05........:
+      4889:
+        01:
+          488D05........48894108488BC1C3:
+            0. 00 0000 0019 0000:?qt_static_plugin_PassThruCanBusPlugin@@YA?BUQStaticPlugin@@XZ
+          C3:
+            0. 00 0000 000B 0000:??1QCanBusFactory@@MEAA@XZ (REF 0003: ??_7QCanBusFactory@@6B@)
+        02488BC2C3:
+          0. 00 0000 000E 0000:?interpretErrorFrame@PassThruCanBackend@@UEAA?AVQString@@AEBVQCanBusFrame@@@Z
+      C3:
+        0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_PassThruCanBusPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__Fcategory@?1??QT_CANBUS_PLUGINS_PASSTHRU@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??QT_CANBUS_PLUGINS_PASSTHRU@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+493BD074:
+  4448895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+    0. 0D 3D3D 004A 0000:?copyConstruct@?$QVector@VQCanBusFrame@@@@AEAAXPEBVQCanBusFrame@@0PEAV2@@Z
+  5248895C2408574883EC20498BF8488BDA4C8BCB4883C328498B4910:
+    0. 24 90A0 0058 0000:?destruct@?$QVector@VQCanBusFrame@@@@AEAAXPEAVQCanBusFrame@@0@Z
+  6E48895C24084889742410574883EC20498BD8488BF24883EB08488B:
+    0. 2E 2A72 0074 0000:?node_destruct@?$QList@VQCanBusFrame@@@@AEAAXPEAUNode@1@0@Z
+4C8B:
+  41784C8902418B00FFC083F8017604F041FF00488BC2C3:
+    0. 00 0000 0019 0000:?lastErrorString@PassThru@J2534@@QEBA?AVQString@@XZ
+  DC:
+    4883EC58488B05........4833C44889442440458943C8498D43C84983:
+      0. 11 2DD7 0050 0000:?errorOccurred@PassThruCanIO@@QEAAXAEBVQString@@W4CanBusError@QCanBusDevice@@@Z
+    498953104883EC38498363E800498D43104D8D4BE8498943F041B80200:
+      0. 05 5B74 0033 0000:?messagesSent@PassThruCanIO@@QEAAX_J@Z
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+885424104C8BDC4883EC38498363E800498D43104D8D4BE8498943F041B80300:
+  0. 05 5B74 0033 0000:?openFinished@PassThruCanIO@@QEAAX_N@Z
+8954241055488D6C24F04881EC10010000488B4928488D05........48894424:
+  0. 25 89F3 00EC 0000:?applyConfig@PassThruCanBackend@@AEAAXHAEBVQVariant@@@Z
+8A510480E20780FA04750332C0C3F64104087508F70100F8FF1F75EF448A4105:
+  0. 43 737A 0063 0000:?isValid@QCanBusFrame@@QEBA_NXZ
+8B024C8BC1330125FFFFFF1F31018A410432420424073041048A420432410424:
+  0. 90 C30A 00B0 0000:??0QCanBusFrame@@QEAA@AEBV0@@Z
+  1. 79 EA64 00AF 0000:??0QCanBusFrame@@QEAA@$$QEAV0@@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@PassThru@J2534@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?Destruct@?$QMetaTypeFunctionHelper@V?$QList@UFilter@QCanBusDevice@@@@$00@QtMetaTypePrivate@@SAXPEAX@Z (REF 0001: ??1?$QList@UFilter@QCanBusDevice@@@@QEAA@XZ)
+  2. 00 0000 0005 0000:?qt_metacall@PassThruCanBusPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  3. 00 0000 0005 0000:?qt_metacall@PassThruCanBackend@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QCanBusDevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

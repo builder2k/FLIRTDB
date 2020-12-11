@@ -1,0 +1,1508 @@
+0F1002:
+  0F1181000100000F104A100F118910010000C3:
+    0. 00 0000 0016 0000:?setViewBox@QSvgTinyDocument@@QEAAXAEBVQRectF@@@Z
+  C781F00000000F000000F30F7F81F8000000C3:
+    0. 00 0000 0016 0000:?setTextArea@QSvgText@@QEAAXAEBVQSizeF@@@Z
+33:
+  C0488902488942084889421048894218488BC2C3:
+    0. 00 0000 0015 0000:?bounds@QSvgNode@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+  C948890A890A4D85C0740F488B0249394868490F454068488902488BC2C3:
+    0. 00 0000 001F 0000:?parentNode@QSvgStyleSelector@@UEBA?ATNodePtr@StyleSelector@QCss@@T234@@Z
+  D2:
+    48B8000000000000F03F48890148894108488951108D4201894118894120:
+      0. 12 5598 0032 0000:??0QSvgExtraStates@@QEAA@XZ
+    E9:
+      0. 00 0000 0007 0000:?deleteNode2@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@CAXPEAUNode@QHashData@@@Z (REF 0003: ??_G?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@QEAAPEAXI@Z)
+      1. 00 0000 0007 0000:?deleteNode2@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@CAXPEAUNode@QHashData@@@Z (REF 0003: ??_G?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@QEAAPEAXI@Z)
+40:
+  5348:
+    81ECC0000000488BD1488D4C2420E8........488D4C242033DBE8:
+      0. 00 0000 0087 0000:?load@QSvgTinyDocument@@SAPEAV1@PEAVQXmlStreamReader@@@Z
+    83EC:
+      20:
+        33:
+          C0:
+            488BD9894424304885C9741F488D4C2430E8........488B:
+              0. 05 21A3 0070 (l)0000:?styleFromUrl@@YAPEAVQSvgStyleProperty@@PEAVQSvgNode@@AEBVQString@@@Z
+            660F6EC2488901442BC248894108488BD9214108488D05:
+              0. 00 0000 0095 0000:??0QSvgAnimateTransform@@QEAA@HHH@Z (0003: 83)
+              1. 00 0000 007A 0000:??0QSvgAnimateColor@@QEAA@HHH@Z (0003: F3)
+          D2488BD9E8........33C9488D05........48890383CAFF89:
+            0. 08 C5A5 009B 0000:??0QSvgTinyDocument@@QEAA@XZ
+        4533D24C8BC14885C90F84400100004C8D491883FA060F8FAD00:
+          0. FF 4B37 0163 0000:?styleProperty@QSvgNode@@QEBAPEAVQSvgStyleProperty@@W4Type@2@@Z
+        48:
+          634204488BDA4C:
+            6BC0384C0342104C03C248035210E8:
+              0. 00 0000 0037 0000:?freeData@?$QVector@UStyleSheet@QCss@@@@AEAAXPEAU?$QTypedArrayData@UStyleSheet@QCss@@@@@Z
+            8B4A104C8D04:
+              404F8D04C14C03C24903D1E8:
+                0. 00 0000 003A 0000:?freeData@?$QVector@UAttributeSelector@QCss@@@@AEAAXPEAU?$QTypedArrayData@UAttributeSelector@QCss@@@@@Z (REF 0020: ?destruct@?$QVector@UAttributeSelector@QCss@@@@AEAAXPEAUAttributeSelector@QCss@@0@Z)
+                1. 00 0000 003A 0000:?freeData@?$QVector@UStyleRule@QCss@@@@AEAAXPEAU?$QTypedArrayData@UStyleRule@QCss@@@@@Z (REF 0020: ?destruct@?$QVector@UStyleRule@QCss@@@@AEAAXPEAUStyleRule@QCss@@0@Z)
+                2. 00 0000 003A 0000:?freeData@?$QVector@USymbol@QCss@@@@AEAAXPEAU?$QTypedArrayData@USymbol@QCss@@@@@Z (REF 0020: ?destruct@?$QVector@USymbol@QCss@@@@AEAAXPEAUSymbol@QCss@@0@Z)
+                3. 00 0000 003A 0000:?freeData@?$QVector@UValue@QCss@@@@AEAAXPEAU?$QTypedArrayData@UValue@QCss@@@@@Z (REF 0020: ?destruct@?$QVector@UValue@QCss@@@@AEAAXPEAUValue@QCss@@0@Z)
+                4. 00 0000 003A 0000:?freeData@?$QVector@UFormatRange@QTextLayout@@@@AEAAXPEAU?$QTypedArrayData@UFormatRange@QTextLayout@@@@@Z (REF 0020: ?destruct@?$QVector@UFormatRange@QTextLayout@@@@AEAAXPEAUFormatRange@QTextLayout@@0@Z)
+                5. 00 0000 003A 0000:?freeData@?$QVector@UExtraStruct@QGraphicsItemPrivate@@@@AEAAXPEAU?$QTypedArrayData@UExtraStruct@QGraphicsItemPrivate@@@@@Z (REF 0020: ?destruct@?$QVector@UExtraStruct@QGraphicsItemPrivate@@@@AEAAXPEAUExtraStruct@QGraphicsItemPrivate@@0@Z)
+              804F8D04C14C03C24903D1E8:
+                0. 00 0000 003A 0000:?freeData@?$QVector@UBasicSelector@QCss@@@@AEAAXPEAU?$QTypedArrayData@UBasicSelector@QCss@@@@@Z
+            8D048049C1E0044C0342104C03C248035210:
+              0. 01 3E9B 003B 0000:?freeData@?$QVector@VQXmlStreamAttribute@@@@AEAAXPEAU?$QTypedArrayData@VQXmlStreamAttribute@@@@@Z
+          83610800488D05........4883611000488BD94889014883C1:
+            0. 02 503F 006A 0000:??0QPaintEnginePrivate@@QEAA@XZ
+          8B:
+            01488BD9:
+              448B4008410FBAF01F413BD07E084533C0E8:
+                0. 00 0000 0051 0000:?reserve@?$QVector@N@@QEAAXH@Z (0009: 21)
+                1. 00 0000 0052 0000:?reserve@?$QVector@UQSvgCssAttribute@@@@QEAAXH@Z (0009: 22)
+              48390274:
+                3F488D4C2430E8........488B13488B:
+                  0. 2C 6FE2 0059 0000:??4?$QVector@UMediaRule@QCss@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@UMediaRule@QCss@@@@QEAA@AEBV0@@Z)
+                  1. 2C 6FE2 0059 0000:??4?$QVector@UPageRule@QCss@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@UPageRule@QCss@@@@QEAA@AEBV0@@Z)
+                  2. 2C 6FE2 0059 0000:??4?$QVector@UStyleRule@QCss@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@UStyleRule@QCss@@@@QEAA@AEBV0@@Z)
+                  3. 2C 6FE2 0059 0000:??4?$QVector@UImportRule@QCss@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@UImportRule@QCss@@@@QEAA@AEBV0@@Z)
+                42488D4C2430E8........488B0B488B:
+                  0. 2F 9A42 005C 0000:??4?$QVector@N@@QEAAAEAV0@AEBV0@@Z
+                43488D4C2430E8........488B0B488B:
+                  0. 30 1203 005D 0000:??4?$QVector@U?$QPair@NVQColor@@@@@@QEAAAEAV0@AEBV0@@Z
+              FF501083F80F740432C0EB15488D8BE800000048:
+                0. 02 DF74 0033 (l)0000:?parseTbreakNode@@YA_NPEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+            02488BD948:
+              39:
+                41:
+                  707441488D4C2430E8........488B5370:
+                    0. 2F 3B45 0059 0000:?setRequiredFeatures@QSvgNode@@QEAAXAEBVQStringList@@@Z
+                  787441488D4C2430E8........488B5378:
+                    0. 2F F1DB 0059 0000:?setRequiredExtensions@QSvgNode@@QEAAXAEBVQStringList@@@Z
+                81:
+                  800000007447488D4C2430E8........48:
+                    0. 38 A8D1 0062 0000:?setRequiredLanguages@QSvgNode@@QEAAXAEBVQStringList@@@Z
+                  880000007447488D4C2430E8........48:
+                    0. 38 EFB1 0062 0000:?setRequiredFormats@QSvgNode@@QEAAXAEBVQStringList@@@Z
+                  900000007447488D4C2430E8........48:
+                    0. 38 2611 0062 0000:?setRequiredFonts@QSvgNode@@QEAAXAEBVQStringList@@@Z
+              894424408B10FFC283FA017603F0FF00B82300:
+                0. 14 1E11 00A4 0000:?styleProperty@QSvgNode@@QEBAPEAVQSvgFillStyleProperty@@AEBVQString@@@Z
+            4108488BDA488B4870:
+              33C04885C97407E8........EB0F48:
+                0. 17 B91E 0037 0000:?viewBoxF@QSvgRenderer@@QEBA?AVQRectF@@XZ
+              4885C97407E8........EB0883C8FF:
+                0. 0E 2163 002E 0000:?defaultSize@QSvgRenderer@@QEBA?AVQSize@@XZ
+            4908488BDABA80000000E8........33C984C0488BC30F95:
+              0. 09 1BF2 0029 0000:?textureListFlags@QWidgetPrivate@@UEAA?AV?$QFlags@W4Flag@QPlatformTextureList@@@@XZ
+            C2488BD9488D91900000004533C0488BC8E8........C683:
+              0. 0B 7942 002B 0000:?revert@QSvgAnimateTransform@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+            CA488BDAE8........488BC34883C4205BC3:
+              0. 00 0000 001A 0000:?grabFramebuffer@QWidgetPrivate@@UEAA?AVQImage@@XZ
+            D9:
+              48:
+                81C1:
+                  38010000E8........8B9340010000660F6EC88B:
+                    0. 20 7F45 0056 0000:?currentFrame@QSvgTinyDocument@@QEBAHXZ
+                  C8010000488B11833A007411833AFF741483C8FF:
+                    0. 0D 7306 0061 0000:??1QSvgAttributes@@QEAA@XZ
+                83C1:
+                  20E8........488D4B18488B11833A007411833A:
+                    0. 13 7E6E 0069 0000:??1DeclarationData@Declaration@QCss@@QEAA@XZ
+                  38E8........488D4B40C744243001000000488D:
+                    0. 04 9AE6 002E 0000:?pushColor@QSvgHandler@@QEAAXAEBVQColor@@@Z
+                85C97416488B13488BCBFF521085C07409488B5B6848:
+                  0. 0D FF61 002D 0000:?document@QSvgNode@@QEBAPEAVQSvgTinyDocument@@XZ
+                8B:
+                  49:
+                    0883390074118339FF741E83C8FFF00FC10183F8:
+                      0. 11 A4AF 0065 0000:??1AttributeSelector@QCss@@QEAA@XZ
+                    1083390074118339FF741E83C8FFF00FC10183F8:
+                      0. 11 4B62 0065 0000:??1QSvgCssAttribute@@QEAA@XZ (0006: 0B)
+                      1. 11 4B62 0067 0000:??1Pseudo@QCss@@QEAA@XZ (0006: 4B)
+                    38837910007413837910FF741D83C8FFF00FC141:
+                      0. 0D 4282 0072 0000:??1QSvgFont@@UEAA@XZ
+                  89F800000083390074118339FF742183C8FFF00FC1:
+                    0. 17 3FA2 007A 0000:??1QSvgSwitch@@UEAA@XZ
+                8D05........488D0D........48894B084889431048:
+                  0. 1D 5933 0065 0000:??0QSvgHandler@@QEAA@QEAVQXmlStreamReader@@@Z
+              B9:
+                00010000E8........488BD3488BC84883C4205BE9:
+                  0. 00 0000 0023 (l)0000:?createSwitchNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                F0000000E8........488BD3488BC84883C4205BE9:
+                  0. 00 0000 0023 (l)0000:?createGNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z (REF 001F: ??0QSvgG@@QEAA@PEAVQSvgNode@@@Z)
+                  1. 00 0000 0023 (l)0000:?createDefsNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z (REF 001F: ??0QSvgDefs@@QEAA@PEAVQSvgNode@@@Z)
+              E8........488D05........48:
+                890348:
+                  8BC34883C4205B:
+                    0. 01 EF04 0021 0000:??0QSvgG@@QEAA@PEAVQSvgNode@@@Z (REF 0011: ??_7QSvgG@@6B@)
+                    1. 01 EF04 0021 0000:??0QSvgDefs@@QEAA@PEAVQSvgNode@@@Z (REF 0011: ??_7QSvgDefs@@6B@)
+                  8D0D........48:
+                    0. 02 5E64 0044 0000:??0QSvgStructureNode@@QEAA@PEAVQSvgNode@@@Z
+                8BCB488903488D05:
+                  0. 00 0000 003E 0000:??0QSvgSwitch@@QEAA@PEAVQSvgNode@@@Z
+            DA:
+              41B801000000488D5110488BCBE8........488BC34883:
+                0. 04 1875 0024 0000:?brush@QSvgSolidColorStyle@@UEAA?AVQBrush@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+              E8........488BC833C04885C97408488BD3E8:
+                0. 06 59CA 0026 0000:?scopeNode@QSvgStructureNode@@QEBAPEAVQSvgNode@@AEBVQString@@@Z
+          8D05........488BD9488901F6C201740ABA:
+            10000000E8:
+              0. 00 0000 002B 0000:??_GQSvgFillStyleProperty@@UEAAPEAXI@Z
+              1. 00 0000 002B 0000:??_GQSvgQualityStyle@@UEAAPEAXI@Z
+              2. 00 0000 002B 0000:??_GQSvgStyleProperty@@UEAAPEAXI@Z
+              3. 00 0000 002B 0000:??_GQSvgRefCounted@@UEAAPEAXI@Z
+            18000000E8:
+              0. 00 0000 002B 0000:??_GQSvgCompOpStyle@@UEAAPEAXI@Z
+            20000000E8:
+              0. 00 0000 002B 0000:??_GQSvgOpacityStyle@@UEAAPEAXI@Z
+            C0000000E8:
+              0. 00 0000 002B 0000:??_GQSvgTransformStyle@@UEAAPEAXI@Z
+        4C:
+          634204488BDA49C1E0:
+            044C0342104C03C248035210E8:
+              0. 00 0000 0037 0000:?freeData@?$QVector@UMediaRule@QCss@@@@AEAAXPEAU?$QTypedArrayData@UMediaRule@QCss@@@@@Z (REF 001D: ?destruct@?$QVector@UMediaRule@QCss@@@@AEAAXPEAUMediaRule@QCss@@0@Z)
+              1. 00 0000 0037 0000:?freeData@?$QVector@UPageRule@QCss@@@@AEAAXPEAU?$QTypedArrayData@UPageRule@QCss@@@@@Z (REF 001D: ?destruct@?$QVector@UPageRule@QCss@@@@AEAAXPEAUPageRule@QCss@@0@Z)
+              2. 00 0000 0037 0000:?freeData@?$QVector@UImportRule@QCss@@@@AEAAXPEAU?$QTypedArrayData@UImportRule@QCss@@@@@Z (REF 001D: ?destruct@?$QVector@UImportRule@QCss@@@@AEAAXPEAUImportRule@QCss@@0@Z)
+            054C0342104C03C248035210E8:
+              0. 00 0000 0037 0000:?freeData@?$QVector@UQSvgCssAttribute@@@@AEAAXPEAU?$QTypedArrayData@UQSvgCssAttribute@@@@@Z (REF 001D: ?destruct@?$QVector@UQSvgCssAttribute@@@@AEAAXPEAUQSvgCssAttribute@@0@Z)
+              1. 00 0000 0037 0000:?freeData@?$QVector@UPseudo@QCss@@@@AEAAXPEAU?$QTypedArrayData@UPseudo@QCss@@@@@Z (REF 001D: ?destruct@?$QVector@UPseudo@QCss@@@@AEAAXPEAUPseudo@QCss@@0@Z)
+          8B:
+            01488BDA498B48104903C848894C2430488D4C2430E8:
+              0. 00 0000 003C (l)0000:?toDouble@@YANAEBVQString@@PEA_N@Z
+            4A10488BDA486342044D8D04C14C03C24903D1E8:
+              0. 11 F075 0035 0000:?freeData@?$QVector@USelector@QCss@@@@AEAAXPEAU?$QTypedArrayData@USelector@QCss@@@@@Z (REF 001C: ?destruct@?$QVector@USelector@QCss@@@@AEAAXPEAUSelector@QCss@@0@Z)
+              1. 11 F075 0035 0000:?freeData@?$QVector@V?$QVector@UFormatRange@QTextLayout@@@@@@AEAAXPEAU?$QTypedArrayData@V?$QVector@UFormatRange@QTextLayout@@@@@@@Z (REF 001C: ?destruct@?$QVector@V?$QVector@UFormatRange@QTextLayout@@@@@@AEAAXPEAV?$QVector@UFormatRange@QTextLayout@@@@0@Z)
+              2. 11 F075 0035 0000:?freeData@?$QVector@VQString@@@@AEAAXPEAU?$QTypedArrayData@VQString@@@@@Z (REF 001C: ?destruct@?$QVector@VQString@@@@AEAAXPEAVQString@@0@Z)
+              3. 11 F075 0035 0000:?freeData@?$QVector@UDeclaration@QCss@@@@AEAAXPEAU?$QTypedArrayData@UDeclaration@QCss@@@@@Z (REF 001C: ?destruct@?$QVector@UDeclaration@QCss@@@@AEAAXPEAUDeclaration@QCss@@0@Z)
+            C24881C1:
+              20010000488D542430E8........488B5C243048:
+                0. 20 6BD0 0040 0000:?svgFont@QSvgTinyDocument@@QEBAPEAVQSvgFont@@AEBVQString@@@Z
+              30010000488D542430E8........488B4C243048:
+                0. 21 CBE4 0041 0000:?namedStyle@QSvgTinyDocument@@QEBAPEAVQSvgFillStyleProperty@@AEBVQString@@@Z
+        83610800488D05........48:
+          83611000488BD948836118004889:
+            0. 06 3678 0048 0000:??0QSvgFontStyle@@QEAA@XZ
+          8901488BD9:
+            48:
+              83C110:
+                41B8580000:
+                  0. 02 0164 0038 0000:??0QSvgTransformStyle@@QEAA@AEBVQTransform@@@Z
+                E8:
+                  0. 05 53ED 006B 0000:??0QSvgFillStyle@@QEAA@XZ (0005: 83) (0007: 20)
+                  1. 05 53ED 006D 0000:??0QSvgStrokeStyle@@QEAA@XZ (0005: 83) (0007: 28)
+                  2. 05 53ED 0032 0000:??0QSvgViewportFillStyle@@QEAA@AEBVQBrush@@@Z (0005: 8B)
+              895110:
+                4883C118E8:
+                  0. 00 0000 003C 0000:??0QSvgGradientStyle@@QEAA@PEAVQGradient@@@Z
+                4C89411848:
+                  0. 04 4EEC 0046 0000:??0QSvgFontStyle@@QEAA@PEAVQSvgFont@@PEAVQSvgTinyDocument@@@Z
+            8B02894110F20F1042:
+              0. 13 7843 0049 0000:??0QSvgSolidColorStyle@@QEAA@AEBVQColor@@@Z
+        885138488BD9498B00483941207429498BD0488D4C2430E8:
+          0. 00 0000 0044 0000:?setArgs@QSvgAnimateColor@@QEAAX_NAEBV?$QList@VQColor@@@@@Z
+      30:
+        448B8140010000488D99380100008B8144010000488BCB0F2974:
+          0. 2B 89BA 0081 0000:?setCurrentFrame@QSvgTinyDocument@@QEAAXH@Z
+        488B41:
+          18488BDA488B5008837A04007E1B4C63420433C9480352:
+            0. 32 C138 0079 0000:?maximumCacheSize@QGraphicsSvgItem@@QEBA?AVQSize@@XZ
+          38488BDA837804007431488BC88B4004FFC84C63C049C1:
+            0. 38 55A1 0065 0000:?currentColor@QSvgHandler@@QEBA?AVQColor@@XZ
+        668911488BD94883C1080F29742420498BD00F28F3E8:
+          0. 13 F6CE 0033 0000:??0QSvgGlyph@@QEAA@VQChar@@AEBVQPainterPath@@N@Z
+      40:
+        488B:
+          05........4833C44889442430488BD94883C140488B0183:
+            0. 06 2161 005D 0000:?pushColorCopy@QSvgHandler@@QEAAXXZ
+          41:
+            08488BDA:
+              33D2488B487048891348895308488953104889:
+                0. 0D 3717 0048 0000:?boundsOnElement@QSvgRenderer@@QEBA?AVQRectF@@AEBVQString@@@Z
+              488B48704885C97417488D542420E8:
+                0. 07 7A64 0046 0000:?viewBox@QSvgRenderer@@QEBA?AVQRect@@XZ
+            18488BDA488B08488B4118488D4C24200F1080B0000000:
+              0. 12 D0B1 003F 0000:?viewBox@QSvgGenerator@@QEBA?AVQRect@@XZ
+          D9488D4C2420E8........488B4B184C8D442420BA030000:
+            0. 02 0164 0054 0000:?setMaximumCacheSize@QGraphicsSvgItem@@QEAAXAEBVQSize@@@Z
+        498BD985D20F85330100004585C00F84130100004183E8010F84:
+          0. 85 C99B 021A 0000:?qt_static_metacall@QSvgRenderer@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+      5085D2753E4585C00F85D6000000488B41180F57C00F57C90F1144:
+        0. 1E E72C 00EF 0000:?qt_static_metacall@QGraphicsSvgItem@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+  5553565741:
+    54:
+      41:
+        55415648:
+          8BEC4883EC40488D1D........498BF04889194C:
+            0. 12 6F1A 026F (l)0000:?prefixMessage@@YA?AVQByteArray@@AEBV1@PEBVQXmlStreamReader@@@Z
+          8D6C24D94881ECA0000000488BF933F689756733:
+            0. 06 BAEE 02CC 0000:?parse@QSvgHandler@@AEAAXXZ
+        56415748:
+          8BEC4883EC40:
+            488BF1498BF8488D0D........48:
+              0. 03 8B2A 01C4 (l)0000:?translate_color@@YAXAEBVQColor@@PEAVQString@@1@Z
+            836540004D8BF00F29742430488B:
+              0. 05 E678 01A4 0000:?draw@QSvgPath@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z (0004: 41)
+              1. 05 E678 0198 0000:?draw@QSvgEllipse@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z (0004: 48)
+          8D:
+            6C24:
+              C04881EC400100004C8BF1488BDA488B49:
+                0. 09 B94E 0897 0000:?qbrushToSvg@QSvgPaintEngine@@QEAAXAEBVQBrush@@@Z
+              D94881ECF0000000488B05........4833:
+                0. 28 F20B 03E6 0000:?savePatternBrush@QSvgPaintEngine@@QEAA?AVQString@@AEBV2@AEBVQBrush@@@Z
+            AC24F0FEFFFF4881EC10020000488B05:
+              0. 00 0000 052D (l)0000:?parseBaseGradient@@YAXPEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgGradientStyle@@PEAVQSvgHandler@@@Z
+      488BEC4883EC30488BD9488D4DF8E8........41BC2D000000:
+        0. 1E 2B47 010A 0000:?init@QSvgSwitch@@AEAAXXZ
+    56488BEC4881EC8000000080795800488BF24C8BF10F84FB0000:
+      0. 09 163C 023A 0000:?characters@QSvgHandler@@QEAA_NAEBVQStringRef@@@Z
+  574883EC20488B01488BF9833801762B8B500881E2FFFFFF7F7518448D4A02:
+    0. 0B E2BF 008E 0000:?top@?$QStack@W4CurrentNode@QSvgHandler@@@@QEAAAEAW4CurrentNode@QSvgHandler@@XZ (REF 0038: ?realloc@?$QVector@W4CurrentNode@QSvgHandler@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+    1. 0B E2BF 008E 0000:?top@?$QStack@W4WhitespaceMode@QSvgText@@@@QEAAAEAW4WhitespaceMode@QSvgText@@XZ (REF 0038: ?realloc@?$QVector@W4WhitespaceMode@QSvgText@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+    2. 0B E2BF 008E 0000:?top@?$QStack@H@@QEAAAEAHXZ (REF 0038: ?realloc@?$QVector@H@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+4183E803742D4183E801741E4183E801740F4183F8017523F20F5905:
+  0. 05 14CE 003C (l)0000:?convertToPixels@@YANN_NW4LengthType@QSvgHandler@@@Z
+448BC941C1E9184181F9FF00000075038BC1C34585C9750333C0C38BC1488D15:
+  0. 00 0000 0075 0000:?qUnpremultiply@@YAII@Z
+45:
+  33:
+    C0488D05........488901488D05........4C8941084C8941104C894118:
+      0. 48 BF90 00AB 0000:??0QSvgNode@@QEAA@PEAV0@@Z
+    C9488D15........4533C0E9:
+      0. 00 0000 0012 0000:?repaintNeeded@QSvgRenderer@@QEAAXXZ
+      1. 00 0000 0012 0000:?callRepaintNeeded@QSvgRendererPrivate@@SAXQEAVQSvgRenderer@@@Z
+  85C00F8E6C010000488BC44889581048896818565741564881EC8000000048:
+    0. 27 FC58 0176 0000:?drawRects@QSvgPaintEngine@@UEAAXPEBVQRectF@@H@Z
+48:
+  81C1:
+    38010000E9:
+      0. 00 0000 000C 0000:?restartAnimation@QSvgTinyDocument@@QEAAXXZ
+    A0000000E9:
+      0. 00 0000 000C 0000:?setNodeId@QSvgNode@@QEAAXAEBVQString@@@Z
+    A8000000E9:
+      0. 00 0000 000C 0000:?setXmlClass@QSvgNode@@QEAAXAEBVQString@@@Z
+  83:
+    C1:
+      08E9:
+        0. 00 0000 0009 0000:?revertStyle@QSvgNode@@QEBAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z (REF 0005: ?revert@QSvgStyle@@QEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z)
+      10E9:
+        0. 00 0000 0009 0000:?setFamilyName@QSvgFont@@QEAAXAEBVQString@@@Z (REF 0005: ??4QString@@QEAAAEAV0@AEBV0@@Z)
+      18E9:
+        0. 00 0000 0009 0000:?setMatrix@QSvgGradientStyle@@QEAAXAEBVQMatrix@@@Z (REF 0005: ??4QMatrix@@QEAAAEAV0@AEBV0@@Z)
+        1. 00 0000 0009 0000:?deleteNode2@?$QHash@VQChar@@VQSvgGlyph@@@@CAXPEAUNode@QHashData@@@Z (REF 0005: ??1QPainterPath@@QEAA@XZ)
+      484489442418488D442418443B01480F4CC18B008901C3:
+        0. 00 0000 001A 0000:?setAnimPeriod@QSvgHandler@@QEAAXHH@Z
+    E910E9:
+      0. 00 0000 0009 0000:??_EQSvgWidget@@WBA@EAAPEAXI@Z (REF 0005: ??_EQSvgWidget@@UEAAPEAXI@Z)
+      1. 00 0000 0009 0000:??_EQGraphicsSvgItem@@WBA@EAAPEAXI@Z (REF 0005: ??_EQGraphicsSvgItem@@UEAAPEAXI@Z)
+    EC:
+      18F20F10194C8BCA0F28C30F293C24F20F5C05........F20F1079080F:
+        0. 0C C03C 00AF 0000:?toSize@QSizeF@@QEBA?AVQSize@@XZ
+      28:
+        48:
+          83C110E8........85C00F95C04883C428C3:
+            0. 00 0000 0017 0000:?isCachingEnabled@QGraphicsSvgItem@@QEBA_NXZ
+          8B:
+            4108:
+              4533C0488B48704885C97408E8........448AC0418AC048:
+                0. 04 E284 0024 0000:?elementExists@QSvgRenderer@@QEBA_NAEBVQString@@@Z
+              488B48704885C97405E8........4883C428C3:
+                0. 00 0000 001B 0000:?render@QSvgRenderer@@QEAAXPEAVQPainter@@AEBVQRectF@@@Z (REF 0012: ?draw@QSvgTinyDocument@@QEAAXPEAVQPainter@@AEBVQRectF@@@Z)
+                1. 00 0000 001B 0000:?render@QSvgRenderer@@QEAAXPEAVQPainter@@AEBVQString@@AEBVQRectF@@@Z (REF 0012: ?draw@QSvgTinyDocument@@QEAAXPEAVQPainter@@AEBVQString@@AEBVQRectF@@@Z)
+                2. 00 0000 001B 0000:?setViewBox@QSvgRenderer@@QEAAXAEBVQRectF@@@Z (REF 0012: ?setViewBox@QSvgTinyDocument@@QEAAXAEBVQRectF@@@Z)
+                3. 00 0000 001B 0000:?render@QSvgRenderer@@QEAAXPEAVQPainter@@@Z (REF 0012: ?draw@QSvgTinyDocument@@QEAAXPEAVQPainter@@@Z)
+            5110833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+              0. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@PEAVQSvgNode@@@@CAXPEAUNode@QHashData@@@Z
+          8D05........488D5424384889442438E8........488B54243883:
+            0. 20 7EE7 0049 0000:?resolveStops@QSvgGradientStyle@@QEAAXXZ
+        65488B0425580000008B0D........41B8........488B14C8418B04:
+          0. 03 4E75 0077 0000:?lcSvgHandler@@YAAEBVQLoggingCategory@@XZ
+        83C8FF4C8D442430F6DA89442430894424341BD24883C11083E202E8:
+          0. 00 0000 0029 0000:?setCachingEnabled@QGraphicsSvgItem@@QEAAX_N@Z
+        85D275214585C074134183F8017516498B51084883C428E9:
+          0. 05 F3CE 002E 0000:?qt_static_metacall@QSvgWidget@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        E8........4885C00F95C04883C428C3:
+          0. 00 0000 0014 0000:?elementExists@QSvgTinyDocument@@QEBA_NAEBVQString@@@Z
+      380F297C24204C8BDAF20F10390F57ED0F28DF440F29442410F20F5859:
+        0. 06 B1D0 0168 0000:?toRect@QRectF@@QEBA?AVQRect@@XZ
+      48:
+        0F57C04C8D4424200F57C90F114424200F114C2430E8........4883:
+          0. 03 06D3 0023 0000:?draw@QSvgTinyDocument@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+          1. 03 06D3 0023 0000:?draw@QSvgTinyDocument@@QEAAXPEAVQPainter@@@Z
+        488B:
+          05........4833C448894424304D8BC84C8BC183FA0D7E1432C0:
+            0. 09 A8E1 007B 0000:?qsvg_get_hex_rgb@@YA_NPEBVQChar@@HPEAI@Z (l)007B:$LN17
+          41:
+            08:
+              488B48704885C97452660F6E028B42082B02660F6E4A04FF:
+                0. 3F 7C4C 0068 0000:?setViewBox@QSvgRenderer@@QEAAXAEBVQRect@@@Z
+              85D279388364242400488D05........0F57C04889442438:
+                0. 0E 3EEB 004F 0000:?setFramesPerSecond@QSvgRenderer@@QEAAXH@Z
+            18488B:
+              00F640140174358364242400488D05........0F57C0:
+                0. 08 E041 0064 0000:?setViewBox@QSvgGenerator@@QEAAXAEBVQRectF@@@Z
+              08F641140174358364242400488D05........0F57C0:
+                0. 08 E041 0059 0000:?setSize@QSvgGenerator@@QEAAXAEBVQSize@@@Z
+        4C8B4118:
+          498B00F640140174388364242400488D05........0F57C0:
+            0. 08 E041 0091 0000:?setOutputDevice@QSvgGenerator@@QEAAXPEAVQIODevice@@@Z
+          83FA070F8FF70000000F84540100008BCA83E9010F84D700:
+            0. 61 917E 017D 0000:?metric@QSvgGenerator@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z
+        660F6E028B42082B02660F6E4A04FFC0F30FE6C0F30FE6C9F20F1144:
+          0. 32 BE23 005B 0000:?setViewBox@QSvgGenerator@@QEAAXAEBVQRect@@@Z
+        8364242400488D05........0F57C04889442438488D15........C7:
+          0. 13 44B6 003C 0000:?draw@QSvgAnimation@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+  85D2:
+    0F:
+      846803000048894C240855535657488D6C24C14881EC98000000488B:
+        0. 4B 87AD 0372 0000:?resolveGradients@QSvgHandler@@AEAAXPEAVQSvgNode@@@Z
+      94C0C3:
+        0. 00 0000 0007 0000:?isNullNode@QSvgStyleSelector@@UEBA_NTNodePtr@StyleSelector@QCss@@@Z
+    74:
+      288B4108488322008942084C8B41104C894210418B00FFC083F80176:
+        0. 0E E38F 002E 0000:?duplicateNode@?$QHash@VQString@@PEAVQSvgNode@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      308B4108488322008942084C8B41104C894210418B00FFC083F80176:
+        0. 16 B9CF 0036 0000:?duplicateNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@CAXPEAUNode@QHashData@@PEAX@Z
+        1. 16 B9CF 0036 0000:?duplicateNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      4948895C2408574883EC208B4108488BDA48832200488BF98942080F:
+        0. 18 C938 004F 0000:?duplicateNode@?$QHash@VQChar@@VQSvgGlyph@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      5848895C2408574883EC208B4108488D791848832200894208488B49:
+        0. 1C B413 005E 0000:?duplicateNode@?$QHash@VQString@@UStyleRule@QCss@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  89:
+    11488BC14C894108C3:
+      0. 00 0000 000B 0000:??$?HDVQByteArray@@@@YA?AV?$QStringBuilder@DVQByteArray@@@@AEBDAEBVQByteArray@@@Z
+      1. 00 0000 000B 0000:??$?HV?$QStringBuilder@DVQByteArray@@@@$$BY0FK@D@@YA?AV?$QStringBuilder@V?$QStringBuilder@DVQByteArray@@@@$$BY0FK@D@@AEBV?$QStringBuilder@DVQByteArray@@@@AEAY0FK@$$CBD@Z
+      2. 00 0000 000B 0000:??$?HVQByteArray@@V0@@@YA?AV?$QStringBuilder@VQByteArray@@V1@@@AEBVQByteArray@@0@Z
+      3. 00 0000 000B 0000:??$?HVQString@@VQStringRef@@@@YA?AV?$QStringBuilder@VQString@@VQStringRef@@@@AEBVQString@@AEBVQStringRef@@@Z
+    4C240855535657415441554156415748:
+      8BEC4883EC68488B511033F64C8B:
+        0. A2 C3EC 0357 0000:?resolveNodes@QSvgHandler@@AEAAXXZ
+      8DAC2428FFFFFF4881ECD8010000:
+        0. 03 4AA3 0846 (l)0000:?parseCoreNode@@YA_NPEAVQSvgNode@@AEBVQXmlStreamAttributes@@@Z
+    54241048894C2408555356574154415541564157488D6C24E14881ECC800:
+      0. 1D 66C3 043B (l)0000:?parseCSStoXMLAttrs@@YAXAEBV?$QVector@UDeclaration@QCss@@@@AEAVQXmlStreamAttributes@@@Z
+    5C24:
+      08:
+        4889:
+          6C24:
+            104889:
+              74241857:
+                41:
+                  544155415641574883EC20488B0141:
+                    0. 1F BE3C 0117 0000:?realloc@?$QVector@V?$QVector@UFormatRange@QTextLayout@@@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                  5641574883EC:
+                    20:
+                      48:
+                        8B0141BF080000:
+                          0. 1F 8815 013C 0000:?realloc@?$QVector@U?$QPair@NVQColor@@@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                          1. 1F D695 0113 0000:?realloc@?$QVector@VQColor@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                        8DB9D800000049:
+                          0. 17 1B78 00D3 0000:?draw@QSvgG@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                      8BEA488BF1488B09:
+                        0. 0C 5B70 0094 0000:?createNode@?$QHash@VQChar@@VQSvgGlyph@@@@AEAAPEAU?$QHashNode@VQChar@@VQSvgGlyph@@@@IAEBVQChar@@AEBVQSvgGlyph@@PEAPEAU2@@Z
+                    4033DB488BF248891A:
+                      0. 22 4AF0 00D7 0000:?bounds@QSvgUse@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                    60488B89D800000033:
+                      0. 6B 3A9F 00C6 0000:?bounds@QSvgStructureNode@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                4883EC:
+                  20:
+                    48:
+                      63:
+                        5A0C488BFA48636A0848:
+                          0. 41 85FA 0086 0000:?dealloc@?$QList@V?$QSvgRefCounter@VQSvgAnimateTransform@@@@@@AEAAXPEAUData@QListData@@@Z
+                        F2BD08000000458BC848:
+                          0. 0A 14ED 00BA 0000:?realloc@?$QVector@N@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                          1. 0A 14ED 00BA 0000:?realloc@?$QVector@PEAVQSvgTspan@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                          2. 0A 14ED 00BA 0000:?realloc@?$QVector@PEAVQSvgNode@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                      8B:
+                        02488BFA488901488BD9:
+                          0. 13 F46D 00AE 0000:??0?$QList@VQColor@@@@QEAA@AEBV0@@Z
+                        5908488BF1498BE8488B:
+                          0. 09 04ED 009B 0000:?paint@QGraphicsSvgItem@@UEAAXPEAVQPainter@@PEBVQStyleOptionGraphicsItem@@PEAVQWidget@@@Z
+                        818800000033DB8BEA48:
+                          0. 5B 159F 007B 0000:?resolvePalette@QGraphicsItemPrivate@@UEAAXI@Z
+                          1. 5B 69BD 007B 0000:?resolveFont@QGraphicsItemPrivate@@UEAAXI@Z
+                        F9:
+                          418BF0488B09488BEA:
+                            0. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@AEBAPEAPEAU?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@AEBVQString@@I@Z
+                            1. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@AEBAPEAPEAU?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@AEBVQString@@I@Z
+                            2. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@PEAVQSvgNode@@@@AEBAPEAPEAU?$QHashNode@VQString@@PEAVQSvgNode@@@@AEBVQString@@I@Z
+                          498BF0488B09488BEA:
+                            0. FF 15F1 016F 0000:?revert@QSvgStyle@@QEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                    498B:
+                      F18BFA488BE9E8:
+                        0. 00 0000 00A8 0000:?qt_metacall@QGraphicsSvgItem@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 6C)
+                        1. 00 0000 00A9 0000:?qt_metacall@QSvgRenderer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 6D)
+                      F9:
+                        498BD8488BF1E8:
+                          0. 00 0000 00C3 0000:??0QSvgImage@@QEAA@PEAVQSvgNode@@AEBVQImage@@AEBVQRectF@@@Z
+                        8BF2488BE9E8:
+                          0. 00 0000 007F 0000:?qt_metacall@QSvgWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                    4C8B01488BD9496340084983:
+                      0. 07 5FFD 00E4 0000:?detach_helper@?$QList@VQColor@@@@AEAAXH@Z
+                    8BEA488BD9488B09BA080000:
+                      0. 08 D93E 0083 0000:?createNode@?$QHash@VQString@@PEAVQSvgNode@@@@AEAAPEAU?$QHashNode@VQString@@PEAVQSvgNode@@@@IAEBVQString@@AEBQEAVQSvgNode@@PEAPEAU2@@Z (0010: 26)
+                      1. 08 D93E 008B 0000:?createNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@AEAAPEAU?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@IAEBVQString@@AEBV?$QSvgRefCounter@VQSvgFont@@@@PEAPEAU2@@Z (0010: 2E)
+                      2. 08 D93E 008B 0000:?createNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@AEAAPEAU?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@IAEBVQString@@AEBV?$QSvgRefCounter@VQSvgFillStyleProperty@@@@PEAPEAU2@@Z (0010: 2E)
+                  50488BE9498BF8498BC8488BF2:
+                    0. 01 3E9B 0080 0000:?drawImage@QPainter@@QEAAXAEBVQRectF@@AEBVQImage@@@Z
+                  6083B9F000000001488BF2488B:
+                    0. 45 4FA4 018B 0000:?size@QSvgTinyDocument@@QEBA?AVQSize@@XZ
+              7C241841564883EC20488BD94881C178010000E8:
+                0. 00 0000 016B 0000:??1QSvgPaintEnginePrivate@@UEAA@XZ
+            18:
+              4889742420574883EC60488BE933DB498BC8895C2478:
+                0. 07 7581 00CA 0000:?bounds@QSvgPath@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                1. 07 7581 00CA 0000:?bounds@QSvgArc@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+              8954241056574154415641574883EC20488B11488BF1:
+                0. 18 3165 0134 0000:?detach_helper_grow@?$QList@V?$QSvgRefCounter@VQSvgAnimateTransform@@@@@@AEAAPEAUNode@1@HH@Z
+            20565741564883EC2048833A00488D35........488974:
+              0. 3D A317 01B1 (l)0000:?parsePercentageList@@YA?AV?$QVector@N@@AEAPEBVQChar@@@Z
+          7424:
+            10:
+              48897C2418:
+                41564883EC20:
+                  488BD9488B49604885C974:
+                    0. 2C 6B46 01CA 0000:??1QSvgHandler@@QEAA@XZ
+                  4C8BF1498BF8B988:
+                    000000:
+                      0. 04 050E 0092 0000:??0QSvgRenderer@@QEAA@AEBVQString@@PEAVQObject@@@Z (REF 0075: ?load@QSvgRenderer@@QEAA_NAEBVQString@@@Z)
+                      1. 04 050E 0092 0000:??0QSvgRenderer@@QEAA@PEAVQXmlStreamReader@@PEAVQObject@@@Z (REF 0075: ?load@QSvgRenderer@@QEAA_NPEAVQXmlStreamReader@@@Z)
+                      2. 04 050E 0092 0000:??0QSvgRenderer@@QEAA@AEBVQByteArray@@PEAVQObject@@@Z (REF 0075: ?load@QSvgRenderer@@QEAA_NAEBVQByteArray@@@Z)
+                    010000:
+                      0. 04 050E 00D8 0000:??0QGraphicsSvgItem@@QEAA@AEBVQString@@PEAVQGraphicsItem@@@Z
+                55:
+                  41:
+                    544156488BEC4883EC40488BDA498B:
+                      0. 09 0C5A 026F (l)0000:??$parseLength@VQStringRef@@@@YANAEBVQStringRef@@AEAW4LengthType@QSvgHandler@@PEAV2@PEA_N@Z
+                    564157488BEC4883EC708365B0004D:
+                      0. 24 4961 01A1 0000:?attribute@QSvgStyleSelector@@UEBA?AVQString@@TNodePtr@StyleSelector@QCss@@AEBV2@@Z
+                  488BEC4883EC:
+                    30488D35........498B:
+                      0. 08 DEE9 00DB 0000:?saveGradientUnits@QSvgPaintEngine@@QEAAXAEAVQTextStream@@PEBVQGradient@@@Z
+                    4048:
+                      8BF9488D35:
+                        0. 00 0000 00AD (l)0000:?createPathNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                      8D35........498B:
+                        0. 08 DEE9 00D5 (l)0000:?parseStyleNode@@YA_NPEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                    604C8B01488BD9418B78:
+                      0. 2B D9D8 011D 0000:?append@?$QVector@UStyleSheet@QCss@@@@QEAAXAEBUStyleSheet@QCss@@@Z
+              55574156488BEC4883EC600F29742450498BF8488BF2:
+                0. 01 3E9B 00E9 (l)0000:?createTextAreaNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+              574883EC:
+                20:
+                  418BF9498BD8488BF1E8........488D05:
+                    0. 00 0000 005F 0000:??0QSvgRect@@QEAA@PEAVQSvgNode@@AEBVQRectF@@HH@Z
+                  48:
+                    635A0C488BFA486372084883C3024883:
+                      0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                    832200498BF0832200488BFA4D85C074:
+                      0. 4F E0EE 0089 0000:?previousSiblingNode@QSvgStyleSelector@@UEBA?ATNodePtr@StyleSelector@QCss@@T234@@Z
+                    8B:
+                      01:
+                        458BC84C63C2488BF9BA08000000:
+                          0. 0A D312 0166 0000:?realloc@?$QVector@UQSvgCssAttribute@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                        488BF2488BF94C8B00488B0E4963:
+                          0. 10 1202 008D 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQString@@VQStringRef@@@@@@SAXAEBV?$QStringBuilder@VQString@@VQStringRef@@@@AEAPEAVQChar@@@Z
+                        498BF0488BDA488BF98378140074:
+                          0. 11 D0F7 0073 0000:?value@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@QEBA?BV?$QSvgRefCounter@VQSvgFont@@@@AEBVQString@@@Z (REF 003F: ?findNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@AEBAPEAPEAU?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@AEBVQString@@I@Z)
+                          1. 11 D0F7 0073 0000:?value@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@QEBA?BV?$QSvgRefCounter@VQSvgFillStyleProperty@@@@AEBVQString@@@Z (REF 003F: ?findNode@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@AEBAPEAPEAU?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@AEBVQString@@I@Z)
+                      02488BF2488BD983380074138338FF:
+                        0. 2E 574D 00D3 0000:??0?$QVector@UDeclaration@QCss@@@@QEAA@AEBV0@@Z
+                      11833A007411833AFF744A83C8FFF0:
+                        0. 35 D4FE 0076 0000:??1?$QList@VQColor@@@@QEAA@XZ
+                      D983CFFF488B4958BE010000004885:
+                        0. 42 FF01 0132 0000:??1QSvgStyle@@QEAA@XZ
+                      DA498BF9498BD0488BF1E8:
+                        0. 0A 3E3A 0064 0000:??0QSvgUse@@QEAA@AEBVQPointF@@PEAVQSvgNode@@1@Z
+                      F1:
+                        48:
+                          8BFAB988:
+                            000000E8........BA:
+                              0. 0B FC84 0078 0000:??0QSvgRenderer@@QEAA@PEAVQObject@@@Z
+                            010000E8........48:
+                              0. 06 C7E2 00AF 0000:??0QGraphicsSvgItem@@QEAA@PEAVQGraphicsItem@@@Z
+                          8D4C2440E8........488D5424:
+                            0. 05 8CE3 0091 (l)0000:?parseNumberTriplet@@YAXAEAV?$QVector@N@@AEAPEBVQChar@@@Z
+                        498BD8488BCA488BFAE8:
+                          0. 0B A195 0060 0000:?apply@QSvgAnimateTransform@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                        E8........488D05........B918:
+                          0. 07 7BD0 0091 0000:??0QSvgGenerator@@QEAA@XZ
+                    8D:
+                      5918488BF9488D4B0883CEFF488B11:
+                        0. 17 9763 0095 0000:??1?$QHashNode@VQString@@UStyleRule@QCss@@@@QEAA@XZ
+                      B92801000033DB488B07488BF23958:
+                        0. 12 D3FE 0063 0000:?namedNode@QSvgTinyDocument@@QEBAPEAVQSvgNode@@AEBVQString@@@Z
+                  498BD8488BFA488BF1E8........4C:
+                    8BC3:
+                      0. 16 2BB1 003A 0000:?draw@QSvgVideo@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                    8D86:
+                      0. 0F 6E00 0050 0000:?draw@QSvgImage@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                  4C8B:
+                    01488B:
+                      D9496340084983C010498D34:
+                        0. 02 ABAE 0092 0000:?detach_helper@?$QList@PEAVQSvgNode@@@@AEAAXH@Z
+                      F2488BD9418B500485D2750A:
+                        0. 04 564A 00B2 0000:??Y?$QVector@N@@QEAAAEAV0@AEBV0@@Z
+                    0933F6488BDA413971147472458B59:
+                      0. 61 362F 00B2 0000:?value@?$QHash@VQChar@@VQSvgGlyph@@@@QEBA?BVQSvgGlyph@@AEBVQChar@@@Z
+                  803923488BF2488BD90F85920100004883:
+                    0. 08 0132 01C2 0000:?qsvg_get_hex_rgb@@YA_NPEBDPEAI@Z
+                  895120488BF14883C128498BD1498BF941:
+                    0. 03 3B19 0051 0000:?setArgs@QSvgAnimateTransform@@QEAAXW4TransformType@1@W4Additive@1@AEBV?$QVector@N@@@Z
+                300F29742420498BF8488BDA488BF1E8:
+                  0. 00 0000 0095 0000:?draw@QSvgArc@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z (001D: 35)
+                  1. 00 0000 009B 0000:?draw@QSvgLine@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z (001D: 3B)
+                40:
+                  0F29742430498BF8488BDA488BF1E8:
+                    0. 00 0000 012C 0000:?draw@QSvgPolyline@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                  48:
+                    8B:
+                      5918488BF2488BF980BB7801000000:
+                        0. 2B 2B44 007D 0000:?setSharedRenderer@QGraphicsSvgItem@@QEAAXPEAVQSvgRenderer@@@Z
+                      D90F29742430498BC8498BF0488BFA:
+                        0. 01 3E9B 00B6 0000:?bounds@QSvgRect@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z (0028: 1C)
+                        1. 01 3E9B 00ED 0000:?bounds@QSvgPolyline@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z (0028: 53)
+                        2. 01 3E9B 00ED 0000:?bounds@QSvgPolygon@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z (0028: 53)
+                    8D590833FF488B0B498BF03979047E1D:
+                      0. 2A 58E1 00D3 0000:?setExtra@QGraphicsItemPrivate@@QEAAXW4Extra@1@AEBVQVariant@@@Z
+                  4C8B01488BD9418B7808418B70040FBAF7:
+                    0. 39 E150 00F3 0000:?append@?$QVector@UFormatRange@QTextLayout@@@@QEAAXAEBUFormatRange@QTextLayout@@@Z
+                50488B5908498BF0488BCA488BFAE8:
+                  0. 00 0000 005B 0000:?matrixForElement@QSvgRenderer@@QEBA?AVQMatrix@@AEBVQString@@@Z
+            18:
+              48897C24205541564157488BEC4883EC204C8B02488D:
+                0. 01 1C3B 01A5 (l)0000:?idFromUrl@@YA?AVQString@@AEBV1@@Z
+              5557415541564157488D6C24E04881EC20010000837A:
+                0. 0B F9CC 046E (l)0000:?parseTransformationMatrix@@YA?AVQMatrix@@AEBVQStringRef@@@Z
+              574883EC40488B02488BF9488BCA498BF0488BDAFF50:
+                0. 60 92D8 0316 0000:?appendStyleProperty@QSvgNode@@QEAAXPEAVQSvgStyleProperty@@AEBVQString@@@Z
+            20:
+              4889542410574883EC2033FF897C24404885D2744748:
+                0. 7C 66BE 00E0 0000:?hasAttributes@QSvgStyleSelector@@UEBA_NTNodePtr@StyleSelector@QCss@@@Z
+              55574156488BEC4881EC80000000488B05........48:
+                0. 09 8249 0134 (l)0000:?createSolidColorNode@@YAPEAVQSvgStyleProperty@@PEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+          7C24:
+            1055488BEC4883EC:
+              30488B:
+                01488BD9486351084C8B0049:
+                  0. 41 765C 0235 (l)0000:?fontSizeSpec@@YA?AW4FontSizeSpec@@AEBVQStringRef@@@Z
+                D9488D3D........488BCFE8:
+                  0. 00 0000 018A 0000:?generateQtDefaults@QSvgPaintEngine@@QEAAXXZ (0004: 48)
+                  1. 00 0000 0424 (l)0000:?displayStringToEnum@@YA?AW4DisplayMode@QSvgNode@@AEBVQString@@@Z (0004: 89)
+              40488B1133DB8B420485C0750733C0:
+                0. 58 05A5 0405 (l)0000:?findGraphicsFactory@@YAP6APEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@ZAEBVQString@@@Z
+                1. 40 0BCA 0159 (l)0000:?findStyleFactoryMethod@@YAP6APEAVQSvgStyleProperty@@PEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@ZAEBVQString@@@Z
+                2. 6B 85D0 04F5 (l)0000:?findUtilFactory@@YAP6A_NPEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@ZAEBVQString@@@Z
+                3. 40 FEC1 0215 (l)0000:?findStyleUtilFactoryMethod@@YAP6A_NPEAVQSvgStyleProperty@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@ZAEBVQString@@@Z
+            185548:
+              8BEC4883EC40488BD9488D3D........488BCFE8:
+                0. 00 0000 05EE (l)0000:?svgToQtCompositionMode@@YA?AW4CompositionMode@QPainter@@AEBVQString@@@Z
+              8D6C24A94881ECD0000000488D15........488B:
+                0. 02 11CF 010A 0000:?load@QSvgTinyDocument@@SAPEAV1@AEBVQByteArray@@@Z
+        4C8B:
+          0933DB4C8B024C8BD98BCB498B018A0041880048FF02498B41:
+            0. 5D 6084 007D 0000:??$appendTo@D@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@DVQByteArray@@@@$$BY0FK@D@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@DVQByteArray@@@@$$BY0FK@D@@AEAPEAD@Z
+          81D80000004533D24D8BC8488BDA4C8BD9496340084883C002:
+            0. 42 C5B3 0062 0000:?previousSiblingNode@QSvgStructureNode@@QEBAPEAVQSvgNode@@PEAV2@@Z
+        55:
+          488BEC4883EC30488D05........488BDA488945184D85C07457:
+            0. 4F 8C50 0114 0000:?nodeIds@QSvgStyleSelector@@UEBA?AVQStringList@@TNodePtr@StyleSelector@QCss@@@Z
+          5657:
+            4154415541564157488D6C24:
+              904881EC70010000488BF148:
+                0. 08 98BE 043C 0000:?load@QSvgTinyDocument@@SAPEAV1@AEBVQString@@@Z
+              A04881EC600100004533E44D:
+                0. 43 8C3F 085E (l)0000:?parseFont@@YAXPEAVQSvgNode@@AEBUQSvgAttributes@@PEAVQSvgHandler@@@Z
+              D94881ECD00000004533ED4C:
+                0. 0D E889 0408 (l)0000:?qt_inflateGZipDataFrom@@YA?AVQByteArray@@PEAVQIODevice@@@Z
+            4883EC2033F6488D2D........488BDA488BF948896C2448:
+              0. 18 FB58 01A8 (l)0000:?parseNumbersList@@YA?AV?$QVector@N@@AEAPEBVQChar@@@Z
+        5748:
+          81ECF0010000488BD9498BF8488D4C2420E8........488BD0:
+            0. 07 A13A 004A (l)0000:?parseStyle@@YA_NPEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+          83EC:
+            20:
+              48:
+                63FA488BD985D27E4F4533C94C8BC7418D51088BCA:
+                  0. 01 3E9B 007B 0000:??0?$QVector@V?$QVector@UFormatRange@QTextLayout@@@@@@QEAA@H@Z
+                8B:
+                  01488B:
+                    F983380176:
+                      298B500881E2FFFFFF7F7516:
+                        0. 0D C24D 006B 0000:?pop@?$QStack@PEAVQSvgNode@@@@QEAAPEAVQSvgNode@@XZ
+                      2B8B500881E2FFFFFF7F7518:
+                        0. 0F 869C 006D 0000:?pop@?$QStack@W4CurrentNode@QSvgHandler@@@@QEAA?AW4CurrentNode@QSvgHandler@@XZ (REF 003C: ?realloc@?$QVector@W4CurrentNode@QSvgHandler@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                        1. 0F 869C 006D 0000:?pop@?$QStack@W4WhitespaceMode@QSvgText@@@@QEAA?AW4WhitespaceMode@QSvgText@@XZ (REF 003C: ?realloc@?$QVector@W4WhitespaceMode@QSvgText@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                        2. 0F 869C 006D 0000:?pop@?$QStack@H@@QEAAHXZ (REF 003C: ?realloc@?$QVector@H@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                    FA488BD9:
+                      833801762B8B500881E2FFFFFF:
+                        0. 12 B1DE 0088 0000:?pop@?$QStack@VQColor@@@@QEAA?AVQColor@@XZ
+                      FF501883F803740432C0EB0E48:
+                        0. 07 0B48 0038 (l)0000:?parseMissingGlyphNode@@YA_NPEAVQSvgStyleProperty@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                        1. 07 0B48 0038 (l)0000:?parseGlyphNode@@YA_NPEAVQSvgStyleProperty@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                  02488BFA48:
+                    8901488BD9833800740A8338FF74:
+                      54:
+                        0. 09 810F 0082 0000:??0?$QList@PEAVQSvgNode@@@@QEAA@AEBV0@@Z
+                      5D:
+                        0. 09 1D8B 008B 0000:??0?$QList@VQString@@@@QEAA@AEBV0@@Z
+                    8BD983380074108338FF7403F0FF00:
+                      0. 25 2C8A 00AD 0000:??0?$QVector@UImportRule@QCss@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UImportRule@QCss@@@@AEAAXPEBUImportRule@QCss@@0PEAU23@@Z)
+                      1. 25 2C8A 00AD 0000:??0?$QVector@UMediaRule@QCss@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UMediaRule@QCss@@@@AEAAXPEBUMediaRule@QCss@@0PEAU23@@Z)
+                      2. 25 2C8A 00AD 0000:??0?$QVector@UPageRule@QCss@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UPageRule@QCss@@@@AEAAXPEBUPageRule@QCss@@0PEAU23@@Z)
+                      3. 24 3E45 00AE 0000:??0?$QVector@N@@QEAA@AEBV0@@Z
+                      4. 25 607B 00AD 0000:??0?$QVector@UStyleRule@QCss@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UStyleRule@QCss@@@@AEAAXPEBUStyleRule@QCss@@0PEAU23@@Z)
+                      5. 25 607B 00AD 0000:??0?$QVector@UAttributeSelector@QCss@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UAttributeSelector@QCss@@@@AEAAXPEBUAttributeSelector@QCss@@0PEAU23@@Z)
+                      6. 25 607B 00AD 0000:??0?$QVector@U?$QPair@NVQColor@@@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@U?$QPair@NVQColor@@@@@@AEAAXPEBU?$QPair@NVQColor@@@@0PEAU2@@Z)
+                      7. 25 607B 00AD 0000:??0?$QVector@UFormatRange@QTextLayout@@@@QEAA@AEBV0@@Z (REF 008F: ?copyConstruct@?$QVector@UFormatRange@QTextLayout@@@@AEAAXPEBUFormatRange@QTextLayout@@0PEAU23@@Z)
+                      8. 25 6B90 00B1 0000:??0?$QVector@VQXmlStreamAttribute@@@@QEAA@AEBV0@@Z
+                      9. 25 A42B 00AD 0000:??0?$QVector@UPseudo@QCss@@@@QEAA@AEBV0@@Z
+                      10. 24 B24E 00A8 0000:??0?$QVector@USelector@QCss@@@@QEAA@AEBV0@@Z
+                      11. 25 E991 00AD 0000:??0?$QVector@UBasicSelector@QCss@@@@QEAA@AEBV0@@Z
+                  5918488D05........488901488BF9F643080174:
+                    0. 62 9EA4 00A5 0000:??1QSvgGenerator@@UEAA@XZ
+                  79:
+                    08488BDA488B8FC8010000E8........84C074:
+                      0. 0C FFB8 004D 0000:?sizeHint@QSvgWidget@@UEBA?AVQSize@@XZ
+                    10488D05........488901488BD94885FF7439:
+                      0. 28 D4D5 009A 0000:??1QSvgGradientStyle@@UEAA@XZ
+                  C2488BD9488D51:
+                    18498BF8488BC8E8........48:
+                      0. 25 0133 0045 0000:?revert@QSvgStrokeStyle@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                    40498BF8488BC8E8........48:
+                      0. 1E 0338 003E 0000:?revert@QSvgFontStyle@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                  D9:
+                    488BFA48:
+                      83C110E8........4883632000488B:
+                        0. 10 9E46 0034 0000:?setBrush@QSvgFillStyle@@QEAAXVQBrush@@@Z
+                      8BCAE8........:
+                        488BD0488D4B:
+                          18E8:
+                            0. 00 0000 003A 0000:?apply@QSvgViewportFillStyle@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                          68E8:
+                            0. 00 0000 003D 0000:?apply@QSvgTransformStyle@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                        8B5310488BCF8943:
+                          0. 0C 3B45 0030 0000:?apply@QSvgCompOpStyle@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                        F20F114318488BCF:
+                          0. 13 C202 0037 0000:?apply@QSvgOpacityStyle@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                    498BF84883C150E8........48897B48488B5C:
+                      0. 08 A1AF 0028 0000:?setStopLink@QSvgGradientStyle@@QEAAXAEBVQString@@PEAVQSvgTinyDocument@@@Z
+                    83CFFF48:
+                      83C118488B11833A00740E393A7412:
+                        0. 0E D2D7 00A8 0000:??1BasicSelector@QCss@@QEAA@XZ
+                      8B4930837910007410397910741B8B:
+                        0. 11 F1A3 00F6 0000:??1StyleSheet@QCss@@QEAA@XZ
+                    8BFA48:
+                      81C1D80000004C8B0141833800741341:
+                        0. 16 C259 0063 0000:??_GQSvgPolyline@@UEAAPEAXI@Z
+                        1. 16 C259 0063 0000:??_GQSvgPolygon@@UEAAPEAXI@Z
+                      83C1084C8B01418338007413418338FF:
+                        0. 13 28D9 007C 0000:??_GMediaRule@QCss@@QEAAPEAXI@Z (0010: 17) (002F: 10)
+                        1. 13 28D9 007C 0000:??_GStyleRule@QCss@@QEAAPEAXI@Z (0010: 17) (002F: 18)
+                        2. 13 28D9 0082 0000:??_GPageRule@QCss@@QEAAPEAXI@Z (0010: 1D) (REF 0033: ?freeData@?$QVector@UDeclaration@QCss@@@@AEAAXPEAU?$QTypedArrayData@UDeclaration@QCss@@@@@Z)
+                        3. 13 28D9 0082 0000:??_GImportRule@QCss@@QEAAPEAXI@Z (0010: 1D) (REF 0033: ?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z)
+                      8B:
+                        49:
+                          184885C9741083690801750A488B:
+                            0. 30 79F8 0075 0000:??_G?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@QEAAPEAXI@Z
+                            1. 30 79F8 0075 0000:??_G?$QHashNode@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@QEAAPEAXI@Z
+                          2883390074118339FF741D83C8FF:
+                            0. 16 F5E0 0065 0000:??_GQSvgAnimateTransform@@UEAAPEAXI@Z
+                          4083390074118339FF741E83C8FF:
+                            0. 17 68A0 0078 0000:??_GQSvgFillStyle@@UEAAPEAXI@Z
+                          4883390074118339FF741E83C8FF:
+                            0. 17 C21C 0078 0000:??_GQSvgStrokeStyle@@UEAAPEAXI@Z
+                        89:
+                          8001000083390074118339FF7421:
+                            0. 1D 224A 006A 0000:??_GQGraphicsSvgItemPrivate@@UEAAPEAXI@Z
+                          F000000083390074118339FF7421:
+                            0. 1D 887F 006A 0000:??_GQSvgUse@@UEAAPEAXI@Z
+                    B9E8000000E8........488BD3488BC8488BF8:
+                      0. 01 3E9B 0059 (l)0000:?createTspanNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                  DA:
+                    488BF94885D2750433C0EB23488D15:
+                      0. 04 BF6F 0047 0000:?qt_metacast@QSvgRenderer@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QSvgRenderer@@3Uqt_meta_stringdata_QSvgRenderer_t@@B)
+                      1. 04 BF6F 0047 0000:?qt_metacast@QSvgWidget@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QSvgWidget@@3Uqt_meta_stringdata_QSvgWidget_t@@B)
+                    4D85C07474498B00498BC8FF50104863C8488D:
+                      0. 01 1E1A 009E 0000:?nodeNames@QSvgStyleSelector@@UEBA?AVQStringList@@TNodePtr@StyleSelector@QCss@@@Z
+                  F9:
+                    488D05........488D0D........488BDA4889:
+                      0. 21 E33A 0086 0000:??0QSvgHandler@@QEAA@PEAVQIODevice@@@Z (REF 004C: ??0QXmlStreamReader@@QEAA@PEAVQIODevice@@@Z)
+                      1. 21 E33A 0086 0000:??0QSvgHandler@@QEAA@AEBVQByteArray@@@Z (REF 004C: ??0QXmlStreamReader@@QEAA@AEBVQByteArray@@@Z)
+                    8ADA488B49684885C9741484D2741080B99800:
+                      0. 08 91AA 003D 0000:?setVisible@QSvgNode@@QEAAX_N@Z
+                    8BDA48:
+                      81C1D8000000E8........488BCFE8:
+                        0. 00 0000 0043 0000:??_GQSvgImage@@UEAAPEAXI@Z (0009: 18)
+                        1. 00 0000 0043 0000:??_GQSvgPath@@UEAAPEAXI@Z (0009: E0)
+                        2. 00 0000 0043 0000:??_GQSvgArc@@UEAAPEAXI@Z (0009: E0)
+                      83C1:
+                        18E8........488D4F10E8:
+                          0. 00 0000 004B 0000:??_GQSvgViewportFillStyle@@UEAAPEAXI@Z
+                        28E8........488D4F20E8:
+                          0. 00 0000 004B 0000:??_GQSvgSolidColorStyle@@UEAAPEAXI@Z
+                        30E8........488D4F28E8:
+                          0. 00 0000 0054 0000:??_GQSvgAnimateColor@@UEAAPEAXI@Z
+                        40E8........488D4F20E8:
+                          0. 00 0000 004B 0000:??_GQSvgFontStyle@@UEAAPEAXI@Z
+                  FA488BD9:
+                    4885D2750433C0EB45488D15:
+                      0. 04 DF08 0069 0000:?qt_metacast@QGraphicsSvgItem@@UEAAPEAXPEBD@Z
+                    498BD0E8........4885C0488BD7480F:
+                      0. 06 400A 0038 0000:?boundsOnElement@QSvgTinyDocument@@QEBA?AVQRectF@@AEBVQString@@@Z
+                    E8........488D5708488D4B08E8:
+                      0. 00 0000 00B0 0000:??0StyleSheet@QCss@@QEAA@AEBU01@@Z
+                8D:
+                  05........:
+                    488BD9488901:
+                      83CFFF488B89:
+                        300100:
+                          0. 21 85A8 00BC 0000:??1QSvgTinyDocument@@UEAA@XZ
+                        A80000:
+                          0. 25 FB1A 013E 0000:??1QSvgNode@@UEAA@XZ
+                      8BFA488B:
+                        49704885C9:
+                          0. 10 7216 0055 0000:??_GQSvgRendererPrivate@@UEAAPEAXI@Z
+                        89D8000000:
+                          0. 27 3352 0074 0000:??_GQSvgTspan@@UEAAPEAXI@Z
+                    8BDA488901488BF9:
+                      488D05:
+                        0. 05 0522 0049 0000:??_GQSvgWidget@@UEAAPEAXI@Z
+                      E8........F6C3:
+                        0. 0C 3D7A 003E 0000:??_GQSvgStyleSelector@@UEAAPEAXI@Z
+                        1. 0C B597 003E 0000:??_GQSvgRenderer@@UEAAPEAXI@Z
+                  99F8000000488BFA498BC8E8........488BC84C:
+                    0. 06 E326 0038 0000:?bounds@QSvgImage@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+              498B:
+                D8488BF9E8........488D05........48:
+                  890748:
+                    0. 22 49E5 0042 0000:??0QSvgLine@@QEAA@PEAVQSvgNode@@AEBVQLineF@@@Z (REF 0018: ??_7QSvgLine@@6B@)
+                    1. 22 49E5 0042 0000:??0QSvgEllipse@@QEAA@PEAVQSvgNode@@AEBVQRectF@@@Z (REF 0018: ??_7QSvgEllipse@@6B@)
+                    2. 02 5E64 0066 0000:??0QSvgText@@QEAA@PEAVQSvgNode@@AEBVQPointF@@@Z
+                  8BD348:
+                    0. 0A E7FB 003C 0000:??0QSvgPath@@QEAA@PEAVQSvgNode@@AEBVQPainterPath@@@Z (REF 0018: ??_7QSvgPath@@6B@)
+                    1. 0A E7FB 003C 0000:??0QSvgPolygon@@QEAA@PEAVQSvgNode@@AEBVQPolygonF@@@Z (REF 0018: ??_7QSvgPolygon@@6B@)
+                    2. 0A E7FB 003C 0000:??0QSvgPolyline@@QEAA@PEAVQSvgNode@@AEBVQPolygonF@@@Z (REF 0018: ??_7QSvgPolyline@@6B@)
+                    3. 0A E7FB 003C 0000:??0QSvgArc@@QEAA@PEAVQSvgNode@@AEBVQPainterPath@@@Z (REF 0018: ??_7QSvgArc@@6B@)
+                F84885D2750432C0EB7C488B02488BCAFF501048:
+                  0. 05 6D9A 009D 0000:?nodeNameEquals@QSvgStyleSelector@@UEBA_NTNodePtr@StyleSelector@QCss@@AEBVQString@@@Z
+              4C8B01:
+                488B:
+                  DA488BF9418B5008418B40040FBAF21FFF:
+                    0. 32 370C 007A 0000:?append@?$QVector@PEAVQSvgTspan@@@@QEAAXAEBQEAVQSvgTspan@@@Z (REF 0052: ?realloc@?$QVector@PEAVQSvgTspan@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                    1. 32 370C 007A 0000:?append@?$QVector@PEAVQSvgNode@@@@QEAAXAEBQEAVQSvgNode@@@Z (REF 0052: ?realloc@?$QVector@PEAVQSvgNode@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                  FA488BD9418B5008418B40040FBAF21FFF:
+                    0. 1A 1A3C 0088 0000:?append@?$QVector@U?$QPair@NVQColor@@@@@@QEAAX$$QEAU?$QPair@NVQColor@@@@@Z (0009: 42)
+                    1. 1A 1A3C 0069 0000:?append@?$QVector@PEAVQSvgTspan@@@@QEAAX$$QEAPEAVQSvgTspan@@@Z (0009: 4A) (0017: 06) (REF 003A: ?realloc@?$QVector@PEAVQSvgTspan@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                    2. 1A 1A3C 0069 0000:?append@?$QVector@N@@QEAAX$$QEAN@Z (0009: 4A) (0017: 06) (REF 003A: ?realloc@?$QVector@N@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                    3. 1A 1A3C 0073 0000:?append@?$QVector@VQString@@@@QEAAX$$QEAVQString@@@Z (0009: 4A) (0017: 10)
+                4C8BCA488BF9418B5008418B40040FBAF21FFF:
+                  0. 32 AB8A 0079 0000:?append@?$QVector@W4CurrentNode@QSvgHandler@@@@QEAAXAEBW4CurrentNode@QSvgHandler@@@Z (REF 0052: ?realloc@?$QVector@W4CurrentNode@QSvgHandler@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                  1. 32 AB8A 0079 0000:?append@?$QVector@W4WhitespaceMode@QSvgText@@@@QEAAXAEBW4WhitespaceMode@QSvgText@@@Z (REF 0052: ?realloc@?$QVector@W4WhitespaceMode@QSvgText@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+                  2. 32 AB8A 0079 0000:?append@?$QVector@H@@QEAAXAEBH@Z (REF 0052: ?realloc@?$QVector@H@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+              8BDA488BF9E8........F6C301740DBA:
+                00010000488B:
+                  0. 02 632D 0034 0000:??_GQSvgRect@@UEAAPEAXI@Z (REF 0010: ??1QSvgNode@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQSvgSwitch@@UEAAPEAXI@Z (REF 0010: ??1QSvgSwitch@@UEAA@XZ)
+                10010000488B:
+                  0. 02 632D 0034 0000:??_GQSvgText@@UEAAPEAXI@Z
+                20000000488B:
+                  0. 02 632D 0034 0000:??_GQSvgPaintEngine@@UEAAPEAXI@Z (REF 0010: ??1QPaintEngine@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQGraphicsSvgItem@@UEAAPEAXI@Z (REF 0010: ??1QGraphicsObject@@UEAA@XZ)
+                  2. 02 632D 0034 0000:??_GStyleSelector@QCss@@UEAAPEAXI@Z (REF 0010: ??1StyleSelector@QCss@@UEAA@XZ)
+                  3. 02 632D 0034 0000:??_GQSvgGenerator@@UEAAPEAXI@Z (REF 0010: ??1QSvgGenerator@@UEAA@XZ)
+                40000000488B:
+                  0. 02 632D 0034 0000:??_GQSvgFont@@UEAAPEAXI@Z
+                60000000488B:
+                  0. 02 632D 0034 0000:??_GQSvgGradientStyle@@UEAAPEAXI@Z
+                80010000488B:
+                  0. 02 632D 0034 0000:??_GQSvgTinyDocument@@UEAAPEAXI@Z
+                A8000000488B:
+                  0. 02 632D 0034 0000:??_GQPaintEnginePrivate@@UEAAPEAXI@Z
+                D0010000488B:
+                  0. 02 632D 0034 0000:??_GQSvgWidgetPrivate@@UEAAPEAXI@Z
+                D8:
+                  000000488B:
+                    0. 02 632D 0034 0000:??_GQSvgAnimation@@UEAAPEAXI@Z
+                    1. 02 632D 0034 0000:??_GQSvgNode@@UEAAPEAXI@Z
+                  010000488B:
+                    0. 02 632D 0034 0000:??_GQSvgPaintEnginePrivate@@UEAAPEAXI@Z
+                F0000000488B:
+                  0. 02 632D 0034 0000:??_GQSvgG@@UEAAPEAXI@Z
+                  1. 02 632D 0034 0000:??_GQSvgStructureNode@@UEAAPEAXI@Z
+                  2. 02 632D 0034 0000:??_GQSvgDefs@@UEAAPEAXI@Z
+                F8000000488B:
+                  0. 02 632D 0034 0000:??_GQSvgEllipse@@UEAAPEAXI@Z
+                  1. 02 632D 0034 0000:??_GQSvgLine@@UEAAPEAXI@Z
+                  2. 02 632D 0034 0000:??_GQSvgCircle@@UEAAPEAXI@Z
+              F6414804498BF84C8BC2488BD97407488B4138488907:
+                0. 0E ACA6 0049 0000:?revert@QSvgFillStyle@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+            30:
+              0F29742420488BFA488BD9488B030FB70883F9207426:
+                0. 1E DE1B 015E (l)0000:?parseNumbersArray@@YAXAEAPEBVQChar@@AEAV?$QVarLengthArray@N$07@@@Z
+              33DB0F29742420895C2448E8........488BD0488D4C:
+                0. 03 7645 00AB 0000:?strokeWidth@QSvgNode@@KANPEAVQPainter@@@Z
+              48:
+                8BD9C744242008000000488B094C8D05........41:
+                  0. 08 590F 0070 0000:?detach_helper@?$QHash@VQChar@@VQSvgGlyph@@@@AEAAXXZ
+                  1. 08 7C64 0070 0000:?detach_helper@?$QHash@VQString@@UStyleRule@QCss@@@@AEAAXXZ
+                  2. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@CAXPEAUNode@QHashData@@@Z)
+                  3. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@CAXPEAUNode@QHashData@@@Z)
+                  4. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@PEAVQSvgNode@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@PEAVQSvgNode@@@@CAXPEAUNode@QHashData@@@Z)
+                8D5940488BF9488B03837804007423488BCBE8:
+                  0. 00 0000 0048 0000:?popColor@QSvgHandler@@QEAAXXZ
+              4C8B01488BFA488BD9418B5008418B40040FBAF21FFF:
+                0. 1A 1A3C 00BE 0000:?append@?$QVector@UExtraStruct@QGraphicsItemPrivate@@@@QEAAX$$QEAUExtraStruct@QGraphicsItemPrivate@@@Z
+            40:
+              488B5918488B:
+                F9488D8B80010000E8........488BCB:
+                  0. 01 3E9B 004E 0000:?setElementId@QGraphicsSvgItem@@QEAAXAEBVQString@@@Z
+                FA488B03F64014017435836424240048:
+                  0. 02 5E64 00AE 0000:?setFileName@QSvgGenerator@@QEAAXAEBVQString@@@Z
+              498BF8488BDA488BD74D8BC1E8........84C0746283:
+                0. 13 EC4D 008C (l)0000:?constructColor@@YA_NAEBVQStringRef@@0AEAVQColor@@PEAVQSvgHandler@@@Z
+              F20F1081100100000F57C9660F2EC1488BFA488BD97A:
+                0. 19 CA56 0075 0000:?viewBox@QSvgTinyDocument@@QEBA?AVQRectF@@XZ
+      10:
+        4889:
+          4C2408555657:
+            4154415541564157488D6C24B04881EC500100:
+              0. 04 B8EA 04C3 0000:?processingInstruction@QSvgHandler@@QEAA_NAEBVQString@@0@Z
+            488BEC4883EC50488D5950488BF2488B038378:
+              0. 19 E65E 01FA 0000:?resolveStops_helper@QSvgGradientStyle@@QEAAXPEAVQStringList@@@Z
+          6C2418:
+            488974242057:
+              415641574883EC30488BEA4D8BF0488B:
+                0. 12 48B5 0123 0000:?draw@QSvgUse@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+              4883EC20488B01488BF2488BD9488BCE:
+                0. 13 B4C6 0088 0000:??$convertTo@VQByteArray@@@?$QStringBuilder@V?$QStringBuilder@DVQByteArray@@@@$$BY0FK@D@@AEBA?AVQByteArray@@XZ
+            565741564883EC20488BF1488BEAB9E8000000E8:
+              0. 00 0000 0135 0000:?addText@QSvgText@@QEAAXAEBVQString@@@Z
+          742418:
+            48897C2420:
+              41564883EC304C8BF1498BF8B9D0010000:
+                0. 04 050E 00DE 0000:??0QSvgWidget@@QEAA@AEBVQString@@PEAVQWidget@@@Z
+              55488BEC4883EC:
+                30488BF9E8........48:
+                  0. 02 DD55 0263 0000:??0QSvgPaintEnginePrivate@@QEAA@XZ
+                60488BD9488D35:
+                  0. 00 0000 00EC (l)0000:?someId@@YA?AVQString@@AEBVQXmlStreamAttributes@@@Z
+            555741:
+              5441:
+                554156488BEC48:
+                  81EC80000000488B0148:
+                    0. 20 D67E 01DE (l)0000:?parseFontFaceNode@@YA_NPEAVQSvgStyleProperty@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                  83EC:
+                    50488B01488BDA48:
+                      0. 18 85DC 0172 (l)0000:?parseFontFaceNameNode@@YA_NPEAVQSvgStyleProperty@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                    604533E40F297424:
+                      0. 0F 7FE4 0361 0000:?draw@QSvgRect@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                564157488BEC4883EC50488BF9498BD848:
+                  0. 0F 2A07 01D8 0000:?draw@QSvgTinyDocument@@QEAAXPEAVQPainter@@AEBVQRectF@@@Z
+              56488BEC4883EC50488BD9498BF9488BCA4C8B:
+                0. 02 B92B 0193 0000:?apply@QSvgFontStyle@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+            574883EC:
+              20:
+                488B:
+                  D9498BF9488BCA488BF2E8:
+                    0. 08 465C 00A5 0000:?apply@QSvgFillStyle@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                  FA488D35........488B11488BD948:
+                    0. 07 FD60 009E (l)0000:?toDouble@@YANAEBVQStringRef@@PEA_N@Z
+                4C8B014C8BCA488BD9418B5008418B4004:
+                  0. 5F F1C0 00BE 0000:?append@?$QVector@VQColor@@@@QEAAXAEBVQColor@@@Z
+              30488B:
+                5908488BF9488BF2488B4B704885C9:
+                  0. 10 CA68 0106 0000:?load@QSvgRenderer@@QEAA_NAEBVQString@@@Z (REF 0030: ?load@QSvgTinyDocument@@SAPEAV1@AEBVQString@@@Z)
+                  1. 10 CA68 0106 0000:?load@QSvgRenderer@@QEAA_NPEAVQXmlStreamReader@@@Z (REF 0030: ?load@QSvgTinyDocument@@SAPEAV1@PEAVQXmlStreamReader@@@Z)
+                  2. 10 CA68 0106 0000:?load@QSvgRenderer@@QEAA_NAEBVQByteArray@@@Z (REF 0030: ?load@QSvgTinyDocument@@SAPEAV1@AEBVQByteArray@@@Z)
+                8148010000488BD94C8D40F048F7D8:
+                  0. 0B 8A28 00C6 0000:?init@QGraphicsSvgItemPrivate@@QEAAXPEAVQGraphicsItem@@@Z
+                F1488BFAB9D0010000E8........BA:
+                  0. 0B FC84 00CC 0000:??0QSvgWidget@@QEAA@PEAVQWidget@@@Z
+              40488DB930010000498BD8488B074533C048:
+                0. 0F FD95 0122 0000:?addNamedStyle@QSvgTinyDocument@@QEAAXAEBVQString@@PEAVQSvgFillStyleProperty@@@Z
+          7C242041564883EC208364243000488BF9488BCA488BDAE8:
+            0. 00 0000 0122 0000:?fromUtf8@QString@@SA?AV1@AEBVQByteArray@@@Z
+        4C894424185556574154415541564157488DAC2440FEFFFF4881EC:
+          0. 15 9B87 0EE7 0000:?startElement@QSvgHandler@@QEAA_NAEBVQString@@AEBVQXmlStreamAttributes@@@Z
+        55:
+          488BEC4881EC800000004C8D81800100000F29742470498B0048:
+            0. 19 B067 00DB 0000:?updateDefaultSize@QGraphicsSvgItemPrivate@@QEAAXXZ
+          565741:
+            5441554156415748:
+              83EC604C8DB1D80000004D8BE0498B:
+                0. 13 5235 02B4 0000:?draw@QSvgSwitch@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+              8BEC4883EC60488B7918488D9F4801:
+                0. 06 EE64 02B8 0000:?qfontToSvg@QSvgPaintEngine@@QEAAXAEBVQFont@@@Z
+            56415748:
+              8BEC4883EC4083653000498BF00F2974243048:
+                0. 06 9968 01BB 0000:?draw@QSvgPolygon@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+              8D6C24E04881EC200100000F57C0488BF2660F:
+                0. 41 329F 023A 0000:?transformedBounds@QSvgNode@@QEBA?AVQRectF@@XZ
+        574883EC:
+          20:
+            48:
+              8BFA488BD94885D2740A488BCAE8........EB0383:
+                0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+              8D05........488BFA488901488BD9833D:
+                0. 0F 7DE1 007E 0000:??0QStringList@@QEAA@AEBVQString@@@Z
+            498BC0488BDA4C8BC1488D542448488BF94533C9488B:
+              0. 02 6B60 00AD (l)0000:?cssStyleLookup@@YAXPEAVQSvgNode@@PEAVQSvgHandler@@PEAVQSvgStyleSelector@@@Z
+          70488B79084533C0488BD9488D4C2430418D5001E8:
+            0. 00 0000 00A5 0000:?paintEvent@QSvgWidget@@MEAAXPEAVQPaintEvent@@@Z
+      18:
+        4889:
+          5424105556574154415541564157488DAC24D0FAFFFF4881EC:
+            0. 0A 000B 1A40 0000:??0QSvgAttributes@@QEAA@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+          742420:
+            4889542410574883EC20488DB9D8000000498BD8488B:
+              0. 18 BC8A 00AC 0000:?addChild@QSvgStructureNode@@QEAAXPEAVQSvgNode@@AEBVQString@@@Z
+            55574156488BEC4883EC60488B05........4833C448:
+              0. 11 BDE7 022B 0000:?drawPath@QSvgPaintEngine@@UEAAXAEBVQPainterPath@@@Z
+            574883EC20:
+              48:
+                8B591841B8030000004489442430488B:
+                  0. 10 BFB9 016B 0000:?end@QSvgPaintEngine@@UEAA_NXZ
+                8D05........488BF1488901488B91D8:
+                  0. 6F A363 0100 0000:??1QSvgStructureNode@@UEAA@XZ
+              8364243000488BF2488B02488BF9488D15:
+                0. 00 0000 00EC 0000:??0QXmlStreamStringRef@@QEAA@AEBVQStringRef@@@Z
+          7C242055488BEC4883EC70488B05........4833C4488945F0:
+            0. 11 CF68 0110 0000:?brush@QSvgGradientStyle@@UEAA?AVQBrush@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+        574883EC:
+          20498BF8488D05........4C8B02488BD94C3BC0750433:
+            0. 14 4CBA 00CA (l)0000:?msgProblemParsing@@YA?AVQByteArray@@AEBVQString@@PEBVQXmlStreamReader@@@Z (REF 003B: ?qbytearray_literal@?1???R<lambda_10c3438ac1cfd1552e494a7179d1a943>@@QEBA?AVQByteArray@@XZ@4U?$QStaticByteArrayData@$0BA@@@B)
+            1. 14 4CBA 00CA (l)0000:?msgCouldNotResolveProperty@@YA?AVQByteArray@@AEBVQString@@PEBVQXmlStreamReader@@@Z (REF 003B: ?qbytearray_literal@?1???R<lambda_0c7ee69b172916b293661459ac35205c>@@QEBA?AVQByteArray@@XZ@4U?$QStaticByteArrayData@$0BM@@@B)
+          30:
+            33DB488BF9488919488B49284885C9740E8369080175:
+              0. 26 4147 00BC 0000:?init@QSvgHandler@@AEAAXXZ
+            FF8160010000488BF9488D0D........488BDAE8:
+              0. 00 0000 00F4 0000:?generateGradientName@QSvgPaintEnginePrivate@@QEAA?AVQString@@XZ
+      20:
+        5556574154415541564157488D:
+          6C24F04881EC10010000488B05:
+            0. 00 0000 04CF (l)0000:?parseBrush@@YAXPEAVQSvgNode@@AEBUQSvgAttributes@@PEAVQSvgHandler@@@Z (000A: 45)
+            1. 00 0000 0562 (l)0000:?resolveColor@@YA_NAEBVQStringRef@@AEAVQColor@@PEAVQSvgHandler@@@Z (000A: 4C)
+          AC2410FFFFFF4881ECF001000048:
+            0. 02 8E30 0A24 (l)0000:?parsePen@@YAXPEAVQSvgNode@@AEBUQSvgAttributes@@PEAVQSvgHandler@@@Z
+        574883EC204889542438488BDA488BF94885D27403FF4208488D54:
+          0. 06 F325 0093 0000:?addSvgFont@QSvgTinyDocument@@QEAAXPEAVQSvgFont@@@Z
+    6C24:
+      08488974241048897C24184154415641574883EC20488B01488BF948:
+        0. 35 A615 0184 0000:?resize@?$QVector@W4WhitespaceMode@QSvgText@@@@QEAAXH@Z (REF 0055: ?realloc@?$QVector@W4WhitespaceMode@QSvgText@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+        1. 35 A615 0184 0000:?resize@?$QVector@W4CurrentNode@QSvgHandler@@@@QEAAXH@Z (REF 0055: ?realloc@?$QVector@W4CurrentNode@QSvgHandler@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+        2. 35 A615 0184 0000:?resize@?$QVector@H@@QEAAXH@Z (REF 0055: ?realloc@?$QVector@H@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z)
+        3. 35 C12E 017E 0000:?resize@?$QVector@VQColor@@@@QEAAXH@Z
+        4. 35 E5C7 01AD 0000:?resize@?$QVector@V?$QVector@UFormatRange@QTextLayout@@@@@@QEAAXH@Z
+      18488974242057415441564883EC20488D05........33ED48890148:
+        0. 3C 8330 012D 0000:??1QSvgText@@UEAA@XZ
+    742408574883EC20488B01488BF9BE0800000083380176288B500881E2FF:
+      0. 11 B85C 0098 0000:?top@?$QStack@PEAVQSvgNode@@@@QEAAAEAPEAVQSvgNode@@XZ
+  8B:
+    41:
+      08:
+        0F1080580100000F108868010000488BC20F11020F114A10C3:
+          0. 00 0000 001D 0000:?boundingRect@QGraphicsSvgItem@@UEBA?AVQRectF@@XZ
+        48:
+          837870000F95C0C3:
+            0. 00 0000 000D 0000:?isValid@QSvgRenderer@@QEBA_NXZ
+          8B:
+            4870:
+              4885C90F85........32C0C3:
+                0. 00 0000 0014 0000:?animated@QSvgRenderer@@QEBA_NXZ
+              8B8140010000C3:
+                0. 00 0000 000F 0000:?animationDuration@QSvgRenderer@@QEBAHXZ
+            80C8010000C3:
+              0. 00 0000 000C 0000:?renderer@QSvgWidget@@QEBAPEAVQSvgRenderer@@XZ
+        8B8080000000C3:
+          0. 00 0000 000B 0000:?framesPerSecond@QSvgRenderer@@QEBAHXZ
+      18488B:
+        00C3:
+          0. 00 0000 0008 0000:?paintEngine@QSvgGenerator@@MEBAPEAVQPaintEngine@@XZ
+        08488B:
+          4118:
+            0F1080B00000000F1088C0000000488BC20F11020F:
+              0. 04 CE37 0024 0000:?viewBoxF@QSvgGenerator@@QEBA?AVQRectF@@XZ
+            488B:
+              80D0000000C3:
+                0. 00 0000 0013 0000:?outputDevice@QSvgGenerator@@QEBAPEAVQIODevice@@XZ
+              88:
+                7801000048890A8B01FFC083F8017603F0FF:
+                  0. 05 9B1F 0025 0000:?title@QSvgGenerator@@QEBA?AVQString@@XZ
+                8001000048890A8B01FFC083F8017603F0FF:
+                  0. 05 9B1F 0025 0000:?description@QSvgGenerator@@QEBA?AVQString@@XZ
+                A8000000488BC248890AC3:
+                  0. 00 0000 0019 0000:?size@QSvgGenerator@@QEBA?AVQSize@@XZ
+            8990E0000000C3:
+              0. 00 0000 0012 0000:?setResolution@QSvgGenerator@@QEAAXH@Z
+            8B80E0000000C3:
+              0. 00 0000 0012 0000:?resolution@QSvgGenerator@@QEBAHXZ
+          49184881C1:
+            78010000E9:
+              0. 00 0000 0017 0000:?setTitle@QSvgGenerator@@QEAAXAEBVQString@@@Z
+            80010000E9:
+              0. 00 0000 0017 0000:?setDescription@QSvgGenerator@@QEAAXAEBVQString@@@Z
+        481048890A8B01FFC083F8017603F0FF01488BC2C3:
+          0. 00 0000 001B 0000:?fileName@QSvgGenerator@@QEBA?AVQString@@XZ
+        8050010000C3:
+          0. 00 0000 000C 0000:?renderer@QGraphicsSvgItem@@QEBAPEAVQSvgRenderer@@XZ
+        888001000048890A8B01FFC083F8017603F0FF01488BC2C3:
+          0. 00 0000 001E 0000:?elementId@QGraphicsSvgItem@@QEBA?AVQString@@XZ
+      60C3:
+        0. 00 0000 0005 0000:?selector@QSvgHandler@@QEBAPEAVQSvgStyleSelector@@XZ
+    49:
+      0848:
+        837928000F85........488D05........C3:
+          0. 00 0000 0017 0000:?metaObject@QGraphicsSvgItem@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGraphicsSvgItem@@2UQMetaObject@@B)
+          1. 00 0000 0017 0000:?metaObject@QSvgRenderer@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QSvgRenderer@@2UQMetaObject@@B)
+          2. 00 0000 0017 0000:?metaObject@QSvgWidget@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QSvgWidget@@2UQMetaObject@@B)
+        8B:
+          4970E9:
+            0. 00 0000 000D 0000:?setCurrentFrame@QSvgRenderer@@QEAAXH@Z (REF 0009: ?setCurrentFrame@QSvgTinyDocument@@QEAAXH@Z)
+            1. 00 0000 000D 0000:?currentFrame@QSvgRenderer@@QEBAHXZ (REF 0009: ?currentFrame@QSvgTinyDocument@@QEBAHXZ)
+          89C8010000E9:
+            0. 00 0000 0010 0000:?load@QSvgWidget@@QEAAXAEBVQString@@@Z (REF 000C: ?load@QSvgRenderer@@QEAA_NAEBVQString@@@Z)
+            1. 00 0000 0010 0000:?load@QSvgWidget@@QEAAXAEBVQByteArray@@@Z (REF 000C: ?load@QSvgRenderer@@QEAA_NAEBVQByteArray@@@Z)
+      50E9:
+        0. 00 0000 0009 0000:?device@QSvgHandler@@QEBAPEAVQIODevice@@XZ (REF 0005: ?device@QXmlStreamReader@@QEBAPEAVQIODevice@@XZ)
+    C2:
+      4533C0488D5168488BC8E9:
+        0. 00 0000 0012 0000:?revert@QSvgTransformStyle@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+      488D5118488BC8E9:
+        0. 00 0000 000F 0000:?revert@QSvgViewportFillStyle@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+      8B5114488BC8E9:
+        0. 00 0000 000E 0000:?revert@QSvgCompOpStyle@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+    C4:
+      4889:
+        5010555356574154415541564157488D68A14881ECD80000000F29:
+          0. 0B 0E07 0438 0000:?savePatternMask@QSvgPaintEngine@@QEAA?AVQString@@W4BrushStyle@Qt@@@Z
+        58:
+          08:
+            4889:
+              68:
+                1048897018:
+                  4889782041:
+                    54415641574883EC:
+                      20:
+                        488B01:
+                          0. 1C 94A6 0139 0000:?realloc@?$QVector@UStyleSheet@QCss@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                          1. 1C F423 014A 0000:?realloc@?$QVector@UValue@QCss@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (0039: 9D) (REF 0124: ?freeData@?$QVector@UValue@QCss@@@@AEAAXPEAU?$QTypedArrayData@UValue@QCss@@@@@Z)
+                          2. 1C F423 014A 0000:?realloc@?$QVector@UExtraStruct@QGraphicsItemPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (0039: 9D) (REF 0124: ?freeData@?$QVector@UExtraStruct@QGraphicsItemPrivate@@@@AEAAXPEAU?$QTypedArrayData@UExtraStruct@QGraphicsItemPrivate@@@@@Z)
+                          3. 1C F423 0150 0000:?realloc@?$QVector@UFormatRange@QTextLayout@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (0039: A3)
+                        8B7A0C:
+                          0. 58 12E6 019C (l)0000:?trimRef@@YA?AVQStringRef@@AEBV1@@Z
+                      30488B01:
+                        0. 13 41A3 00F3 0000:?insert@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@QEAA?AViterator@1@AEBVQString@@AEBV?$QSvgRefCounter@VQSvgFont@@@@@Z (REF 0033: ?detach_helper@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFont@@@@@@AEAAXXZ)
+                        1. 13 41A3 00F3 0000:?insert@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@QEAA?AViterator@1@AEBVQString@@AEBV?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@Z (REF 0033: ?detach_helper@?$QHash@VQString@@V?$QSvgRefCounter@VQSvgFillStyleProperty@@@@@@AEAAXXZ)
+                        2. 13 B767 013A 0000:?insert@?$QHash@VQChar@@VQSvgGlyph@@@@QEAA?AViterator@1@AEBVQChar@@AEBVQSvgGlyph@@@Z
+                    564883EC:
+                      20:
+                        48:
+                          63F2BD080000:
+                            0. 14 4987 00C7 0000:?realloc@?$QVector@W4CurrentNode@QSvgHandler@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                            1. 14 4987 00C7 0000:?realloc@?$QVector@W4WhitespaceMode@QSvgText@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                            2. 14 4987 00C7 0000:?realloc@?$QVector@H@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                          8B:
+                            0141BE0800:
+                              0. 1C DBD7 0118 0000:?realloc@?$QVector@VQString@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                            D9BD080000:
+                              0. 2B BD93 01FF 0000:??1_attributes@QSvgPaintEnginePrivate@@QEAA@XZ
+                        498BE84C8BF24C:
+                          0. 10 2B1D 0073 0000:?transformedBounds@QSvgNode@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                        4C8B014C8BF149:
+                          0. 0C 85DB 00B7 0000:?detach_helper@?$QList@V?$QSvgRefCounter@VQSvgAnimateTransform@@@@@@AEAAXH@Z
+                      3048:
+                        8B014D8BF149:
+                          0. 0F 81A7 00C5 0000:?insert@?$QHash@VQString@@PEAVQSvgNode@@@@QEAA?AViterator@1@AEBVQString@@AEBQEAVQSvgNode@@@Z
+                        8D7918488BD9:
+                          0. 07 1C35 00F4 0000:?endElement@QSvgHandler@@QEAA_NAEBVQStringRef@@@Z
+                      40488BF90F2970E8:
+                        0. BF 4F96 024B 0000:?apply@QSvgStyle@@QEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                  57:
+                    41544155415641574881ECE00000000F:
+                      0. 25 037C 0845 0000:?resolveMatrix@QSvgAnimateTransform@@IEAAXPEBVQSvgNode@@@Z
+                    4883EC50488B19488BFA488BF1488D50:
+                      0. 08 127B 0062 0000:?drawPixmap@QSvgPaintEngine@@UEAAXAEBVQRectF@@AEBVQPixmap@@0@Z
+                  F20F115820574881ECE00000000F2970E8:
+                    0. 2B 08A6 03B2 (l)0000:?pathArc@@YAXAEAVQPainterPath@@NNNHHNNNN@Z
+                1848897020:
+                  57415641574883EC40488BF10F2970D848:
+                    0. 0D B443 0174 0000:?drawPolygon@QSvgPaintEngine@@UEAAXPEBVQPointF@@HW4PolygonDrawMode@QPaintEngine@@@Z
+                  89501057:
+                    41544155415641574883EC2048:
+                      0. 1D 7C0C 017F 0000:?detach_helper_grow@?$QList@VQColor@@@@AEAAPEAUNode@1@HH@Z
+                    4883EC20488B11488BF94963E8:
+                      0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@PEAVQSvgNode@@@@AEAAPEAUNode@1@HH@Z
+              70:
+                10:
+                  488978:
+                    18:
+                      4C89:
+                        6020554156415748:
+                          8BEC4883EC504C:
+                            0. F3 5DA7 0181 0000:?append@?$QVector@UQSvgCssAttribute@@@@QEAAXAEBUQSvgCssAttribute@@@Z
+                          8D68A14881ECA0:
+                            0. 18 B0BE 028E (l)0000:??$parseLength@VQString@@@@YANAEBVQString@@AEAW4LengthType@QSvgHandler@@PEAV2@PEA_N@Z
+                        702055488D68A14881ECE00000000F:
+                          0. 06 5924 0242 (l)0000:?createRadialGradientNode@@YAPEAVQSvgStyleProperty@@PEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                      55:
+                        4154415541564157488DA808FEFFFF48:
+                          0. 0D 212C 07E9 (l)0000:?createImageNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                        48:
+                          8BEC4883EC60488BF10F2970E8498B:
+                            0. 08 CA74 0154 0000:?bounds@QSvgLine@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                          8D68A14881EC:
+                            A0000000488B:
+                              F90F29:
+                                0. 05 F811 014B (l)0000:?createCircleNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                              FA498B:
+                                0. 05 32AE 0139 0000:?matrixForElement@QSvgTinyDocument@@QEBA?AVQMatrix@@AEBVQString@@@Z
+                            C00000000F2970E848:
+                              0. 02 DD55 018F (l)0000:?createEllipseNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z (00EA: F0)
+                              1. 02 DD55 0176 (l)0000:?createLineNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z (00EA: F8)
+                    2055:
+                      41564157488D68B84881EC3001000041:
+                        0. 64 81F1 0261 0000:?mapSourceToTarget@QSvgTinyDocument@@AEAAXPEAVQPainter@@AEBVQRectF@@1@Z
+                      488BEC4883EC70488BF90F2970E8488D:
+                        0. 01 5696 014E (l)0000:?createSvgGlyph@@YA_NPEAVQSvgFont@@AEBVQXmlStreamAttributes@@@Z
+                  555741:
+                    5541564157488D6C24A04881EC600100000F:
+                      0. 13 DA8D 056A (l)0000:?createSvgNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                    5648:
+                      8BEC48:
+                        81EC800000004C8BF10F2970D8:
+                          0. 03 AAD0 0199 (l)0000:?createPolylineNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z (REF 00EF: ??0QSvgPolyline@@QEAA@PEAVQSvgNode@@AEBVQPolygonF@@@Z)
+                          1. 03 AAD0 0199 (l)0000:?createPolygonNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z (REF 00EF: ??0QSvgPolygon@@QEAA@PEAVQSvgNode@@AEBVQPolygonF@@@Z)
+                        83EC70488BF10F2970D84C8D35:
+                          0. 00 0000 00F3 (l)0000:?createTextNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                      8D68C84881EC200100000F2970D84C8D:
+                        0. 01 5696 02DC (l)0000:?createRectNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                  574883EC404C8B014C8BCA0F2970E8488BD90F2978:
+                    0. 74 496A 00E4 0000:?append@?$QVector@U?$QPair@NVQColor@@@@@@QEAAXAEBU?$QPair@NVQColor@@@@@Z
+                184889782089501041564883EC20488B11488BD94963:
+                  0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+            4C894018488950105556574154415541564157488DA898FDFF:
+              0. 12 08D4 0C32 (l)0000:?parseAnimateTransformNode@@YA_NPEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+            5556574154415541564157488D6C24904881EC700100000F29:
+              0. 09 531A 0626 0000:?saveGradientStops@QSvgPaintEngine@@QEAAXAEAVQTextStream@@PEBVQGradient@@@Z
+          104889:
+            68:
+              18:
+                48897020574881ECC0000000488B7918488BEA0F29:
+                  0. 30 BF1A 029A 0000:?updateState@QSvgPaintEngine@@UEAAXAEBVQPaintEngineState@@@Z
+                565741564883EC50:
+                  4C8B7118488BE90F2970D8498B:
+                    0. 10 A559 01DB 0000:?drawTextItem@QSvgPaintEngine@@UEAAXAEBVQPointF@@AEBVQTextItem@@@Z
+                  F20F104210488BFA660F2E4218:
+                    0. 2A 3E9E 01A5 0000:?drawEllipse@QSvgPaintEngine@@UEAAXAEBVQRectF@@@Z
+              20565741574883EC30F7415000040000488BD90F2970:
+                0. 0C A190 012C 0000:?setDashArray@QSvgStrokeStyle@@QEAAXAEBV?$QVector@N@@@Z
+            7018:
+              48897820:
+                48894808554154415541564157488D6C24:
+                  0. 18 283E 0406 0000:?draw@QSvgTinyDocument@@QEAAXPEAVQPainter@@AEBVQString@@AEBVQRectF@@@Z
+                55:
+                  415441554156415748:
+                    8BEC4881EC8000:
+                      0. 1F 2AD8 0383 0000:?draw@QSvgFont@@QEBAXPEAVQPainter@@AEBVQPointF@@AEBVQString@@NV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
+                    8DA8F8FDFFFF48:
+                      0. 64 6F62 094B (l)0000:?parsePathDataFast@@YA_NAEBVQStringRef@@AEAVQPainterPath@@@Z
+                  488BEC4883EC50488BF90F2970E8488D:
+                    0. 01 5696 0145 (l)0000:?createFontNode@@YAPEAVQSvgStyleProperty@@PEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+              4C8960205541564157488D68984881EC500100000F:
+                0. 06 B2A0 0316 (l)0000:?toDouble@@YANAEAPEBVQChar@@@Z (l)0316:$LN173
+              555741:
+                5441564157488BEC4881EC800000000F2970:
+                  0. 17 CEBE 0478 0000:?apply@QSvgStrokeStyle@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+                5541564157488D68A84881EC30010000488B:
+                  0. 08 B1E7 047A (l)0000:?createUseNode@@YAPEAVQSvgNode@@PEAV1@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                56488D68A14881ECC00000000F2970D8488D:
+                  0. 01 1C3B 0259 (l)0000:?createLinearGradientNode@@YAPEAVQSvgStyleProperty@@PEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+              574883EC40488BF10F2970E8488D48080F28F3498B:
+                0. 05 7B56 00A3 (l)0000:?boundsOnStroke@@YA?AVQRectF@@PEAVQPainter@@AEBVQPainterPath@@N@Z
+          18:
+            4889702055574156488D:
+              6C24904881EC700100000F2970D848:
+                0. 31 65CD 03A3 0000:?saveLinearGradientBrush@QSvgPaintEngine@@QEAAXPEBVQGradient@@@Z
+              A848FFFFFF4881ECA00100000F2970:
+                0. 38 123D 041C 0000:?saveRadialGradientBrush@QSvgPaintEngine@@QEAAXPEBVQGradient@@@Z
+            555657:
+              4154415541564157488DA8E8FEFFFF4881ECE0010000:
+                0. 07 5D5B 0865 0000:?qpenToSvg@QSvgPaintEngine@@QEAAXAEBVQPen@@@Z
+              48:
+                83EC60488BD933F6488D480889B42480000000498B:
+                  0. 05 AA82 00F4 0000:?bounds@QSvgEllipse@@UEBA?AVQRectF@@PEAVQPainter@@AEAUQSvgExtraStates@@@Z
+                8BEC4881EC800000000F2970D8488BF1488B491848:
+                  0. 09 5C9C 01F4 0000:?drawImage@QSvgPaintEngine@@UEAAXAEBVQRectF@@AEBVQImage@@0V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z
+          2055565741:
+            54415541564157488D:
+              6C24904881EC700100000F29:
+                0. 05 BDA1 03FB (l)0000:?parseStyle@@YA_NPEAVQSvgNode@@AEBUQSvgAttributes@@PEAVQSvgHandler@@@Z
+              A8:
+                18FEFFFF4881ECB0020000:
+                  0. 07 5D5B 09D5 (l)0000:?parseAnimateColorNode@@YA_NPEAVQSvgNode@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+                B8FCFFFF4881EC10040000:
+                  0. 0B 9751 0724 (l)0000:?parseStopNode@@YA_NPEAVQSvgStyleProperty@@AEBVQXmlStreamAttributes@@PEAVQSvgHandler@@@Z
+            564157488D68A14881ECC00000000F2970C80F2978:
+              0. 13 54B6 0371 0000:?apply@QSvgAnimateColor@@UEAAXPEAVQPainter@@PEBVQSvgNode@@AEAUQSvgExtraStates@@@Z
+        680848897010488978184C89702041574883EC20488B01488BF948:
+          0. 35 D4F5 0181 0000:?resize@?$QVector@PEAVQSvgNode@@@@QEAAXH@Z
+      4C8940184889501048894808555356574154415541564157488DA8C8FD:
+        0. 50 4E8C 115C 0000:?draw@QSvgText@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+      534881ECE00000000F2970E8488BD9F20F10B42428010000F20F5935:
+        0. 00 0000 02B0 (l)0000:?pathArcSegment@@YAXAEAVQPainterPath@@NNNNNNN@Z
+      5553565741:
+        5441564157488D68A14881EC000100000F2970B8488B05:
+          0. 00 0000 0316 (l)0000:?qt_graphicsItem_highlightSelected@@YAXPEAVQGraphicsItem@@PEAVQPainter@@PEBVQStyleOptionGraphicsItem@@@Z
+        56488D68A14881ECB0000000488B79184C8BF10F2970C80F:
+          0. 15 66D9 050E 0000:?begin@QSvgPaintEngine@@UEAA_NPEAVQPaintDevice@@@Z
+    CABA:
+      04000000448D4204E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@W4CurrentNode@QSvgHandler@@@@AEAAXPEAU?$QTypedArrayData@W4CurrentNode@QSvgHandler@@@@@Z
+        1. 00 0000 0011 0000:?freeData@?$QVector@W4WhitespaceMode@QSvgText@@@@AEAAXPEAU?$QTypedArrayData@W4WhitespaceMode@QSvgText@@@@@Z
+        2. 00 0000 0011 0000:?freeData@?$QVector@H@@AEAAXPEAU?$QTypedArrayData@H@@@Z
+      08000000448BC2E9:
+        0. 00 0000 0010 0000:?freeData@?$QVector@PEAVQSvgNode@@@@AEAAXPEAU?$QTypedArrayData@PEAVQSvgNode@@@@@Z
+        1. 00 0000 0010 0000:?freeData@?$QVector@PEAVQSvgTspan@@@@AEAAXPEAU?$QTypedArrayData@PEAVQSvgTspan@@@@@Z
+        2. 00 0000 0010 0000:?freeData@?$QVector@N@@AEAAXPEAU?$QTypedArrayData@N@@@Z
+      10000000448D42F8E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@VQColor@@@@AEAAXPEAU?$QTypedArrayData@VQColor@@@@@Z
+      18000000448D42F0E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@U?$QPair@NVQColor@@@@@@AEAAXPEAU?$QTypedArrayData@U?$QPair@NVQColor@@@@@@@Z
+  8D:
+    05........488901:
+      488D05........48894110E9:
+        0. 00 0000 001A 0000:??1QSvgWidget@@UEAA@XZ
+      C3:
+        0. 00 0000 000B 0000:??1QSvgStyleProperty@@UEAA@XZ (REF 0003: ??_7QSvgRefCounted@@6B@)
+        1. 00 0000 000B 0000:??1QSvgRefCounted@@UEAA@XZ (REF 0003: ??_7QSvgRefCounted@@6B@)
+      E9:
+        0. 00 0000 000F 0000:??1QSvgStyleSelector@@UEAA@XZ (REF 0003: ??_7QSvgStyleSelector@@6B@)
+        1. 00 0000 000F 0000:??1QSvgRenderer@@UEAA@XZ (REF 0003: ??_7QSvgRenderer@@6B@)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__Fcategory@?1??lcSvgHandler@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcSvgHandler@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+    41:
+      70C3:
+        0. 00 0000 0005 0000:?requiredFeatures@QSvgNode@@QEBAAEBVQStringList@@XZ
+      78C3:
+        0. 00 0000 0005 0000:?requiredExtensions@QSvgNode@@QEBAAEBVQStringList@@XZ
+    81:
+      80000000C3:
+        0. 00 0000 0008 0000:?requiredLanguages@QSvgNode@@QEBAAEBVQStringList@@XZ
+      88000000C3:
+        0. 00 0000 0008 0000:?requiredFormats@QSvgNode@@QEBAAEBVQStringList@@XZ
+      90000000C3:
+        0. 00 0000 0008 0000:?requiredFonts@QSvgNode@@QEBAAEBVQStringList@@XZ
+493BD0:
+  0F848A00000048895C240848896C24104889742418574883EC20498BF1:
+    0. 2F 72BE 0094 0000:?copyConstruct@?$QVector@UBasicSelector@QCss@@@@AEAAXPEBUBasicSelector@QCss@@0PEAU23@@Z
+  74:
+    2B48895C2408574883EC20498BF8488BDA488BCB4883C3:
+      18E8:
+        0. 00 0000 0031 0000:?destruct@?$QVector@UAttributeSelector@QCss@@@@AEAAXPEAUAttributeSelector@QCss@@0@Z
+      20E8:
+        0. 00 0000 0031 0000:?destruct@?$QVector@UQSvgCssAttribute@@@@AEAAXPEAUQSvgCssAttribute@@0@Z (REF 001D: ??1QSvgCssAttribute@@QEAA@XZ)
+        1. 00 0000 0031 0000:?destruct@?$QVector@UPseudo@QCss@@@@AEAAXPEAUPseudo@QCss@@0@Z (REF 001D: ??1Pseudo@QCss@@QEAA@XZ)
+      28E8:
+        0. 00 0000 0031 0000:?destruct@?$QVector@UBasicSelector@QCss@@@@AEAAXPEAUBasicSelector@QCss@@0@Z
+      38E8:
+        0. 00 0000 0031 0000:?destruct@?$QVector@UStyleSheet@QCss@@@@AEAAXPEAUStyleSheet@QCss@@0@Z
+      50E8:
+        0. 00 0000 0031 0000:?destruct@?$QVector@VQXmlStreamAttribute@@@@AEAAXPEAVQXmlStreamAttribute@@0@Z
+    2D48895C2408574883EC20498BF8488BDA488BCB33D24883C3:
+      10E8:
+        0. 00 0000 0033 0000:?destruct@?$QVector@UMediaRule@QCss@@@@AEAAXPEAUMediaRule@QCss@@0@Z (REF 001F: ??_GMediaRule@QCss@@QEAAPEAXI@Z)
+        1. 00 0000 0033 0000:?destruct@?$QVector@UPageRule@QCss@@@@AEAAXPEAUPageRule@QCss@@0@Z (REF 001F: ??_GPageRule@QCss@@QEAAPEAXI@Z)
+        2. 00 0000 0033 0000:?destruct@?$QVector@UImportRule@QCss@@@@AEAAXPEAUImportRule@QCss@@0@Z (REF 001F: ??_GImportRule@QCss@@QEAAPEAXI@Z)
+      18E8:
+        0. 00 0000 0033 0000:?destruct@?$QVector@UStyleRule@QCss@@@@AEAAXPEAUStyleRule@QCss@@0@Z
+    2F48895C2408574883EC20498BF8488BDA488BCB4883C3184883C108:
+      0. 01 3E9B 0035 0000:?destruct@?$QVector@UValue@QCss@@@@AEAAXPEAUValue@QCss@@0@Z
+      1. 01 3E9B 0035 0000:?destruct@?$QVector@UFormatRange@QTextLayout@@@@AEAAXPEAUFormatRange@QTextLayout@@0@Z
+      2. 01 3E9B 0035 0000:?destruct@?$QVector@UExtraStruct@QGraphicsItemPrivate@@@@AEAAXPEAUExtraStruct@QGraphicsItemPrivate@@0@Z
+    3048895C2408574883EC20498BF8488BDA488BCB4883C3104885C974:
+      0. 02 B91A 0036 0000:?defaultConstruct@?$QVector@VQColor@@@@AEAAXPEAVQColor@@0@Z
+    4448895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+      0. 0D 887B 004A 0000:?copyConstruct@?$QVector@VQXmlStreamAttribute@@@@AEAAXPEBVQXmlStreamAttribute@@0PEAV2@@Z
+      1. 0D 8891 004A 0000:?copyConstruct@?$QVector@USelector@QCss@@@@AEAAXPEBUSelector@QCss@@0PEAU23@@Z
+    4748895C2408574883EC20498BF8488BDA488BCB4883C308488B1183:
+      0. 19 C533 004D 0000:?destruct@?$QVector@V?$QVector@UFormatRange@QTextLayout@@@@@@AEAAXPEAV?$QVector@UFormatRange@QTextLayout@@@@0@Z (REF 0039: ?freeData@?$QVector@UFormatRange@QTextLayout@@@@AEAAXPEAU?$QTypedArrayData@UFormatRange@QTextLayout@@@@@Z)
+      1. 19 C533 004D 0000:?destruct@?$QVector@USelector@QCss@@@@AEAAXPEAUSelector@QCss@@0@Z (REF 0039: ?freeData@?$QVector@UBasicSelector@QCss@@@@AEAAXPEAU?$QTypedArrayData@UBasicSelector@QCss@@@@@Z)
+    5048895C2408574883EC20498BF8488BDA488BCB4883C308488B1183:
+      0. 22 021D 0056 0000:?destruct@?$QVector@VQString@@@@AEAAXPEAVQString@@0@Z
+    5248895C2408574883EC20498BF8488BDA4C8BCB4883C318498B4908:
+      0. 24 A0A2 0058 0000:?destruct@?$QVector@USymbol@QCss@@@@AEAAXPEAUSymbol@QCss@@0@Z
+    5348895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+      0. 1C 567F 0059 0000:?copyConstruct@?$QVector@UFormatRange@QTextLayout@@@@AEAAXPEBUFormatRange@QTextLayout@@0PEAU23@@Z
+    5B48895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+      0. 24 0957 0061 0000:?copyConstruct@?$QVector@UPageRule@QCss@@@@AEAAXPEBUPageRule@QCss@@0PEAU23@@Z (REF 0044: ??0?$QVector@UDeclaration@QCss@@@@QEAA@AEBV0@@Z)
+      1. 24 0957 0061 0000:?copyConstruct@?$QVector@UImportRule@QCss@@@@AEAAXPEBUImportRule@QCss@@0PEAU23@@Z (REF 0044: ??0?$QList@VQString@@@@QEAA@AEBV0@@Z)
+    5E48895C240848896C24104889742418574883EC20498BF9498BE848:
+      0. 15 AC76 0064 0000:?copyConstruct@?$QVector@UMediaRule@QCss@@@@AEAAXPEBUMediaRule@QCss@@0PEAU23@@Z
+    6148895C24084889742410574883EC20498BF0488BDA488BFB4883C3:
+      0. 21 01B1 0067 0000:?destruct@?$QVector@UDeclaration@QCss@@@@AEAAXPEAUDeclaration@QCss@@0@Z
+    6448895C240848896C24104889742418574883EC20498BF9498BE848:
+      0. 15 4186 006A 0000:?copyConstruct@?$QVector@UStyleRule@QCss@@@@AEAAXPEBUStyleRule@QCss@@0PEAU23@@Z
+4C:
+  2BC2:
+    488BCA4983E0:
+      F833D2E9:
+        0. 00 0000 0011 0000:?defaultConstruct@?$QVector@PEAVQSvgNode@@@@AEAAXPEAPEAVQSvgNode@@0@Z
+      FC33D2E9:
+        0. 00 0000 0011 0000:?defaultConstruct@?$QVector@W4CurrentNode@QSvgHandler@@@@AEAAXPEAW4CurrentNode@QSvgHandler@@0@Z
+        1. 00 0000 0011 0000:?defaultConstruct@?$QVector@W4WhitespaceMode@QSvgText@@@@AEAAXPEAW4WhitespaceMode@QSvgText@@0@Z
+        2. 00 0000 0011 0000:?defaultConstruct@?$QVector@H@@AEAAXPEAH0@Z
+    498BC94983E0F8E9:
+      0. 00 0000 000F 0000:?copyConstruct@?$QVector@N@@AEAAXPEBN0PEAN@Z
+  89:
+    02488BC2448902C3:
+      0. 00 0000 000A 0000:?duplicateNode@QSvgStyleSelector@@UEBA?ATNodePtr@StyleSelector@QCss@@T234@@Z
+    44241848:
+      83EC284C8BC24C8D4C2440488D5424304881C128010000E8:
+        0. 00 0000 0027 0000:?addNamedNode@QSvgTinyDocument@@QEAAXAEBVQString@@PEAVQSvgNode@@@Z
+      89542410555356574154415541564157488D6C24E14881ECB800:
+        0. 16 2AA8 050C 0000:?parseCSStoXMLAttrs@QSvgHandler@@QEAAXVQString@@PEAV?$QVector@UQSvgCssAttribute@@@@@Z
+  8B:
+    41104C8902418B00FFC083F8017604F041FF00488BC2C3:
+      0. 00 0000 0019 0000:?familyName@QSvgFont@@QEBA?AVQString@@XZ
+    DC49895B:
+      0849896B2089542410565741564883EC208B41044D8D4B10488B:
+        0. 2D 7FE0 00AB 0000:?realloc@?$QVarLengthArray@N$07@@AEAAXHH@Z
+      1049896B18565741554883EC70488B114533ED0F29742460498B:
+        0. 4D 6C30 0168 (l)0000:?translate_dashPattern@@YAXAEBV?$QVector@N@@NPEAVQString@@@Z
+4D:
+  85C074:
+    4248895C240848896C24104889742418574883EC20498BF1498BD848:
+      0. 28 AE31 0048 0000:??_H@YAXPEAX_K1P6APEAX0@Z@Z
+    4948895C240848896C24104889742418574883EC20488BFA498BE949:
+      0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+  8B:
+    C84C8BC14883C108E9:
+      0. 00 0000 000F 0000:?applyStyle@QSvgNode@@QEBAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+    D0493BD074:
+      45498BC94983C1184885C974344C8B024C8901418B00FFC083:
+        0. 2E DCE5 004E 0000:?copyConstruct@?$QVector@UAttributeSelector@QCss@@@@AEAAXPEBUAttributeSelector@QCss@@0PEAU23@@Z
+      55488D4A10498BD14983C1204885D2743C488B41F04889024C:
+        0. 3E 7667 005E 0000:?copyConstruct@?$QVector@UPseudo@QCss@@@@AEAAXPEBUPseudo@QCss@@0PEAU23@@Z
+6689542410534883EC:
+  204C8B09488BD9418339017715458B4108418B4104410F:
+    0. 16 8988 0078 0000:??YQString@@QEAAAEAV0@VQChar@@@Z
+  40660F2E1D........488BD97A077505F20F105930488D:
+    0. 04 7255 004E 0000:?addGlyph@QSvgFont@@QEAAXVQChar@@AEBVQPainterPath@@N@Z
+80793800488BC2740C488D5128488BC8E9........488D5130488BC8E9:
+  0. 00 0000 0021 0000:?revert@QSvgAnimateColor@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+83:
+  4948:
+    02895128C3:
+      0. 00 0000 0008 0000:?setFillRule@QSvgFillStyle@@QEAAXW4FillRule@Qt@@@Z
+    04F20F114930C3:
+      0. 00 0000 000A 0000:?setFillOpacity@QSvgFillStyle@@QEAAXN@Z
+    0848895120C3:
+      0. 00 0000 0009 0000:?setFillStyle@QSvgFillStyle@@QEAAXPEAVQSvgFillStyleProperty@@@Z
+  610800488D05........48:
+    83611800488901488BC1F20F114910C3:
+      0. 00 0000 001C 0000:??0QSvgOpacityStyle@@QEAA@N@Z
+    890148:
+      8BC1:
+        895110C3:
+          0. 00 0000 0015 0000:??0QSvgCompOpStyle@@QEAA@W4CompositionMode@QPainter@@@Z
+        C3:
+          0. 00 0000 0012 0000:??0QSvgQualityStyle@@QEAA@H@Z
+      8D05........48894110488D05:
+        0. 0D E8C8 002D 0000:??0QSvgFont@@QEAA@N@Z
+8891:
+  3C010000C3:
+    0. 00 0000 0007 0000:?setAnimated@QSvgTinyDocument@@QEAAX_N@Z
+  E9000000C3:
+    0. 00 0000 0007 0000:?setFreeze@QSvgAnimateTransform@@QEAAX_N@Z
+8991:
+  44010000C3:
+    0. 00 0000 0007 0000:?setFramesPerSecond@QSvgTinyDocument@@QEAAXH@Z
+  B0000000C3:
+    0. 00 0000 0007 0000:?setDisplayMode@QSvgNode@@QEAAXW4DisplayMode@1@@Z
+  F0000000448881F8000000C3:
+    0. 00 0000 000E 0000:?setWidth@QSvgTinyDocument@@QEAAXH_N@Z
+  F4000000448881F9000000C3:
+    0. 00 0000 000E 0000:?setHeight@QSvgTinyDocument@@QEAAXH_N@Z
+8A:
+  0183CAFF2C304C8BC141B1053C0977080FBE0983E930EB248A012C61413AC1:
+    0. 5C CB79 007C (l)0000:?qsvg_hex2int@@YAHPEBD@Z
+  813C010000C3:
+    0. 00 0000 0007 0000:?animated@QSvgTinyDocument@@QEBA_NXZ
+8B81:
+  B0000000C3:
+    0. 00 0000 0007 0000:?displayMode@QSvgNode@@QEBA?AW4DisplayMode@1@XZ
+  F0000000C3:
+    0. 00 0000 0007 0000:?type@QSvgText@@UEBA?AW4Type@QSvgNode@@XZ
+B8:
+  01000000C3:
+    0. 00 0000 0006 0000:?type@QSvgG@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgFillStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  02000000C3:
+    0. 00 0000 0006 0000:?type@QSvgDefs@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgViewportFillStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  03000000C3:
+    0. 00 0000 0006 0000:?type@QSvgSwitch@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgFontStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  04000000C3:
+    0. 00 0000 0006 0000:?type@QSvgAnimation@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgStrokeStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  05000000C3:
+    0. 00 0000 0006 0000:?type@QSvgArc@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgSolidColorStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  06000000C3:
+    0. 00 0000 0006 0000:?type@QSvgCircle@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgGradientStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  07000000C3:
+    0. 00 0000 0006 0000:?type@QSvgEllipse@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgTransformStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  08000000C3:
+    0. 00 0000 0006 0000:?type@QSvgImage@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgAnimateTransform@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  09000000C3:
+    0. 00 0000 0006 0000:?type@QSvgAnimateColor@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+    1. 00 0000 0006 0000:?type@QSvgLine@@UEBA?AW4Type@QSvgNode@@XZ
+    2. 00 0000 0006 0000:?type@QSvgPaintEngine@@UEBA?AW4Type@QPaintEngine@@XZ
+  0A000000C3:
+    0. 00 0000 0006 0000:?type@QSvgPath@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgOpacityStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  0B000000C3:
+    0. 00 0000 0006 0000:?type@QSvgPolygon@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QSvgCompOpStyle@@UEBA?AW4Type@QSvgStyleProperty@@XZ
+  0C000000C3:
+    0. 00 0000 0006 0000:?type@QSvgPolyline@@UEBA?AW4Type@QSvgNode@@XZ
+  0D000000C3:
+    0. 00 0000 0006 0000:?type@QSvgRect@@UEBA?AW4Type@QSvgNode@@XZ
+    1. 00 0000 0006 0000:?type@QGraphicsSvgItem@@UEBAHXZ
+  10000000C3:
+    0. 00 0000 0006 0000:?type@QSvgTspan@@UEBA?AW4Type@QSvgNode@@XZ
+  11000000C3:
+    0. 00 0000 0006 0000:?type@QSvgUse@@UEBA?AW4Type@QSvgNode@@XZ
+  12000000C3:
+    0. 00 0000 0006 0000:?type@QSvgVideo@@UEBA?AW4Type@QSvgNode@@XZ
+  640000002BC874382BC874342BC8742A2BC874262BC8741C2BC874182BC874:
+    0. 27 43E0 0047 0000:?SVGToQtWeight@QSvgFontStyle@@SAHH@Z
+E9:
+  0. 00 0000 0005 0000:?deleteNode2@?$QHash@VQString@@UStyleRule@QCss@@@@CAXPEAUNode@QHashData@@@Z (REF 0001: ??1?$QHashNode@VQString@@UStyleRule@QCss@@@@QEAA@XZ)
+EB:
+  09483BCA740C488B49684885C975F232C0C3B001C3:
+    0. 00 0000 0016 0000:?isDescendantOf@QSvgNode@@QEBA_NPEBV1@@Z
+  16488BC24883C2084885C0740A488D0D........488908493BD075E5C3:
+    0. 00 0000 001E 0000:?defaultConstruct@?$QVector@V?$QVector@UFormatRange@QTextLayout@@@@@@AEAAXPEAV?$QVector@UFormatRange@QTextLayout@@@@0@Z
+  1E498BC94983C1084885C97412488B024889014885C07403F0FF004883C208:
+    0. 06 D919 0026 0000:?copyConstruct@?$QVector@UDeclaration@QCss@@@@AEAAXPEBUDeclaration@QCss@@0PEAU23@@Z
+  2E498BC94983C1184885C97422488B024889018B4208894108F20F10420CF2:
+    0. 16 D926 0036 0000:?copyConstruct@?$QVector@U?$QPair@NVQColor@@@@@@AEAAXPEBU?$QPair@NVQColor@@@@0PEAU2@@Z
+F20F:
+  10:
+    010F57DBF20F1025........F20F1015........F20F5CC4660F2FC373:
+      0. 08 F65B 00A3 0000:?isIdentity@QMatrix@@QEBA_NXZ
+    120F57E4660F2FD4F20F1009F20F101D........0F28C1F20F5CC27303:
+      0. 19 0BD3 008E 0000:??9@YA_NAEBVQSizeF@@0@Z
+    220F57D2660F2FE2F20F1009F20F101D........0F28C1F20F5CC47303:
+      0. 19 6524 0106 0000:??9@YA_NAEBVQRectF@@0@Z
+    4918488BCAE9:
+      0. 00 0000 000D 0000:?revert@QSvgOpacityStyle@@UEAAXPEAVQPainter@@AEAUQSvgExtraStates@@@Z
+  11:
+    49:
+      18C3:
+        0. 00 0000 0006 0000:?setUnitsPerEm@QSvgFont@@QEAAXN@Z
+      40C3:
+        0. 00 0000 0006 0000:?setRepeatCount@QSvgAnimateColor@@QEAAXN@Z
+    89F0000000C3:
+      0. 00 0000 0009 0000:?setRepeatCount@QSvgAnimateTransform@@QEAAXN@Z

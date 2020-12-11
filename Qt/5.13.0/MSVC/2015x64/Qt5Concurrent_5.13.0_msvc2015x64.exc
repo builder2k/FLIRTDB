@@ -1,0 +1,10 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+??1?$QVector@N@@QEAA@XZ                           	09 5C67 4883EC28488B11833A007411833AFF741C83C8FFF00FC10283F8017510488B09
+??1?$Median@N@QtConcurrent@@QEAA@XZ               	09 5C67 4883EC28488B11833A007411833AFF741C83C8FFF00FC10283F8017510488B09
+
+?catch$3@?0??startBlocking@ThreadEngineBase@QtConcurrent@@QEAAXXZ@4HA	02 6B60 4889542410554883EC20488BEA488B4D60488B4110488B55204885C0740A488B
+?catch$3@?0??run@ThreadEngineBase@QtConcurrent@@EEAAXXZ@4HA	02 6B60 4889542410554883EC20488BEA488B4D60488B4110488B55204885C0740A488B

@@ -1,0 +1,293 @@
+4053:
+  4883EC:
+    20:
+      33D2488BD9E8........488D05........48:
+        8903488BC34883C4:
+          0. 03 3F06 0023 0000:??0QGenericEnginePlugin@@QEAA@XZ
+        8D4B18488903E8:
+          0. 00 0000 0078 0000:??0QNetworkSessionPrivateImpl@@QEAA@XZ
+      48:
+        8BD9:
+          48:
+            83C1:
+              20E8........33C984C074138D5103488BCB8953:
+                0. 07 314D 0044 0000:?close@QNetworkSessionPrivateImpl@@UEAAXXZ
+              28E8........84C07420488BCBC6435C00C64334:
+                0. 02 0164 003C 0000:?forcedSessionClose@QNetworkSessionPrivateImpl@@AEAAXAEBVQNetworkConfiguration@@@Z
+            8B:
+              49184885C9742083C8FFF00FC1410883F801751348:
+                0. 3A EEA1 0064 0000:??1?$QHashNode@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEAA@XZ
+              4B:
+                1883390074118339FF741E83C8FFF00FC10183F8:
+                  0. 11 E1DE 007E 0000:?destroySubTree@?$QMapNode@VQString@@V1@@@QEAAXXZ
+                204885C9742083C8FFF00FC1410883F801751348:
+                  0. 1C B5B0 004F 0000:?destroySubTree@?$QMapNode@IV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEAAXXZ
+          E8........488D05........33D2488903488D4C243048:
+            0. 02 5E64 0042 0000:??0QGenericEngine@@QEAA@PEAVQObject@@@Z
+        8D05........488BD94889014883C138E8........488D4B28:
+          0. 01 3E9B 0044 0000:??1QNetworkSessionPrivate@@UEAA@XZ
+      498BD985D2751A4585C07578498B4110498B5108448B004883C4:
+        0. 03 6788 0090 0000:?qt_static_metacall@QBearerEngineImpl@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+      83:
+        610800488D05........488901488BD9488D05........BA01:
+          0. 0C 0577 0067 0000:??0QNetworkConfigurationPrivate@@QEAA@XZ
+        793003488BD975124883794800740BE8........482B4348EB:
+          0. 09 8831 0029 0000:?activeTime@QNetworkSessionPrivateImpl@@UEBA_KXZ
+      FF4954488BD9837954007F2A4C8BC14C8D0D........488B4940:
+        0. 03 E07D 0042 0000:?decrementTimeout@QNetworkSessionPrivateImpl@@AEAAXXZ
+    30:
+      448B4150488BDA4585C074484183E80174394183E801742A4183:
+        0. 0D 481B 007E 0000:?errorString@QNetworkSessionPrivateImpl@@UEBA?AVQString@@XZ
+      498BD9:
+        4533C985D2752A4585C00F8582000000488B4308488D15:
+          0. 00 0000 00A1 0000:?qt_static_metacall@QNetworkSessionManagerPrivate@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        85D2757C4585C0746D4183E80174434183E801742F4183:
+          0. 14 1551 0140 0000:?qt_static_metacall@QNetworkSessionPrivateImpl@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+  5657:
+    41564883EC38833D........FE488BF97F0433C0EB05E8........83:
+      0. 07 1BCF 01AF 0000:?syncStateWithInterface@QNetworkSessionPrivateImpl@@UEAAXXZ
+    4883EC30488BF94883C120E8........84C07415BA03000000895750:
+      0. 04 DF08 0130 0000:?open@QNetworkSessionPrivateImpl@@UEAAXXZ
+41B802000000E9:
+  0. 00 0000 000B 0000:?disconnectFromId@QGenericEngine@@UEAAXAEBVQString@@@Z (REF 0007: ?connectionError@QBearerEngineImpl@@QEAAXAEBVQString@@W4ConnectionError@1@@Z)
+  1. 00 0000 000B 0000:?connectToId@QGenericEngine@@UEAAXAEBVQString@@@Z (REF 0007: ?connectionError@QBearerEngineImpl@@QEAAXAEBVQString@@W4ConnectionError@1@@Z)
+48:
+  83:
+    2200488BC2C3:
+      0. 00 0000 0008 0000:?defaultConfiguration@QGenericEngine@@UEAA?AV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@XZ
+    EC:
+      28:
+        33:
+          C04885D2740E4885C974134883C428E9........4885C97405E8:
+            0. 00 0000 0028 0000:?Construct@?$QMetaTypeFunctionHelper@VQNetworkConfiguration@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+          C94885D2745148B8FFFFFFFFFFFFFF7F483BD07607FF15:
+            0. 19 96B2 0064 0000:?allocate@?$_Wrap_alloc@V?$allocator@_W@std@@@std@@QEAAPEA_W_K@Z (l)0064:$LN17
+        3B51587408895158E8........4883C428C3:
+          0. 00 0000 0016 0000:?setUsagePolicies@QNetworkSessionPrivateImpl@@UEAAXV?$QFlags@W4UsagePolicy@QNetworkSession@@@@@Z
+        48:
+          8B:
+            0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+              0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QGenericEnginePlugin@@YAPEAVQObject@@XZ@YAXXZ
+            114885D2741F83C8FFF00FC1420883F8017512488B094885C974:
+              0. 10 F72C 0030 0000:?Destruct@?$QMetaTypeFunctionHelper@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@$00@QtMetaTypePrivate@@SAXPEAX@Z
+          8D05........488D0D........488905........E8........8B05:
+            0. 00 0000 003A 0000:??__Fholder@?1??innerFunction@Q_QGS_sessionManager@?A0x15af29c6@@YAPEAVQNetworkSessionManagerPrivate@@XZ@YAXXZ
+        4C8BCA4883C8FF33D249F7F04C3BC87607FF15........CC4D0FAFC8:
+          0. 10 4E0F 006E 0000:?_Deallocate@std@@YAXPEAX_K1@Z (l)006E:$LN10
+        65488B0425580000008B0D........41B8........488B14C8418B04:
+          0. 03 4E75 0087 (l)0000:?innerFunction@Q_QGS_sessionManager@?A0x15af29c6@@YAPEAVQNetworkSessionManagerPrivate@@XZ
+        85D275284585C0741E4183E801740F4183F80175174883C428E9:
+          0. 00 0000 0035 0000:?qt_static_metacall@QGenericEngine@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        8B05........85C0751A448D40014883CAFF488D0D........E8:
+          0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          1. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@VQNetworkConfiguration@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@VQNetworkConfiguration@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          2. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@W4ConnectionError@QBearerEngineImpl@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@W4ConnectionError@QBearerEngineImpl@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+        B960000000E8........488BC84883C428E9:
+          0. 00 0000 001A 0000:?createSessionBackend@QGenericEngine@@UEAAPEAVQNetworkSessionPrivate@@XZ
+      384883642420004C8D4C242048895424284533C0488D15........E8:
+        0. 00 0000 0028 0000:?forcedSessionClose@QNetworkSessionManagerPrivate@@QEAAXAEBVQNetworkConfiguration@@@Z
+  85D274:
+    094885C974048B028901488BC1C3:
+      0. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4ConnectionError@QBearerEngineImpl@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+    184885C97411488B024889014885C07411F0FF4008EB0BEB094885C9:
+      0. 0A 28D5 002A 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+    318B4108488322008942084C8B41104C894210418B00FFC083F80176:
+      0. 17 9467 0037 0000:?duplicateNode@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  89:
+    542410554883EC20488BEA488B55684889556848FFC2488B4D60E8:
+      0. 00 0000 0058 (l)0000:?catch$1@?0??_Copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K0@Z@4HA (l)000D:__catch$?_Copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K0@Z$0 (l)0033:?catch$0@?0??_Copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K0@Z@4HA (l)0040:__catch$?_Copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K0@Z$1
+    5C24:
+      08:
+        4889:
+          6C24:
+            10:
+              488974241857:
+                41:
+                  544155415641574883EC30488B014D:
+                    0. 11 C62D 010E 0000:?insert@?$QMap@VQString@@V1@@@QEAA?AViterator@1@AEBVQString@@0@Z
+                  5641574883EC:
+                    20:
+                      450FB7F0488BEA4C:
+                        0. 14 C623 010E 0000:?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAAEAV12@_K_W@Z (l)010E:$LN147
+                      488B0133FF498BD8:
+                        0. 1A C7A8 00E7 0000:?take@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEAA?AV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@AEBVQString@@@Z
+                    30488B01498BF1498B:
+                      0. 0E ABBD 00F6 0000:?insert@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEAA?AViterator@1@AEBVQString@@AEBV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@Z
+                4883EC:
+                  20:
+                    33ED498BF8488BD984D2742F:
+                      0. 16 267D 007E 0000:?_Tidy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_N_K@Z
+                    488BF9418BF0488B09488BEA:
+                      0. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@AEBAPEAPEAU?$QHashNode@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@AEBVQString@@I@Z
+                    498BF18BFA488BE9E8:
+                      0. 00 0000 0069 0000:?qt_metacall@QNetworkSessionManagerPrivate@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2D) (REF 001D: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+                      1. 00 0000 0069 0000:?qt_metacall@QBearerEngineImpl@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2D) (REF 001D: ?qt_metacall@QBearerEngine@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+                      2. 00 0000 006A 0000:?qt_metacall@QNetworkSessionPrivateImpl@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2E)
+                      3. 00 0000 006C 0000:?qt_metacall@QGenericEngine@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30)
+                    4C8B01488BD9496340084983:
+                      0. 07 5FFD 00C9 0000:?detach_helper@?$QList@VQNetworkInterface@@@@AEAAXH@Z
+                    8BEA488BD9488B09BA080000:
+                      0. 08 D93E 008C 0000:?createNode@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@AEAAPEAU?$QHashNode@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@IAEBVQString@@AEBV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@PEAPEAU2@@Z
+                  30488BF1488D2D........488B:
+                    0. 08 09A0 00B7 0000:?sessionProperty@QNetworkSessionPrivateImpl@@UEBA?AVQVariant@@AEBVQString@@@Z
+                  40488BF9488D2D........488B:
+                    0. 08 8BB9 010C 0000:?setSessionProperty@QNetworkSessionPrivateImpl@@UEAAXAEBVQString@@AEBVQVariant@@@Z
+              56574155415641574883EC204533C0488BDA488BF1E8:
+                0. 00 0000 0122 0000:?removeAll@?$QList@VQString@@@@QEAAHAEBVQString@@@Z
+              574883EC20488BD9488D05........488901488D2D:
+                0. 00 0000 00F8 0000:??1QNetworkConfigurationPrivate@@UEAA@XZ
+            184889742420574883EC20488BE9E8........488D5424:
+              0. 05 8FF8 00C1 (l)0000:?getEngineFromId@@YAPEAVQBearerEngineImpl@@AEBVQString@@@Z
+          742410:
+            48897C241841564883EC20488BD9498B:
+              F0488B094C8B:
+                0. 2B 5479 0096 0000:?erase@?$QList@VQNetworkInterface@@@@QEAA?AViterator@1@V21@@Z
+              F8488B094C8B:
+                0. 2B D654 00BB 0000:?erase@?$QList@VQString@@@@QEAA?AViterator@1@V21@@Z
+            574883EC:
+              20:
+                33F6488BDA48837A1808488BF973154C8B:
+                  0. 0D 86D0 007A 0000:?_Assign_rv@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX$$QEAV12@@Z
+                48:
+                  635A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  8B:
+                    01498BF0488BDA488BF98378140074:
+                      0. 11 FD87 0074 0000:?value@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEBA?BV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@AEBVQString@@@Z
+                    11833A007411833AFF744583C8FFF0:
+                      0. 30 1831 0071 0000:??1?$QList@VQNetworkAddressEntry@@@@QEAA@XZ (REF 0050: ??1QNetworkAddressEntry@@QEAA@XZ)
+                      1. 30 1831 0071 0000:??1?$QList@VQNetworkInterface@@@@QEAA@XZ (REF 0050: ??1QNetworkInterface@@QEAA@XZ)
+                      2. 30 1831 0071 0000:??1?$QList@VQNetworkConfiguration@@@@QEAA@XZ (REF 0050: ??1QNetworkConfiguration@@QEAA@XZ)
+                    5910488BF24885DB743E33FF488D4B:
+                      0. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@V1@@@QEBAPEAU?$QMapNode@VQString@@V1@@@AEBVQString@@@Z
+                    D9E8........488B13488BF8488B4A:
+                      0. 0A 4BC7 009B 0000:?detach_helper@?$QMap@VQString@@V1@@@AEAAXXZ
+                  8D5928488BF2488BF94885DB740C488B:
+                    0. 02 034A 0061 0000:?hasIdentifier@QGenericEngine@@UEAA_NAEBVQString@@@Z
+              304533C9C644242000488BF2488BF9488BCE:
+                0. 09 DF9A 00D0 0000:?copy@?$QMapNode@VQString@@V1@@@QEBAPEAU1@PEAU?$QMapData@VQString@@V1@@@@Z
+        574883EC:
+          20:
+            48:
+              8B:
+                5910488BF94885DB7457488B4B204885C9742083:
+                  0. 29 9429 007F 0000:?destroy@?$QMapData@IV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEAAXXZ
+                DA488BF948:
+                  85D2750433C0EB23488D15:
+                    0. 04 BF6F 0047 0000:?qt_metacast@QNetworkSessionPrivateImpl@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QNetworkSessionPrivateImpl@@3Uqt_meta_stringdata_QNetworkSessionPrivateImpl_t@@B)
+                    1. 04 BF6F 0047 0000:?qt_metacast@QGenericEngine@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGenericEngine@@3Uqt_meta_stringdata_QGenericEngine_t@@B)
+                    2. 04 BF6F 0047 0000:?qt_metacast@QGenericEnginePlugin@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QGenericEnginePlugin@@3Uqt_meta_stringdata_QGenericEnginePlugin_t@@B)
+                    3. 04 BF6F 0047 0000:?qt_metacast@QNetworkSessionManagerPrivate@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QNetworkSessionManagerPrivate@@3Uqt_meta_stringdata_QNetworkSessionManagerPrivate_t@@B)
+                    4. 04 BF6F 0047 0000:?qt_metacast@QBearerEngineImpl@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QBearerEngineImpl@@3Uqt_meta_stringdata_QBearerEngineImpl_t@@B)
+                  8B5218833A007411833AFF741E83C8:
+                    0. 18 86BC 007D 0000:?deleteNode@?$QMapData@VQString@@V1@@@QEAAXPEAU?$QMapNode@VQString@@V1@@@@Z
+                FA418BD8488BD1488D4C2448E8........448BC3:
+                  0. 09 738E 006A 0000:??$qRegisterMetaType@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@YAHPEBDPEAV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@YAHAEBVQByteArray@@PEAV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@$00@QtPrivate@@@Z)
+                  1. 09 738E 006A 0000:??$qRegisterMetaType@VQNetworkConfiguration@@@@YAHPEBDPEAVQNetworkConfiguration@@W4DefinedType@?$MetaTypeDefinedHelper@VQNetworkConfiguration@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@VQNetworkConfiguration@@@@YAHAEBVQByteArray@@PEAVQNetworkConfiguration@@W4DefinedType@?$MetaTypeDefinedHelper@VQNetworkConfiguration@@$00@QtPrivate@@@Z)
+                  2. 09 738E 006A 0000:??$qRegisterMetaType@W4ConnectionError@QBearerEngineImpl@@@@YAHPEBDPEAW4ConnectionError@QBearerEngineImpl@@W4DefinedType@?$MetaTypeDefinedHelper@W4ConnectionError@QBearerEngineImpl@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@W4ConnectionError@QBearerEngineImpl@@@@YAHAEBVQByteArray@@PEAW4ConnectionError@QBearerEngineImpl@@W4DefinedType@?$MetaTypeDefinedHelper@W4ConnectionError@QBearerEngineImpl@@$00@QtPrivate@@@Z)
+              8D05........:
+                488B:
+                  D9488901488B49308339007411:
+                    0. 1F A6B1 0079 0000:??1QGenericEngine@@UEAA@XZ
+                  F94889018BDA4883C138E8:
+                    0. 00 0000 0065 0000:??_GQNetworkSessionPrivate@@UEAAPEAXI@Z (002B: 40)
+                    1. 00 0000 0065 0000:??_GQNetworkSessionPrivateImpl@@UEAAPEAXI@Z (002B: 60)
+                8BDA488901488BF9E8........F6C3:
+                  0. 0C 4521 003E 0000:??_GQBearerEngineImpl@@UEAAPEAXI@Z
+                  1. 0C B597 003E 0000:??_GQNetworkSessionManagerPrivate@@UEAAPEAXI@Z (REF 000D: ??_7QNetworkSessionManagerPrivate@@6B@)
+                  2. 0C B597 003E 0000:??_GQGenericEnginePlugin@@UEAAPEAXI@Z (REF 000D: ??_7QGenericEnginePlugin@@6B@)
+            4C8B01488BF9496340084983C010498D1CC0E8:
+              0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0103 (l)0000:?qt_plugin_instance_QGenericEnginePlugin@@YAPEAVQObject@@XZ
+            8BDA488BF9E8........F6C301740DBA:
+              38000000488B:
+                0. 02 632D 0034 0000:??_GQGenericEngine@@UEAAPEAXI@Z
+              48000000488B:
+                0. 02 632D 0034 0000:??_GQNetworkConfigurationPrivate@@UEAAPEAXI@Z
+          30:
+            418BF8488BD94885D27516E8........83F8FF740C8B:
+              0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@YAHAEBVQByteArray@@PEAV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@$00@QtPrivate@@@Z (0010: 07) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@SAHXZ)
+              1. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@VQNetworkConfiguration@@@@YAHAEBVQByteArray@@PEAVQNetworkConfiguration@@W4DefinedType@?$MetaTypeDefinedHelper@VQNetworkConfiguration@@$00@QtPrivate@@@Z (0010: 07) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@VQNetworkConfiguration@@@@SAHXZ)
+              2. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@W4ConnectionError@QBearerEngineImpl@@@@YAHAEBVQByteArray@@PEAW4ConnectionError@QBearerEngineImpl@@W4DefinedType@?$MetaTypeDefinedHelper@W4ConnectionError@QBearerEngineImpl@@$00@QtPrivate@@@Z (0010: 14)
+            48:
+              8BD9C744242008000000488B094C8D05........41:
+                0. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@AEAAXXZ
+              8D3D........488BDA488BCFE8........89442420:
+                0. 19 44EB 0064 0000:?create@QGenericEnginePlugin@@UEBAPEAVQBearerEngine@@AEBVQString@@@Z
+      10:
+        4889:
+          6C2418:
+            4889742420574883EC20488D592833ED488BF2488BF9:
+              0. 09 61C7 00ED 0000:?sessionStateForId@QGenericEngine@@UEAA?AW4State@QNetworkSession@@AEBVQString@@@Z
+            565741564883EC20488D5928498BE8488BFA488BF148:
+              0. 08 5C6C 00C1 0000:?getInterfaceFromId@QGenericEngine@@UEAA?AVQString@@AEBV2@@Z
+          742418574883EC2048:
+            8B:
+              5940488BF94885DB0F84920000008B:
+                0. 0F F27D 00C1 0000:?updateStateFromActiveConfig@QNetworkSessionPrivateImpl@@AEAAXXZ
+              DA488BF94883C128488D542430418B:
+                0. 02 0918 009E 0000:?connectionError@QNetworkSessionPrivateImpl@@AEAAXAEBVQString@@W4ConnectionError@QBearerEngineImpl@@@Z
+            8D05........488BFA488902488BF148:
+              0. 07 09A0 00EA 0000:?keys@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEBA?AV?$QList@VQString@@@@XZ
+        565741564883EC204883794000488BFA488BF10F84BF0000008379:
+          0. 0D E6C8 00F6 0000:?currentInterface@QNetworkSessionPrivateImpl@@UEBA?AVQNetworkInterface@@XZ
+        574883EC20488B:
+          5940488BF94885DB745A837930037554488B1B48:
+            0. 09 C2DE 007D 0000:?bytesWritten@QNetworkSessionPrivateImpl@@UEBA_KXZ (000D: A0)
+            1. 09 C2DE 007D 0000:?bytesReceived@QNetworkSessionPrivateImpl@@UEBA_KXZ (000D: A8)
+          F94883C120E8........488BCF84C07407E8:
+            0. 00 0000 008D 0000:?networkConfigurationsChanged@QNetworkSessionPrivateImpl@@AEAAXXZ
+      18:
+        4889742420:
+          55574156488BEC4883EC50488B05........4833C448:
+            0. 3C B111 0104 0000:?toStdWString@QString@@QEBA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@XZ
+          574883EC30488BF94883C120E8........84C07415BA:
+            0. 0B DB82 0106 0000:?stop@QNetworkSessionPrivateImpl@@UEAAXXZ
+        574883EC20488B01488BFA488BD983380176088B5004E8:
+          0. 12 0353 0082 0000:?takeFirst@?$QList@VQString@@@@QEAA?AVQString@@XZ
+          1. 13 7AFD 007E 0000:?takeFirst@?$QList@VQNetworkInterface@@@@QEAA?AVQNetworkInterface@@XZ
+      20555657415441564883EC20488BF133FF4883C120897C24504C8BF2:
+        0. 01 3E9B 0183 0000:?configurationChanged@QNetworkSessionPrivateImpl@@AEAAXV?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@Z
+  8B:
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QNetworkSessionPrivateImpl@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QNetworkSessionPrivateImpl@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@QGenericEngine@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGenericEngine@@2UQMetaObject@@B)
+      2. 00 0000 0017 0000:?metaObject@QGenericEnginePlugin@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QGenericEnginePlugin@@2UQMetaObject@@B)
+      3. 00 0000 0017 0000:?metaObject@QNetworkSessionManagerPrivate@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QNetworkSessionManagerPrivate@@2UQMetaObject@@B)
+      4. 00 0000 0017 0000:?metaObject@QBearerEngineImpl@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QBearerEngineImpl@@2UQMetaObject@@B)
+    C4:
+      488958:
+        084889:
+          6810488970184889782041564883EC204533F6488BEA48:
+            0. 52 2F89 00BE 0000:??$indexOf@VQString@@V1@@QtPrivate@@YAHAEBV?$QList@VQString@@@@AEBVQString@@H@Z
+          70184889782089501041564883EC20488B11488BD94963:
+            0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+        104889701848897820554154415541564157488D68A84881EC30:
+          0. 06 D90C 0903 0000:?doRequestUpdate@QGenericEngine@@AEAAXXZ
+      4C8940184889501048894808535657415641574883EC3048C740D0FEFF:
+        0. 5C CC6E 00FE 0000:?_Copy@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QEAAX_K0@Z (l)008A:$LN19 (l)00FE:$LN163
+      5355565741564883EC40448B7130488D5018488BF14883C120E8:
+        0. 00 0000 0194 0000:?updateStateFromServiceNetwork@QNetworkSessionPrivateImpl@@AEAAXXZ
+  8D05........:
+    488901:
+      488D05........48894108488BC1C3:
+        0. 00 0000 0019 0000:?qt_static_plugin_QGenericEnginePlugin@@YA?BUQStaticPlugin@@XZ
+      E9:
+        0. 00 0000 000F 0000:??1QGenericEnginePlugin@@UEAA@XZ (REF 0003: ??_7QGenericEnginePlugin@@6B@)
+    C3:
+      0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QGenericEnginePlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+4C8BDC4883EC58488B05........4833C44889442440458943C8498D43C84983:
+  0. 11 2DD7 0050 0000:?connectionError@QBearerEngineImpl@@QEAAXAEBVQString@@W4ConnectionError@1@@Z
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+8B41588902488BC2C3:
+  0. 00 0000 0009 0000:?usagePolicies@QNetworkSessionPrivateImpl@@UEBA?AV?$QFlags@W4UsagePolicy@QNetworkSession@@@@XZ
+C70210000000488BC2C3:
+  0. 00 0000 000A 0000:?capabilities@QGenericEngine@@UEBA?AV?$QFlags@W4Capability@QNetworkConfigurationManager@@@@XZ
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QGenericEnginePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QBearerEnginePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?deleteNode2@?$QHash@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@CAXPEAUNode@QHashData@@@Z (REF 0001: ??1?$QHashNode@VQString@@V?$QExplicitlySharedDataPointer@VQNetworkConfigurationPrivate@@@@@@QEAA@XZ)
+  2. 00 0000 0005 0000:?initialize@QGenericEngine@@QEAAXXZ (REF 0001: ?doRequestUpdate@QGenericEngine@@AEAAXXZ)
+  3. 00 0000 0005 0000:?requestUpdate@QGenericEngine@@QEAAXXZ (REF 0001: ?doRequestUpdate@QGenericEngine@@AEAAXXZ)
+  4. 00 0000 0005 0000:?Destruct@?$QMetaTypeFunctionHelper@VQNetworkConfiguration@@$00@QtMetaTypePrivate@@SAXPEAX@Z (REF 0001: ??1QNetworkConfiguration@@QEAA@XZ)

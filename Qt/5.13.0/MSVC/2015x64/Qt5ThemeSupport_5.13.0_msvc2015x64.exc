@@ -1,0 +1,7 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+??$?HVQLatin1String@@VQString@@@@YA?AV?$QStringBuilder@VQLatin1String@@VQString@@@@AEBVQLatin1String@@AEBVQString@@@Z	00 0000 488911488BC14C894108C3..........................................
+??$?HUQLatin1Char@@VQString@@@@YA?AV?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBUQLatin1Char@@AEBVQString@@@Z	00 0000 488911488BC14C894108C3..........................................

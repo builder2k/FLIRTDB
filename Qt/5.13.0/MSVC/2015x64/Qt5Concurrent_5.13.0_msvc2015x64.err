@@ -1,0 +1,164 @@
+40:
+  534883EC:
+    20:
+      48:
+        8B:
+          01488BD9FF5010488B03488BCBFF502083F80175F2488B03:
+            0. 0C 858E 002C 0000:?startSingleThreaded@ThreadEngineBase@QtConcurrent@@QEAAXXZ
+          491033DB4885C9740CE8........84C00F94C3EB05BB0100:
+            0. 0A EA5A 002A 0000:?shouldStartThread@ThreadEngineBase@QtConcurrent@@MEAA_NXZ
+          D9488B03488BCBFF502884C0740C488BCBE8........84C0:
+            0. 08 3D44 0028 0000:?startThreads@ThreadEngineBase@QtConcurrent@@AEAAXXZ
+        8D05........488BD94889014883C130E8........488D4B28:
+          0. 01 3E9B 0032 0000:??1ThreadEngineBase@QtConcurrent@@UEAA@XZ
+      832100488BD94883C10833D2E8........488BC34883C4205BC3:
+        0. 00 0000 0020 0000:??0ThreadEngineBarrier@QtConcurrent@@QEAA@XZ
+    30:
+      0F29742420488BD9F20F10324585C07907488B01448B4004418B:
+        0. 02 3A3B 0060 0000:?fill@?$QVector@N@@QEAAAEAV1@AEBNH@Z
+      8B01488BD939:
+        41587D2D33D2488D4C2420E8........488BC8E8:
+          0. 00 0000 0043 0000:?timeBeforeUser@BlockSizeManager@QtConcurrent@@QEAAXXZ
+        81A80000007D6633D2488D4C2420E8........48:
+          0. 03 AA8C 007F 0000:?timeBeforeUser@BlockSizeManagerV2@QtConcurrent@@QEAAXXZ
+    70488B05........4833C4488944246080794500488BD97444C641:
+      0. 11 8F9C 007A 0000:?median@MedianDouble@QtConcurrent@@QEAANXZ
+  55534154415541564157488BEC4883EC3848C745F0FEFFFFFF4C8BF1807919:
+    0. 13 BDBF 017F 0000:?median@?$Median@N@QtConcurrent@@QEAANXZ
+48:
+  3BCA0F84A9000000488BC44889580848896810488970184889782041564883:
+    0. 43 06D1 00B3 0000:??$_Insertion_sort_unchecked@PEANU?$less@X@std@@@std@@YAXPEAN0AEAU?$less@X@0@@Z
+  83:
+    79:
+      0800488D05........480F454108C3:
+        0. 00 0000 0012 0000:?what@exception@std@@UEBAPEBDXZ
+      10000F95C0C3:
+        0. 00 0000 0009 0000:?isProgressReportingEnabled@ThreadEngineBase@QtConcurrent@@QEAA_NXZ
+    C1:
+      08E9:
+        0. 00 0000 0009 0000:??1ThreadEngineBarrier@QtConcurrent@@QEAA@XZ (REF 0005: ??1QSemaphore@@QEAA@XZ)
+      20E9:
+        0. 00 0000 0009 0000:?threadThrottleExit@ThreadEngineBase@QtConcurrent@@AEAA_NXZ (REF 0005: ?releaseUnlessLast@ThreadEngineBarrier@QtConcurrent@@QEAA_NXZ)
+        1. 00 0000 0009 0000:?acquireBarrierSemaphore@ThreadEngineBase@QtConcurrent@@QEAAXXZ (REF 0005: ?acquire@ThreadEngineBarrier@QtConcurrent@@QEAAXXZ)
+    EC28:
+      4533C08B0183F8FF751B0BC0F0440FB10175F04883C108BA01000000:
+        0. 01 3E9B 004F 0000:?release@ThreadEngineBarrier@QtConcurrent@@QEAAHXZ
+      488B:
+        11833A007411833AFF741C83C8FFF00FC10283F8017510488B09:
+          0. 09 5C67 0032 0000:??1?$QVector@N@@QEAA@XZ
+          1. 09 5C67 0032 0000:??1?$Median@N@QtConcurrent@@QEAA@XZ
+        4910:
+          33C04885C97405E8........4883C428C3:
+            0. 00 0000 0019 0000:?shouldThrottleThread@ThreadEngineBase@QtConcurrent@@MEAA_NXZ
+          4885C97405E8........4883C428C3:
+            0. 00 0000 0017 0000:?setProgressValue@ThreadEngineBase@QtConcurrent@@QEAAXH@Z (REF 000E: ?setProgressValue@QFutureInterfaceBase@@QEAAXH@Z)
+            1. 00 0000 0017 0000:?waitForResume@ThreadEngineBase@QtConcurrent@@QEAAXXZ (REF 000E: ?waitForResume@QFutureInterfaceBase@@QEAAXXZ)
+            2. 00 0000 0017 0000:?setProgressRange@ThreadEngineBase@QtConcurrent@@QEAAXHH@Z (REF 000E: ?setProgressRange@QFutureInterfaceBase@@QEAAXHH@Z)
+  89:
+    4C2408:
+      534883EC:
+        3048C7442420FEFFFFFF488BD983610800488D05:
+          0. 00 0000 0067 0000:??0ThreadEngineBase@QtConcurrent@@QEAA@XZ
+        5048C7442428FEFFFFFF488BD9488B49104885C97407E8:
+          0. 00 0000 0068 0000:?run@ThreadEngineBase@QtConcurrent@@EEAAXXZ (l)0053:$LN13
+      574883EC:
+        3048C7442420FEFFFFFF48895C24488BDA488BF9E8:
+          0. 00 0000 00B8 0000:??0BlockSizeManager@QtConcurrent@@QEAA@H@Z
+        5048C7442428FEFFFFFF48895C2470488BD9488B01FF50:
+          0. 06 79EF 0092 0000:?startBlocking@ThreadEngineBase@QtConcurrent@@QEAAXXZ (l)0058:$LN13
+    542410554883EC20488BEA:
+      488B4D60488B4110488B55204885C0740A488B:
+        0. 02 6B60 00AB (l)0000:?catch$3@?0??startBlocking@ThreadEngineBase@QtConcurrent@@QEAAXXZ@4HA (l)000D:__catch$?startBlocking@ThreadEngineBase@QtConcurrent@@QEAAXXZ$0 (l)0040:?catch$4@?0??startBlocking@ThreadEngineBase@QtConcurrent@@QEAAXXZ@4HA (l)004D:__catch$?startBlocking@ThreadEngineBase@QtConcurrent@@QEAAXXZ$1 (l)009F:?dtor$0@?0??startBlocking@ThreadEngineBase@QtConcurrent@@QEAAXXZ@4HA
+        1. 02 6B60 00AB (l)0000:?catch$3@?0??run@ThreadEngineBase@QtConcurrent@@EEAAXXZ@4HA (l)000D:__catch$?run@ThreadEngineBase@QtConcurrent@@EEAAXXZ$0 (l)0040:?catch$4@?0??run@ThreadEngineBase@QtConcurrent@@EEAAXXZ@4HA (l)004D:__catch$?run@ThreadEngineBase@QtConcurrent@@EEAAXXZ$1 (l)009F:?dtor$0@?0??run@ThreadEngineBase@QtConcurrent@@EEAAXXZ@4HA
+      BA08000000448BC2488B4D40E8........33D2:
+        0. 03 F2D9 0028 (l)0000:?catch$9@?0??realloc@?$QVector@N@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)000D:__catch$?realloc@?$QVector@N@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$2
+    5C24:
+      08:
+        4889:
+          6C24104889742418574883EC30488BC2498BF1482BC1498BE8:
+            0. 2C 3CCC 0113 0000:??$_Sort_unchecked1@PEAN_JU?$less@X@std@@@std@@YAXPEAN0_JAEAU?$less@X@0@@Z
+          742410:
+            48897C2418:
+              41564883EC20488BF2498BC0482BC2498B:
+                0. 1F CCC8 01B6 0000:??$_Partition_by_median_guess_unchecked@PEANU?$less@X@std@@@std@@YA?AU?$pair@PEANPEAN@0@PEAN0AEAU?$less@X@0@@Z
+              488BDA498D40FF4C8BD2488BFA48994C8B:
+                0. 9B 54AB 00BB 0000:??$_Pop_heap_hole_by_index@PEAN_JNU?$less@X@std@@@std@@YAXPEAN_J1$$QEANAEAU?$less@X@0@@Z
+            574883EC408B01488BF90F297424303981A80000000F:
+              0. 0D 778E 0115 0000:?timeAfterUser@BlockSizeManagerV2@QtConcurrent@@QEAAXXZ
+        574883EC20:
+          48:
+            8B:
+              02488BFA488BD983380074138338FF7403F0FF00:
+                0. 27 7B59 00C8 0000:??0?$QVector@N@@QEAA@AEBV0@@Z
+              7910488BD94883C120E8........85C0750E4885:
+                0. 17 765C 0037 0000:?threadExit@ThreadEngineBase@QtConcurrent@@AEAAXXZ
+              D9488B49104885C97407E8........EB0232C084:
+                0. 0C FF87 0058 0000:?startThreadInternal@ThreadEngineBase@QtConcurrent@@AEAA_NXZ
+            8D05........488BF94889018BDA4883C108FF15:
+              0. 00 0000 0043 0000:??_Gexception@std@@UEAAPEAXI@Z
+          8BDA488BF9E8........:
+            488BC8E8........48836708:
+              0. 32 E538 008B 0000:??0BlockSizeManagerV2@QtConcurrent@@QEAA@H@Z
+            F6C301740DBA:
+              10000000488B:
+                0. 02 632D 0034 0000:??_GQRunnable@@UEAAPEAXI@Z
+              18000000488B:
+                0. 02 632D 0034 0000:??_GQUnhandledException@@UEAAPEAXI@Z (REF 0010: ??1QUnhandledException@@UEAA@XZ)
+                1. 02 632D 0034 0000:??_GQException@@UEAAPEAXI@Z (REF 0010: ??1QException@@UEAA@XZ)
+              38000000488B:
+                0. 02 632D 0034 0000:??_GThreadEngineBase@QtConcurrent@@UEAAPEAXI@Z
+        F20F1001498BC0482BC14D8BD048C1F8034C8BCA4883F8280F8E55:
+          0. FF 1314 01BB 0000:??$_Guess_median_unchecked@PEANU?$less@X@std@@@std@@YAXPEAN00AEAU?$less@X@0@@Z
+      104889:
+        6C2418:
+          4889742420574883EC30488BDA498BE8482BD9488BF1:
+            0. 3F 3A30 007D 0000:??$_Make_heap_unchecked@PEANU?$less@X@std@@@std@@YAXPEAN0AEAU?$less@X@0@@Z
+          565741564883EC30488BC2498BE8482BC1488BF948C1:
+            0. 48 7F0D 0091 0000:??$_Sort_heap_unchecked@PEANU?$less@X@std@@@std@@YAXPEAN0AEAU?$less@X@0@@Z
+        742418574883EC408B01488BD90F297424303941580F8DBE00:
+          0. 0A 4DBB 00F5 0000:?timeAfterUser@BlockSizeManager@QtConcurrent@@QEAAXXZ
+    6C24084889742410574883EC308B4114488BF9FFC00F29742420990F28F1:
+      0. 41 A4CC 00FE 0000:?addValue@?$Median@N@QtConcurrent@@QEAAXN@Z
+  8B:
+    41104885C07408488BC8E9........4883C130E9:
+      0. 00 0000 001A 0000:?handleException@ThreadEngineBase@QtConcurrent@@AEAAXAEBVQException@@@Z
+    49104885C90F85........32C0C3:
+      0. 00 0000 0010 0000:?isCanceled@ThreadEngineBase@QtConcurrent@@QEAA_NXZ
+    8A:
+      40000000E9........488B8A400000004883C120E9:
+        0. 00 0000 001C (l)0000:?dtor$0@?0???0ThreadEngineBase@QtConcurrent@@QEAA@XZ@4HA (l)000C:?dtor$1@?0???0ThreadEngineBase@QtConcurrent@@QEAA@XZ@4HA
+      50000000E9........488B8A400000004883C118E9........488B8A50:
+        0. 04 1186 0028 (l)0000:?dtor$2@?0???0BlockSizeManager@QtConcurrent@@QEAA@H@Z@4HA (l)000C:?dtor$0@?0???0BlockSizeManager@QtConcurrent@@QEAA@H@Z@4HA (l)001C:?dtor$6@?0???0BlockSizeManager@QtConcurrent@@QEAA@H@Z@4HA
+    C4:
+      41564883EC3048C740E8FEFFFFFF488958104889701848897820458BC8:
+        0. 16 3A81 00D2 0000:?realloc@?$QVector@N@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (l)00D2:$LN129
+      4889680848897010488978184C89702041574883EC20488B01488BF948:
+        0. 35 D4F5 0181 0000:?resize@?$QVector@N@@QEAAXH@Z
+    CABA08000000448BC2E9:
+      0. 00 0000 0010 0000:?freeData@?$QVector@N@@AEAAXPEAU?$QTypedArrayData@N@@@Z
+  8D:
+    05........4889014883C10848FF25:
+      0. 00 0000 0015 0000:??1exception@std@@UEAA@XZ
+    8A20000000E9:
+      0. 00 0000 000C (l)0000:?dtor$0@?0??median@?$Median@N@QtConcurrent@@QEAANXZ@4HA
+493BD00F848700000048895C240848896C24104889742418574883EC30498BD8:
+  0. 20 B968 0091 0000:??$_Nth_element_unchecked@PEANU?$less@X@std@@@std@@YAXPEAN00AEAU?$less@X@0@@Z
+4C:
+  2BC2:
+    488BCA4983E0F833D2E9:
+      0. 00 0000 0011 0000:?defaultConstruct@?$QVector@N@@AEAAXPEAN0@Z
+    498BC94983E0F8E9:
+      0. 00 0000 000F 0000:?copyConstruct@?$QVector@N@@AEAAXPEBN0PEAN@Z
+  8BC1418B00:
+    85C0790C8D50FFF0410FB110740CEBED8D4801F0410FB10875E3:
+      0. 01 EF04 0021 0000:?acquire@ThreadEngineBarrier@QtConcurrent@@QEAAXXZ
+    8BD085C07902F7DA83FA0174148D480185C078038D48FFF0410F:
+      0. 0A B3C4 002A 0000:?releaseUnlessLast@ThreadEngineBarrier@QtConcurrent@@QEAA_NXZ
+8B81A8000000C3:
+  0. 00 0000 0007 0000:?blockSize@BlockSizeManagerV2@QtConcurrent@@QEAAHXZ
+B801000000C3:
+  0. 00 0000 0006 0000:?threadFunction@ThreadEngineBase@QtConcurrent@@MEAA?AW4ThreadFunctionResult@2@XZ
+E9:
+  0. 00 0000 0005 0000:?startThread@ThreadEngineBase@QtConcurrent@@QEAAXXZ (REF 0001: ?startThreadInternal@ThreadEngineBase@QtConcurrent@@AEAA_NXZ)
+EB0A8BD0F7DAF00FB11174078B0185C075F0C34883C108BA01000000E9:
+  0. 00 0000 0021 0000:?wait@ThreadEngineBarrier@QtConcurrent@@QEAAXXZ

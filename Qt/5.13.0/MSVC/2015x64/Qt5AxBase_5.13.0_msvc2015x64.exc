@@ -1,0 +1,10 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+??D@YA?BVQSize@@AEBV0@N@Z                         	0D 89CA 4883EC18660F6E224C8BC1F30FE6E40F293C240F57DB660F6E7A04F20F59E2F3
+??D@YA?BVQPoint@@AEBV0@N@Z                        	0D 89CA 4883EC18660F6E224C8BC1F30FE6E40F293C240F57DB660F6E7A04F20F59E2F3
+
+?toSize@QSizeF@@QEBA?AVQSize@@XZ                  	0C C03C 4883EC18F20F10194C8BCA0F28C30F293C24F20F5C05........F20F1079080F
+?toPoint@QPointF@@QEBA?AVQPoint@@XZ               	0C C03C 4883EC18F20F10194C8BCA0F28C30F293C24F20F5C05........F20F1079080F

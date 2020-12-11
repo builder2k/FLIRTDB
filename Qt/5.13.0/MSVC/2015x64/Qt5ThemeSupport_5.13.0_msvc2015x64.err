@@ -1,0 +1,17 @@
+4889:
+  11488BC14C894108C3:
+    0. 00 0000 000B 0000:??$?HVQLatin1String@@VQString@@@@YA?AV?$QStringBuilder@VQLatin1String@@VQString@@@@AEBVQLatin1String@@AEBVQString@@@Z
+    1. 00 0000 000B 0000:??$?HUQLatin1Char@@VQString@@@@YA?AV?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBUQLatin1Char@@AEBVQString@@@Z
+  5C24:
+    084889742410574883EC20488B:
+      01488BF24C8B02488BF90F1000660F:
+        0. 0F 99B1 006C 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQLatin1String@@VQString@@@@@@SAXAEBV?$QStringBuilder@VQLatin1String@@VQString@@@@AEAPEAVQChar@@@Z
+      4208488BDA488BF1488B094C8B008B:
+        0. 28 9B95 00EA 0000:??$?YUQLatin1Char@@VQString@@@@YAAEAVQString@@AEAV0@AEBV?$QStringBuilder@UQLatin1Char@@VQString@@@@@Z
+    10:
+      4889742418574883EC30488B01458BD1448B4C2460498BF0488BDA:
+        0. CD 4635 0134 0000:?actualSize@QAbstractFileIconEngine@@UEAA?AVQSize@@AEBV2@W4Mode@QIcon@@W4State@4@@Z
+      55565741544156488BEC4883EC5083653000488D5910488BCB488B:
+        0. 02 79E5 018F 0000:?cacheKey@QAbstractFileIconEngine@@MEBA?AVQString@@XZ
+  74240848897C24105541554156488D6C24C14881EC900000004183380045:
+    0. 7A B1CD 01A4 0000:?pixmap@QAbstractFileIconEngine@@UEAA?AVQPixmap@@AEBVQSize@@W4Mode@QIcon@@W4State@5@@Z

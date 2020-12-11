@@ -1,0 +1,1198 @@
+33:
+  C0:
+    448BC085D27E1A4883C1188BD239017E068B014C8D41E84883C1204883EA:
+      0. 07 566A 0027 (l)0000:find_biggest_volume
+    458BD183FA047F2D891185D27E114C8D4904418901FFC04D8D49043BC27C:
+      0. 42 FC52 0062 (l)0000:fill_dc_scans
+    85D27E2D448B542430448B5C2428C70101000000894104FFC04489411444:
+      0. 17 97CA 0037 (l)0000:fill_scans
+  D2C781900000007F000000488D05........4889517C488901488D05:
+    0. 00 0000 0069 0000:jpeg_std_error
+4053:
+  48:
+    81EC20010000488B05........4833C44889842410010000488B19488D:
+      0. 0E BD65 0070 (l)0000:my_error_exit (l)0070:$LN7
+    83EC:
+      20:
+        48:
+          83B9E802000000488BD974224883C158E8........488B8BE8:
+            0. 09 84F2 0094 0000:??1QJpegHandlerPrivate@@QEAA@XZ
+          8B:
+            01:
+              488BD9FF5010488BCBE8........B901000000FF15:
+                0. 00 0000 0023 (l)0000:error_exit (l)0023:$LN3
+              83CAFF488BD9C740287B000000488B01FF5008488B4328:
+                0. 03 29E1 0041 (l)0000:fill_mem_input_buffer
+            1985D2791E83BB80000000007406837B7C037C03FF5310FF:
+              0. 19 79AA 0039 (l)0000:emit_message
+            41:
+              08:
+                33D2:
+                  41B808010000488BD9FF1048898360020000488D:
+                    0. 01 9D2B 00B9 0000:jinit_marker_reader
+                  488BD9448D4230FF1048898358020000488D0D:
+                    0. 00 0000 005C 0000:jinit_input_controller
+                488BD94885C074:
+                  03FF50504883630800836324004883:
+                    0. 04 1875 0024 0000:jpeg_destroy
+                  26BA01000000FF5048837B20007411:
+                    0. 1E 4273 003E 0000:jpeg_abort
+                8BDABA0100000041B800040000FF10C1E3094C8D15:
+                  0. 00 0000 0070 (l)0000:make_odither_array
+                BA01000000:
+                  41B8:
+                    60010000488BD9FF10488D0D:
+                      0. 00 0000 0062 0000:jinit_arith_encoder
+                    98000000488BD9FF10488983880200:
+                      0. 04 3BDB 00B6 0000:jinit_1pass_quantizer
+                    C8000000488BD9FF10488D0D:
+                      0. 00 0000 0055 0000:jinit_huff_encoder (0008: 48)
+                      1. 00 0000 0055 0000:jinit_phuff_encoder (0008: BA)
+                  488B:
+                    592841B800100000FF104889433048:
+                      0. 10 CC32 0030 (l)0000:init_destination
+                    99:
+                      8002000041B8000C0000FF1033D2:
+                        0. 46 C138 0066 (l)0000:build_rgb_y_table
+                      8802000041B8FC070000FF1033C9:
+                        0. 92 B72A 00B2 (l)0000:init_error_limit
+                    D9448D423FFF104889831002000048:
+                      0. 02 16E8 0075 0000:jinit_marker_writer
+              10488BD983B8A8040000007511E8........488BC8E8:
+                0. 00 0000 0095 0000:?canRead@QJpegHandler@@UEBA_NXZ
+            81:
+              58020000488BD9488D0D........836020008360240048:
+                0. 2C 533C 004C (l)0000:reset_input_controller
+              F0010000488BD983601800488B8110020000FF5008488B:
+                0. 11 CAEC 0031 (l)0000:pass_startup
+            99:
+              080200004533DB448BD24C8BC944895B10E8........45:
+                0. 43 7A45 00B3 (l)0000:start_pass_coef
+              4002000085D2742783FA027415488B01C7402803000000:
+                0. 0E FF9F 007F (l)0000:start_pass_main
+              88020000488B4320488981A00000008B5328E8:
+                0. 0D 419C 002D (l)0000:finish_pass1
+            D9:
+              41B800100000488B49284C2B4108488D5130488B4928E8:
+                0. 00 0000 0038 (l)0000:qt_term_destination
+              488B4B1883390074118339FF741E83C8FFF00FC10183F8:
+                0. 11 E1DE 007E 0000:?destroySubTree@?$QMapNode@VQString@@V1@@@QEAAXXZ
+              8B49248D8133FFFFFF83F80177:
+                1C837B58007416488B83:
+                  0. 72 4C94 0092 0000:jpeg_finish_output
+                35837B5800752F8B838C:
+                  0. 8D BBC9 00C0 0000:jpeg_finish_decompress
+              C7415801000000E8........83BB4001000000488BCB74:
+                0. 02 0929 00C2 (l)0000:transdecode_master_selection
+              E8........488D05........B9C0040000488903E8:
+                0. 00 0000 00C6 0000:??0QJpegHandler@@QEAA@XZ
+            DA:
+              4183C8FF488BCB488D15........E8........488BC348:
+                0. 05 28D1 0025 0000:?name@QJpegHandler@@UEBA?AVQByteArray@@XZ
+              488B5228488B02880848FF0248836A0801751C488BCBFF:
+                0. 1E 2D00 003E (l)0000:emit_byte
+          8D05........4889513848894110488BD9488D05........48:
+            0. 06 EC90 006C 0000:??0my_jpeg_source_mgr@@QEAA@PEAVQIODevice@@@Z
+        4C8B4128488BD9498B00881049FF004983680801751A41FF5018:
+          0. 1C E063 003C (l)0000:emit_byte
+        817924CA000000488BD975:
+          0CE8........C74324D1000000817B:
+            0. AA 552F 00CA 0000:jpeg_read_coefficients
+          24E8........837B58007412C74324:
+            0. C3 C9B3 00E7 0000:jpeg_start_decompress
+        83:
+          79:
+            2464488BD97418488B01C74028150000008B4124488B1189:
+              0. 1E B3DB 005F 0000:jpeg_write_tables
+            6C00488B9938020000740A488B8188020000FF5010FF4370:
+              0. 06 59CA 0026 (l)0000:finish_output_pass
+          B93402000000488BD9750DE8........85C0750433C0EB6E48:
+            0. 73 CF6D 0093 (l)0000:read_restart_marker
+        8B4124488BD92D:
+          C800000083F80A7618488B01C7402815000000:
+            0. 1E A85E 003E 0000:jpeg_input_complete
+          CA00000083F8087618488B01C7402815000000:
+            0. 1E DE31 003E 0000:jpeg_has_multiple_scans
+        BA:
+          7F000000488BD9448D4288E8........488363400083634800:
+            0. 06 59CA 0026 (l)0000:flush_bits
+          DD000000488BD9E8........BA04000000488BCBE8:
+            0. 0F 0A79 0033 (l)0000:emit_dri
+          E0000000488BD9E8........BA10000000488BCBE8:
+            0. 09 EE49 00C2 (l)0000:emit_jfif_app0
+          EE000000488BD9E8........BA0E000000488BCBE8:
+            0. 09 82EE 00AB (l)0000:emit_adobe_app14
+      30:
+        488B995002000085D2746083EA02743C83FA017414488B01C740:
+          0. 28 0D75 00C6 (l)0000:start_pass_dpost
+        8B8188000000488BDA4D8BD1894424288B442460458BD84533C9:
+          0. 0E D258 0038 (l)0000:grayscale_convert
+      40:
+        33DB4885C975330F57C048C744242002000000488D05:
+          0. 03 E07D 006F 0000:?canRead@QJpegHandler@@SA_NPEAVQIODevice@@@Z
+        488BD983EA010F849700000083EA010F848600000083EA017479:
+          0. 21 06F8 00B5 (l)0000:?exif2Qt@@YA?AV?$QFlags@W4Transformation@QImageIOHandler@@@@H@Z
+      50488BD983EA010F841B01000083EA010F84C300000083EA010F84:
+        0. 27 0E1F 014C 0000:?setOption@QJpegHandler@@UEAAXW4ImageOption@QImageIOHandler@@AEBVQVariant@@@Z
+  555657:
+    415441554156415748:
+      81ECD8010000488B05........4833C44889:
+        0. 54 57D0 0138 (l)0000:fill_inverse_cmap
+      83EC:
+        28:
+          4C8B7128488BD9488B816002000049:
+            0. FF 9F24 0373 (l)0000:get_sos
+          83B93C01000000488BFA488BB13002:
+            0. 11 E212 0293 (l)0000:encode_mcu_AC_first
+        48488B4108488BF14863FABA01000000:
+          0. 34 6D99 0265 (l)0000:select_colors
+    4881EC48010000488B05........4833C44889842430010000488B:
+      0. 36 BA67 00D9 (l)0000:encode_one_block_simd
+41:
+  69C0FE010000438D0C0905FF0000004103C199F7F9C3:
+    0. 00 0000 0017 (l)0000:largest_input_value
+  8BC14169C8FF000000992BC2D1F803C19941F7F9C3:
+    0. 00 0000 0016 (l)0000:output_value
+  B904000000488D4170458BD14C8B004D85C07407418990800000004883C008:
+    0. 35 8ED3 0055 0000:jpeg_suppress_tables
+44:
+  89:
+    44241848894C24085355565741544155415641574883EC28488B81880200:
+      0. FF FD78 01A0 (l)0000:compute_color
+    4C24204C8944241848895424105355565741544155415641574883EC388B:
+      0. AE DAE1 01E5 (l)0000:pre_process_context
+  8B51:
+    3C4183FA0B7F2F744A4183EA0674224183EA0174484183EA0174114183:
+      0. 0B 6A1A 0065 (l)0000:rgb_ycc_convert
+    404183FA0B7F2F744A4183EA0674224183EA0174484183EA0174114183:
+      0. 0B 6A1A 0065 (l)0000:h2v2_merged_upsample (REF 002B: extxbgr_h2v2_merged_upsample_internal)
+      1. 0B 6A1A 0065 (l)0000:ycc_rgb_convert (REF 002B: ycc_extxbgr_convert_internal)
+      2. 0B 6A1A 0065 (l)0000:h2v1_merged_upsample (REF 002B: extxbgr_h2v1_merged_upsample_internal)
+  8D4AFF448BC24403C9418BC19941F7F8442BCA418BC1C3:
+    0. 00 0000 0018 0000:jround_up
+45:
+  33:
+    C033C085D27E224883C11C8BD24439017E0D8379FC007E07448B01488D41:
+      0. 0C FA61 002C (l)0000:find_biggest_color_pop
+    C9:
+      448BD241BB800000004A8B14C949FFC14903D20FB602412BC3:
+        4189004D:
+          0. 57 3559 0077 (l)0000:convsamp
+        660F6EC0:
+          0. A3 0F54 00C3 (l)0000:convsamp_float
+      492BD0F3420F10040241BA00400000F3410F59004983C004F30F5805:
+        0. 00 0000 003A (l)0000:quantize_float
+  3BC17D66488BC44889580848896810488970184889782041564883EC30418B:
+    0. 27 1D52 006C (l)0000:expand_bottom_edge
+  85C90F8E:
+    96000000488BC44889580848896810488970184889782041564157:
+      0. 80 8607 00A0 (l)0000:color_quantize
+    9B000000488BC448895808488968104889701848897820488B8188:
+      0. 85 BE29 00A5 (l)0000:prescan_quantize
+48:
+  81EC:
+    08010000488B05........4833C448898424F0000000488B01488D5424:
+      0. 0B 0F03 005B (l)0000:output_message
+    28010000488B05........4833C44889842410010000488B01488D5424:
+      0. 0C 751D 0074 (l)0000:my_output_message
+  83EC:
+    28488B:
+      0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+        0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QJpegPlugin@@YAPEAVQObject@@XZ@YAXXZ
+      410833D241B8:
+        18010000FF1083A014010000004883C428C3:
+          0. 00 0000 001E 0000:jpeg_alloc_huff_table
+        84000000FF1083A080000000004883C428C3:
+          0. 00 0000 001E 0000:jpeg_alloc_quant_table
+    48:
+      0F29742430488D41080F297C2420BA07000000440F29442410448BC2:
+        0. 81 1A09 0298 0000:jpeg_fdct_float
+      488B815002000044894C24304533C94C894424284533C04889542420:
+        0. 0A F908 002A (l)0000:process_data_crank_post
+    584C8B014C8BD24D6348284585C97E19453B88900000007F10498B8088:
+      0. 9C AEF2 00DA (l)0000:format_message
+  89:
+    4C24085355565741544155415641574883EC18488BB9400200004533DB4C:
+      0. FD C023 011D (l)0000:set_wraparound_pointers
+    542410:
+      48894C240853555657415441554156415748:
+        83EC7883A424D00000:
+          0. FE 3E6E 0253 (l)0000:compress_first_pass
+        8B8188020000488BF2:
+          0. FF EABF 03A2 (l)0000:update_box
+      535556574154415541564157:
+        48:
+          81EC:
+            88000000488BB94802000048:
+              0. 5C E01C 02BB (l)0000:decompress_onepass
+            F80000004C8BA94802000048:
+              0. FF 9E46 0816 (l)0000:decompress_smooth_data
+          83EC:
+            2883B97401000000488BD948:
+              0. 0F F002 01F2 (l)0000:decode_mcu_DC_first
+            38488B8180020000:
+              458BE88B:
+                0. FF 1944 02EC (l)0000:ycc_rgb565_convert_le
+              488BFA44:
+                0. FF EC1B 0186 (l)0000:ycck_cmyk_convert
+              4C8BF244:
+                0. FF 06A4 0163 (l)0000:ycc_rgb_convert_internal
+                1. FF 06A4 0163 (l)0000:ycc_extrgb_convert_internal
+                2. FF 2159 0162 (l)0000:ycc_extbgr_convert_internal
+                3. FF 5FA2 0168 (l)0000:ycc_extxrgb_convert_internal
+                4. FF 6B86 0168 (l)0000:ycc_extrgbx_convert_internal
+                5. FF 75EC 0168 (l)0000:ycc_extxbgr_convert_internal
+                6. FF B138 0167 (l)0000:ycc_extbgrx_convert_internal
+              4D8BE98B:
+                0. FF 04A5 030B (l)0000:ycc_rgb565_convert_be
+            48:
+              488B:
+                8180020000448B:
+                  A188:
+                    0. 34 1595 03B9 (l)0000:ycc_rgb565D_convert_le
+                  B988:
+                    0. 39 94B1 03D0 (l)0000:ycc_rgb565D_convert_be
+                B930020000488BD933:
+                  0. 18 97C9 0446 (l)0000:encode_mcu
+              83B97401000000488BC248:
+                0. 12 9629 0371 (l)0000:decode_mcu
+            68448BB9:
+              980100004C8BD248:
+                0. C4 49A5 027F (l)0000:compress_data
+              A8010000488BF248:
+                0. FF 5D0F 0228 (l)0000:decompress_data
+        8B81A80000008B7C246883E003448B:
+          0. 12 AD57 0282 (l)0000:rgb_rgb565D_convert_be
+    5C24:
+      08:
+        4533D24C8D8A000300004C2BC2488BD9418B09438B840800FDFFFF:
+          0. 43 82D2 0063 (l)0000:quantize
+        4889:
+          54241055565741544155415641578B81A80000004D8BE98B5C:
+            0. 18 8FAE 025F (l)0000:rgb_rgb565D_convert_le
+          6C24:
+            10:
+              4889742418:
+                41564883EC40488B99780200004D8BF04C:
+                  0. 40 B117 00F5 (l)0000:merged_2v_upsample
+                57:
+                  41:
+                    5441:
+                      554156415748:
+                        81EC:
+                          00:
+                            01000048:
+                              0. 02 8E30 0381 0000:jpeg_idct_7x7
+                            02000048:
+                              0. 02 8E30 061E 0000:jpeg_idct_13x13
+                          2002000048:
+                            0. 02 8E30 0606 0000:jpeg_idct_14x14
+                          3001000048:
+                            0. 02 8E30 040F 0000:jpeg_idct_ifast
+                          40:
+                            01000048:
+                              0. 02 8E30 0523 0000:jpeg_idct_islow
+                            02000048:
+                              0. 02 8E30 025E (l)0000:find_best_colors (000F: 4C)
+                              1. 02 8E30 0624 0000:jpeg_idct_15x15 (000F: 8B)
+                          5004000048:
+                            0. 02 8E30 0343 (l)0000:find_nearby_colors
+                          60:
+                            01000048:
+                              0. 02 8E30 03CB 0000:jpeg_idct_9x9
+                            02000048:
+                              0. 02 8E30 06E9 0000:jpeg_idct_16x16
+                          8000000048:
+                            0. 02 8E30 023C 0000:jpeg_idct_5x5
+                          9001000048:
+                            0. 02 8E30 0469 0000:jpeg_idct_10x10
+                          A000000048:
+                            0. 02 8E30 032C 0000:jpeg_idct_4x4
+                          B001000048:
+                            0. 02 8E30 0560 0000:jpeg_idct_11x11
+                          C000000048:
+                            0. 02 8E30 02A5 0000:jpeg_idct_6x6
+                          E001000048:
+                            0. 02 8E30 0508 0000:jpeg_idct_12x12
+                        83EC:
+                          20:
+                            488B:
+                              9930:
+                                0. 12 B603 01BB (l)0000:start_pass_huff
+                              A988:
+                                0. 64 0C25 0108 (l)0000:create_odither_tables
+                              B9:
+                                30:
+                                  0. 31 834B 01DB (l)0000:start_pass
+                                68:
+                                  0. FF 4438 0340 (l)0000:start_pass
+                            4963D841:
+                              0. 26 0D9E 022D (l)0000:median_cut
+                            8B4138BA:
+                              0. C6 AB18 00E6 (l)0000:alloc_funny_pointers
+                          30488B:
+                            4108:
+                              0. 1F FB25 017D 0000:jinit_d_coef_controller
+                            B178:
+                              0. FF EBBA 0128 (l)0000:sep_upsample
+                      574883EC20488BD9B9DCFF0000:
+                        0. FF 0474 0256 (l)0000:initial_setup
+                    5641574883EC:
+                      20:
+                        0FBF02488BF1412B:
+                          0. 39 033A 010F (l)0000:htest_one_block
+                        33:
+                          F6488BF939B1B8:
+                            0. 6B D1B5 00BA (l)0000:latch_quant_tables
+                          FF4863EA488BD9:
+                            0. 45 9162 00F0 (l)0000:emit_dht
+                        488B:
+                          410841BF0100:
+                            0. 1B E276 01BA 0000:jinit_downsampler
+                          59284C8BF148:
+                            0. A0 14B5 00C0 (l)0000:first_marker
+                          816002000048:
+                            0. 69 0A2A 0104 (l)0000:process_restart
+                          B9300200008B:
+                            0. 05 5BA4 010A (l)0000:emit_restart
+                          F9E8:
+                            0. 70 6964 00EC (l)0000:start_input_pass
+                        4C8B710833ED488B:
+                          0. D6 9334 0236 (l)0000:realize_virt_arrays
+                        8B721C498BD8448B:
+                          0. 19 2C3C 00BD (l)0000:h2v2_downsample
+                      40488B:
+                        99F801000041:
+                          0. B4 F30D 00D4 (l)0000:process_data_simple_main
+                        B94002000041:
+                          0. C1 4C83 017A (l)0000:process_data_context_main
+                      50488BB96802000048:
+                        0. 25 0CEA 010F (l)0000:decode_mcu_DC_refine
+                  4883EC:
+                    20:
+                      33FF488BD985D275208B4130:
+                        0. FF 7610 0206 (l)0000:initial_setup
+                      418BF8488BF2488BD94885D2:
+                        0. 1D B28C 00C3 0000:jpeg_mem_src
+                      440FB60A488BE9488B993002:
+                        0. 0B 6AFB 0192 (l)0000:arith_encode
+                      488B:
+                        41:
+                          08BA01000000488BD9:
+                            0. 09 7500 009B 0000:jinit_inverse_dct
+                          28488D2D........48:
+                            0. 51 4013 00C0 0000:jpeg_stdio_src
+                        5928488BF1488B6B4848:
+                          0. 07 A2A8 00A3 (l)0000:empty_mem_output_buffer
+                        796833ED33F6488BD939:
+                          0. 0E 8320 0104 (l)0000:write_frame_header
+                        818002000033F633FF48:
+                          0. 14 EC08 00AC (l)0000:read_and_discard_scanlines
+                        9968020000488BF2488B:
+                          0. 1B 2013 011A (l)0000:arith_decode
+                        B988020000488BD933F6:
+                          0. 49 0F4E 0120 (l)0000:start_pass_1_quant
+                      817924CE000000418BF0488B:
+                        0. BD BD7C 00DD 0000:jpeg_read_raw_data
+                      83:
+                        7924:
+                          64:
+                            418BE9498BF04863:
+                              0. 48 CF08 00F4 0000:jpeg_add_quant_table
+                            488BD98B795C7418:
+                              0. AC 8660 026A 0000:jpeg_simple_progression
+                          66418BF0488BEA488B:
+                            0. C3 942F 00E3 0000:jpeg_write_raw_data
+                        B95401000000418BF9498B:
+                          0. 71 F253 0091 0000:jpeg_write_marker
+                      8B:
+                        6C24588B5C24504863C248:
+                          0. 1E 5FA2 005D 0000:jcopy_sample_rows
+                        7A1C498BD8448B4130488B:
+                          0. 15 54E7 009A (l)0000:h2v1_downsample
+                      BADA000000488BD9E8:
+                        0. 00 0000 00ED (l)0000:emit_sos
+                      BE01000000488BD98B493833:
+                        0. FF 4D37 018B (l)0000:default_decompress_parms
+                    30:
+                      488B:
+                        41088BDABA0100000048:
+                          0. 15 AE5B 00CD 0000:jinit_d_post_controller
+                        B150020000488BE9837E:
+                          0. 94 6B74 00B4 (l)0000:post_process_2pass
+                      498BD9498BF8488BF2488BE9:
+                        0. 01 3E9B 0063 0000:_vsprintf_l (0004: 48) (000C: 48)
+                        1. 01 3E9B 0057 0000:_vsscanf_l (0004: 48) (000C: 49)
+                        2. 01 3E9B 0051 0000:_vfprintf_l (0004: 4C) (0007: 48)
+                        3. 01 3E9B 0067 0000:_vsnprintf_l (0004: 4C) (0007: 4C)
+              565741564883EC:
+                30488B05........4833C448894424:
+                  0. FF 9FD7 0160 0000:jpeg_idct_3x3
+                50488B05........4833C448894424:
+                  0. FF 17ED 01F3 0000:jpeg_idct_2x2
+              574883EC20488B:
+                4108BD00040000488BB9:
+                  7802000044:
+                    0. CC EC60 00EC (l)0000:build_ycc_rgb_table
+                  8002000044:
+                    0. CC 08DB 00EC (l)0000:build_ycc_rgb_table
+                B93802000033ED488BD9396F107425:
+                  0. FF 1859 0166 (l)0000:prepare_for_output_pass
+            1848897424205741544155415641574883EC20488B9930:
+              0. 2E 2FC8 0202 (l)0000:start_pass_phuff
+          742410:
+            48897C2418:
+              41564883EC20:
+                33FF488BD985D2740F488B:
+                  0. 22 68DC 00DF 0000:jinit_c_prep_controller
+                488B41088BF2BA01000000:
+                  0. 0C A37A 00B3 0000:jinit_c_main_controller
+                83797000488BD9488BB988:
+                  0. 17 7C21 014E (l)0000:start_pass_2_quant
+                8BB98800000033F64C8BB1:
+                  0. 52 CA8B 0072 (l)0000:alloc_fs_workspace
+              5541564157488BEC4883EC304C8BF2488B:
+                0. 06 03AB 0191 (l)0000:?set_text@@YAXAEBVQImage@@PEAUjpeg_compress_struct@@AEBVQString@@@Z
+            574883EC:
+              20:
+                418BF88BF2488BD94181F8FDFF0000760F:
+                  0. 15 37D7 0053 (l)0000:write_marker_header
+                48:
+                  635A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  83610800498BD8488BF183FA50741F48:
+                    0. 5C 5551 0132 0000:jpeg_CreateCompress
+                    1. 5C 6E6C 0133 0000:jpeg_CreateDecompress
+                  8B:
+                    41:
+                      08:
+                        488BDABA01000000488BF1448D:
+                          0. 1C 7385 0097 (l)0000:transencode_coef_controller
+                        8BF2BA01000000488BD9448D42:
+                          0. 15 2E96 00ED 0000:jinit_c_master_control
+                        BA01000000:
+                          41B850010000488B:
+                            0. 06 1922 00B6 0000:jinit_arith_decoder
+                          488BF1448D4267FF:
+                            0. 0D D94A 0096 0000:jinit_phuff_decoder
+                        BE010000008BD6488BF9448D46:
+                          0. 10 4988 02F2 0000:jinit_color_deconverter
+                      28488D35........488BFA488BD9:
+                        0. 33 4DD3 007E 0000:jpeg_stdio_dest
+                    5928488BF9:
+                      41B800100000488B4B28:
+                        0. 08 49C8 0059 (l)0000:qt_empty_output_buffer
+                      BE00100000BA01000000:
+                        0. 0D 53AF 0068 (l)0000:empty_output_buffer
+                    7928BE00100000488BD9482B770874:
+                      0. 13 3BBE 0088 (l)0000:term_destination
+                    9930020000488BF98B53188D4AFF03:
+                      0. 3B 195F 0177 (l)0000:finish_pass
+                    B958020000488BD9837F2400740AB8:
+                      0. 6B 3294 00C7 (l)0000:consume_markers
+                    D9E8........8B435C488BCB8D5004:
+                      0. 04 7A04 00C7 (l)0000:emit_sof
+                    F2C7413801000000BA01000000488B:
+                      0. 02 11CF 00F1 (l)0000:transencode_master_selection
+                    FA498BC9488D15........498BD949:
+                      0. 03 C8F4 00A7 0000:?capabilities@QJpegPlugin@@UEBA?AV?$QFlags@W4Capability@QImageIOPlugin@@@@PEAVQIODevice@@AEBVQByteArray@@@Z
+                817924CA000000488BD97418488B01C740:
+                  0. 17 C94D 01B0 0000:jpeg_calc_output_dimensions
+                83:
+                  79:
+                    2000488BF1740AB8E80000008D4820:
+                      0. 18 9F23 00A7 (l)0000:std_huff_tables (005B: 48)
+                      1. 18 9F23 00F4 0000:jinit_huff_decoder (005B: E8)
+                    24:
+                      64:
+                        488BF2488BF97419488B01C740:
+                          0. 1A 7C51 013E 0000:jpeg_write_coefficients
+                        8BFA488BD97419488B01C74028:
+                          0. FF 7CA4 02EB 0000:jpeg_set_colorspace
+                      65418BF8488BF2488BD97419488B:
+                        0. B5 4F05 00D5 0000:jpeg_write_scanlines
+                    2800418BD8488BFA488BF1751D85DB:
+                      0. 0F 6EFC 004B (l)0000:emit_buffered_bits
+                  B9:
+                    5401000000418BF88BF2488BD9750B:
+                      0. 46 B94B 0066 0000:jpeg_write_m_header
+                    7401000000488BF2488BB968020000:
+                      0. AB 943D 00FE (l)0000:decode_mcu
+                B918000000498BF0488BFAE8........48:
+                  0. 03 AA8C 0053 0000:?create@QJpegPlugin@@UEBAPEAVQImageIOHandler@@PEAVQIODevice@@AEBVQByteArray@@@Z
+                BAD8000000488BD9E8........33FF488D:
+                  0. 0E B75B 00A0 (l)0000:write_tables_only
+                BBCC000000488BF93959247413488B8138:
+                  0. C2 F17F 00E2 (l)0000:output_pass_setup
+              30:
+                418BD88BFA448BCA895C24204C8D05:
+                  0. 00 0000 0057 0000:jpeg_set_linear_quality
+                8B4130498BF1894424284D8BD08B816001:
+                  0. 18 B1A0 0065 (l)0000:fullsize_downsample
+              6033FF488BF2488BD939B9A8040000751748:
+                0. 07 101B 011B 0000:?read@QJpegHandlerPrivate@@QEAA_NPEAVQImage@@@Z
+          7C2410:
+            41564883EC20488B4108BA01000000488BD9448D4217:
+              0. 0F CB5A 0289 0000:jinit_color_converter
+            448B5140488BFA4183FA0B0F8FDC0000000F84460100:
+              0. FF 2473 02A1 (l)0000:gray_rgb_convert
+            55488BEC4883EC60488B5128488BD9488BB930020000:
+              0. 28 774E 0099 (l)0000:finish_pass_huff
+            8B99880000004D8BD9448B542428488BFAEB:
+              36488B07:
+                0. 44 43B8 0064 (l)0000:gray_rgb_convert_internal
+                1. 44 43B8 0064 (l)0000:gray_extrgb_convert_internal
+              37488B07:
+                0. 45 6A68 0065 (l)0000:gray_extbgr_convert_internal
+              3A488B07:
+                0. 48 7AF8 0068 (l)0000:gray_extrgbx_convert_internal
+              3B488B07:
+                0. 49 38E6 0069 (l)0000:gray_extxrgb_convert_internal
+                1. 49 AF72 0069 (l)0000:gray_extbgrx_convert_internal
+                2. 49 C8B0 0069 (l)0000:gray_extxbgr_convert_internal
+            BF010000004533C94C8BC2440FB7D1663BCF7520893A:
+              0. E1 AD9D 0101 (l)0000:compute_reciprocal
+        498B11498BD84533C94C8BD94439899C0100007E3A482BDA488B0A:
+          0. 3A EA9B 005A (l)0000:h2v1_upsample
+        574883EC:
+          20:
+            33D2488BD9E8........33FF39BB20010000751A488B:
+              0. 02 034A 00B9 0000:jinit_compress_master
+            488B:
+              01:
+                488BFA488BD9FF501084C0740C488B4B10488B:
+                  0. 02 3276 0031 0000:?read@QJpegHandler@@UEAA_NPEAVQImage@@@Z
+                BF010000008BD7488BD9C7402868000000488B:
+                  0. 93 D245 00B3 (l)0000:get_soi
+              41:
+                08BA01000000:
+                  41B8:
+                    80050000488BF9FF1041B8:
+                      0. 19 5E7F 009C (l)0000:prepare_range_limit_table
+                    90000000488BD9FF10488B:
+                      0. 0B BBEE 01C1 0000:jinit_forward_dct
+                  488B991802000041B800200000:
+                    0. A1 F3CC 00C1 (l)0000:rgb_ycc_start
+                28488BF9488B9930020000488B104889533048:
+                  0. 0F E6DA 006F (l)0000:finish_pass_phuff
+              442450498BF8488B5C24584C8B9178020000458B:
+                0. 1B 4F5C 003B (l)0000:merged_1v_upsample
+              5928488BF9:
+                48837B08007519FF531885C0751248:
+                  0. 2E A746 004E (l)0000:get_byte
+                BA0100000041B8001000004C8B4B38:
+                  0. 06 8771 0090 (l)0000:fill_input_buffer
+              79:
+                10488D05........488901488BD94885FF7415:
+                  0. 04 DF08 0047 0000:??1QJpegHandler@@UEAA@XZ
+                28488B:
+                  4F38488B01FF505884C0751B488B4F38:
+                    0. 22 B9F8 0042 (l)0000:qt_term_source
+                  8F401000004885C97468E8........48:
+                    0. 24 80FA 00CC (l)0000:qt_fill_input_buffer
+              8130020000488BF9488B99F0010000FF50108B53:
+                0. 4A E01E 006A (l)0000:finish_pass_master
+              9910020000BAD8000000488BF9E8........8363:
+                0. 0F B096 004F (l)0000:write_file_header
+              B9:
+                00020000488BD985D2740F488B01C740280300:
+                  0. 2B 97E2 004B (l)0000:start_pass_prep
+                08020000488BD983FA02740F488B01C7402803:
+                  0. 56 D9AA 0076 (l)0000:start_pass_coef
+                48020000488BD948837F200074218379680074:
+                  0. 02 90F1 004E (l)0000:start_output_pass
+                68020000488BD94C8B81600200008B47209983:
+                  0. 60 1C7C 0080 (l)0000:process_restart
+                  1. 64 62B4 0084 (l)0000:process_restart
+                F0010000488BD98B4F2085C90F84DB00000083:
+                  0. 24 E9EF 01BE (l)0000:prepare_for_pass
+              D9:
+                33FF8B492481F9C8000000745981F9C9000000:
+                  0. 88 5CB3 00C0 0000:jpeg_consume_input
+                418BF88BCAE8........8BD0448BC7488BCB48:
+                  0. 0A 9C27 002E 0000:jpeg_set_quality
+                488B49:
+                  30488B7928FF571885C07413488B0748:
+                    0. 1A 73BD 003A (l)0000:dump_buffer
+                  50488B7928FF571885C07517488B4350:
+                    0. 2D B79D 004D (l)0000:dump_buffer
+                8B49248D419B83F801762983F9670F84A90000:
+                  0. DC B289 0100 0000:jpeg_finish_compress
+                BF010000008BD7488BCBE8........83EF0179:
+                  0. 0F 0F2F 004A (l)0000:self_destruct
+              DA488BF9:
+                4183F8070F8FAF0000000F84A1000000:
+                  0. 2D B882 0156 0000:?option@QJpegHandler@@UEBA?AVQVariant@@W4ImageOption@QImageIOHandler@@@Z
+                4885D2750433C0EB23488D15:
+                  0. 04 BF6F 0047 0000:?qt_metacast@QJpegPlugin@@UEAAPEAXPEBD@Z
+            4C8B:
+              811801000033FF488BD94D85C0747E488B81F001:
+                0. F9 95F5 0119 (l)0000:select_scan_parameters
+              D2488BF94183F80C0F8293000000803A410F858A:
+                0. BA A70E 00DA (l)0000:examine_app14
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0105 (l)0000:?qt_plugin_instance_QJpegPlugin@@YAPEAVQObject@@XZ
+            817924CF000000:
+              488BD9488BB9380200007418488B01:
+                0. 65 6AC6 0085 0000:jpeg_new_colormap
+              8BFA488BD97422817924CC00000074:
+                0. 50 F6F6 0074 0000:jpeg_start_output
+            83:
+              79:
+                24648BFA488BD97419488B01C74028150000008B:
+                  0. 18 053D 0087 0000:jpeg_start_compress
+                6C00488BD976694863416C488D0D........0FB6:
+                  0. 2E 3310 0087 (l)0000:emit_eobrun
+              B920010000008BFA488B99F8010000752D85D2740F:
+                0. 16 FC32 0054 (l)0000:start_pass_main
+            8B:
+              41248BFA2DC8000000488BD983F8017619488B01C7:
+                0. 19 440F 007E 0000:jpeg_read_header
+              5144488BD98B4948BF08000000C1E2033BD177398B:
+                0. 05 7459 03CC 0000:jpeg_core_output_dimensions
+              C28BDAC1F808488BF90FB6D0E8........0FB6D348:
+                0. 0D 496E 0031 (l)0000:emit_2bytes
+              DA488BF9:
+                BAFF000000E8........8BD3488BCF488B:
+                  0. 09 B54A 002D (l)0000:emit_marker
+                E8........F6C301740DBA:
+                  10000000488B:
+                    0. 02 632D 0034 0000:??_GQJpegPlugin@@UEAAPEAXI@Z
+                  18000000488B:
+                    0. 02 632D 0034 0000:??_GQJpegHandler@@UEAAPEAXI@Z
+                  20000000488B:
+                    0. 02 632D 0034 0000:??_GQImage@@UEAAPEAXI@Z
+              FA488BD9E8........:
+                837B28007552BA7F00000048:
+                  0. 07 EE86 00B1 (l)0000:emit_restart
+                85C0750433C0EB6C488B03C6:
+                  0. 10 B589 0093 (l)0000:emit_restart
+          30448B89900000004C8D05........8BDA8954242033D2:
+            0. 04 ADEA 0052 0000:jpeg_default_qtables
+      10:
+        4889:
+          6C2418:
+            488974242057:
+              415441554156415748:
+                81EC:
+                  4001000048:
+                    0. 02 8E30 6C81 (l)0000:encode_one_block
+                  5001000048:
+                    0. 02 8E30 02E0 (l)0000:get_dht
+                  900A000048:
+                    0. 02 8E30 03D9 (l)0000:validate_script
+                  F000000048:
+                    0. 02 8E30 031B (l)0000:compress_output
+                83EC:
+                  20:
+                    4533FF49:
+                      0. E5 8C14 0215 0000:jpeg_crop_scanline
+                    488B:
+                      4128:
+                        0. 42 99A4 0180 (l)0000:encode_mcu_DC_first
+                      5928:
+                        0. DD 7A3D 0273 (l)0000:get_dqt
+                      8138:
+                        0. 2D 021B 02AC 0000:jinit_upsampler
+                    4C8B9128:
+                      0. 86 ADF4 00A6 (l)0000:forward_DCT
+                      1. 89 B8CF 00A9 (l)0000:forward_DCT_float
+                    83:
+                      797001:
+                        0. FF CA0B 0173 (l)0000:create_colorindex
+                      7A2464:
+                        0. 6A D16E 025F 0000:jpeg_copy_critical_parameters
+                  30488B8188:
+                    0. 7E 80D8 00EB (l)0000:pass2_no_dither
+                  40488B05:
+                    0. 00 0000 017A (l)0000:get_interesting_appn
+                  60488B05:
+                    0. 00 0000 0299 (l)0000:create_colormap
+                8B994002000045:
+                  0. FF B1A5 013B (l)0000:make_funny_pointers
+              4881EC30010000488B05........4833:
+                0. 86 E56D 0106 (l)0000:flush_bits
+            56574154415641574883EC40488B05........4833C4:
+              0. 13 8A73 0101 (l)0000:finish_pass_gather_phuff
+          742418:
+            48897C24205541564157488BEC4883EC70488B05:
+              0. 00 0000 0214 (l)0000:?getExifOrientation@@YAHAEAVQByteArray@@@Z
+            574883EC:
+              20817924CD000000418BF8488BF2488BD974:
+                0. 9B 6BFE 00BB 0000:jpeg_read_scanlines
+              50488B05........4833C4488944244033C0:
+                0. 95 B1B7 0149 (l)0000:emit_dac (l)0149:$LN38
+        4C8944241855565741544155415641574883EC10488B8118020000:
+          0. FF 1FD5 013D (l)0000:extbgrx_ycc_convert_internal
+          1. FF 2DC8 013D (l)0000:extbgr_ycc_convert_internal
+          2. FF 49FB 013E (l)0000:extxbgr_ycc_convert_internal
+          3. FF 7BD8 013E (l)0000:extrgbx_ycc_convert_internal
+          4. FF B603 013E (l)0000:rgb_ycc_convert_internal
+          5. FF B603 013E (l)0000:extrgb_ycc_convert_internal
+          6. FF F761 013E (l)0000:extxrgb_ycc_convert_internal
+        555657415441554156415748:
+          81EC60050000488B05........4833:
+            0. CA 24AE 0236 0000:jpeg_make_c_derived_tbl (l)0236:$LN50
+            1. E2 6036 02F7 0000:jpeg_make_d_derived_tbl (l)02F7:$LN88
+          83EC:
+            20:
+              488BB1680200004183CCFF45:
+                0. 18 9B4B 01EC (l)0000:decode_mcu_AC_refine
+              83B97401000000488BFA488B:
+                0. 11 4F85 01C8 (l)0000:decode_mcu_AC_first
+            3083B93C010000004C8BEA488B:
+              0. CF 1558 01E4 (l)0000:encode_mcu_gather
+          8BEC4883EC6083B974010000004C8B:
+            0. 24 0AFB 0291 (l)0000:decode_mcu_AC_first
+      18:
+        44894C2420488954241055565741544155415641574883EC30418B:
+          0. A2 B8AA 018A (l)0000:pre_process_data
+        4889:
+          4C2408555657415441554156415748:
+            83EC:
+              10488B8178020000:
+                0. FF 1A2F 0254 (l)0000:extxrgb_h2v2_merged_upsample_internal
+                1. FF 3139 0254 (l)0000:extxbgr_h2v2_merged_upsample_internal
+                2. FF 3C30 0207 (l)0000:h2v1_merged_upsample_565_be
+                3. FF 5CBB 01DF (l)0000:h2v1_merged_upsample_565_le
+                4. FF 87AC 0254 (l)0000:extbgrx_h2v2_merged_upsample_internal
+                5. FF B9EE 0239 (l)0000:extbgr_h2v2_merged_upsample_internal
+                6. FF DA6C 0254 (l)0000:extrgbx_h2v2_merged_upsample_internal
+                7. FF DEFB 0239 (l)0000:h2v2_merged_upsample_internal
+                8. FF DEFB 0239 (l)0000:extrgb_h2v2_merged_upsample_internal
+              20488B:
+                8178020000:
+                  0. FF 4CAD 030A (l)0000:h2v2_merged_upsample_565_le
+                  1. 29 5807 0271 (l)0000:h2v1_merged_upsample_565D_le
+                  2. 29 DBAB 0292 (l)0000:h2v1_merged_upsample_565D_be
+                A928020000:
+                  0. 20 0ABB 024F (l)0000:start_pass_fdctmgr
+              30488B8178020000:
+                0. FF 890E 0355 (l)0000:h2v2_merged_upsample_565_be
+              40:
+                488B8178020000:
+                  0. 4E 0E81 042F (l)0000:h2v2_merged_upsample_565D_le
+                  1. 46 F29A 0460 (l)0000:h2v2_merged_upsample_565D_be
+                4C8B9178020000:
+                  0. 7C 4904 011F (l)0000:int_upsample
+            8B8178020000488BD98B:
+              0. FF 0182 0181 (l)0000:extxrgb_h2v1_merged_upsample_internal
+              1. FF 49CB 0172 (l)0000:extrgb_h2v1_merged_upsample_internal
+              2. FF 49CB 0172 (l)0000:h2v1_merged_upsample_internal
+              3. FF 8F8E 0181 (l)0000:extrgbx_h2v1_merged_upsample_internal
+              4. FF ABD4 0181 (l)0000:extbgrx_h2v1_merged_upsample_internal
+              5. FF B093 0181 (l)0000:extxbgr_h2v1_merged_upsample_internal
+              6. FF F5E2 0172 (l)0000:extbgr_h2v1_merged_upsample_internal
+          542410:
+            48894C24085556574154415541564157498B0133ED49:
+              0. FF 5473 0145 (l)0000:h2v2_fancy_upsample
+            55565741544155415641574883EC:
+              208B721C488BD94C:
+                0. 20 6C32 0169 (l)0000:fullsize_smooth_downsample
+              30448B6A1C4C8BE2:
+                0. 56 EF70 0142 (l)0000:int_downsample
+          7424205557415541564157488D6C24C94881ECA0000000488B:
+            0. 01 D5A7 02AD (l)0000:decode_mcu_DC_first
+        55565741:
+          5441554156415748:
+            81EC:
+              10010000488B05........4833:
+                0. 65 C6C3 027F (l)0000:encode_mcu_AC_refine
+              70010000488B05........4833:
+                0. 65 F0F5 0232 (l)0000:encode_mcu_AC_first
+            83EC:
+              20:
+                4863B960010000BA01000000:
+                  0. 93 E650 0139 (l)0000:create_context_buffer
+                4C8BA96002000033FF488B71:
+                  0. FF C13C 0254 (l)0000:save_marker
+                83B93C01000000488BF2488B:
+                  0. 14 7124 0223 (l)0000:encode_mcu_AC_refine
+              40:
+                488B05........4833C44889:
+                  0. FF 5FE8 0AB2 (l)0000:decode_mcu_fast
+                4C8B9188020000488BDA8BA9:
+                  0. FF 36A4 0153 (l)0000:quantize3_ord_dither
+              60488BB188020000498BD8448B:
+                0. 43 B797 0168 (l)0000:quantize_ord_dither
+            8D:
+              6C24D94881ECB0000000488B05:
+                0. 00 0000 047A (l)0000:decode_mcu_slow
+              AC24:
+                50FFFFFF4881ECB001000048:
+                  0. 02 8E30 04A4 (l)0000:decode_mcu_AC_refine
+                70FFFFFF4881EC9001000048:
+                  0. 02 8E30 0349 (l)0000:encode_mcu_huff
+          5641574883EC40488B05........4833C4488944243048:
+            0. 17 A348 0135 (l)0000:select_ncolors
+        574883EC204883610800488BF9E8........BAA000000089442438:
+          0. 04 DF08 0171 0000:jinit_memory_mgr
+      20:
+        488954241055565741544155415641574883EC2083B93C01000000:
+          0. 19 2F84 020D (l)0000:encode_mcu_DC_first
+        4C8944241855565741544155415641574883EC10488B8118020000:
+          0. FF 4906 0188 (l)0000:cmyk_ycck_convert
+        555657415441554156415748:
+          83EC208B991402000033D2488BB168:
+            0. FF ED22 0297 (l)0000:start_pass_phuff_decoder
+          8DAC2490F8FFFF4881EC7008000048:
+            0. 02 8E30 02BC 0000:jpeg_gen_optimal_table
+  8B:
+    01:
+      83A08000000000488B0183602800C3:
+        0. 00 0000 0012 (l)0000:reset_error_mgr
+      C74028:
+        2F000000488B0148FF20:
+          0. 00 0000 0010 (l)0000:new_color_map_1_quant
+        33000000488B0148FF20:
+          0. 00 0000 0010 0000:jpeg_open_backing_store
+        38000000488B0189502C488B0148FF20:
+          0. 00 0000 0016 (l)0000:out_of_memory
+    1133C0F6C201750DFFC048D1EAF6C20174F6488911C3:
+      0. 00 0000 0018 (l)0000:count_zeroes
+    41:
+      08:
+        4C8B9160020000448B485C4183E920453BC1450F4FC14585C074334C:
+          0. 02 16E8 00BC 0000:jpeg_save_markers
+        83785800741048634058493BC17604492BC1C333C0C3498BC0C3:
+          0. 00 0000 001E 0000:jpeg_mem_available
+      28C7404801000000C3:
+        0. 00 0000 000C (l)0000:init_source
+    4258410FBF10448B10488B81B0010000498B09440FAFD28B5424284183C2:
+      0. 18 C9BF 0038 0000:jpeg_idct_1x1
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QJpegPlugin@@UEBAPEBUQMetaObject@@XZ
+    5128488B4A28488B42404889018B4A48488B42302B4A088908C3:
+      0. 00 0000 001C (l)0000:term_mem_destination
+    81:
+      1002000048FF6030:
+        0. 00 0000 000B 0000:jpeg_write_m_byte
+      38020000488D15........8360100083606C00488910488D15:
+        0. 05 94B7 0029 0000:jinit_master_decompress
+      58020000488D0D........488908C3:
+        0. 00 0000 0012 (l)0000:finish_input_pass
+      6002000033D2488991300100008991AC00000089913402000048895018:
+        0. 0B 6BC6 002B (l)0000:reset_marker_reader
+      88020000C7403801000000C3:
+        0. 00 0000 000F (l)0000:new_color_map_2_quant
+    9178020000836248008B818C000000894250C3:
+      0. 00 0000 0015 (l)0000:start_pass_merged_upsample
+    C2458BC0488BD149C1E007488BC8E9:
+      0. 00 0000 0015 0000:jcopy_block_row
+    C4:
+      4889:
+        50104C8940184C8948205356574883EC30488B:
+          DA488D7018488BF9:
+            0. 01 3E9B 004B 0000:sscanf (0004: 48)
+            1. 01 3E9B 0057 0000:sprintf (0004: 4C)
+          FA488D7018488BD9:
+            0. 01 3E9B 0044 0000:fprintf
+        58:
+          084889:
+            68:
+              1048897018:
+                48897820:
+                  41:
+                    5441:
+                      554156415741BC070000:
+                        0. FF CE86 02C9 0000:jpeg_fdct_islow
+                      564157:
+                        41BF070000004C:
+                          0. FF 16DA 0200 0000:jpeg_fdct_ifast
+                        448B5424404D8B:
+                          0. FF 8FCD 016D (l)0000:rgb_rgb565_convert_le
+                        4533D24963E833:
+                          0. 93 8E12 00B3 (l)0000:encode_mcu_AC_refine_prepare
+                        48:
+                          83EC:
+                            20:
+                              48:
+                                63EA:
+                                  0. 50 D5A0 00FD (l)0000:emit_dqt
+                                8B:
+                                  59:
+                                    0. FF 429D 01A6 (l)0000:get_dac
+                                    1. FF A385 0140 0000:jpeg_fill_bit_buffer
+                                  81:
+                                    0. 2C 77F3 0372 (l)0000:start_pass
+                                  A9:
+                                    0. 71 1DCA 0091 (l)0000:sep_downsample
+                                  B1:
+                                    0. 74 5863 0176 (l)0000:start_pass_huff_decoder
+                                  D9:
+                                    0. B9 850C 0313 (l)0000:read_markers
+                              4C8B:
+                                71:
+                                  0. 50 8780 00E1 (l)0000:alloc_barray
+                                79:
+                                  0. A1 779D 018D (l)0000:alloc_small
+                                  1. 79 CC6E 0102 (l)0000:alloc_sarray
+                            30:
+                              488B41:
+                                0. 23 B968 0107 0000:jinit_c_coef_controller
+                              8B:
+                                6A0C:
+                                  0. 99 9555 00B9 (l)0000:do_barray_io
+                                721C:
+                                  0. 96 899D 00B6 (l)0000:do_sarray_io
+                            40488B:
+                              99:
+                                0. C3 91AE 00E3 (l)0000:post_process_prepass
+                              B9:
+                                0. 8A 2BE7 00AA (l)0000:process_data_simple_main
+                          8B8180020000:
+                            0. 9E A4E1 00BE (l)0000:rgb_gray_convert
+                        4D8B214533DB4C:
+                          0. 91 2B75 00B1 (l)0000:h1v2_fancy_upsample
+                    55415641574883EC204C8B71:
+                      0. FF 5676 0328 (l)0000:get_sof
+                    56:
+                      4157:
+                        448B:
+                          513C4D8BF84C8B:
+                            0. FF 038D 03AC (l)0000:rgb_gray_convert
+                          542438498BF941:
+                            0. FF 7EA1 013A (l)0000:gray_rgb565_convert_be
+                            1. FF BD5C 0137 (l)0000:gray_rgb565_convert_le
+                        488B81:
+                          180200004D8B:
+                            0. 82 2920 00A2 (l)0000:extxrgb_gray_convert_internal
+                            1. 82 3A00 00A2 (l)0000:extxbgr_gray_convert_internal
+                            2. 82 4550 00A2 (l)0000:extrgb_gray_convert_internal
+                            3. 82 4550 00A2 (l)0000:rgb_gray_convert_internal
+                            4. 81 4CF7 00A1 (l)0000:extbgrx_gray_convert_internal
+                            5. 82 75AE 00A2 (l)0000:extrgbx_gray_convert_internal
+                            6. 81 7C09 00A1 (l)0000:extbgr_gray_convert_internal
+                          880200004C8B:
+                            0. 7F 346E 009F (l)0000:color_quantize3
+                      48:
+                        6341:
+                          38488BFA8BA98800:
+                            0. FF 4032 015F (l)0000:null_convert
+                          5C498BF88B69304C:
+                            0. FF 8D11 0164 (l)0000:null_convert
+                        83EC:
+                          20:
+                            33ED438D340848:
+                              0. FF B70F 025C (l)0000:examine_app0
+                            452BC833DB4C8B:
+                              0. 21 DF55 0068 (l)0000:expand_right_edge
+                            48:
+                              637424504D8B:
+                                0. 0D 6DAA 0102 0000:jpeg_huff_decode
+                              833A004D8BF1:
+                                0. 10 4D2C 00CD (l)0000:add_huff_table
+                              8B:
+                                41:
+                                  08:
+                                    41B858:
+                                      0. 1E 903F 01E1 0000:jinit_merged_upsampler
+                                    8BDABA:
+                                      0. 1E 622F 0109 0000:jinit_d_main_controller
+                                  284C8BF2:
+                                    0. 3F 22F7 00FF (l)0000:encode_mcu_DC_refine
+                                5928:
+                                  488BF9:
+                                    0. BC F446 00DC (l)0000:skip_variable
+                                  4C8BF1:
+                                    0. F3 4D16 0113 (l)0000:get_dri
+                                    1. E8 CAA4 0108 (l)0000:next_marker
+                                7108:
+                                  418BE9:
+                                    0. 2E B7DF 009C (l)0000:request_virt_sarray (0033: 80)
+                                    1. 2E B7DF 009C (l)0000:request_virt_barray (0033: 88)
+                                  4C8BF1:
+                                    0. A8 2A9A 0132 (l)0000:free_pool
+                                9930020000:
+                                  0. 19 21EF 00B3 (l)0000:encode_mcu_DC_refine
+                                B948020000:
+                                  0. FF D101 011F (l)0000:smoothing_ok
+                            4C8B7108498BF8:
+                              0. 7D 637F 0111 (l)0000:alloc_large
+                            83:
+                              792464488BF1:
+                                0. 57 8664 019A 0000:jpeg_set_defaults
+                              B9:
+                                2401000000:
+                                  0. 0D 4199 01AC (l)0000:write_scan_header
+                                7401000000:
+                                  0. 16 BAF6 009E (l)0000:decode_mcu_DC_refine
+                            8B:
+                              7148418BF88B:
+                                0. 7D 554B 00F0 (l)0000:emit_bits
+                              81:
+                                70010000BD:
+                                  0. A1 4C36 01D1 (l)0000:per_scan_setup
+                                B8010000BD:
+                                  0. A1 68E6 01B2 (l)0000:per_scan_setup
+                          30498B2933DB4D8B:
+                            0. 53 43F0 00A5 (l)0000:h2v2_upsample
+                    574883EC20:
+                      438D2C08418BF0:
+                        0. 62 341B 015F (l)0000:access_virt_sarray (0036: 73)
+                        1. 62 341B 0163 (l)0000:access_virt_barray (0036: 77)
+                      488B018BEA8BB9:
+                        0. BF 140C 011D 0000:jpeg_resync_to_restart
+                  448B51:
+                    3C4D8BD8488BDA4183FA:
+                      0. FF FE3A 0367 (l)0000:rgb_rgb_convert
+                    40418BD84C8BDA4183FA:
+                      0. FF A6AE 037C (l)0000:rgb_rgb_convert
+                  4963D84533D24533C04533DB48:
+                    0. 70 27B0 0090 (l)0000:encode_mcu_AC_first_prepare
+                  4D8B114533DB498BD8488BEA48:
+                    0. B7 F88B 00D7 (l)0000:h2v1_fancy_upsample
+                  8B:
+                    69304C8BDA448B542428EB52:
+                      0. 6D 1B94 008D (l)0000:extrgb_rgb_convert_internal
+                      1. 6D 1B94 008D (l)0000:rgb_rgb_convert_internal
+                      2. 6D 649E 008D (l)0000:extxrgb_rgb_convert_internal
+                      3. 6D B798 008D (l)0000:extxbgr_rgb_convert_internal
+                      4. 6D BB85 008D (l)0000:extbgr_rgb_convert_internal
+                      5. 6D BC2D 008D (l)0000:extbgrx_rgb_convert_internal
+                      6. 6D BDBE 008D (l)0000:extrgbx_rgb_convert_internal
+                    7930488BDA48636938448B54:
+                      0. 4B 4597 006B (l)0000:grayscale_convert
+                    A9880000004C8BDA448B5424:
+                      0. 6F 3CF7 008F (l)0000:rgb_extbgr_convert_internal
+                      1. 74 499E 0094 (l)0000:rgb_extrgbx_convert_internal
+                      2. 74 9103 0094 (l)0000:rgb_extxrgb_convert_internal
+                      3. 74 C35F 0094 (l)0000:rgb_extxbgr_convert_internal
+                      4. 73 C837 0093 (l)0000:rgb_extbgrx_convert_internal
+                      5. 70 EB53 0090 (l)0000:rgb_rgb_convert_internal
+                      6. 70 EB53 0090 (l)0000:rgb_extrgb_convert_internal
+                574883EC50488B7910488BEA488BF1837F:
+                  0. 09 118E 00C2 0000:?write@QJpegHandler@@UEAA_NAEBVQImage@@@Z
+              184889702048895010574154415541564157:
+                448B5424:
+                  0. FF 27D6 019D (l)0000:rgb_rgb565_convert_be
+                8B81A800:
+                  0. 20 ED33 01C6 (l)0000:gray_rgb565D_convert_le (0011: 58)
+                  1. 20 ED33 01C8 (l)0000:gray_rgb565D_convert_be (0011: 5A)
+            70:
+              10:
+                488978184C89:
+                  602041574883EC20488BB938020000:
+                    0. 04 9EC9 02D9 (l)0000:master_selection
+                  7020:
+                    41574883EC20:
+                      488B410841B858:
+                        0. 1C E426 017D 0000:jinit_2pass_quantizer
+                      498BF04C8BF248:
+                        0. 23 9F31 0114 0000:jpeg_mem_dest
+                    488B99400200004533C94C8BC1:
+                      0. A6 0511 00C6 (l)0000:set_bottom_pointers
+                574881EC800100000F2970E80F2978D8440F2940C8:
+                  0. 17 2E70 04D0 0000:jpeg_idct_float
+              184889782089501041564883EC20488B11488BD94963:
+                0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+          10488970184889782048894808554154415541564157488D6898:
+            0. 2E 4F95 06C1 0000:?readJpegHeader@QJpegHandlerPrivate@@QEAA_NPEAVQIODevice@@@Z
+      4C8948204C894018488950104889480855535657415441554156415748:
+        0. 1F 6F38 096E (l)0000:?read_jpeg_image@@YA_NPEAVQImage@@VQSize@@VQRect@@2HP6AXPEAIPEBEH@ZPEAUjpeg_decompress_struct@@PEAUmy_error_mgr@@@Z (l)096E:$LN315
+      55535657415441564157488DA878FBFFFF4881EC500500000F2970B80F:
+        0. 30 56C7 0AF8 (l)0000:?write_jpeg_image@@YA_NAEBVQImage@@PEAVQIODevice@@HAEBVQString@@_N3@Z
+    CA:
+      48FF25:
+        0. 00 0000 000A 0000:jpeg_free_small (REF 0006: __imp_free)
+        1. 00 0000 000A 0000:jpeg_get_large (REF 0006: __imp_malloc)
+        2. 00 0000 000A 0000:jpeg_get_small (REF 0006: __imp_malloc)
+        3. 00 0000 000A 0000:jpeg_free_large (REF 0006: __imp_free)
+      BA04000000448D4204E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@I@@AEAAXPEAU?$QTypedArrayData@I@@@Z
+  8D:
+    05........:
+      488901488D05........48894108488BC1C3:
+        0. 00 0000 0019 0000:?qt_static_plugin_QJpegPlugin@@YA?BUQStaticPlugin@@XZ
+      C3:
+        0. 00 0000 0008 0000:__local_stdio_scanf_options (REF 0003: ?_OptionsStorage@?1??__local_stdio_scanf_options@@9@9)
+        1. 00 0000 0008 0000:__local_stdio_printf_options (REF 0003: ?_OptionsStorage@?1??__local_stdio_printf_options@@9@9)
+        2. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QJpegPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+    41FF488D4AFF4803C248F7D14823C1C3:
+      0. 00 0000 0012 (l)0000:round_up_pow2
+49832100C3:
+  0. 00 0000 0005 (l)0000:noop_upsample
+4C:
+  89:
+    4424185355565741544155415641574881EC:
+      98000000488BB98802000049:
+        0. 52 A65D 0277 (l)0000:quantize_fs_dither
+      B8000000488B998802000048:
+        0. FF 421E 03C1 (l)0000:pass2_fs_dither
+    4C242048895424105355565741544155415641574883EC488B7A1C4D8D70:
+      0. 22 D453 0297 (l)0000:h2v2_smooth_downsample
+  8B:
+    8140020000448BCA33D2418BC1F7B19C01000033D241014064418BC1F7B1:
+      0. 0F 1C44 0033 (l)0000:increment_simple_rowgroup_ctr
+    896002000081FAFE00000075054D894128C38D8220FFFFFF83F80F770F8D:
+      0. 24 EC8F 0044 0000:jpeg_set_marker_processor
+    C233D2E9:
+      0. 00 0000 000A 0000:jzero_far (REF 0006: memset)
+    DC49895B:
+      0849897310574883EC40488B9950020000488BF18B8424800000:
+        0. 71 2B8B 0091 (l)0000:post_process_1pass
+      1049896B18498973205741:
+        544155415641574883EC70488B05:
+          0. 00 0000 01E8 (l)0000:compress_output (000D: 99)
+          1. 00 0000 020A (l)0000:consume_data (000D: B9)
+        5641574883EC50488B05........48:
+          0. 20 2A3A 0132 (l)0000:finish_pass_gather
+83:
+  79:
+    28004C8BC94863C2740F488B8CC1A80000004963D0FF0491C3488B8CC188:
+      0. 16 B8AE 003A (l)0000:emit_symbol
+    6400488BD10F85AA00000083B98C010000000F859D00000083793C030F85:
+      0. 37 F6AD 00BA (l)0000:use_merged_upsample
+  A1B000000000E9:
+    0. 00 0000 000C (l)0000:start_input_pass
+  B9:
+    7001000001488B91080200007E09C7421C01000000EB1F8B816C010000FF:
+      0. 21 506F 0041 (l)0000:start_iMCU_row
+    B801000001488B91480200007E09C7423001000000EB228B81A8010000FF:
+      0. 24 4793 0044 (l)0000:start_iMCU_row
+  FA127710B89F4007000FA3D07306B801000000C333C0C3:
+    0. 00 0000 0018 0000:?supportsOption@QJpegHandler@@UEBA_NW4ImageOption@QImageIOHandler@@@Z
+85:
+  C9B86400000041B801000000440F4FC1443BC0440F4FC04183F8327D0AB888:
+    0. 0E 1404 002E 0000:jpeg_quality_scaling
+  D27E:
+    4448895C24084889742410574883EC20488B59288BFA488BF13B53087E:
+      0. 29 DE6F 0049 (l)0000:skip_input_data
+    4648895C24084889742410574883EC20488B59288BFA488BF13B53087E:
+      0. 08 D792 004B (l)0000:qt_skip_input_data
+89542410535556574154415541564883EC20817924CD0000008BFA488B814802:
+  0. FF 41B8 0346 0000:jpeg_skip_scanlines
+8B:
+  41:
+    308941508B4134894154B808000000898164010000898168010000C3:
+      0. 00 0000 001E 0000:jpeg_calc_jpeg_dimensions
+    3C85C07447BA010000003BC27440BA0300000083F80274363BC2743283F8:
+      0. 31 772B 0055 0000:jpeg_default_colorspace
+  442428C7010100000089510489411C8B442430894120488D41244489411444:
+    0. 04 7D1D 0024 (l)0000:fill_a_scan
+  819C010000488B91780200008982B80000008B818C0000008982BC000000C3:
+    0. 00 0000 0020 (l)0000:start_pass_upsample
+8D42FF448BC203C19941F7F8C3:
+  0. 00 0000 000D 0000:jdiv_round_up
+BA:
+  100000006685C9750333C0C3B800FF00006685C87509BA0800000066C1E108:
+    0. 2C 6108 004C (l)0000:flss
+  D9000000E9:
+    0. 00 0000 000A (l)0000:write_file_trailer (REF 0006: emit_marker)
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QJpegPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QImageIOPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 (l)0000:h2v1_merged_upsample_565 (REF 0001: h2v1_merged_upsample_565_le)
+  2. 00 0000 0005 (l)0000:h2v1_merged_upsample_565D (REF 0001: h2v1_merged_upsample_565D_le)
+  3. 00 0000 0005 (l)0000:h2v2_merged_upsample_565 (REF 0001: h2v2_merged_upsample_565_le)
+  4. 00 0000 0005 (l)0000:h2v2_merged_upsample_565D (REF 0001: h2v2_merged_upsample_565D_le)
+  5. 00 0000 0005 (l)0000:gray_rgb565D_convert (REF 0001: gray_rgb565D_convert_le)
+  6. 00 0000 0005 (l)0000:gray_rgb565_convert (REF 0001: gray_rgb565_convert_le)
+  7. 00 0000 0005 (l)0000:rgb_rgb565D_convert (REF 0001: rgb_rgb565D_convert_le)
+  8. 00 0000 0005 (l)0000:rgb_rgb565_convert (REF 0001: rgb_rgb565_convert_le)
+  9. 00 0000 0005 (l)0000:ycc_rgb565D_convert (REF 0001: ycc_rgb565D_convert_le)
+  10. 00 0000 0005 (l)0000:ycc_rgb565_convert (REF 0001: ycc_rgb565_convert_le)
+  11. 00 0000 0005 0000:jpeg_abort_decompress (REF 0001: jpeg_abort)
+  12. 00 0000 0005 0000:jpeg_destroy_decompress (REF 0001: jpeg_destroy)
+  13. 00 0000 0005 (l)0000:write_marker_byte (REF 0001: emit_byte)
+  14. 00 0000 0005 0000:jpeg_abort_compress (REF 0001: jpeg_abort)
+  15. 00 0000 0005 0000:jpeg_destroy_compress (REF 0001: jpeg_destroy)

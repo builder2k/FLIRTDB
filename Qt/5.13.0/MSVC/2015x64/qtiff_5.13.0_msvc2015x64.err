@@ -1,0 +1,1565 @@
+0F:
+  2F:
+    05........7613F30F100D........0F2FC87606B801000000C333C0C3:
+      0. 00 0000 001F (l)0000:isInRefBlackWhiteRange
+    C876040F28C1C30F2FC276030F28C2C3:
+      0. 00 0000 0012 (l)0000:CLAMPw
+  57C9660F2FC87603:
+    32C0C3660F2F05........770E660F2EC07A087506F248:
+      0. 07 66F5 0027 (l)0000:TIFFClampDoubleToUInt8
+    33C0C3660F2F05........770E660F2EC07A087506F248:
+      0. 08 BC7E 0028 (l)0000:TIFFClampDoubleToUInt32
+      1. 0A E119 002A (l)0000:TIFFClampDoubleToUInt16
+  B6411BC3:
+    0. 00 0000 0005 0000:TIFFFieldPassCount
+  B7:
+    413A0FB7512CC1E2030BD00FB7412EC1E2030BD081FA09020000743581FA:
+      0. 39 EF39 0059 (l)0000:LogL16GuessDataFmt
+    51:
+      2083EA010F840101000083EA010F84AD00000083EA01746583EA01741F:
+        0. FF 0B25 0152 (l)0000:setorientation
+      2C4183C9FF:
+        0FB7412E4C8BC1C1E20341BA020000000BD083FA41745283:
+          0. 7B EBBE 009B (l)0000:LogLuvGuessDataFmt
+        440FB7412E83EA08745F83EA03744683EA01742E83EA0474:
+          0. 64 E5C2 0084 (l)0000:PixarLogGuessDataFmt
+    8160020000C3:
+      0. 00 0000 0008 0000:TIFFCurrentDirectory
+    D183FA05771DB8040000003BD07331B8010000003BD0762883FA02741E83:
+      0. 23 2922 0043 (l)0000:_TIFFGetMaxColorChannels
+  BF41:
+    04C3:
+      0. 00 0000 0005 0000:TIFFFieldReadCount
+    06C3:
+      0. 00 0000 0005 0000:TIFFFieldWriteCount
+33:
+  C0:
+    48:
+      3941200F94C0C3:
+        0. 00 0000 000A 0000:TIFFLastDirectory
+      85C98D50040F48C2C3:
+        0. 00 0000 000C (l)0000:TIFFReadDirEntryCheckRangeLong8Slong8
+      89512066894132E9:
+        0. 00 0000 000F 0000:TIFFSetSubDirectory
+    6685C98D50040F48C2C3:
+      0. 00 0000 000C (l)0000:TIFFReadDirEntryCheckRangeLongSshort
+      1. 00 0000 000C (l)0000:TIFFReadDirEntryCheckRangeShortSshort
+      2. 00 0000 000C (l)0000:TIFFReadDirEntryCheckRangeLong8Sshort
+    84C98D50040F48C2C3:
+      0. 00 0000 000B (l)0000:TIFFReadDirEntryCheckRangeLong8Sbyte
+      1. 00 0000 000B (l)0000:TIFFReadDirEntryCheckRangeLongSbyte
+      2. 00 0000 000B (l)0000:TIFFReadDirEntryCheckRangeShortSbyte
+      3. 00 0000 000B (l)0000:TIFFReadDirEntryCheckRangeByteSbyte
+    85C98D50040F48C2C3:
+      0. 00 0000 000B (l)0000:TIFFReadDirEntryCheckRangeLongSlong
+      1. 00 0000 000B (l)0000:TIFFReadDirEntryCheckRangeLong8Slong
+    BA4D4D0000663991480200000F94C0C3:
+      0. 00 0000 0012 0000:TIFFIsBigEndian
+    EB0D6644390A74104883C21866FFC066413BC072ED33C0C3488BC2C3:
+      0. 00 0000 001E (l)0000:TIFFReadDirectoryFindEntry
+  D283C8FF48891148895108895110894114894118488BC189511C48895120C3:
+    0. 00 0000 0020 0000:??0QTiffHandlerPrivate@@QEAA@XZ
+40:
+  53:
+    4883EC:
+      20:
+        33DB48895424384585C0741A4183E801740C4183F801750E448D:
+          0. 16 AE8E 0063 (l)0000:_tiffSeekProc
+        41B8:
+          01000000488D15........488BD9E8........85C075214C:
+            0. 02 5E64 0174 0000:TIFFInitZIP
+          05000000488D15........488BD9E8........85C075214C:
+            0. 02 5E64 01B6 (l)0000:InitCCITTFax3
+        448B41484C8D0D........0FB75164488BD9E8........6683BB:
+          0. 08 056D 0070 0000:TIFFRasterScanlineSize64
+        48:
+          837A0801498BD87407B801000000EB490FB7420283F8047420:
+            0. 1C A29A 0066 (l)0000:TIFFReadDirEntryIfd8
+          8B:
+            41:
+              10488BD9488338007404B001EB65E8........488BC8E8:
+                0. 00 0000 0082 0000:?canRead@QTiffHandler@@UEBA_NXZ
+              40488BD94885C07529488B09E8........4C8D05:
+                0. 00 0000 005B 0000:TIFFRGBAImageGet
+            8130030000:
+              488BDA4C8B5808498BC04899:
+                482BC248D1F84C:
+                  0. 1D 8705 00E8 (l)0000:horDiff16
+                4D8BCB83E20349:
+                  0. 22 E484 00E0 (l)0000:horDiff32
+              4C8B:
+                CA:
+                  488B5808498BC04899:
+                    482BC248D1F84C:
+                      0. 1D 804D 00E5 (l)0000:horAcc16
+                    4C8BD383E20349:
+                      0. 22 C9F0 00DD (l)0000:horAcc32
+                  4C8B5008498BC0489949F7FA4885D274:
+                    0. 0B 9CC6 01A0 (l)0000:horAcc8
+                D24C8B4808498BC0489949F7F94885D274:
+                  0. 0B 9CC6 018D (l)0000:horDiff8
+            9170030000488BD94885D27E6E8B49100FBAE11473650FB7:
+              0. 14 443E 008E 0000:TIFFFlushData1
+            9930030000:
+              448B0B418BD183EA010F84CB00000083EA0174:
+                0. 09 14F4 00F2 (l)0000:PredictorSetup
+              488BC133C983634C0083634800836350006683:
+                0. 07 4251 0057 (l)0000:Fax3PreDecode
+            C1488BDA48B9FFFFFFFFFFFFFF7F483BD1771C488B889803:
+              0. 1F 6673 003F 0000:_TIFFSeekOK
+            D9:
+              488B:
+                094885C97405E8........488323004883C4205BC3:
+                  0. 00 0000 0020 0000:?close@QTiffHandlerPrivate@@QEAAXXZ
+                  1. 00 0000 0020 0000:??1QTiffHandlerPrivate@@QEAA@XZ
+                49504885C9740AE8........4883635000488B4B58:
+                  0. 06 32CF 00C9 0000:TIFFRGBAImageEnd
+              B9:
+                00000100E8........4533C9488983800000004C8BC0:
+                  0. 0B 2567 0074 (l)0000:BuildMapBitdepth16To8
+                08:
+                  000000E8........488983300300004885C07427F7:
+                    0. 0C FB2E 004C (l)0000:PackBitsPreEncode
+                  010000E8........33C9488983300300004885C075:
+                    0. 0B 80A8 0122 0000:TIFFInitLZW
+                18000000E8........488983E00000004885C00F848A:
+                  0. 93 0E36 00B3 (l)0000:TIFFDefaultRefBlackWhite
+              E8........:
+                33C048894318488943204889836802000083:
+                  0. 16 3065 0036 0000:TIFFCreateDirectory
+                41B901000000488D4C2438493BC14C894C24:
+                  0. 41 0C3D 0065 (l)0000:?defaultStripSize@@YAIPEAUtiff@@@Z
+                48:
+                  8B:
+                    8330030000488B88D80000004885C974:
+                      0. 02 B91A 005F (l)0000:LZWCleanup
+                    D0488BCB4883C4205BE9:
+                      0. 00 0000 001E 0000:TIFFCreateEXIFDirectory
+                  8D05........B928000000488903E8:
+                    0. 00 0000 004B 0000:??0QTiffHandler@@QEAA@XZ
+                84C075:
+                  0432C0EB1B488B4B108B4124FFC839:
+                    0. 17 3D07 0037 0000:?jumpToNextImage@QTiffHandler@@UEAA_NXZ
+                  07B801000000EB07488B43108B4024:
+                    0. 06 59CA 0026 0000:?imageCount@QTiffHandler@@UEBAHXZ
+                85C074:
+                  3341B801000000488D15........48:
+                    0. 03 C2A6 00AB 0000:TIFFInitCCITTFax4
+                  34488D05........BA0000010041B8:
+                    0. 22 451D 004E 0000:TIFFInitCCITTRLE
+                    1. 22 EACC 004E 0000:TIFFInitCCITTRLEW
+                  4F41B801000000488D15........48:
+                    0. 03 C2A6 006C 0000:TIFFInitCCITTFax3
+            DA4183C8FF488BCB488D15........E8........488BC348:
+              0. 05 28D1 0025 0000:?name@QTiffHandler@@UEBA?AVQByteArray@@XZ
+        4C8B89300300008BC2488BD92D24010000746F83E801745F83E8:
+          0. 7A 08B9 00C7 (l)0000:Fax3VSetField
+        6683B99A00000001488BD90F85FD0000006683796A060F85D100:
+          0. 2A F72A 0157 0000:TIFFScanlineSize64
+        8A0183CBFF3C61742B3C7274173C7774234C8BC94C8D05:
+          0. 00 0000 0052 0000:_TIFFgetMode
+        8B:
+          4110488BD9A840750BB8010000004883C4205BC30FBAE00C73:
+            0. 21 EA86 0045 0000:TIFFFlushData
+          C18BD925FF7F000075050F57C0EB36660F6EC0F30FE6C0F20F:
+            0. 02 DD45 0052 0000:LogL16toY
+        BB010000008BC23BD37D2EE8........4885C0488BC8B8002000:
+          0. 25 09A6 0045 0000:_TIFFDefaultStripSize
+        F7411000040000488BD97413F6413804740683794C007416E8:
+          0. 00 0000 00F9 0000:TIFFSetupStrips
+      3083790C00488BD90F8446010000E8........85C0750733C0E93B:
+        0. 30 005C 0164 0000:TIFFFlush
+      40:
+        448B5A104C8BD24181E30004000074088B928C020000EB068B92:
+          0. 0C 6303 0066 (l)0000:Fax3PrematureEOF (REF 0047: ??_C@_0CJ@EFAPGKPJ@Premature?5EOF?5at?5line?5?$CFu?5of?5?$CFs?5?$CF@)
+          1. 0C 6303 0066 (l)0000:Fax3Unexpected (REF 0047: ??_C@_0CJ@NONDILOO@Bad?5code?5word?5at?5line?5?$CFu?5of?5?$CFs?5?$CF@)
+          2. 0C 6303 0066 (l)0000:Fax3Extension (REF 0047: ??_C@_0DN@OGFBNKJD@Uncompressed?5data?5?$CInot?5supported@)
+        488B:
+          05........4833C44889442438488BD94C8D442420488B09:
+            0. 06 67DE 012C (l)0000:initCIELabConversion
+          D983EA010F849700000083EA010F848600000083EA017479:
+            0. 21 06F8 00B5 (l)0000:?exif2Qt@@YA?AV?$QFlags@W4Transformation@QImageIOHandler@@@@H@Z
+      504D8BD04863D94533C04C8BDA418A0284C074194D8BCA3C75740C:
+        0. 18 3233 00B6 0000:TIFFFdOpen
+    55565741564881ECC0040000488B05........4833C448898424B0040000:
+      0. 1C 25D2 00F4 0000:TIFFReadRGBAImageOriented
+  5553:
+    565741:
+      5441554156415748:
+        8BEC4883EC48834D50FF488D7920488B1F45:
+          0. 29 8534 0F3C 0000:TIFFReadDirectory
+        8D:
+          6C24E94881EC98000000488B05:
+            0. 3D AF82 0680 0000:_TIFFRewriteField
+          AC2428FCFFFF4881ECD8040000488B05:
+            0. 00 0000 0253 0000:TIFFReadRGBATileExt
+      56488BEC4883EC20488B4118488BD94885C07515BA0100000045:
+        0. 06 7CF5 02E4 0000:TIFFRewriteDirectory
+    5741564157488BEC4883EC40836530004885C97534214DE4488D05:
+      0. 00 0000 0174 0000:?canRead@QTiffHandlerPrivate@@SA_NPEAVQIODevice@@@Z
+41:
+  3BD00F8C:
+    0A020000488BC44889580848896810488970184889782041544156:
+      0. FF E7DF 0214 (l)0000:horizontalAccumulate8abgr
+    11020000488BC44889580848896810488970184889782041BAFF07:
+      0. FF E278 021B (l)0000:horizontalAccumulateF
+    19020000488BC44889580848896810488970184889782041564157:
+      0. FF 00E7 0223 (l)0000:horizontalAccumulate16
+    45020000488BC4488958084889681048897018488978204156448B:
+      0. FF EE88 024F (l)0000:horizontalDifference8
+    97030000488BC44889580848896810488970184889782041544156:
+      0. 3C 91BA 03A1 (l)0000:horizontalAccumulate12
+    9C020000488BC44889580848896810488970184889782041564157:
+      0. FF 0B6B 02A6 (l)0000:horizontalDifference16
+    DD010000488BC4488958084889681048897018488978204183F803:
+      0. FF B4E2 01E7 (l)0000:horizontalAccumulate11
+    F1010000488BC44889580848896810488970184889782041564C8B:
+      0. FF 3779 01FB (l)0000:horizontalAccumulate8
+  B90100000083F90275136683FAFF750D4584C00F8563010000418BC1C36641:
+    0. FF 787C 02DF (l)0000:_TIFFSetGetType
+448B895C0200004C8D05........488B8998030000E9:
+  0. 00 0000 001A (l)0000:codeLoop
+45:
+  33C9:
+    418D5101448BC2E9:
+      0. 00 0000 000F 0000:TIFFWriteDirectory
+    4D63D04585C07E2C468B048A418BC0C1E8100FB6C8410FB6C04181E000:
+      0. 18 8D51 0038 0000:?convert32BitOrder@QTiffHandler@@AEAAXPEAXH@Z
+    E9:
+      0. 00 0000 0008 0000:TIFFReadRGBAStrip (REF 0004: TIFFReadRGBAStripExt)
+  8BC041B9:
+    01000000E9:
+      0. 00 0000 000E (l)0000:_TIFFsetNString
+      1. 00 0000 000E 0000:_TIFFsetByteArray
+    02000000E9:
+      0. 00 0000 000E 0000:_TIFFsetShortArray
+    04000000E9:
+      0. 00 0000 000E 0000:_TIFFsetLongArray
+      1. 00 0000 000E 0000:_TIFFsetFloatArray
+    08000000E9:
+      0. 00 0000 000E (l)0000:_TIFFsetLong8Array
+      1. 00 0000 000E 0000:_TIFFsetDoubleArray
+48:
+  83EC:
+    180F28C20F293424F30F59412C0F28F1488BD1F30F5971280F28E9F30F:
+      0. 8B 62C5 016E 0000:TIFFXYZToRGB
+    28:
+      0FB7421066418900F64110807408498BC8E8........4883C428C3:
+        0. 00 0000 001F (l)0000:TIFFReadDirEntryCheckedSshort
+        1. 00 0000 001F (l)0000:TIFFReadDirEntryCheckedShort
+      44:
+        0FB70A4C8BD145890866443B493A760433C0EB60488B520833C045:
+          0. 50 D5B7 007E (l)0000:setExtraSamples
+        8B:
+          41744183F8FF7507B801000000EB1B8B514C418BC0F7D83BD073:
+            0. 22 CBF4 0052 0000:TIFFNumberOfStrips
+          D24D8BD9450FAFD0448BCA4585C0742933D2418BC241F7F0413B:
+            0. 0D 518B 0047 0000:_TIFFMultiply32
+      4533C9450FB7D166453BC8733D0FB70266413BC1721A66FFC06641FF:
+        0. 1E 87B1 0053 (l)0000:TIFFReadDirectoryCheckOrder
+      48:
+        8B:
+          0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+            0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QTiffPlugin@@YAPEAVQObject@@XZ@YAXXZ
+          114C8D05........488B8998030000E8........33C04883C428:
+            0. 01 EF04 0021 0000:_TIFFNoSeek
+          8148030000488B9130030000488982900000008B815003000089:
+            0. 18 25E2 0066 (l)0000:PixarLogPreEncode
+          89300300004885C97405E8........B8010000004883C428C3:
+            0. 00 0000 001F (l)0000:PackBitsPostEncode
+          9130030000488B81480300004C8D82800000004989008B817003:
+            0. 1B D4E4 0065 (l)0000:PixarLogPreDecode
+        8D54243CFF15........89442438488B4424384883C428C3:
+          0. 00 0000 001D (l)0000:_tiffSizeProc
+      4C:
+        8BD24D8BD94D0FAFD04C8BCA4D85C0742933D2498BC249F7F0493B:
+          0. 0D 518B 0047 0000:_TIFFMultiply64
+        8D442438BA03010000E8........0FB74424386683E8026683F802:
+          0. 1C 6CC5 003C (l)0000:isCCITTCompression
+      66837964:
+        027423440FB749644C8D05........488B8998030000488D:
+          0. 01 54B7 0038 (l)0000:NeXTPreDecode
+        047423440FB749644C8D05........488B8998030000488D:
+          0. 01 54B7 0038 (l)0000:ThunderSetupDecode
+      83:
+        790C01751A4C8D05........488B11488B8998030000E8:
+          0. 16 B138 0051 (l)0000:TIFFCheckRead
+        7C2450004D8BD0757783EA01745883EA01744A83EA01743C83EA01:
+          0. 18 815F 00F9 (l)0000:TIFFReadDirEntryOutputErr
+      8B4210418900F64110807408498BC8E8........4883C428C3:
+        0. 00 0000 001D (l)0000:TIFFReadDirEntryCheckedLong
+        1. 00 0000 001D (l)0000:TIFFReadDirEntryCheckedSlong
+        2. 00 0000 001D (l)0000:TIFFReadDirEntryCheckedFloat
+      E8........48:
+        83C9FF483BC1480F44C14883C428C3:
+          0. 00 0000 0019 0000:TIFFRawStripSize
+        8BC833C04885C9741448394110740E488D15:
+          0. 0C B481 002C 0000:TIFFIsCODECConfigured
+      FF15........F7D81BC0F7D8FFC84883C428C3:
+        0. 00 0000 0017 (l)0000:_tiffCloseProc
+    38:
+      440FB749724533DB4C8BD185D274388BD2498BC04903D0664585C974:
+        0. 33 130A 0084 (l)0000:checkInkNamesString
+      488B:
+        44246048834C2428FF4889442420E8........4883C438C3:
+          0. 00 0000 001E (l)0000:TIFFReadDirEntryArray
+        81E0000000448BC24A8B04C04885C07525488B89980300004C8D:
+          0. 01 D5A7 0041 0000:TIFFRawStripSize64
+      4C894C24204D8BC84C8BC233D2E8........4883C438C3:
+        0. 00 0000 001B 0000:_TIFFCheckMalloc
+      660F2F05........0F297424200F28C872:
+        07B8FF030000EB7EF20F10:
+          0. 01 D5A7 00A5 0000:LogL10fromY
+        0AB8FF7F0000E91D010000:
+          0. 04 783A 0147 0000:LogL16fromY
+      8364242000E8........4883C438C3:
+        0. 00 0000 0013 0000:TIFFReadRGBATile
+      8B:
+        41483BD07223448BCA4C8D05........FFC8488B11488B89980300:
+          0. 06 CA60 0085 0000:TIFFCheckTile
+        44246089442428C744242004000000E8........4883C438C3:
+          0. 00 0000 001E 0000:TIFFReadRGBAImage
+        C233D2F771746683B99A00000002448BC8754166443B4172722A0F:
+          0. 06 553B 0061 0000:TIFFComputeStrip
+    48:
+      488B44247841BA:
+        0100000048894424388B4424708944243089442428:
+          0. 07 A136 0030 (l)0000:TIFFWriteDirectoryTagCheckedByteArray
+        0200000048894424388B4424708944243089442428:
+          0. 07 A136 0030 (l)0000:TIFFWriteDirectoryTagCheckedAscii
+        0600000048894424388B4424708944243089442428:
+          0. 07 A136 0030 (l)0000:TIFFWriteDirectoryTagCheckedSbyteArray
+        0700000048894424388B4424708944243089442428:
+          0. 07 A136 0030 (l)0000:TIFFWriteDirectoryTagCheckedUndefinedArray
+      4C8BD1B9010000004D85C07506010A8BC1EB23488B44247848894424:
+        0. 16 2E78 003F (l)0000:TIFFWriteDirectoryTagByteArray
+      4D85C07508418D40010102EB27488B44247841BA:
+        0200000048894424:
+          0. 14 F915 003D (l)0000:TIFFWriteDirectoryTagAscii
+        0600000048894424:
+          0. 14 F915 003D (l)0000:TIFFWriteDirectoryTagSbyteArray
+        0700000048894424:
+          0. 14 F915 003D (l)0000:TIFFWriteDirectoryTagUndefinedArray
+      85C9745A83E9010F848500000083E901747983E901746D83E9017461:
+        0. 17 4986 009D (l)0000:?qt2Exif@@YAHV?$QFlags@W4Transformation@QImageIOHandler@@@@@Z
+  85:
+    C9:
+      74:
+        0C4885D2740748FF25........33C0C3:
+          0. 00 0000 0014 0000:_TIFFcalloc
+        1C4885D2741748B8FFFFFFFFFFFFFF7F482BC2483BC87F05488D0411:
+          0. 04 3DB5 0024 (l)0000:add_ms
+      750333C0C348FF25:
+        0. 00 0000 000F 0000:_TIFFmalloc
+    D27E:
+      2E4C8D4102418A480148FFCA418A40FE41884001418A40FF418848FE:
+        0. 14 21C8 0034 0000:TIFFSwabArrayOfLong
+        1. 14 21C8 0034 0000:TIFFSwabArrayOfFloat
+      4E4C8D4106418A480148FFCA418A40FA41884001418A40FB418848FA:
+        0. 34 368D 0054 0000:TIFFSwabArrayOfLong8
+        1. 34 368D 0054 0000:TIFFSwabArrayOfDouble
+  89:
+    5C24:
+      08:
+        4889:
+          6C24:
+            10:
+              448944241856574155415641574883EC408B8424A000:
+                0. 6B 2193 00E1 (l)0000:putcontig8bitYCbCr11tile
+              48897424:
+                18:
+                  4154415641574883EC30488BB190020000:
+                    0. 16 1CD2 013E 0000:TIFFReadEncodedTile
+                  57:
+                    41:
+                      5441:
+                        55415641574883EC:
+                          20:
+                            488B:
+                              81:
+                                30:
+                                  0. 45 305D 016E (l)0000:fpAcc
+                                E0:
+                                  0. 43 6C92 01FC (l)0000:ChopUpSingleUncompressedStrip
+                              B130:
+                                0. 1D EEA6 01E3 (l)0000:Fax3SetupState
+                              B930:
+                                0. 24 5F84 0287 (l)0000:Fax3Encode
+                            4C8B9130:
+                              0. 3B A753 02AF (l)0000:LogL16Encode
+                              1. 3B EA14 02A4 (l)0000:LogLuvEncode32
+                          30:
+                            488B:
+                              9930:
+                                0. 85 AF24 0396 (l)0000:PixarLogDecode
+                              A930:
+                                0. 37 A97D 0183 (l)0000:LogL16Decode
+                            498BD8BE:
+                              0. 10 35DC 06EF (l)0000:_TIFFVGetField
+                            4C8BB930:
+                              0. 34 0CDF 0183 (l)0000:LogLuvDecode32
+                          40:
+                            4C8BFA4C:
+                              0. 02 14C9 0613 0000:TIFFClientOpen
+                            8BB42490:
+                              0. 1A 0CE9 044F (l)0000:TIFFWriteDirectoryTagSampleformatArray
+                        574883EC200FB7691C33D2488B:
+                          0. 25 693F 02D7 (l)0000:makebwmap
+                      5641574883EC:
+                        20:
+                          448B1A4533D2410F:
+                            0. D6 99E5 01C5 (l)0000:TIFFWriteDirectoryTagData
+                          450FB7F9498BF848:
+                            0. 06 1912 007A (l)0000:LogLuvDecodeTile (000D: 2D) (REF 0026: TIFFTileRowSize)
+                            1. 06 1912 007A (l)0000:LogLuvDecodeStrip (000D: 2D) (REF 0026: TIFFScanlineSize)
+                            2. 06 1912 007B (l)0000:LogLuvEncodeTile (000D: 2E) (REF 0026: TIFFTileRowSize)
+                            3. 06 1912 007B (l)0000:LogLuvEncodeStrip (000D: 2E) (REF 0026: TIFFScanlineSize)
+                          488B:
+                            81:
+                              3003000045:
+                                0. 2C 0B79 0082 (l)0000:PackBitsEncodeChunk
+                              D800000049:
+                                0. 3F 1563 0175 (l)0000:TIFFAppendToStrip
+                            B1300300004C:
+                              0. 0E CB8F 0147 (l)0000:Fax3Encode1DRow
+                            D941BE010000:
+                              0. 25 F372 0118 (l)0000:setupMap
+                        30:
+                          33DB450FB7F94D8B:
+                            0. 1E 4148 00CF (l)0000:TIFFWriteDirectoryTagShortPerSample
+                          458BF14863EA498B:
+                            0. 05 B13F 020A (l)0000:TIFFFillStripPartial
+                          8BF2488BD9E8:
+                            0. 00 0000 02A4 0000:TIFFFillTile (0019: 41)
+                            1. 00 0000 02D8 0000:TIFFFillStrip (0019: 72)
+                        40:
+                          33FF450FB7F94D8B:
+                            0. 26 74D3 00C2 (l)0000:TIFFWriteDirectoryTagSlong8Array
+                          450FB7F94D8BF048:
+                            0. 2D 0A72 0098 (l)0000:TIFFWriteDirectoryTagSlongArray (000D: 02) (000F: 09)
+                            1. 2D 0A72 0098 (l)0000:TIFFWriteDirectoryTagFloatArray (000D: 02) (000F: 0B)
+                            2. 2D 0A72 0098 (l)0000:TIFFWriteDirectoryTagDoubleArray (000D: 03)
+                            3. 2D 6CC6 0096 (l)0000:TIFFWriteDirectoryTagSshortArray
+                          F6411080410FB7E9:
+                            0. 20 10A5 008B (l)0000:TIFFWriteDirectoryTagCheckedLongArray (0009: 8B) (000D: 02) (000F: 04)
+                            1. 20 10A5 008B (l)0000:TIFFWriteDirectoryTagCheckedSlongArray (0009: 8B) (000D: 02) (000F: 09)
+                            2. 20 10A5 008B (l)0000:TIFFWriteDirectoryTagCheckedFloatArray (0009: 8B) (000D: 02) (000F: 0B)
+                            3. 20 10A5 008B (l)0000:TIFFWriteDirectoryTagCheckedIfdArray (0009: 8B) (000D: 02) (000F: 0D)
+                            4. 20 10A5 008B (l)0000:TIFFWriteDirectoryTagCheckedDoubleArray (0009: 8B) (000D: 03) (000F: 0C)
+                            5. 20 10A5 008B (l)0000:TIFFWriteDirectoryTagCheckedIfd8Array (0009: 8B) (000D: 03) (000F: 12)
+                            6. 20 10A5 0089 (l)0000:TIFFWriteDirectoryTagCheckedShortArray (0009: 8D) (0011: 03)
+                            7. 20 10A5 0089 (l)0000:TIFFWriteDirectoryTagCheckedSshortArray (0009: 8D) (0011: 08)
+                          F741100000080041:
+                            0. 18 1BBA 00B2 (l)0000:TIFFWriteDirectoryTagCheckedLong8Array (003E: 10)
+                            1. 18 1BBA 00B2 (l)0000:TIFFWriteDirectoryTagCheckedSlong8Array (003E: 11)
+                    4883EC:
+                      20:
+                        0FB7E9498BF0488BCA488BFA:
+                          0. 01 3E9B 00AA 0000:TIFFRegisterCODEC
+                        33D2488D5938488BF9488BCB:
+                          0. 05 4C3A 01CE 0000:TIFFFreeDirectory
+                        418BF08BEA488BF9E8:
+                          0. 00 0000 006A 0000:_TIFFFindOrRegisterField
+                        48:
+                          83B9D003000000488BEA48:
+                            0. 32 1CD9 00E3 0000:_TIFFSetupFields
+                          8B:
+                            99:
+                              00040000498BF0488B:
+                                0. 11 A5B3 00A3 0000:TIFFSetClientInfo
+                              30030000:
+                                488BF983A3:
+                                  0. 12 007A 00CE (l)0000:PixarLogPostEncode (REF 0092: ??_C@_06OJHGLDPL@?$CInull?$CJ?$AA@)
+                                  1. 12 007A 00CE (l)0000:ZIPPostEncode (REF 0092: ??_C@_00CNPNBAHC@?$AA@)
+                                BD01000000:
+                                  0. 8D D5EF 016F (l)0000:PixarLogSetupEncode
+                            A930030000498BF8488B:
+                              0. 30 40CF 0050 (l)0000:PredictorDecodeRow
+                            B930030000488BF2498B:
+                              0. 1C 3C5D 00A4 (l)0000:Fax4Encode
+                            CA488BDAE8........48:
+                              0. 05 06CB 00BD 0000:?rgb48fixup@QTiffHandler@@AEAAXPEAVQImage@@@Z
+                        498B:
+                          38498BF1490FAFF9488B:
+                            0. 3E 20C3 005E (l)0000:td_lfind
+                          F0488BEA488BD94D85C0:
+                            0. 38 B1C7 00AF (l)0000:DumpModeEncode
+                        8BEA41B802000000488D15:
+                          0. 00 0000 017E 0000:TIFFInitSGILog
+                        F641:
+                          1040498BF1498BE88BFA:
+                            0. 08 CEA3 010A 0000:TIFFWriteRawStrip
+                          4004418BE8488BB93003:
+                            0. 0D CFCE 00AD (l)0000:PredictorPrintDir
+                      30:
+                        418BE8488BDA488BF9483B6A:
+                          0. 07 D83C 00C1 (l)0000:CheckDirCount
+                        498B:
+                          D9498BF8488BF2488BE9:
+                            0. 01 3E9B 0063 0000:_vsprintf_l (0004: 48) (000B: CE)
+                            1. 01 3E9B 0063 0000:vsnprintf (0004: 48) (000B: CF)
+                            2. 01 3E9B 0051 0000:_vfprintf_l (0004: 4C) (0007: 48)
+                            3. 01 3E9B 0067 0000:_vsnprintf_l (0004: 4C) (0007: 4C)
+                          E88BF24533C0488BD9E8:
+                            0. 00 0000 00CE 0000:TIFFVSetField
+                        8BFA498B:
+                          E9488B91D8000000:
+                            0. 0B 3EA0 00BD (l)0000:TIFFReadRawStripOrTile2
+                          F1:
+                            33D2498BE8488B:
+                              0. 02 22EC 00F3 0000:TIFFReadRawStrip
+                            BA01000000498B:
+                              0. 05 F18B 00CE 0000:TIFFReadRawTile
+                        F6411040498BF1498BE88BFA:
+                          0. 08 CEA3 009F 0000:TIFFWriteRawTile
+                      40:
+                        498B:
+                          D9498BF8488BF2488BE9:
+                            0. 01 3E9B 0069 0000:_vsnprintf_s (0008: 70)
+                            1. 01 3E9B 006D 0000:_vsnprintf_s_l (0008: 78)
+                          F98BF2498BE8488BD9E8:
+                            0. 00 0000 017C (l)0000:TIFFReadRawTile1
+                        F20F104C24700F57C0660F2F:
+                          0. 13 B3A8 0145 (l)0000:TIFFWriteDirectoryTagCheckedRational
+                2057415641574883EC20498BF04D8BF14D8B:
+                  0. 11 B3D4 00F8 0000:_TIFFReadEncodedStripAndAllocBuffer
+              564883EC204C8B91300300008BC2488BD92D18000100:
+                0. 2B F390 012B (l)0000:LogLuvVSetField
+              574883EC20:
+                488B:
+                  B930030000488BD94885FF755DB908:
+                    0. 04 238B 0125 (l)0000:LZWSetupDecode
+                  F9E8........488BD0488BCFE8:
+                    0. 00 0000 014E 0000:TIFFDefaultDirectory
+                83790C00498BF8488BD9751D4C8D05:
+                  0. 00 0000 014D 0000:TIFFWriteCheck
+            18:
+              488974242057:
+                415641574883EC3033FF498BD8488BF2:
+                  0. 2D 3BEC 008D (l)0000:_tiffWriteProc (REF 004D: __imp_WriteFile)
+                  1. 2D 3BEC 008D (l)0000:_tiffReadProc (REF 004D: __imp_ReadFile)
+                4883EC308BFA488BD983FAFF75038B79:
+                  0. 3C 9CA3 01D0 0000:TIFFVStripSize64
+              56574154415641574883EC300FB74202498BF0488BFA:
+                0. 40 C266 012C (l)0000:TIFFReadDirEntryIfd8Array
+          7424:
+            10:
+              48897C2418:
+                41564883EC:
+                  20:
+                    0FB74124488BD983F8010F:
+                      0. 97 9252 0143 (l)0000:buildMap
+                    41BE30000000418BF8418B:
+                      0. 04 F168 016B 0000:_TIFFCreateAnonField
+                    488B9930030000488BF948:
+                      0. 56 03EB 0176 (l)0000:LZWPreDecode
+                  30:
+                    488B8168030000488BD948:
+                      0. 3C 1222 017A (l)0000:ZIPDecode
+                    498BD9498BF04C0FAFC333:
+                      0. 25 5556 008D 0000:_TIFFCheckRealloc
+                  604C8B01488BFA488BD9488D:
+                    0. 01 54B7 00E5 0000:_TIFFPrintFieldInfo
+                4C8B1141817A04000100000F859F000000:
+                  0. B1 7C44 00D1 (l)0000:?checkGrayscale@@YA_NAEBV?$QVector@I@@@Z
+                554154415541564157488BEC4883EC704C:
+                  0. 12 F4CE 05E8 0000:TIFFRGBAImageBegin
+              57:
+                415641574883EC40488BFA488BD9498BD0E8:
+                  0. 00 0000 0278 0000:TIFFReadCustomDirectory
+                4883EC:
+                  20:
+                    0FBA711017488BD9488B8948030000498B:
+                      0. 13 22EF 00F6 0000:TIFFReadBufferSetup
+                    4533C08BFA488BF1E8........488BD848:
+                      0. 0E 3AAF 0054 0000:TIFFFieldWithTag
+                    488B:
+                      79108BF2488BD94885FF741E488B0F:
+                        0. 06 FA4C 0069 0000:??_GQTiffHandler@@UEAAPEAXI@Z
+                      9930030000488BF9418BC044898388:
+                        0. 1C 9467 00E8 (l)0000:ZIPEncode
+                      B1300300008BC2488BD92D0D000100:
+                        0. 48 0DF1 0167 (l)0000:PixarLogVSetField
+                      B930030000BE01000000488BD96639:
+                        0. 11 F8BF 01CA (l)0000:LogLuvInitState
+                      D9:
+                        498BF8488B8948030000488BF248:
+                          0. 0E A92F 00E5 0000:TIFFWriteBufferSetup
+                        B900000100E8........33FF4889:
+                          0. 10 42A7 00AB (l)0000:BuildMapUaToAa
+                      F2:
+                        488BF94585C074294183E801740E:
+                          0. 45 0441 0065 0000:?qtiffSeekProc@@YA_KPEAX_KH@Z
+                        498B:
+                          C04899498BD848F7B9380300:
+                            0. 13 21AD 0081 (l)0000:ThunderDecodeRow
+                          F841B804000000488D15:
+                            0. 00 0000 020A (l)0000:_TIFFPrettyPrintField
+                      F98BDA0FB7CAE8........488BCF48:
+                        0. 03 C8F4 004B 0000:TIFFSetCompressionScheme
+                      FA:
+                        488BF14585C0753B488B01FF5010:
+                          0. 10 C069 00D8 0000:?option@QTiffHandler@@UEBA?AVQVariant@@W4ImageOption@QImageIOHandler@@@Z
+                        498B:
+                          C04899488BF1:
+                            482BC2488BCF:
+                              0. 0A 274C 004B (l)0000:swabHorAcc16
+                            83E203488BCF:
+                              0. 0B 1C91 004C (l)0000:swabHorAcc32
+                          C9488D15........498BD949:
+                            0. 03 C8F4 00A7 0000:?capabilities@QTiffPlugin@@UEBA?AV?$QFlags@W4Capability@QImageIOPlugin@@@@PEAVQIODevice@@AEBVQByteArray@@@Z
+                    498B:
+                      F08BFA4533C0488BD9E8........45:
+                        0. 4C A3A7 006C 0000:TIFFVGetField
+                      F8488BF2488BD9E8........84C074:
+                        0. 0B FBCF 0045 0000:?qtiffReadProc@@YA_JPEAX0_J@Z
+                    4C8B91300300004C8BDA498BC0488BD948:
+                      0. 2B ED17 0116 (l)0000:LogLuvEncode24
+                    83790C00488BF97405E8........488BCF:
+                      0. 0A C4BB 017A 0000:TIFFCleanup
+                    8BF2488BD9E8........33C94885C00F84:
+                      0. 5C 6A53 00E4 0000:TIFFUnsetField
+                    B918000000498BF0488BFAE8........48:
+                      0. 03 AA8C 0053 0000:?create@QTiffPlugin@@UEBAPEAVQImageIOHandler@@PEAVQIODevice@@AEBVQByteArray@@@Z
+                    F30F1041048BF20F5AC0488BD9E8:
+                      0. 00 0000 00D1 0000:LogLuv24fromXYZ
+                    F7411000080000498BF1498BF8488BD975:
+                      0. 02 7386 0081 (l)0000:TIFFReadDirEntryData
+                  30:
+                    440FB7496A488BF9488B9930030000BE4C:
+                      0. 1D 71CA 0153 (l)0000:LogLuvSetupEncode
+                    488B:
+                      B930030000BE01000000488BD96639:
+                        0. 0B 0D0E 018A (l)0000:LogL16InitState
+                      FA498BF0488D54245C488BD9FF15:
+                        0. 00 0000 0098 (l)0000:_tiffMapProc
+                    498B:
+                      D8488BFA488BF1E8........:
+                        4533C9:
+                          0. 10 22F8 0044 0000:vfprintf
+                        48895C:
+                          0. 18 3F88 0054 0000:_vscprintf_l
+                      F8488BF2488BD94885C9741DB90200:
+                        0. 04 3244 00A7 (l)0000:Win32WarningHandler (0023: C8)
+                        1. 04 3244 008D (l)0000:Win32ErrorHandler (0023: D8)
+                    4C8B9930030000498BC0488BF24C8BD148:
+                      0. 27 18AA 0108 (l)0000:LogLuvDecode24
+                    8B:
+                      414C8BFA488BD93BD07224448BCA4C8D:
+                        0. 01 D5A7 0108 (l)0000:TIFFSeek
+                      FA498BF033D2488BD9E8........85C0:
+                        0. 1C D747 00B4 (l)0000:TIFFReadEncodedStripGetStripSize
+                  40488BF2488BD9488BCE488D15........E8:
+                    0. 00 0000 00ED 0000:TIFFOpen
+            18:
+              55574156488BEC4883EC30488BF1418BD90FB74A0249:
+                0. 06 B99A 01CD (l)0000:TIFFReadDirEntryArrayWithLimit
+              574883EC30498BD88BFA488BF183FA05754E488BCBE8:
+                0. 00 0000 0098 0000:?setOption@QTiffHandler@@UEAAXW4ImageOption@QImageIOHandler@@AEBVQVariant@@@Z
+          7C2410:
+            448B89D80300004183CBFF4D8BD04585C97431488BB9:
+              0. 65 6EA5 0085 (l)0000:TIFFReadDirectoryFindFieldInfo
+            488BD94181F8A03F00000F879F0000004533D2488D3D:
+              0. 00 0000 00C7 0000:uv_decode
+            4C8BD9BFFF0000003BD7418BC10F47D7443BCF448BD2:
+              0. 9F 7259 00BF 0000:TIFFYCbCrtoRGB
+        4C:
+          63CA488D1D........49C1F903442BC24C03C941BB0800000045:
+            0. BA 5B49 00DA (l)0000:find1span
+          8944241855565741544155415641574883EC:
+            300FB742024D8B:
+              E0:
+                0. 46 6D02 032A (l)0000:TIFFReadDirEntryLongArray
+              F0:
+                0. 46 A664 0312 (l)0000:TIFFReadDirEntrySlongArray
+            400FB742024D8BF8:
+              0. 45 AB7B 02F0 (l)0000:TIFFReadDirEntryLong8ArrayWithLimit
+        55:
+          488BEC4883EC2048837A0801498BD84C8BC9740AB801000000E9:
+            0. 52 3122 0143 (l)0000:TIFFReadDirEntryShort
+            1. 4E 5B1C 014C (l)0000:TIFFReadDirEntryLong
+            2. 4E 9C5C 0157 (l)0000:TIFFReadDirEntryLong8
+            3. 55 D1C0 0216 (l)0000:TIFFReadDirEntryFloat
+            4. 51 E46E 01C6 (l)0000:TIFFReadDirEntryDouble
+            5. 4A FB3E 0117 (l)0000:TIFFReadDirEntryByte
+          565741:
+            5441554156415748:
+              83EC300FB742024D8BE8:
+                488BEA4C8B:
+                  0. 41 844F 0461 (l)0000:TIFFReadDirEntryFloatArray
+                  1. 41 D358 044C (l)0000:TIFFReadDirEntryDoubleArray
+                4C8BF24C8B:
+                  0. 41 BFC7 02A7 (l)0000:TIFFReadDirEntrySlong8Array
+              8D:
+                6C24F94881ECA00000008B45774C:
+                  0. 7F 1237 02E4 (l)0000:putcontig8bitYCbCr41tile
+                AC2440F9FFFF4881ECC00700004C:
+                  0. 06 4639 103A 0000:?write@QTiffHandler@@UEAA_NAEBVQImage@@@Z
+            564157488BEC4883EC300FB73A458BF8488BDA4C8D4538:
+              0. 07 7F5C 0882 (l)0000:TIFFFetchNormalTag
+        574883EC:
+          20:
+            33FF488BD9397958751E4C8D05........488B899803:
+              0. 05 5B74 00B8 0000:TIFFTileRowSize64
+            41B802000000488D15........488BD9E8........85:
+              0. 06 7F98 0193 0000:TIFFInitPixarLog
+            448B515483C8FF448B4958488BD9448B415C443BD075:
+              0. 8A 9E8D 00FB 0000:TIFFNumberOfTiles
+            48:
+              63FA488BD985D27E3E4533C94C8BC7418D51088D4A:
+                0. 02 A9B1 006A 0000:??0?$QVector@I@@QEAA@H@Z
+              83B9D800000000488BF97505E8........4533C945:
+                0. 0A 4C0E 005B 0000:TIFFCheckpointDirectory
+              8B:
+                02488BFA488BD983380074108338FF7403F0FF00:
+                  0. 25 7337 00AF 0000:??0?$QVector@I@@QEAA@AEBV0@@Z
+                19488B3A488B4B20488B5720E8........8BC833:
+                  0. 1F B323 003F (l)0000:tagNameCompare
+                99:
+                  00040000488BFA4885DB7423488B4B10488BD7:
+                    0. 01 3E9B 0049 0000:TIFFGetClientInfo
+                  30030000488BF9:
+                    4883BB00010000007506FF91:
+                      0. 67 80E5 00A5 (l)0000:LZWPreEncode
+                    81FA150001007408FF93E800:
+                      0. 21 CD3F 008C (l)0000:ZIPVSetField
+                    8363480083637800488B8B80:
+                      0. 16 0A4F 00A1 (l)0000:Fax3PreEncode
+                    B948190100E8........4889:
+                      0. 14 AC0D 0058 (l)0000:LZWSetupEncode
+                    E8........488B83:
+                      E0000000:
+                        0. 27 B0E4 0086 (l)0000:ZIPCleanup
+                      F8000000:
+                        0. 22 AE9A 00F0 (l)0000:PixarLogCleanup
+                    F683DC000000:
+                      017413488D8B:
+                        0. 05 642E 009D (l)0000:ZIPSetupEncode
+                      027413488D8B:
+                        0. 05 642E 00A0 (l)0000:ZIPSetupDecode
+                B9:
+                  30030000:
+                    48:
+                      8BD9:
+                        488B4728488981F003000048:
+                          0. 14 37A7 005A (l)0000:LogLuvCleanup
+                          1. 1F 8C25 007A (l)0000:Fax3Cleanup
+                        83:
+                          7F4C08743A488B81500300:
+                            0. 0B F56A 0064 (l)0000:Fax3PostEncode
+                          BFDC000000027406FF91B8:
+                            0. 30 C72A 0084 (l)0000:ZIPPreEncode
+                        F687DC000000017506FF91A8:
+                          0. 33 29B5 0080 (l)0000:ZIPPreDecode
+                        FF57:
+                          7085C00F843A01000048:
+                            0. 03 C2A6 0166 (l)0000:PredictorSetupDecode
+                          7885C00F843401000048:
+                            0. 03 C2A6 0160 (l)0000:PredictorSetupEncode
+                      8D15........41B801000000488B:
+                        0. 02 22EC 00E8 0000:TIFFPredictorInit
+                    BA01000000488BD9448D420BE8:
+                      0. 00 0000 0086 (l)0000:Fax4PostEncode
+                  B8030000488B9998030000E8........488BCB:
+                    0. 10 05E3 0030 0000:TIFFClose
+                DA488BF9:
+                  4885D2750433C0EB23488D15:
+                    0. 04 BF6F 0047 0000:?qt_metacast@QTiffPlugin@@UEAAPEAXPEBD@Z
+                  E8........:
+                    488BD3488BCFE8:
+                      0. 2D 173A 004D 0000:TIFFCreateCustomDirectory
+                    4C8BC0488BD3488BCF488B:
+                      0. 09 B54A 002D 0000:TIFFReadEXIFDirectory
+                F9488BDA488BCAE8........:
+                  41B901000000488B:
+                    0. 13 19CA 0037 0000:_TIFFsetString
+                  4C8BC0488BD3488B:
+                    0. 0C 4124 0030 0000:_TIFFprintAscii
+            498BD8488B:
+              F94C8BC2488D15........E8........48:
+                0. 06 F2C9 0043 0000:_TIFFprintAsciiTag
+              FAE8........85C074:
+                1B488BC3488BCF48:
+                  0. 0B B7B9 003F (l)0000:swabHorDiff16
+                1C488BC3488BCF48:
+                  0. 0C 9E57 0040 (l)0000:swabHorDiff32
+            65488B0425580000008B0D........41B8........48:
+              0. 09 8104 0105 (l)0000:?qt_plugin_instance_QTiffPlugin@@YAPEAVQObject@@XZ
+            8B:
+              DA488BF9E8........:
+                84C0742185DB781D488B4710:
+                  0. 26 6729 0046 0000:?jumpToImage@QTiffHandler@@UEAA_NH@Z
+                F6C301740DBA:
+                  10000000488B:
+                    0. 02 632D 0034 0000:??_GQTiffPlugin@@UEAAPEAXI@Z
+                  20000000488B:
+                    0. 02 632D 0034 0000:??_GQImage@@UEAAPEAXI@Z
+              F9488BDAC1F910E8........0F57C90F28E8660F2F:
+                0. 14 97A1 00F8 0000:LogLuv32toXYZ
+              FA488BD9E8........85C0:
+                0F84AF0000004883BBE0:
+                  0. B8 45FD 00D8 (l)0000:TIFFStartStrip
+                74624883BBE000000000:
+                  0. 4A E114 0137 (l)0000:TIFFStartTile
+          30:
+            4533C08BFA488BD9E8........4885C075424C8B0B48:
+              0. 02 16E8 00AA (l)0000:OkToChangeTag
+            488B:
+              9930030000488D05........488981C803000048:
+                0. 25 6684 014A (l)0000:LogLuvSetupDecode
+              D9:
+                488BFA0FB74968E8........488B13488B8B98:
+                  0. 13 0F8A 005C (l)0000:TIFFNoDecode (001C: 33)
+                  1. 13 0F8A 005D (l)0000:TIFFNoEncode (001C: 83)
+                498BF8488B8970030000488BC2493BC87D2F44:
+                  0. 09 5CC0 0080 (l)0000:DumpModeDecode
+              DA488BF9E8........48895C24284C8BCF488364:
+                0. 11 2040 0048 0000:_vscprintf
+              F90F29742420488B09498BD80F28F14885C97405:
+                0. 01 3E9B 005C (l)0000:setDoubleArrayOneValue
+            8BF90F29742420C1E90E488BDA81E1FF030000E8:
+              0. 00 0000 0109 0000:LogLuv24toXYZ
+          50:
+            48:
+              833900488BFA488BD97404B001EB7A488BCFE8:
+                0. 00 0000 009F 0000:?openForRead@QTiffHandlerPrivate@@QEAA_NPEAVQIODevice@@@Z
+              8B4110488BD9837824000F8FB9000000E8:
+                0. 06 4E76 00E1 0000:?ensureHaveDirectoryCount@QTiffHandler@@AEBA_NXZ
+            8B4210458BD94C8BD2488BD9250004000074088B928C:
+              0. 10 FD81 0093 (l)0000:Fax3BadLength
+      10:
+        44894424185556574154415541564157488BEC4883EC40488BFA45:
+          0. 09 8AE0 0DF6 0000:TIFFPrintDirectory
+        4889:
+          4C240855565741544155415641574883EC404C8BA170030000:
+            0. 23 A795 028C (l)0000:ThunderDecode
+          6C24:
+            18488974242057:
+              41544155415641574883EC204C8B:
+                8968:
+                  0. 82 B7A1 0208 (l)0000:PackBitsEncode
+                A930:
+                  0. 2D C2A3 02B4 (l)0000:putspan
+              4883EC20F7411000000800:
+                0FB7FA488B:
+                  0. 32 D170 009F 0000:TIFFSetDirectory
+                488BD97508:
+                  0. 2F 0EEC 009D 0000:TIFFNumberOfDirectories
+            20565741564883EC4083B99802000000488BFA488BD975:
+              0. 04 BFF6 033C 0000:TIFFRGBAImageOK
+          7424:
+            18:
+              48897C24205541564157488BEC4883EC50:
+                33DB488D45:
+                  0. 36 5FF1 00E6 (l)0000:_TIFFFindFieldByName
+                4533FF488D:
+                  0. 35 B7F4 00FB 0000:TIFFFieldWithName
+              574883EC200FB74172498BF0488BF9483942087307B8:
+                0. 0C 5C5B 008A (l)0000:TIFFReadDirEntryPersampleShort
+            20:
+              55574156488BEC4883EC2083790C00440FB7F2488BD9:
+                0. 0C CE25 01FE 0000:TIFFUnlinkDirectory
+              57415641574883EC20488BD9488D35........488931:
+                0. 07 AAE4 01C1 (l)0000:?effectiveColorTable@@YA?AV?$QVector@I@@AEBVQImage@@@Z
+          7C241855488BEC4883EC6033DB488D45D0488945100F57C048:
+            0. 4B 9273 00B3 0000:TIFFFindField
+        4C894C242044894424185556574154415541564157488BEC4883EC:
+          0. 1D 8C94 1315 (l)0000:TIFFWriteDirectorySec
+        55565741564157488BEC4883EC:
+          20F74110000800004D8BF8488BFA:
+            0. 52 0B11 038E (l)0000:TIFFAdvanceDirectory
+          404533FF488BD94438791F740941:
+            0. 09 3418 0254 0000:?readHeaders@QTiffHandlerPrivate@@QEAA_NPEAVQIODevice@@@Z
+        574883EC:
+          20F7411000000800498BD8488BF97534F64110808B4210:
+            0. 0C 6037 006F (l)0000:TIFFReadDirEntryCheckedLong8
+            1. 0C 6037 006F (l)0000:TIFFReadDirEntryCheckedSlong8
+            2. 0C 6037 006F (l)0000:TIFFReadDirEntryCheckedDouble
+          40488B05........4833C44889442438488BD90FB74968:
+            0. 01 3E9B 007D (l)0000:_notConfigured
+      18:
+        4889:
+          4C2408555657415441554156415748:
+            8BEC4883EC70448B6560:
+              0. 92 F1AA 01D0 (l)0000:putcontig8bitYCbCr12tile
+            8D6C24F94881EC:
+              A00000:
+                0. A7 5CBF 03F9 (l)0000:putcontig8bitYCbCr22tile
+              C00000:
+                0. C6 A6EB 062A (l)0000:putcontig8bitYCbCr42tile
+          5424105556574154415541564157488D6C24D94881ECA00000:
+            0. 26 22C3 02EF (l)0000:gtTileContig
+        5556574883EC20488BD9488B09E8........85C0488D0D:
+          0. 03 E07D 039A (l)0000:PickContigCase
+        574883EC:
+          20:
+            33FF488BD948397968751FB930180000E8........48:
+              0. 0B A96A 0161 (l)0000:initYCbCrConversion
+            488BD9488B09E8........85C0488D15........0FB7:
+              0. 05 C3C9 0195 (l)0000:PickSeparateCase
+          50488B05........4833C4488944244048836424380048:
+            0. 21 CA99 012D (l)0000:TIFFFetchSubjectDistance
+        895424105556574154415541564157488BEC4883EC60498BF00F29:
+          0. 16 36A5 0D2F (l)0000:_TIFFVSetField
+      20:
+        48894C2408555657415441554156415748:
+          83EC40488B9930030000:
+            0. FF 1B3E 0420 (l)0000:LZWEncode
+          8BEC4883EC70448B7D60:
+            0. 7A F1C4 01A0 (l)0000:putcontig8bitYCbCr21tile
+        4C89442418488954241055565741544155415641574883EC50488B:
+          0. 37 4E70 050A (l)0000:Fax3DecodeRLE
+          1. 35 70CD 09D1 (l)0000:Fax4Decode
+        55565741:
+          544155415641574883EC:
+            40488BB130030000498BF84D63:
+              0. FF F82A 050A (l)0000:LZWDecodeCompat
+            50488BB130030000498BF84D63:
+              0. FF 2BF2 05B6 (l)0000:LZWDecode
+          56415748:
+            8BEC4883EC20488BD941BE02000000488B8998:
+              0. 38 3284 03CC (l)0000:TIFFLinkDirectory
+            8DAC2430FCFFFF4881ECD0040000488B05:
+              0. 00 0000 0155 0000:TIFFReadRGBAStripExt
+        574883EC40488B05........4833C44889442430F7411000000800:
+          0. 1B AA7F 00CA (l)0000:TIFFReadDirEntryCheckedSrational (0020: 56)
+          1. 1B AA7F 00CC (l)0000:TIFFReadDirEntryCheckedRational (0020: 58)
+    6C2408488974241048897C24184154415641574883EC20488B01488BF948:
+      0. 35 A615 0184 0000:?resize@?$QVector@I@@QEAAXH@Z
+    7C24084C63CA488D3D........49C1F903442BC24C03C941BB0800000045:
+      0. BA B5B0 00DA (l)0000:find0span
+    9168020000C3:
+      0. 00 0000 0008 0000:TIFFSetWriteOffset
+  8B:
+    0148:
+      8911C3:
+        0. 00 0000 0007 0000:TIFFSetFileName
+      FF6078:
+        0. 00 0000 0007 0000:?qtiffSizeProc@@YA_KPEAX@Z
+    05........48890D........C3:
+      0. 00 0000 000F 0000:TIFFSetWarningHandlerExt (REF 0003: _TIFFwarningHandlerExt)
+      1. 00 0000 000F 0000:TIFFSetErrorHandler (REF 0003: _TIFFerrorHandler)
+      2. 00 0000 000F 0000:TIFFSetErrorHandlerExt (REF 0003: _TIFFerrorHandlerExt)
+      3. 00 0000 000F 0000:TIFFSetTagExtender (REF 0003: _TIFFextender)
+      4. 00 0000 000F 0000:TIFFSetWarningHandler (REF 0003: _TIFFwarningHandler)
+    15........EB0D488B420866394808742A488B124885D275EE483915:
+      0. 00 0000 003E 0000:TIFFFindCODEC
+    41:
+      108B4020C3:
+        0. 00 0000 0008 0000:?currentImageNumber@QTiffHandler@@UEBAHXZ
+      18C3:
+        0. 00 0000 0005 0000:TIFFCurrentDirOffset
+      20C3:
+        0. 00 0000 0005 0000:TIFFFieldName
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QTiffPlugin@@UEBAPEBUQMetaObject@@XZ
+    81:
+      00010000BA2123000048054019010041BA080000004183CBFF8BCA4C8D:
+        0. 2B 7F41 004B (l)0000:cl_hash
+      30030000:
+        81FA:
+          15000100740748FFA0E00000008B80D8000000498B0889:
+            0. 07 5C0F 0027 (l)0000:ZIPVGetField
+          18000100740448FF60288B4004498B088901B801000000:
+            0. 01 EF04 0021 (l)0000:LogLuvVGetField
+          24010000726581FA25010000764F81FA46010000744281:
+            0. 58 312A 0078 (l)0000:Fax3VGetField
+          3D010000740448FF60580FB700498B08668901B8010000:
+            0. 02 D0FB 0022 (l)0000:PredictorVGetField
+        8338007422B803000000C741641000020041B84C8000006644:
+          0. 0F BD15 002F (l)0000:LogLuvClose
+        BA010000008490EC0000007407C7416408000100C3:
+          0. 00 0000 001C (l)0000:PixarLogClose
+      88030000C3:
+        0. 00 0000 0008 0000:TIFFGetMapFileProc
+      90030000C3:
+        0. 00 0000 0008 0000:TIFFGetUnmapFileProc
+      98030000:
+        48899198030000C3:
+          0. 00 0000 000F 0000:TIFFSetClientdata
+        C3:
+          0. 00 0000 0008 0000:TIFFClientdata
+      A0030000C3:
+        0. 00 0000 0008 0000:TIFFGetReadProc
+      A8030000C3:
+        0. 00 0000 0008 0000:TIFFGetWriteProc
+      B0030000C3:
+        0. 00 0000 0008 0000:TIFFGetSeekProc
+      B8030000C3:
+        0. 00 0000 0008 0000:TIFFGetCloseProc
+      C0030000C3:
+        0. 00 0000 0008 0000:TIFFGetSizeProc
+    89980300004C8D05........4C8BCA488D15........E9:
+      0. 00 0000 001D (l)0000:MissingRequired
+    9130030000488B4258488981F0030000488B4260488981E8030000488B42:
+      0. 24 0D64 0044 0000:TIFFPredictorCleanup
+    C10F57C048C1E820:
+      85C07806F3480F2AC1C3F2480F2AC1F20F5805:
+        0. 00 0000 0026 0000:_TIFFUInt64ToFloat
+      F2480F2AC185C07908F20F5805........C3:
+        0. 00 0000 001C 0000:_TIFFUInt64ToDouble
+    C4:
+      448948204489401848895010555356574154415541564157488D68A148:
+        0. 43 6D67 049A (l)0000:gtStripSeparate
+      4889:
+        5010:
+          48894808555356574154415541564157488D68984881EC2801:
+            0. 22 3D28 0B3C 0000:?read@QTiffHandler@@UEAA_NPEAVQImage@@@Z
+          4C8940184C8948205356574883EC30488B:
+            DA488D7018488BF9:
+              0. 01 3E9B 0057 0000:sprintf
+            FA488D7018488BD9:
+              0. 01 3E9B 0044 0000:fprintf
+        58:
+          08:
+            4889:
+              68:
+                10488970:
+                  18:
+                    48897820:
+                      41:
+                        5441:
+                          554156:
+                            4157:
+                              0FB7791E4C:
+                                0. FF B79D 09E8 (l)0000:putRGBcontig8bitCMYKtile
+                              440FB7611E:
+                                0. DB B6B4 00FB (l)0000:putRGBUAcontig16bittile
+                              8B5C245048:
+                                0. FF BC6A 0129 (l)0000:putCMYKseparate8bittile
+                            448B542448488B:
+                              0. C6 6D5A 00E6 (l)0000:putRGBAAseparate16bittile
+                            8B7424484C8BC2:
+                              0. FF D714 0229 (l)0000:putRGBseparate8bittile
+                          564157:
+                            4883EC:
+                              20:
+                                488B:
+                                  81:
+                                    0. 43 A384 0175 (l)0000:fpDiff
+                                  D9:
+                                    0. 16 F848 0244 (l)0000:EstimateStripByteCounts
+                                4D8BF8:
+                                  0. 11 8B5C 0234 (l)0000:NeXTDecode
+                              30:
+                                0FB781:
+                                  0. 4C 9C0A 0199 (l)0000:TIFFWriteDirectoryTagSubifd
+                                33DB45:
+                                  0. 3B 5918 012C (l)0000:TIFFWriteDirectoryTagLongLong8Array (REF 005B: TIFFWriteDirectoryTagCheckedLong8Array)
+                                  1. 3B 5918 012C (l)0000:TIFFWriteDirectoryTagIfdIfd8Array (REF 005B: TIFFWriteDirectoryTagCheckedIfd8Array)
+                                4533FF:
+                                  0. 03 E25C 02B1 0000:TIFFWriteScanline
+                                488BB9:
+                                  0. 59 CB29 0255 (l)0000:PixarLogEncode
+                                4D8BF8:
+                                  0. 29 5D49 00FB (l)0000:TIFFWriteDirectoryTagColormap
+                              40:
+                                33FF45:
+                                  0. 46 5725 01AB (l)0000:TIFFReadAndRealloc
+                                4D8BE1:
+                                  0. 11 A7E2 0185 (l)0000:TIFFFetchStripThing
+                                8B9C24:
+                                  0. 1D 44CC 018F (l)0000:TIFFWriteDirectoryTagCheckedRationalArray
+                              508B9C24:
+                                0. 21 8E02 01C1 (l)0000:TIFFWriteDirectoryTagCheckedSrationalArray
+                            8B695033DB8B71:
+                              0. FB 3B89 011B 0000:TIFFComputeTile
+                          578B74244085F60F8469:
+                            0. FF F149 03A5 (l)0000:putRGBAAseparate8bittile
+                        5541:
+                          5641574883EC:
+                            20:
+                              440FB7:
+                                0. 28 ECED 03EB (l)0000:makecmap
+                              4C8BB1:
+                                0. 07 E29F 018C (l)0000:PackBitsDecode
+                              F64110:
+                                0. 04 6E9F 02BE 0000:TIFFWriteEncodedStrip
+                            30F64110:
+                              0. 04 6E9F 02F3 0000:TIFFWriteEncodedTile
+                          57448B5424404C8BDA48:
+                            0. A9 F16C 00C9 (l)0000:putRGBseparate16bittile
+                        56:
+                          4157448B5424404C8BC244:
+                            0. 7F 3E83 009F (l)0000:put16bitbwtile
+                          448B4C24384C8BC2:
+                            0FB769:
+                              0. 68 5818 0088 (l)0000:putgreytile
+                            4C8B71:
+                              0. 68 B0AF 0088 (l)0000:put8bitcmaptile
+                          4883EC:
+                            20:
+                              48:
+                                63F2BD080000:
+                                  0. 14 4987 00C7 0000:?realloc@?$QVector@I@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                                8B:
+                                  3D:
+                                    0. 1F 7D00 0119 0000:TIFFGetConfiguredCODECs
+                                  A930030000:
+                                    0. 3F 0C98 005F (l)0000:PredictorEncodeRow
+                                    1. 36 190E 0179 (l)0000:LZWPostEncode
+                                    2. 33 8BCD 00E7 (l)0000:Fax3PutBits
+                                    3. 38 AAE8 018B (l)0000:Fax3PutEOL
+                                  B930030000:
+                                    0. 3F D632 00C1 (l)0000:Fax3Close
+                                  F2410FB7E9:
+                                    0. 09 8D24 00AB 0000:TIFFReadScanline
+                                  F9498BF148:
+                                    0. 0E D6C7 008D (l)0000:setByteArray
+                              498BF88BDA4C8B:
+                                0. 02 D101 03AF 0000:TIFFVGetFieldDefaulted
+                              4C8BB130030000:
+                                0. 2C D015 00A3 (l)0000:PredictorDecodeTile
+                              83790800498BD8:
+                                0. 87 9F71 017F (l)0000:Luv32fromLuv48
+                              8BEA488BF98B91:
+                                0. 15 271F 0104 (l)0000:TIFFGrowStrips
+                              F7414000020000:
+                                0. 1E 2935 018D (l)0000:Fax3PrintDir
+                            30:
+                              0FB76C2468418B:
+                                0. 19 98DC 008A 0000:TIFFWriteTile
+                              33F6488BFA488B:
+                                0. 27 BA42 010E (l)0000:TIFFCheckDirOffset
+                              488BB990020000:
+                                0. 19 8B98 0132 0000:_TIFFReadEncodedTileAndAllocBuffer
+                              4C8BF2418BF9BA:
+                                0. 0B 7BB0 00A5 0000:_TIFFReadTileAndAllocBuffer
+                                1. 0B F780 009C 0000:TIFFReadTile
+                              4D8BF1498BE848:
+                                0. 05 41D0 00C4 (l)0000:TIFFReadDirEntryDataAndRealloc
+                            40:
+                              49:
+                                83CEFF498BF9:
+                                  0. 0F BC56 00A6 0000:_TIFF_vsnprintf_f
+                                8B:
+                                  F0C701DC05:
+                                    0. 18 800D 01DF 0000:TIFFCIELabToRGBInit
+                                  F98BEA4D8B:
+                                    0. 05 9165 016A (l)0000:TIFFReadRawStrip1
+                              4C8BF2488BF149:
+                                0. 05 792C 0194 0000:TIFFOpenW
+                            50F30F1041048BEA:
+                              0. 14 8C76 018F 0000:LogLuv32fromXYZ
+                          8B4424404C8BC28B7C2438:
+                            0. FF 7BC1 016B (l)0000:put1bitbwtile
+                            1. FF 8CFB 016B (l)0000:put1bitcmaptile
+                        574883EC20488B9930030000:
+                          0. 1D 5850 0200 (l)0000:PixarLogSetupDecode
+                      8B4424384C8BC28B7C24309948:
+                        0. 8A 4DB6 00AA (l)0000:put4bitbwtile
+                        1. D0 7648 00F0 (l)0000:put2bitcmaptile
+                        2. D0 89EC 00F0 (l)0000:put2bitbwtile
+                        3. 8A EC13 00AA (l)0000:put4bitcmaptile
+                    4C89602041564157:
+                      0FB7711E488BDA8B44:
+                        0. 9E 6069 00BE (l)0000:putRGBUAcontig8bittile
+                      440FB7511E4C8BC28B:
+                        0. FF 65F3 02C5 (l)0000:putRGBcontig8bittile
+                    5741:
+                      544155415641574883EC30488D5930:
+                        0. 1B 5A85 030F 0000:TIFFYCbCrToRGBInit
+                      5641574883EC30:
+                        418BF0488D3D:
+                          0. 00 0000 01D4 0000:TIFFMergeFieldInfo
+                        4533F60F2970D84C:
+                          0. 3C 9728 019B (l)0000:TIFFDefaultTransferFunction
+                    66448948205741544155415641574883EC:
+                      0. 18 3492 0108 (l)0000:PredictorEncodeTile
+                  20:
+                    448940185741544155415641574883EC20:
+                      0. 10 286F 01CB (l)0000:_TIFFPrintField
+                    4C8940185741544155415641574883EC30:
+                      0. 59 AC3B 0185 (l)0000:TIFFWriteDirectoryTagTransferfunction
+                18488970205741544155415641574881EC800000000F:
+                  0. 2C E63E 095E (l)0000:horizontalDifferenceF
+              70:
+                10:
+                  488978184C89602041:
+                    55415641570FB7711E488BFA:
+                      0. FF CCD3 0139 (l)0000:putRGBcontig8bitCMYKMaptile
+                    564157440FB7711E:
+                      488BFA8B:
+                        0. AE 9528 00CE (l)0000:putRGBAAcontig16bittile
+                      4C8BDA8B:
+                        0. A5 D2B3 00C5 (l)0000:putRGBcontig16bittile
+                    8AC0418BF92AC2498BD84C8B:
+                      0. 1F 0944 028F 0000:_TIFFFax3fillruns
+                  574883EC500F2970E8418BF80F2978D80F28F1440F:
+                    0. 0B C880 0140 0000:uv_encode
+                1848897820554154415541564157488D68A84881EC30:
+                  0. FF AF20 0BF5 (l)0000:putcontig8bitYCbCr44tile
+            55565741544155415641574883EC60F20F1005........488B:
+              0. 14 A00B 0467 (l)0000:PixarLogMakeTables
+            574883EC50F30F101133DBF30F104104488BFAF30F1049080F:
+              0. 09 63DF 0176 0000:XYZtoRGB24
+          104889:
+            6818:
+              48897020:
+                488948085741:
+                  54415541564157:
+                    4883EC:
+                      20:
+                        0. 20 2DD0 0272 (l)0000:Fax3Encode2DRow
+                      50:
+                        0. 79 1E24 0107 (l)0000:putseparate8bitYCbCr11tile
+                    8B7C2458:
+                      0. FF 8A84 0127 (l)0000:putRGBUAseparate16bittile
+                  5541564157448B5C245048:
+                    0. C7 C879 00E7 (l)0000:putRGBUAseparate8bittile
+                57415641574883EC30498BE8498BF14C8D:
+                  0. 09 9265 00FE 0000:TIFFReadEncodedStrip
+              565741564883EC3033F68BFA488BD93971580F8475:
+                0. 58 216E 01C1 0000:TIFFVTileSize64
+            70184889782048894808554154415541564157488BEC48:
+              0. 67 B126 0118 (l)0000:putcontig8bitCIELab
+          18:
+            44894820488950105556574154415541564157488D68A14881:
+              0. 3C 5CD5 04ED (l)0000:gtTileSeparate
+            4889682056574154415641574881EC800300000F2970C8440F:
+              0. 0B FC0F 02B4 (l)0000:oog_encode
+          204C894018488950104889480855565741544155415641574883:
+            0. 34 2F3D 0619 (l)0000:Fax3Decode1D
+            1. 39 4AE0 0DAE (l)0000:Fax3Decode2D
+        680848897010488978184C897020415744:
+          0FB7511E4C8BC28B4424:
+            0. FF AB48 0319 (l)0000:putRGBAAcontig8bittile
+          8B5424384C8BCA440FB7:
+            0. 77 C46C 0097 (l)0000:putagreytile
+      8950104C8940184C8948204883EC284C8D4018E8........4883C428C3:
+        0. 00 0000 0020 0000:TIFFSetField (REF 0017: TIFFVSetField)
+        1. 00 0000 0020 0000:TIFFGetFieldDefaulted (REF 0017: TIFFVGetFieldDefaulted)
+        2. 00 0000 0020 0000:TIFFGetField (REF 0017: TIFFVGetField)
+    CA:
+      48:
+        B8565555555555555549F7E8488BC248C1E83F4803D0E9:
+          0. 00 0000 001F 0000:_TIFFSwab24BitData
+        FF25:
+          0. 00 0000 000A (l)0000:_tiffUnmapProc (REF 0006: __imp_UnmapViewOfFile)
+      498BC04899:
+        482BC248D1F8488BD0E9:
+          0. 00 0000 0016 0000:_TIFFSwab16BitData
+        83E2:
+          034803D048C1FA02E9:
+            0. 00 0000 0017 0000:_TIFFSwab32BitData
+          074803D048C1FA03E9:
+            0. 00 0000 0017 0000:_TIFFSwab64BitData
+      BA04000000448D4204E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@I@@AEAAXPEAU?$QTypedArrayData@I@@@Z
+  8D:
+    05........:
+      4889:
+        01488D05........48894108488BC1C3:
+          0. 00 0000 0019 0000:?qt_static_plugin_QTiffPlugin@@YA?BUQStaticPlugin@@XZ
+        81:
+          A0020000488D05........488981D8020000488981E8:
+            0. 0D 18AA 005A 0000:TIFFInitDumpMode
+          A8020000488D05........488981D8020000488981E8:
+            0. 09 E436 0029 0000:TIFFInitThunderScan
+          B0020000488D05........488981D8020000488981E8:
+            0. 10 1270 0030 0000:TIFFInitNeXT
+          D8020000488981E8020000488981F8020000488D05:
+            0. 00 0000 0061 0000:TIFFInitPackBits
+      C3:
+        0. 00 0000 0008 0000:TIFFGetVersion (REF 0003: TIFFVersion)
+        1. 00 0000 0008 0000:_TIFFGetExifFields (REF 0003: exifFieldArray)
+        2. 00 0000 0008 0000:_TIFFGetFields (REF 0003: tiffFieldArray)
+        3. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QTiffPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+        4. 00 0000 0008 0000:__local_stdio_printf_options (REF 0003: ?_OptionsStorage@?1??__local_stdio_printf_options@@9@9)
+    15........E9:
+      0. 00 0000 000C 0000:_TIFFNoRowEncode (REF 0003: ??_C@_08NBKMMBGP@scanline?$AA@)
+      1. 00 0000 000C 0000:_TIFFNoStripDecode (REF 0003: ??_C@_05GGNGIGHC@strip?$AA@)
+      2. 00 0000 000C 0000:_TIFFNoStripEncode (REF 0003: ??_C@_05GGNGIGHC@strip?$AA@)
+      3. 00 0000 000C 0000:_TIFFNoTileDecode (REF 0003: ??_C@_04CKOGFLMC@tile?$AA@)
+      4. 00 0000 000C 0000:_TIFFNoTileEncode (REF 0003: ??_C@_04CKOGFLMC@tile?$AA@)
+      5. 00 0000 000C 0000:_TIFFNoRowDecode (REF 0003: ??_C@_08NBKMMBGP@scanline?$AA@)
+    81E8030000C3:
+      0. 00 0000 0008 0000:TIFFAccessTagMethods
+  B8FFFFFFFFFFFFFF7F483BC11BC083E004C3:
+    0. 00 0000 0013 (l)0000:TIFFReadDirEntryCheckRangeSlong8Long8
+  FF:
+    25:
+      0. 00 0000 0007 0000:_TIFFrealloc (REF 0003: __imp_realloc)
+      1. 00 0000 0007 0000:_TIFFfree (REF 0003: __imp_free)
+    A1:
+      20030000:
+        0. 00 0000 0007 0000:TIFFDefaultStripSize
+      28030000:
+        0. 00 0000 0007 0000:TIFFDefaultTileSize
+4983C9FFE9:
+  0. 00 0000 0009 (l)0000:TIFFReadDirEntryLong8Array (REF 0005: TIFFReadDirEntryLong8ArrayWithLimit)
+4C:
+  2BC2:
+    488BCA4983E0FC33D2E9:
+      0. 00 0000 0011 0000:?defaultConstruct@?$QVector@I@@AEAAXPEAI0@Z
+    498BC94983E0FCE9:
+      0. 00 0000 000F 0000:?copyConstruct@?$QVector@I@@AEAAXPEBI0PEAI@Z
+  89442418:
+    48894C24085355565741544155415641574883EC:
+      380FB74202:
+        33ED:
+          0. 4F B36F 0385 (l)0000:TIFFReadDirEntryByteArray
+        4D8B:
+          0. 4A 519A 0394 (l)0000:TIFFReadDirEntrySshortArray
+          1. 4A 771F 036A (l)0000:TIFFReadDirEntryShortArray
+      480FB742024D8B:
+        0. 44 BFE2 0467 (l)0000:TIFFReadDirEntrySbyteArray
+    4C894C2420:
+      4883EC284C8D4C2448E8........4883C428C3:
+        0. 00 0000 001D 0000:_TIFF_snprintf_f
+      53:
+        5556574883EC38498BF0488D6C2478488BDA488BF9:
+          0. 01 3E9B 0057 0000:snprintf
+        574883EC384C8B0D........498BC0488BDA488BF9:
+          0. 1B A734 005C 0000:TIFFErrorExt (REF 0013: _TIFFerrorHandler)
+          1. 1B A734 005C 0000:TIFFWarningExt (REF 0013: _TIFFwarningHandler)
+    55535657415441554157488BEC4883EC3033FF48895118498BF148:
+      0. 1C 4524 0581 (l)0000:TIFFFetchDirectory
+  8B:
+    01488B0A418B003B0174032B01C333C04139400874078B4108412B4008C3:
+      0. 00 0000 0020 (l)0000:tagCompare
+    4128:
+      B8010000004C8B51304C8B49388A491CD3E083E8014863D078314D2B:
+        0. 30 EB5C 0050 (l)0000:cvtcmap
+      BA010000004C8B49304C8B51388A491CD3E285D27E32B90001000041:
+        0. 38 4632 0058 (l)0000:checkcmap
+    49104D85C07E71F20F1015........F20F101D........F20F1025:
+      0. 00 0000 007B (l)0000:Luv32toLuv48
+    8930030000:
+      81FA3D010000740449FF6160410FB700418901B80100000083:
+        0. 08 A45A 0028 (l)0000:PredictorVSetField
+      8BC22D0D000100741583F809740749FFA1F8000000418B81F4:
+        0. 17 8562 0037 (l)0000:PixarLogVGetField
+    C185D2781D3B91300100007D154863C2488D0C40498B8038010000488B0C:
+      0. 08 7F6D 0028 0000:TIFFGetTagListEntry
+    C24885C9741C48B8FFFFFFFFFFFFFF7F489948F7F94C3BC07F08490FAFC8:
+      0. 07 CDB4 0027 (l)0000:multiply_ms
+    C9488D15........488B0D........EB0C4C3949087421488BD1488B0948:
+      0. 0A DAA2 0045 0000:TIFFUnRegisterCODEC
+    CA4533C033D2E9:
+      0. 00 0000 000D 0000:TIFFWriteCustomDirectory
+    DC4989:
+      53104D8943184D894B20534883EC30488B05........488BD94885:
+        0. 11 82E1 004F 0000:TIFFError (REF 0017: _TIFFerrorHandler)
+        1. 11 82E1 004F 0000:TIFFWarning (REF 0017: _TIFFwarningHandler)
+      5B:
+        084989:
+          6B1049897318574883EC40F6411080410FB7F9:
+            0FB74424:
+              0. 16 0253 0085 (l)0000:TIFFWriteDirectoryTagCheckedShort
+            8B442470:
+              0. 14 CF00 007F (l)0000:TIFFWriteDirectoryTagCheckedLong
+          731049897B184D89732041574883EC304883A1E0030000:
+            0. 25 34FE 0125 0000:_TIFFMergeFields
+        184989531055565741544155415641574881EC90000000488B41:
+          0. 38 A8E7 02D0 (l)0000:gtStripContig
+  8D0D........4883FA080F8E860000004C8D42F749C1E80349FFC0498BC048:
+    0. 7D AF62 009D 0000:TIFFReverseBits
+4D85C0:
+  0F:
+    848D00000048895C24084889742410574883EC20498BF8488BDA488B:
+      0. 0B CA5C 0097 (l)0000:_TIFFprintAsciiBounded
+    8E:
+      2A01000048895C240848896C2410488974241857415641574883EC:
+        0. 46 6198 0134 (l)0000:Luv24fromLuv48
+      BB00000048895C24184889742420574883EC20488B7110498BF848:
+        0. 32 11B5 00C5 (l)0000:Luv24toLuv48
+  7507418D40010102C3:
+    0FB74424286689442428E9:
+      0. 00 0000 001B (l)0000:TIFFWriteDirectoryTagShort
+    8B4424283DFFFF0000770A6689442428E9:
+      0. 00 0000 002A (l)0000:TIFFWriteDirectoryTagShortLong
+    E9:
+      0. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagLong (REF 000D: TIFFWriteDirectoryTagCheckedLong)
+      1. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagLong8Array (REF 000D: TIFFWriteDirectoryTagCheckedLong8Array)
+      2. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagLongArray (REF 000D: TIFFWriteDirectoryTagCheckedLongArray)
+      3. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagRational (REF 000D: TIFFWriteDirectoryTagCheckedRational)
+      4. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagRationalArray (REF 000D: TIFFWriteDirectoryTagCheckedRationalArray)
+      5. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagShortArray (REF 000D: TIFFWriteDirectoryTagCheckedShortArray)
+      6. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagSrationalArray (REF 000D: TIFFWriteDirectoryTagCheckedSrationalArray)
+      7. 00 0000 0011 (l)0000:TIFFWriteDirectoryTagIfdArray (REF 000D: TIFFWriteDirectoryTagCheckedIfdArray)
+  7E:
+    4248895C24084889742410574883EC20488B7910498BD8488BF28B0F:
+      0. 07 6A09 0048 (l)0000:Luv32toXYZ (REF 0027: LogLuv32toXYZ)
+      1. 07 6A09 0048 (l)0000:Luv24toXYZ (REF 0027: LogLuv24toXYZ)
+    4B48895C24084889742410574883EC20488B7910498BD8488BF20FBF:
+      0. 05 53D5 0051 (l)0000:L16toY
+    5148895C24084889742410574883EC30488B7910498BD8488BF28B0F:
+      0. 09 4DC1 0057 (l)0000:Luv32toRGB (REF 0029: LogLuv32toXYZ)
+      1. 09 4DC1 0057 (l)0000:Luv24toRGB (REF 0029: LogLuv24toXYZ)
+    5248895C240848896C24104889742418574883EC20488B7910498BD8:
+      0. 10 D03F 0058 (l)0000:Luv32fromXYZ (REF 0030: LogLuv32fromXYZ)
+      1. 10 D03F 0058 (l)0000:Luv24fromXYZ (REF 0030: LogLuv24fromXYZ)
+    5748895C240848896C24104889742418574883EC20488B7910498BD8:
+      0. 14 92D8 005D (l)0000:L16fromY
+    7A48895C24084889742410574883EC30488B7110498BD80F29742420:
+      0. 0D C58D 0080 (l)0000:L16toGry
+660F2F05........0F28C876:
+  03B07FC3F20F1005........660F2FC1770D660F:
+    0. 0E C129 002E (l)0000:TIFFClampDoubleToInt8
+  06B8FF:
+    7F0000C3F20F1005........660F2FC177:
+      0. 13 D840 0033 (l)0000:TIFFClampDoubleToInt16
+    FFFF7FC3F20F1005........660F2FC177:
+      0. 13 49D8 0033 (l)0000:TIFFClampDoubleToInt32
+  09F30F1005........C3F20F1005........660F:
+    0. 08 7D0C 0035 (l)0000:TIFFClampDoubleToFloat
+816110FFFEFDFF488D15........4C8D0D........488991B0020000488D05:
+  0. 00 0000 00EE 0000:_TIFFSetDefaultCompressionState
+83:
+  3A01B8000100007D028902418338017D034189008B0A33C041B9F0FFFFFFF6:
+    0. 2C 150D 004C 0000:_TIFFDefaultTileSize
+  A19802000000488D05........83A1C002000000488981A0020000488981A8:
+    0. 10 6921 0030 (l)0000:NotConfigured
+  F9087F28742085C97E3983F9027E1183F90374127E2D83F9057E3183F9077F:
+    0. 33 7930 0053 0000:_TIFFDataSize
+  FA137710B821400C000FA3D07306B801000000C333C0C3:
+    0. 00 0000 0018 0000:?supportsOption@QTiffHandler@@UEBA_NW4ImageOption@QImageIOHandler@@@Z
+85C9:
+  488D15........488D05........480F45C2C3:
+    0. 00 0000 0015 0000:TIFFGetBitRevTable
+  75040F57C0C3660F6EC1F30FE6C0F20F5805........F20F5905:
+    0. 04 BED5 002D 0000:LogL10toY
+8A:
+  01884424088A4101884424098A41028844240A8A41038844240B8A41048844:
+    0. 1D F472 003D (l)0000:TIFFReadUInt64
+  4210418800C3:
+    0. 00 0000 0007 (l)0000:TIFFReadDirEntryCheckedSbyte
+    1. 00 0000 0007 (l)0000:TIFFReadDirEntryCheckedByte
+  51:
+    018A018841018811C3:
+      0. 00 0000 000B 0000:TIFFSwabShort
+    038A018841038A410188118A5102884102885101C3:
+      0. 00 0000 0017 0000:TIFFSwabLong
+      1. 00 0000 0017 0000:TIFFSwabFloat
+    074C8BC18A018841078A410188118A51068841068A41028851018A510588:
+      0. 15 1238 0035 0000:TIFFSwabLong8
+      1. 15 1238 0035 0000:TIFFSwabDouble
+8B:
+  41:
+    08895108C3:
+      0. 00 0000 0007 0000:TIFFSetFileno
+    0C89510CC3:
+      0. 00 0000 0007 0000:TIFFSetMode
+    10:
+      83E001C3:
+        0. 00 0000 0007 0000:TIFFIsMSB2LSB
+      C1E8:
+        0783E001C3:
+          0. 00 0000 000A 0000:TIFFIsByteSwapped
+        0A83E001C3:
+          0. 00 0000 000A 0000:TIFFIsTiled
+        0E83E001C3:
+          0. 00 0000 000A 0000:TIFFIsUpSampled
+  51:
+    58E9:
+      0. 00 0000 0008 0000:TIFFTileSize64 (REF 0004: TIFFVTileSize64)
+      1. 00 0000 0008 0000:TIFFTileSize (REF 0004: TIFFVTileSize64)
+    743B514C0F47514CE9:
+      0. 00 0000 000F 0000:TIFFStripSize64
+      1. 00 0000 000F 0000:TIFFStripSize
+  81:
+    30010000C3:
+      0. 00 0000 0007 0000:TIFFGetTagListCount
+    5C020000C3:
+      0. 00 0000 0007 0000:TIFFCurrentRow
+    64020000C3:
+      0. 00 0000 0007 0000:TIFFCurrentStrip
+    8C020000C3:
+      0. 00 0000 0007 0000:TIFFCurrentTile
+  C2488B9138030000480FAFD0B8010000004801916803000048299170030000:
+    0. 01 EF04 0021 (l)0000:DumpModeSeek
+8D82DCFEFFFF41B9F2C5000083F837771049B8030000021C008000490FA3C072:
+  0. FD 88F8 011D 0000:_TIFFCheckFieldIsValidForCodec
+B8:
+  000000804803C1B9FFFFFFFF483BC81BC083E004C3:
+    0. 00 0000 0016 (l)0000:TIFFReadDirEntryCheckRangeSlongSlong8
+  01000000C3:
+    0. 00 0000 0006 (l)0000:ZIPFixupTags
+    1. 00 0000 0006 (l)0000:PixarLogFixupTags
+    2. 00 0000 0006 (l)0000:LZWFixupTags
+    3. 00 0000 0006 (l)0000:LogLuvFixupTags
+    4. 00 0000 0006 (l)0000:Fax3FixupTags
+    5. 00 0000 0006 (l)0000:DumpFixupTags
+    6. 00 0000 0006 0000:_TIFFFillStriles
+    7. 00 0000 0006 (l)0000:_TIFFFillStrilesInternal
+    8. 00 0000 0006 (l)0000:_TIFFNoFixupTags
+    9. 00 0000 0006 0000:_TIFFNoPreCode
+    10. 00 0000 0006 (l)0000:_TIFFtrue
+  0400000083F9097F31745385C9784783F9027E2083F90374153BC8744183F9:
+    0. 40 CDDD 0060 0000:TIFFDataWidth
+  7F000000:
+    3AC11BC083E004C3:
+      0. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeSbyteByte
+    3BC11BC083E004C3:
+      0. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeSbyteLong
+    483BC11BC083E004C3:
+      0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeSbyteLong8
+    663BC11BC083E004C3:
+      0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeSbyteShort
+  800000006603C8B8FF000000663BC11BC083E004C3:
+    0. 00 0000 0016 (l)0000:TIFFReadDirEntryCheckRangeSbyteSshort
+  FF:
+    000000:
+      3BC11BC083E004C3:
+        0. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeByteSlong
+        1. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeByteLong
+      48:
+        3BC11BC083E004C3:
+          0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeByteSlong8
+          1. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeByteLong8
+        83E980483BC11BC083E004C3:
+          0. 00 0000 0012 (l)0000:TIFFReadDirEntryCheckRangeSbyteSlong8
+      663BC11BC083E004C3:
+        0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeByteSshort
+        1. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeByteShort
+      83E9803BC11BC083E004C3:
+        0. 00 0000 0010 (l)0000:TIFFReadDirEntryCheckRangeSbyteSlong
+    7F0000:
+      3BC11BC083E004C3:
+        0. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeSshortLong
+      483BC11BC083E004C3:
+        0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeSshortLong8
+      663BC11BC083E004C3:
+        0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeSshortShort
+    FF:
+      0000:
+        3BC11BC083E004C3:
+          0. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeShortSlong
+          1. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeShortLong
+        48:
+          3BC11BC083E004C3:
+            0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeShortSlong8
+            1. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeShortLong8
+          81C100800000483BC11BC083E004C3:
+            0. 00 0000 0015 (l)0000:TIFFReadDirEntryCheckRangeSshortSlong8
+        81C1008000003BC11BC083E004C3:
+          0. 00 0000 0013 (l)0000:TIFFReadDirEntryCheckRangeSshortSlong
+      FF:
+        7F:
+          3BC11BC083E004C3:
+            0. 00 0000 000D (l)0000:TIFFReadDirEntryCheckRangeSlongLong
+          483BC11BC083E004C3:
+            0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeSlongLong8
+        FF483BC11BC083E004C3:
+          0. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeLongSlong8
+          1. 00 0000 000E (l)0000:TIFFReadDirEntryCheckRangeLongLong8
+E9:
+  0. 00 0000 0005 0000:_TIFFmemcmp (REF 0001: memcmp)
+  1. 00 0000 0005 0000:_TIFFmemcpy (REF 0001: memcpy)
+  2. 00 0000 0005 0000:_TIFFmemset (REF 0001: memset)
+  3. 00 0000 0005 0000:TIFFTileRowSize (REF 0001: TIFFTileRowSize64)
+  4. 00 0000 0005 0000:TIFFVTileSize (REF 0001: TIFFVTileSize64)
+  5. 00 0000 0005 0000:TIFFRasterScanlineSize (REF 0001: TIFFRasterScanlineSize64)
+  6. 00 0000 0005 0000:TIFFScanlineSize (REF 0001: TIFFScanlineSize64)
+  7. 00 0000 0005 0000:TIFFVStripSize (REF 0001: TIFFVStripSize64)
+  8. 00 0000 0005 0000:?canRead@QTiffHandler@@SA_NPEAVQIODevice@@@Z (REF 0001: ?canRead@QTiffHandlerPrivate@@SA_NPEAVQIODevice@@@Z)
+  9. 00 0000 0005 0000:?qtiffWriteProc@@YA_JPEAX0_J@Z (REF 0001: ?write@QIODevice@@QEAA_JPEBD_J@Z)
+  10. 00 0000 0005 0000:?qt_metacall@QTiffPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QImageIOPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+EB13448A41:
+  0148FFCA8A01884101448801488D49024885D27FE8C3:
+    0. 00 0000 001B 0000:TIFFSwabArrayOfShort
+  0248FFCA8A01884102448801488D49034885D27FE8C3:
+    0. 00 0000 001B 0000:TIFFSwabArrayOfTriples
+F30F1005........0F57C9F30F1025........8BC2F3480F2AC8488B442430F3:
+  0. 03 0153 0116 0000:TIFFCIELabToXYZ

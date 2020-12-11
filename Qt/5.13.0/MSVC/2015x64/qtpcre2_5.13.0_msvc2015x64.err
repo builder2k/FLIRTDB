@@ -1,0 +1,847 @@
+0FB7:
+  11:
+    41B80100000083FA45771D83FA44737E83FA3E771048B9000000001ECC:
+      0. 75 805F 0095 (l)0000:is_accelerated_repeat
+    83FA62744B83FA63744083FA647441763683FA67763483FA69772C440F:
+      0. 39 7B87 0059 (l)0000:get_class_iterator_size
+  414AC3:
+    0. 00 0000 0005 0000:pcre2_get_ovector_count_16
+  D18BC2C1E0100BC2C3:
+    0. 00 0000 000B (l)0000:character_to_int32
+33:
+  C0:
+    0FB75102FFC0488D0C516683397874F0C3:
+      0. 00 0000 0013 (l)0000:no_alternatives
+    EB02FFC0C1F90485C975F7C3:
+      0. 00 0000 000E (l)0000:get_arg_count
+  D2:
+    41B80080000048FF25:
+      0. 00 0000 000F (l)0000:free_chunk
+    8BC2EB07488D490248FFC066391175F4C3:
+      0. 00 0000 0013 0000:_pcre2_strlen_16
+40:
+  53:
+    4883EC:
+      10:
+        33C9B8010000000FA2C1EA0F83E2018915........4883C4105B:
+          0. 01 EF04 0021 (l)0000:get_cpu_features
+        85C9744041B801000000413BC87E3183F9037E0A83F964752741:
+          0. 06 35E5 0055 (l)0000:sljit_has_cpu_feature
+      20:
+        41B801000000488BDAE8........F7D8481BC04823C34883C420:
+          0. 02 8FCC 0022 (l)0000:do_script_run_utf
+        4533C0488BDAE8........F7D8481BC04823C34883C4205BC3:
+          0. 00 0000 001F (l)0000:do_script_run
+        488B:
+          0D........4885C975154533C08D5101FF15........4889:
+            0. 01 D5A7 00A9 (l)0000:sljit_free_unused_memory_exec
+            1. 01 D5A7 00A9 0000:pcre2_jit_free_unused_memory_16
+          D9488B:
+            0D........4885C975154533C08D5101FF15:
+              0. 00 0000 015A (l)0000:sljit_free_exec
+              1. 00 0000 015A (l)0000:sljit_free_code
+            D1B9:
+              20000000E8........4885C0742A0F1005:
+                0. 00 0000 004B 0000:pcre2_convert_context_create_16
+              48000000E8........4885C0744D0F2805:
+                0. 00 0000 006E 0000:pcre2_compile_context_create_16
+              60000000E8........4885C074560F2805:
+                0. 00 0000 0077 0000:pcre2_match_context_create_16
+          DA:
+            4885D27508FF15........EB06488B5210FF134885C074:
+              0. 0D 32EB 0057 0000:_pcre2_memctl_malloc_16
+            B8010000004885D2752E3BC8762083F9027425760F83F9:
+              0. 56 35B1 0106 0000:pcre2_config_16
+        498BD84533C941B8010000004885DB752583FA137737742B83FA:
+          0. FF F480 0279 0000:pcre2_pattern_info_16
+        B8010000008BD93BC80F42D88D041B488D0CC550000000E8:
+          0. 00 0000 0035 0000:pcre2_match_data_create_16
+    555657415441554156415748:
+      81ECB80000008B42484533D2488B6A20488B:
+        0. FF 3BA2 1930 (l)0000:compile_bracket_backtrackingpath
+      83EC78488B05........4833C44889442460:
+        0. 96 E45A 0188 (l)0000:get_ucp (l)0188:$LN38
+  55535657:
+    4154415541564157488D:
+      6C24E14881ECB8000000488B8130010000:
+        0. 5D 8CB6 0AC1 (l)0000:compile_recurse
+      AC24:
+        08FFFFFF4881ECF8010000488B05:
+          0. 00 0000 2C26 (l)0000:compile_branch
+        38BAFFFFB8C8460000E8........48:
+          0. 05 FDA3 0D46 0000:pcre2_compile_16
+        68FEFFFF4881EC98020000488B05:
+          0. 00 0000 1251 0000:pcre2_substitute_16 (l)1251:$LN323
+        78FEFFFF4881EC88020000488B7918:
+          0. 35 F651 1B25 (l)0000:jit_compile
+        88AEFFFFB878520000E8........48:
+          0. 05 FDA3 1128 0000:pcre2_match_16
+        F886FFFFB8087A0000E8........48:
+          0. 05 FDA3 0DB9 0000:pcre2_dfa_match_16
+    488D6C24D14881EC98000000488B05........4833C44889451F49:
+      0. 46 D8C4 0B5A (l)0000:compare_opcodes
+44:
+  0F:
+    B60A458BD04181F9FF00000074514585C97511C6020166894A024585C074:
+      0. 42 BB86 0062 (l)0000:add_prefix_char
+    B7:
+      02B8970000004C8BC9443BC00F87CE0000000F84EE0000004183F86F0F:
+        0. 3F AAF0 014F (l)0000:next_opcode
+      09488BC24883C102482BC14883E0FE4883F8047C5441BB010000006683:
+        0. 56 FC33 0076 (l)0000:check_posix_syntax
+  894C24204C89442418:
+    48894C2408535556574881EC980000008B7960488D5A:
+      0. 93 1CF6 0A49 (l)0000:find_minlength (l)00F4:$LN54 (l)010B:$LN56 (l)012A:$PROCESS_NON_CAPTURE$348 (l)018C:$LN60 (l)0207:$LN65 (l)0242:$LL15 (l)0250:$LN14 (l)026B:$LN71 (l)0278:$LN72 (l)02A6:$LN73 (l)02E6:$LN75 (l)0311:$LN76 (l)031D:$LN78 (l)033B:$LN79 (l)033F:$LN80 (l)0351:$LN82 (l)0356:$LN64 (l)035E:$LN84 (l)0374:$LN85 (l)037C:$LN87 (l)0395:$LN90 (l)0412:$LN97 (l)05C5:$LN112 (l)07B4:$LN133 (l)0892:$LN142 (l)08C6:$LN144 (l)0925:$LN146
+    555356574154415541564157488D6C24E14881ECE800:
+      0. E1 B36F 150B (l)0000:compile_assert_matchingpath
+  8B:
+    494CB8FEFFFFFF4533DB4C8BD1443BC8752685D20F8581000000458BCB80:
+      0. 7E 50FC 009E 0000:pcre2_substring_length_bynumber_16
+    91C00100004C8BC941BB000001004585D27475440FB702418BC02500FC00:
+      0. 34 5568 0109 (l)0000:char_get_othercase_bit
+    CA4C8D15........4C8BC1410FB70881F9930000000F87BB00000081F98E:
+      0. FF 4A9E 0127 (l)0000:first_significant_code
+    D2:
+      4C8BC14533C941BB00002680418B1081E20000FFFF81FA000018800F87:
+        0. FF 4CB2 019A (l)0000:parsed_skip
+      E9CE000000664183F9750F84D4000000664183F97075060FB74102EB0B:
+        0. 82 B0F3 00EB (l)0000:find_recurse
+4533:
+  C9:
+    443989C00100007473440FB702418BC02500FC00003D00D80000751E0F:
+      0. 26 90DD 00A3 (l)0000:char_has_othercase
+    4533C0E9:
+      0. 00 0000 000B 0000:pcre2_substring_number_from_name_16 (REF 0007: pcre2_substring_nametable_scan_16)
+    4C8BD94585C074234C8D512881C200020000498B4318428D0C0A41FFC1:
+      0. 0F 80EA 002F (l)0000:set_type_bits
+  D24C8BCA4D85C07505418D42D0C383F9647C0C488D15........83C19CEB:
+    0. 08 4EE4 008C 0000:pcre2_get_error_message_16
+48:
+  63C1488D0D........0FB60408C3:
+    0. 00 0000 000F (l)0000:sljit_get_register_index
+  83:
+    2100:
+      488B426848894110488B42204885C07405488908EB0448894A084889:
+        0. 03 6464 0023 (l)0000:set_label
+      4963C048894110488B42284885C07405488908EB0448894A1048894A:
+        0. 02 2316 0022 (l)0000:set_jump
+    C8FF4889410889411083613800488B02488901C3:
+      0. 00 0000 0016 (l)0000:delayed_mem_copy_init
+    EC:
+      28:
+        48:
+          85C974:
+            07488B5110FF51084883C428C3:
+              0. 00 0000 0015 0000:pcre2_convert_context_free_16
+              1. 00 0000 0015 0000:pcre2_general_context_free_16
+              2. 00 0000 0015 0000:pcre2_match_context_free_16
+              3. 00 0000 0015 0000:pcre2_compile_context_free_16
+            0E488D41E8488B5010488BC8FF50084883C428C3:
+              0. 00 0000 001C 0000:pcre2_substring_list_free_16
+              1. 00 0000 001C 0000:pcre2_serialize_free_16
+              2. 00 0000 001C 0000:pcre2_substring_free_16
+          8B0D........4885C975184533C08D5101FF15........488905:
+            0. 00 0000 0036 (l)0000:allocator_grab_lock
+        4C8B49104C8BDA4C8BD1450FB7014585C074154183F8057609418D40:
+          0. 6A CA87 00BE (l)0000:detect_fast_forward_skip
+        F64110014C8BD9740D488B4118488B48104903C8EB09488B4918482B:
+          0. 68 D200 00CA (l)0000:generate_near_jump_code
+      38:
+        488B:
+          05........4833C44889442428C0E2034183F8087D15410AD066:
+            0. 31 8A0F 0067 (l)0000:load_from_mem_sse2
+          442460488944242844894C2420458BC8448BC2B210E8:
+            0. 05 D8B9 0025 (l)0000:emit_sse2_load
+        85D2750433C0EB264183F801750A83FA2074F183FA2774EC4C894C24:
+          0. 0E 431E 0037 (l)0000:emit_mov_before_return
+      48488B0941B80C0000004863C24533C948C1E0034889442438C7442430:
+        0. 14 9382 003D (l)0000:free_stack
+  85C9:
+    74:
+      08488951184C894120C3:
+        0. 00 0000 000E 0000:pcre2_jit_stack_assign_16
+      134885D2740E48836110FD488349100148895118C3:
+        0. 00 0000 0019 (l)0000:sljit_set_label
+      28534883EC20F6414901488BD9740B488B5110488B4920FF5308488B:
+        0. 0E 2D6D 002E 0000:pcre2_match_data_free_16
+      2948895C2408574883EC20488BFA488B5710488B19FF5708488BCB48:
+        0. 0F 4AE7 002F 0000:_pcre2_jit_free_rodata_16
+      4148895C2408574883EC20488B5918488BF933D241B800800000488B:
+        0. 04 C7D1 0047 0000:pcre2_jit_stack_free_16
+      59534883EC20488BD9488B49204885C97408488BD3E8........F743:
+        0. 3F 8EED 005F 0000:pcre2_code_free_16
+    75048D41CDC38139533252507406B8E1FFFFFFC38179040A002100B8E0:
+      0. 12 A0FE 0032 0000:pcre2_serialize_get_number_of_codes_16
+  89:
+    51:
+      1833C04C894120C3:
+        0. 00 0000 000B 0000:pcre2_set_compile_recursion_guard_16
+      2833C0:
+        4C894130C3:
+          0. 00 0000 000B 0000:pcre2_set_callout_16
+        C3:
+          0. 00 0000 0007 0000:pcre2_set_character_tables_16
+      3033C0C3:
+        0. 00 0000 0007 0000:pcre2_set_max_pattern_length_16
+      3833C04C894140C3:
+        0. 00 0000 000B 0000:pcre2_set_substitute_callout_16
+      4833C0C3:
+        0. 00 0000 0007 0000:pcre2_set_offset_limit_16
+    542410:
+      4883EC2841B808000000488D542438E8........4883C428C3:
+        0. 00 0000 001E (l)0000:sljit_unaligned_store_sw
+      555356574154415541564157488BEC4883EC68488B41184C8D4D48:
+        0. 67 7726 08FD (l)0000:compile_iterator_backtrackingpath
+    5C24:
+      08:
+        44:
+          0FB712488D5A024C8BD94181FAFF000000760680494780EB1A49:
+            0. 5F 1C4F 0110 (l)0000:set_table_bit
+          894C2420574883EC208B01458BD08BFA488BD985C0752E4C8B4C:
+            0. 0B 6469 0056 (l)0000:sljit_emit_icall
+        4533C94C8BD94585C074254C8D51288D9A00020000498B4318428D:
+          0. 1B ED3F 003B (l)0000:set_nottype_bits
+        4889:
+          5424105556574883EC2041BA01000000418BE8448954245848:
+            0. 0F 33A7 05F9 (l)0000:set_start_bits (l)007D:$LN34 (l)008D:$LN39 (l)0096:$LN40 (l)00D2:$LN295 (l)00DB:$LN47 (l)00E4:$LN48 (l)00EA:$LL16 (l)00FA:$LN50 (l)013A:$LN53 (l)014E:$LN54 (l)0165:$LN55 (l)016E:$LN56 (l)0174:$LN57 (l)017A:$LN72 (l)017E:$LN73 (l)0283:$LN83 (l)02AC:$LN86 (l)02B0:$LN87 (l)0349:$LN35 (l)0399:$LN45 (l)03A9:$LN58 (l)03AD:$LN59 (l)03CA:$LN60 (l)03CE:$LN61 (l)03D3:$LN62 (l)03E8:$LN63 (l)03F2:$LN64 (l)0407:$LN65 (l)042E:$LN66 (l)0432:$LN67 (l)0459:$LN68 (l)0460:$LN69 (l)04AB:$LN33 (l)04AF:$LN46 (l)04B6:$LN32
+          6C24:
+            10:
+              440FB709458BD0448BDA664585C90F842E010000488D:
+                0. 01 9F0A 015E 0000:_pcre2_find_bracket_16
+              4889:
+                74241857:
+                  41:
+                    5441:
+                      55415641574883EC:
+                        208B594C45:
+                          0. 64 4371 0141 0000:pcre2_substring_list_get_16
+                        30488B9C24:
+                          0. 31 8504 00EF (l)0000:add_not_list_to_class
+                        40:
+                          488B1945:
+                            0. 41 03DA 03B6 (l)0000:do_caselesscmp
+                            1. 22 9338 0434 (l)0000:compile_fail_accept_matchingpath
+                          4C8B3145:
+                            0. 19 CE5F 027F (l)0000:byte_sequence_compare
+                          66833A76:
+                            0. 0D 235A 0472 (l)0000:compile_callout_matchingpath
+                      564883EC40488B194533C0488B:
+                        0. 06 4327 028D (l)0000:do_utfpeakcharback_invalid
+                    5541574883EC40488B314533C0488B:
+                      0. 06 C433 0215 (l)0000:do_utfmoveback_invalid
+                    5641574883EC:
+                      20488BC14885C9740D:
+                        0. 14 4852 02F8 0000:pcre2_maketables_16
+                      30BE40000000418BE9:
+                        0. 60 0EAF 0232 (l)0000:emit_cmp_binary
+                      408BB4249800000041:
+                        0. 54 A704 01AC (l)0000:emit_shift_with_flags
+                  4883EC:
+                    20:
+                      48:
+                        837938004C8BCA4C8BD175:
+                          0. C4 02F1 00E4 (l)0000:do_callout
+                        8B:
+                          31488BF9488B99180100:
+                            0. 0A 9B99 00D7 (l)0000:flush_stubs
+                          39488BEA488BF1833F00:
+                            0. 0B 6066 006D (l)0000:add_stub (000F: 48)
+                            1. 0B 6066 006D (l)0000:add_label_addr (000F: E8)
+                          FA488BF1488BD9BD0300:
+                            0. 0B 0437 0067 0000:_pcre2_jit_free_16
+                      498BD8488BF94C8BC2410FB7:
+                        0. 4B 8840 0106 (l)0000:set_then_offsets
+                    30:
+                      418BF1498BD88BEA488BF90F:
+                        0. 05 EBD1 0188 (l)0000:is_anchored
+                      488B29488BD98B7938BE0300:
+                        0. 31 CE92 0085 (l)0000:delayed_mem_copy_finish
+                      83:
+                        7A3800488BDA488B310F85:
+                          0. 15 430A 010F (l)0000:compile_recurse_backtrackingpath
+                        F201418BE9418BF0488BF9:
+                          0. 01 3E9B 009B (l)0000:sljit_emit_cmov_generic
+                      8B018BEA81E500FF000033F6:
+                        0. 87 A03E 02C2 (l)0000:sljit_emit_op1
+                    408B0133FF498BF08BEA488BD9:
+                      0. 68 B6AA 00EB (l)0000:sljit_get_local_base
+                7C24184154415641574883EC30488B7C2470448B:
+                  0. 62 C773 027A (l)0000:emit_test_binary
+              56:
+                4883EC308B01498BE98BF2488BD985C00F85C30000:
+                  0. 1F 1F52 00F4 (l)0000:sljit_emit_ijump
+                574154415641574883EC204C8B6424704533D233ED:
+                  0. 5C A75B 024A (l)0000:get_framesize
+              574883EC:
+                204C8D5AFE498BD84C8BD1BF01000000493B:
+                  0. E7 F8AB 0289 (l)0000:check_opcode_types
+                304863FA458BD1498BE8488BD94183F93F7F:
+                  0. 47 1B3B 0168 (l)0000:emit_mov
+            18:
+              488974242057415641574883EC308B7424788D42FF83:
+                0. 69 B770 0378 (l)0000:emit_mul
+              565741564883EC208AC2408AF2F6D8498BE9458AF048:
+                0. 10 C2F6 0087 (l)0000:emit_do_imm32
+            2056574155415641574883EC504C8B1233DB8BFB8BEB4D:
+              0. FF B438 0194 (l)0000:find_text_end
+          742410:
+            48897C2418:
+              41564883EC20488B014C8BD24C8BC96683:
+                0. 07 3DE0 0121 (l)0000:do_callout
+              448B11498BF9498BD84C8BD9443BD20F87:
+                0. 07 FF75 0120 (l)0000:get_othercase_range
+              5541544156488BEC4883EC60498BF8488B:
+                0. 42 B766 0208 0000:pcre2_callout_enumerate_16
+            574883EC:
+              20:
+                0FB70233F6488B5C2458488BF966418900:
+                  0. FF CE5C 02DB (l)0000:get_iterator_parameters
+                48:
+                  63F2498BF8BA0B000000488BD9E8:
+                    0. 00 0000 0081 (l)0000:emit_load_imm64
+                  85C9488D1D........488BFA498BF048:
+                    0. 1E D143 0061 0000:pcre2_general_context_create_16
+                  8B:
+                    5110488BF9BE880000008BCEFF1748:
+                      0. 14 8C3C 0123 (l)0000:sljit_create_compiler
+                    5938488BF9488B7140EB0D488B5310:
+                      0. 3F 85B3 005F (l)0000:sljit_free_compiler
+                    D948:
+                      85C9750433C0EB6E488B511048:
+                        0. 18 B556 0099 0000:pcre2_code_copy_with_tables_16
+                      8B0D........4885C975184533:
+                        0. 06 402D 01B9 (l)0000:sljit_malloc_exec
+                    DA488BF14883F901724E4883FA0172:
+                      0. 0A F4FB 007B 0000:pcre2_jit_stack_create_16
+                8339008BF2488BD9740433C0EB73BA2000:
+                  0. 03 8AAD 00A0 (l)0000:sljit_emit_jump
+                8B:
+                  01488BF24963F8488BD985C0752C8D47:
+                    0. 05 08E9 005A (l)0000:sljit_emit_op_custom
+                  DA488BF14885C975058D41CDEB7EF7C3:
+                    0. 2E B45B 00AC 0000:pcre2_jit_compile_16
+              30:
+                488B394533C94863C2498BF0488BD94889:
+                  0. 17 CACA 00FA (l)0000:match_script_run_common
+                8B01:
+                  418BF88BF2488BD985C00F85A00000:
+                    0. 05 0CE8 00D1 (l)0000:sljit_emit_cmov
+                  488BD985C00F85:
+                    B800000081FA8E00:
+                      0. 23 985B 00E4 (l)0000:sljit_emit_fast_enter
+                    D400000081FA8E00:
+                      0. 19 AD4A 0100 (l)0000:sljit_emit_fast_return
+              40833900458BD08BFA488BF1740733C0E9ED:
+                0. D2 36BC 0120 (l)0000:sljit_emit_cmp
+          7C24:
+            10:
+              837C242800498BF8440FB719448BC2488BD9742F418B:
+                0. A3 5F27 00C3 0000:_pcre2_is_newline_16
+              8BC18BDA99448BD983E27F418BF803C2448BD083E07F:
+                0. 0C 86D3 020D (l)0000:check_char_prop
+            184C8974242055488BEC4883EC208B5D304C8BF166C745:
+              0. 2F 4149 00FC (l)0000:fast_forward_char_pair_sse2_compare
+        4C89:
+          4C2420:
+            448944241855565741544155415641574883EC2033F6:
+              0. 54 F9B7 0524 (l)0000:emit_x86_instruction
+            55565741544155415641574883EC204D85C9488D1D:
+              0. 00 0000 01D6 0000:pcre2_serialize_decode_16
+          6424104C896C241841574883EC40488B194533C0488BCB418D:
+            0. 03 D150 0191 (l)0000:do_getucd
+          74241041574883EC40488B194533C0488BCB418D5005E8:
+            0. 00 0000 016D (l)0000:check_vspace
+            1. 00 0000 016D (l)0000:check_anynewline
+        55565741544155415641574883EC204C8BFA4C8BE94C8BC2410FB7:
+          0. 89 3FE8 02C4 (l)0000:detect_repeat
+        574883EC:
+          20:
+            488B:
+              19488BF9833B00740433C0EB31488B4338488D4A:
+                0. 35 4136 0055 (l)0000:allocate_read_only_data
+              5110488BF9B9:
+                18000000FF17488BD84885C07414:
+                  0. 0D 5B93 003F 0000:pcre2_general_context_copy_16
+                20000000FF17488BD84885C07414:
+                  0. 0D 3EBC 003F 0000:pcre2_convert_context_copy_16
+                48000000FF17488BD84885C07414:
+                  0. 0D 1B2F 003F 0000:pcre2_compile_context_copy_16
+                60000000FF17488BD84885C07414:
+                  0. 0D 3B71 003F 0000:pcre2_match_context_copy_16
+              D948:
+                85C9750433C0EB3D488B5110488B4948FF13:
+                  0. 13 1D2A 005E 0000:pcre2_code_copy_16
+                8BFA488B49:
+                  40488B41084C8D04104981F8F0:
+                    0. 4F 1D6C 006F (l)0000:ensure_buf
+                  48488B41084C8D04104981F8F0:
+                    0. 4F BBBE 006F (l)0000:ensure_abuf
+              DA488BF9483B51187241483B5108733B488B05:
+                0. 00 0000 0086 (l)0000:sljit_stack_resize
+              FA488BD948:
+                85C97421488B43084885C07510488B:
+                  0. 06 D2FB 0049 (l)0000:do_search_mark
+                8B491833D241B800800000FF15:
+                  0. 00 0000 003A (l)0000:sljit_free_stack
+            4C8B5C24584C8BD1488B5C2450488BFA0FB605:
+              0. 00 0000 00DC (l)0000:do_callout
+            833900:
+              488BD9740433C0EB63488B41204885C0740A48:
+                0. 12 885B 0084 (l)0000:sljit_emit_label
+              498BF8488BDA751CBA10000000E8........48:
+                0. 1C E175 003C (l)0000:add_jump
+            8BDA488BF981FAFF000000771785D2740C8BCAFF15:
+              0. 00 0000 003E 0000:pcre2_set_glob_escape_16
+          30:
+            488B442468408AFA41F7D848894424288B442460458B:
+              0. 1D 0B8A 005E (l)0000:emit_sse2
+            4C894C24288BDA4533C944894424204533C0C7818000:
+              0. 0E 739C 0073 (l)0000:emit_prefetch
+          6033C0488BDA48894210488BF94889421848894208B881:
+            0. 11 6928 0080 (l)0000:compile_braminzero_backtrackingpath
+        837C2428004C8D51FE4D8BD88BDA744D410FB70A498D42FE41B800:
+          0. B5 A82A 00D5 0000:_pcre2_was_newline_16
+      10:
+        4889:
+          6C2418:
+            488974242057415441554156415748:
+              81EC800000004C:
+                0. 38 841A 04ED (l)0000:compile_backtrackingpath
+              83EC:
+                30488B3945:
+                  0. 28 F74E 021D (l)0000:compile_recurse_matchingpath
+                40:
+                  488B3945:
+                    0. 25 AA47 01F8 (l)0000:compile_then_trap_matchingpath
+                  8B01:
+                    33FF:
+                      0. 34 EC73 01F8 (l)0000:sljit_emit_op_flags
+                    418B:
+                      0. 9F 4544 048F (l)0000:sljit_emit_enter
+                60488B05:
+                  0. 00 0000 02FD (l)0000:optimize_class_chars
+              8B71104C8D25:
+                0. 00 0000 019F (l)0000:do_extuni_utf
+            56574155415641574883EC:
+              308B01488BD985C00F850F:
+                0. 2B 1B10 0249 (l)0000:sljit_emit_return
+              404C8B7A20BF8400000048:
+                0. 3D 7D14 0417 (l)0000:compile_assert_backtrackingpath
+          742418:
+            48897C2420554154415541564157488BEC48:
+              81EC8000:
+                0. 05 0A30 0727 (l)0000:fast_forward_first_char2_sse2
+              83EC6048:
+                0. 02 8E30 0662 (l)0000:optimize_class_ranges
+            5748:
+              81EC70020000488B05........4833C448898424:
+                0. 41 2093 0113 0000:_pcre2_study_16
+              83EC3080794801498BF9498BF0488BD97507B8D7:
+                0. 14 C569 00A4 0000:pcre2_substring_get_byname_16 (REF 009E: pcre2_substring_get_bynumber_16)
+                1. 14 C569 00A4 0000:pcre2_substring_copy_byname_16 (REF 009E: pcre2_substring_copy_bynumber_16)
+        4C8944241855565741544155415641574881ECA0000000488B3133:
+          0. 50 C3C3 1616 (l)0000:compile_bracket_matchingpath
+        555657415441554156415748:
+          83EC:
+            30488B2933FF4D8BE089BC2488:
+              0. 4D E58C 0563 (l)0000:init_frame
+            70488B3933ED498BD8896C2448:
+              0. 32 7A86 0C7A (l)0000:compile_bracketpos_matchingpath
+          8D6C24E14881EC90000000488B05:
+            0. 00 0000 12EF (l)0000:compile_char1_matchingpath
+        565741564883EC208B4110488BDA418BF0488BD148A90110000075:
+          0. 26 A567 00F9 (l)0000:generate_far_jump_code
+        574883EC2080794801498BF8488BD97507B8D7FFFFFFEB5C488B49:
+          0. 0C B9F5 0094 0000:pcre2_substring_length_byname_16
+      18:
+        4889:
+          5424105556574883EC2033FF418BE883CBFF488BF1891A8D57:
+            0. 32 E2A0 014E (l)0000:find_firstassertedcu
+          6C2420565741544155415641574C8B71184C8D15........48:
+            0. B1 049F 025A (l)0000:do_extuni_utf_invalid
+        4C894C242055565741544155415641574883EC304D8BE88BF2488B:
+          0. 35 DC6F 01FD (l)0000:call_with_args
+        555657415441554156415748:
+          83EC:
+            30488B294533FF498BF14D8BE8:
+              0. 40 DF96 0957 (l)0000:compile_matchingpath
+            60488B1933ED0FB702448BED66:
+              0. 4C 64C0 0AFE (l)0000:compile_ref_iterator_matchingpath
+            70488B05........4833C44889:
+              0. 86 3FF4 0235 (l)0000:compile_charn_matchingpath
+          8D6C24:
+            D94881EC90000000488B4118:
+              0. 60 3816 15D4 (l)0000:compile_iterator_matchingpath
+            F14881ECF0000000488B05:
+              0. 00 0000 0885 (l)0000:copy_recurse_data (l)0173:$LN16 (l)019C:$LN79 (l)0217:$LN84 (l)024E:$LN86 (l)026D:$LN87 (l)02D6:$LN90 (l)0348:$LN92 (l)036A:$LN95 (l)03BD:$LN98 (l)03EB:$LN101 (l)0420:$LN104 (l)044C:$LN106 (l)0481:$LN108 (l)04B6:$LN110 (l)0520:$LN27 (l)056A:$LN30 (l)058E:$LN120
+      20:
+        48894C240855565741544155415641574883EC20833900488BF974:
+          0. 28 2CD9 029C (l)0000:sljit_generate_code
+        4C8944241848894C24085556574154415541564157488BEC4883EC:
+          0. 82 B8DA 08C5 0000:_pcre2_check_escape_16
+        55565741544155415641574883EC60488B05........4833C44889:
+          0. AE A00E 0319 0000:_pcre2_auto_possessify_16
+  8B:
+    05........48832100488361180048895120488941104885C07404488948:
+      0. 04 229A 0029 (l)0000:sljit_insert_free_block
+    0D........48FF25:
+      0. 00 0000 000E (l)0000:allocator_release_lock (REF 0003: allocator_mutex)
+    41:
+      08:
+        4C8BD9F6406020440FB75070450FB7C27473B8FF00000066443BD077:
+          0. 2F 26AB 0098 (l)0000:fast_forward_first_char
+        C3:
+          0. 00 0000 0005 (l)0000:sljit_get_label_addr
+      28C3:
+        0. 00 0000 0005 0000:pcre2_get_mark_16
+      40:
+        4803413848034130C3:
+          0. 00 0000 000D 0000:_pcre2_jit_get_size_16
+        C3:
+          0. 00 0000 0005 0000:pcre2_get_startchar_16
+      78C3:
+        0. 00 0000 0005 (l)0000:sljit_get_generated_code_size
+    51104885D27408488B411848894218488B5118488B41104885D274054889:
+      0. 06 919B 002B (l)0000:sljit_remove_free_block
+    C14885D20FB78980000000480F45C2FFC1488BD0E9:
+      0. 00 0000 001B 0000:pcre2_match_data_create_from_pattern_16
+    C2488B521048FF:
+      20:
+        0. 00 0000 000A (l)0000:pcre2_jit_malloc
+      6008:
+        0. 00 0000 000B (l)0000:pcre2_jit_free
+    C4:
+      4889:
+        58:
+          08:
+            4889:
+              68:
+                104889:
+                  70:
+                    18:
+                      4489482057:
+                        41544155415641574883EC20:
+                          0. 2B C607 00ED (l)0000:add_name_to_table
+                        4883EC20498BF0488BDA41B8:
+                          0. A9 7EC0 0136 (l)0000:detect_fast_fail
+                      4889782041:
+                        5441:
+                          5541564157440FB71A41:
+                            0. 8E BD3F 0483 0000:_pcre2_xclass_16
+                          564157:
+                            4533DB4C8BD10F:
+                              0. FF 397F 036F (l)0000:get_chr_property_list
+                            4883EC:
+                              30:
+                                48:
+                                  635C:
+                                    0. 45 1FA6 00F6 (l)0000:get_grouplength
+                                  8B:
+                                    19:
+                                      0. 3B B392 00B4 (l)0000:set_lookbehind_lengths
+                                    5C:
+                                      0. 4B 6620 00A2 (l)0000:add_list_to_class_internal
+                                      1. 5C B1B5 00B3 (l)0000:add_list_to_class
+                                4D8BF8:
+                                  0. 0E 3D10 0097 0000:pcre2_substring_copy_bynumber_16
+                              40488B19:
+                                0. 0B 3189 02C8 (l)0000:check_hspace
+                              508B014D:
+                                0. D8 2F99 0298 (l)0000:sljit_emit_op2
+                        55415641574883EC:
+                          30488B39:
+                            0. 42 E4C9 018A (l)0000:compile_control_verb_matchingpath
+                          40488B:
+                            19:
+                              0. 50 19FC 0313 (l)0000:compile_bracketpos_backtrackingpath
+                              1. 0B 3189 0304 (l)0000:do_revertframes
+                              2. 29 5C4F 0278 (l)0000:peek_char_back
+                            42:
+                              0. 48 C515 020B (l)0000:compile_then_trap_backtrackingpath
+                        564883EC:
+                          20:
+                            488B31498BF844:
+                              0. A6 F99C 00C6 (l)0000:more_workspace
+                            8BEA488D35:
+                              0. 00 0000 007C (l)0000:check_posix_name
+                          30:
+                            4883B930010000:
+                              0. 4A 7593 00E5 (l)0000:compile_close_matchingpath
+                            4C8B742460418B:
+                              0. 0F D2BF 006F (l)0000:optimize_class
+                          40:
+                            488B314533C048:
+                              0. 07 A4B8 0211 (l)0000:do_utfreadnewline_invalid
+                            833D........FF:
+                              0. 1E 62BA 0179 (l)0000:emit_clz
+                        57:
+                          4883EC40:
+                            488B294533C048:
+                              0. 07 D9B4 0250 (l)0000:do_utfreadchar_invalid
+                            4C8B422033DB48:
+                              0. 33 339C 01F7 (l)0000:compile_ref_iterator_backtrackingpath
+                          4C8B11418BF04C8BDA488B:
+                            0. 90 555A 0252 (l)0000:read_name
+                      4C89:
+                        48205741544155415641574883EC20:
+                          0. 40 2316 0408 (l)0000:get_recurse_data_length (l)007C:$LN8 (l)008B:$LN28 (l)00B5:$LN32 (l)00E0:$LN34 (l)00E5:$LN35 (l)0113:$LN38 (l)0125:$LN40 (l)014B:$LN43 (l)0195:$LN46 (l)019B:$LN49 (l)01BB:$LN52 (l)01DD:$LN54 (l)01E3:$LN56 (l)0205:$LN58 (l)0243:$LN17 (l)026F:$LN64 (l)0279:$LN65 (l)0280:$LN20 (l)0291:$LN68 (l)029C:$LN69
+                          1. 33 A539 013C (l)0000:find_dupname_details
+                        60204155415641574883EC70488B05:
+                          0. 00 0000 04A1 0000:_pcre2_script_run_16 (l)04A1:$LN181
+                      57:
+                        41:
+                          544155415641574883EC:
+                            30:
+                              4C637138:
+                                0. 3A 010E 00C7 (l)0000:delayed_mem_copy_move
+                              4D8BE049:
+                                0. 0D 67E1 00AD 0000:pcre2_substring_get_bynumber_16
+                            40488B1945:
+                              0. 2A 2D67 0466 (l)0000:read_char
+                              1. 36 3E79 0279 (l)0000:move_back
+                              2. 2A DB05 03D1 (l)0000:read_char8_type
+                          5641574883EC:
+                            3083A1800000000041:
+                              0. 35 82C1 0115 (l)0000:emit_mov_half
+                              1. 34 8EBD 0128 (l)0000:emit_mov_byte
+                            404863715C418BD948:
+                              0. 2B 809E 01BA (l)0000:fast_forward_first_char2
+                        4883EC50498BF8488BEA488BF1483BCA:
+                          0. 0B FB1E 00E9 (l)0000:sljit_allocate_stack
+                    204C8940185741544155415641574883EC30:
+                      0. 82 7927 01B0 (l)0000:emit_lea_binary
+                  78184C89:
+                    602041574883EC40488B194533C048:
+                      0. 07 23AC 026F (l)0000:do_getucdtype
+                    6820415641578BC14C8BD2994D8BF0:
+                      0. 06 4EE3 022B 0000:_pcre2_extuni_16
+                    702041574883EC30:
+                      488B1941BF0100:
+                        0. 18 AA39 01B6 (l)0000:check_newlinechar
+                      83A18000000000:
+                        0. 43 8626 0198 (l)0000:emit_mov_int
+                1848897020:
+                  488950105741544155415641574883EC20:
+                    0. 62 0267 038E (l)0000:set_private_data_ptrs (l)00E0:$LN14 (l)0125:$LN16 (l)013B:$LN19 (l)0140:$LN17 (l)0156:$LN22 (l)0188:$LN18 (l)019C:$LN23 (l)01DE:$LN24 (l)01EB:$LN25 (l)01F0:$LN26 (l)01FA:$LN27 (l)0202:$LN28 (l)0217:$LN30 (l)022C:$LN32 (l)0234:$LN33 (l)0243:$LN34 (l)0253:$LN35
+                  895010574883EC30418BE9498BF8448BDA:
+                    0. 09 EA73 0200 (l)0000:is_startline
+              7010:
+                488978184C89:
+                  6020:
+                    4155415641574883EC40488B19:
+                      0. 0C 0580 0335 (l)0000:do_casefulcmp
+                      1. 28 2EE1 02D5 (l)0000:peek_char
+                    5541564157488BEC4881EC8000:
+                      0. FF A3D3 019D 0000:pcre2_jit_match_16
+                  682041574883EC40488B314533C948:
+                    0. 1D 6B0D 021B (l)0000:return_with_partial_match
+                  7020:
+                    41574883EC204D8BD98BF2493B:
+                      0. 69 8D52 0280 (l)0000:match_ref
+                    440FB7024883C202488B791041:
+                      0. 36 82D3 0187 (l)0000:do_extuni_no_utf
+                    488B7C243833DB4C8B194C8BF1:
+                      0. DB 8B32 00FB (l)0000:read_number
+                574883EC4048:
+                  8B39488BD948C740F00100000041B8:
+                    0. 20 C507 008D (l)0000:count_match
+                  C740F000FC00004533C9C740E84000:
+                    0. 1A CFE3 0087 (l)0000:jumpto_if_not_utf_char_start
+            4C8948204C8940184889501055565741544155415641574883:
+              0. 4B 6644 0158 0000:pcre2_substring_nametable_scan_16
+            574883EC4048C740F000FC00004533C9C740E8400000008BDA:
+              0. 13 6E11 0065 (l)0000:jump_if_utf_char_start
+          10:
+            448948204C894018488948085556574883EC4033F64D8BD84C:
+              0. FF F3AE 07E6 (l)0000:scan_prefix
+            4889:
+              6818488970205741544155415641574883EC40488B1945:
+                0. 2F 5006 0681 (l)0000:fast_forward_newline
+              701848897820554154415541564157488D68A14881EC00:
+                0. 06 D90C 0768 (l)0000:fast_forward_first_n_chars
+            4C8948204C89401848894808555657:
+              415441554156415748:
+                83:
+                  0. 12 9E77 01A6 0000:pcre2_serialize_encode_16
+                8B:
+                  0. FF E687 06F9 (l)0000:get_branchlength
+              488DA818FFFFFF4881EC:
+                0. FF 229C 5495 (l)0000:internal_dfa_match (l)068A:$LN170 (l)0843:$LN1494 (l)089F:$LN1495 (l)08FE:$LN193 (l)0995:$LN198 (l)0A0E:$LN203 (l)0A5A:$LN206 (l)0AB3:$LN210 (l)0B81:$LN217 (l)0BC5:$LN223 (l)0BDC:$LN227 (l)0BED:$LN231 (l)0D03:$LN237 (l)0D2F:$LN241 (l)0DF9:$LN248 (l)0F71:$LN262 (l)10F3:$LN280 (l)1148:$LN284 (l)119B:$LN289 (l)138B:$LN312 (l)163A:$LN332 (l)17F0:$LN346 (l)19AE:$LN359 (l)1B5A:$LN372 (l)1CDE:$LN386 (l)1EF7:$LN403 (l)2221:$LN427 (l)2305:$LN435 (l)2427:$LN449 (l)2512:$LN460 (l)25EC:$LN471 (l)25F7:$LN472 (l)2915:$LN496 (l)291D:$LN497 (l)29E3:$LN505 (l)29EF:$LN506 (l)2AF3:$LN520 (l)2AFB:$LN521 (l)2BE1:$LN532 (l)2BE9:$LN533 (l)2CF9:$LN544 (l)307A:$LN572 (l)31D4:$LN585 (l)3326:$LN603 (l)3445:$LN618 (l)351D:$LN633 (l)3560:$LN637 (l)3652:$LN653 (l)36E5:$LN658 (l)3801:$LN677 (l)3843:$LN683 (l)3884:$LN689 (l)390E:$LN695 (l)397C:$LN701 (l)39A4:$LN705 (l)3A6A:$LN712 (l)3A7B:$LN1684 (l)3BE9:$LN726 (l)3BFC:$LN1686 (l)3D47:$LN739 (l)3D57:$LN1687 (l)3E96:$LN752 (l)3EA7:$LN1683 (l)3FD3:$LN765 (l)3FE1:$LN1685 (l)4187:$LN782 (l)4538:$LN825 (l)4547:$LN826 (l)4672:$LN833 (l)4902:$LN867 (l)4B5C:$LN883 (l)4DA5:$LN901 (l)4FF8:$LN925 (l)50DF:$LN162 (l)5101:$LN169
+          1855565741544155415641574883EC40488B19:
+            4533ED4C896808:
+              0. 77 5135 0B08 (l)0000:mainloop_entry
+            488BF94533FF48:
+              0. 13 A441 0718 (l)0000:check_wordboundary
+          20:
+            4C89401866895010488948085556574883EC70488B39488BE9:
+              0. 6D 5CBB 1547 (l)0000:compile_simple_assertion_matchingpath
+            574883EC30488B91E0000000488BD983600800836010004883:
+              0. FF 277C 02E2 (l)0000:check_lookbehinds
+        6808488970104889781841:
+          54415641574883EC30488360E0004533:
+            0. 26 5D65 0217 (l)0000:check_str_end
+          55415641574883EC:
+            30488360E0004533:
+              0. 26 394F 01D5 (l)0000:detect_partial_match
+            40488B39BD020000:
+              0. 32 254C 01D7 (l)0000:reset_ovector
+      4C8948204C89401848895010894808555356574154415541564157488D:
+        0. FF 9C06 0421 (l)0000:compile_regex
+    D141B94000000033C941B80030000048FF25:
+      0. 00 0000 0018 (l)0000:alloc_chunk
+  8D:
+    05........C3:
+      0. 00 0000 0008 (l)0000:sljit_get_platform_name (REF 0003: ??_C@_0CG@FHEBJFGD@x86?564bit?5?$CIlittle?5endian?5?$CL?5unali@)
+      1. 00 0000 0008 0000:_pcre2_jit_get_target_16 (REF 0003: ??_C@_0CG@FHEBJFGD@x86?564bit?5?$CIlittle?5endian?5?$CL?5unali@)
+    4150C3:
+      0. 00 0000 0005 0000:pcre2_get_ovector_pointer_16
+  FF25:
+    0. 00 0000 0007 (l)0000:default_free (REF 0003: __imp_free)
+    1. 00 0000 0007 (l)0000:default_malloc (REF 0003: __imp_malloc)
+4C:
+  89:
+    4424185355565741544155415641574881ECA8000000488B19488D442470:
+      0. FF 3B78 210A (l)0000:compile_xclass_matchingpath
+    4C2420:
+      488954241048894C2408535556574883EC688BB424B8000000458B:
+        0. 54 FCCA 0469 (l)0000:add_to_class_internal
+      4C89442418555356574154415541564157488D6C24E84881EC1801:
+        0. FF 56E2 2CB6 (l)0000:parse_regex
+  8B:
+    124C8B5C24284D85D27412488BC1492B433848D1F8412B42044189420845:
+      0. 4C 22A1 006C (l)0000:manage_callouts
+    414033D2498B00498910498BD04C8BC04885C075EF48895140C3:
+      0. 00 0000 001C (l)0000:reverse_buf
+    C1:
+      4533C9EB0E0FBEC0664189004983C00248FFC28A0284C075EC66458908:
+        0. 0A 1C6C 002A 0000:_pcre2_strcpy_c8_16
+      4C2BC2410FB704106685C0750566390274140FB70A4883C202663BC874:
+        0. 0C 2A6A 002C 0000:_pcre2_strcmp_16
+    C94885D27466450FB71148FFCA418BC22500F800003D00D80000752D410F:
+      0. 51 55BE 0071 0000:_pcre2_valid_utf_16
+    DC49895B:
+      084989:
+        6B1049897318:
+          49897B204154415641574883EC30:
+            440FB7:
+              0. 46 6830 019B (l)0000:compile_dnref_search
+            4C8B39:
+              0. 34 9002 01EF (l)0000:match_capture_common
+          57:
+            41:
+              544155415641574883EC:
+                30:
+                  418BF844:
+                    0. 43 5EBC 0501 (l)0000:emit_cum_binary
+                  448BB424:
+                    0. 4C 23DA 03F3 (l)0000:emit_shift
+                  488B8424:
+                    0. 43 5B34 044A (l)0000:emit_non_cum_binary
+                4048:
+                  634144:
+                    0. 2C FE32 04DB (l)0000:copy_ovector
+                  8B1941:
+                    0. 36 BF05 02B4 (l)0000:do_reset_match
+              5541564883EC30488B42204533ED48:
+                0. 4E 082E 03D6 (l)0000:compile_control_verb_backtrackingpath
+            4883EC:
+              30:
+                488B442468498BE9448B4C24:
+                  0. 24 B1CF 0115 (l)0000:emit_unary
+                8B819000000033DB488B3148:
+                  0. 45 5939 012D (l)0000:check_partial
+              40488B19BE0C0000004863C248:
+                0. 28 C825 00C1 (l)0000:allocate_stack
+        7310:
+          49897B1841564883EC30488B44246085D241BE0F00:
+            0. 1D 79DA 0147 (l)0000:emit_not_with_flags
+          574883EC40:
+            488B31B802000000498943F0488BF9C7:
+              0. 1E E762 0081 (l)0000:reset_fast_fail
+            8B8190000000488BF9488B3183F80275:
+              0. 30 FBF1 00DE (l)0000:check_start_used_ptr
+      10:
+        4589431849894B0855565741544155415641574883EC504863:
+          0. 32 BA39 03C2 (l)0000:search_requested_char
+        4989:
+          6B18498973205741544155415641574883EC404C8B7908:
+            0. 4A 274B 03EA (l)0000:fast_forward_start_bits
+          7318:
+            45894B2049894B0857415441574883EC40488B190F:
+              0. 3A AE4D 0215 (l)0000:match_once_common
+            49897B20554154415541564157488BEC4883EC5048:
+              0. 43 4F6C 013E (l)0000:read_repeat_counts
+      1845894B204989531055565741544155415641574883EC500FB7:
+        0. 5C B591 0D8F (l)0000:compile_ref_matchingpath
+4D85C074:
+  1A440FBE0A48FFC20FB701488D490266443BC875094983E80175E633:
+    0. 0A 08F4 002A 0000:_pcre2_strncmp_c8_16
+  1B482BCA0FB70411440FB70A488D520266443BC875094983E80175E8:
+    0. 0B D8F5 002B 0000:_pcre2_strncmp_16
+66:
+  44894C24204C89442418555356574154415541564157488BEC4883EC784C8B:
+    0. FE 490A 9241 (l)0000:match (l)013D:$LN603 (l)01E1:$LN608 (l)021B:$LN610 (l)03CC:$LN619 (l)04A3:$LN622 (l)04D9:$LN626 (l)0519:$LN629 (l)052C:$LN633 (l)0642:$LN645 (l)07E5:$LN658 (l)0944:$LN674 (l)0961:$LN675 (l)0977:$LN676 (l)097F:$LN677 (l)0988:$LN678 (l)099B:$LN679 (l)09A0:$LN680 (l)09A9:$LN681 (l)0ED1:$LN759 (l)0EE7:$LN760 (l)0EFD:$LN761 (l)0F14:$LN762 (l)0F27:$LN763 (l)0F2C:$LN764 (l)0F35:$LN765 (l)0F4B:$LN766 (l)1450:$LN872 (l)17D6:$LN896 (l)1A49:$LN953 (l)1AC3:$LN977 (l)1B38:$LN984 (l)1BAA:$LN990 (l)1C1C:$LN997 (l)1C8F:$LN1003 (l)1D02:$LN1010 (l)1E05:$LN1025 (l)1ECA:$LN1032 (l)1F8F:$LN1039 (l)2021:$LN1046 (l)20B3:$LN1053 (l)2412:$LN1087 (l)24E2:$LN1095 (l)24FF:$LN1096 (l)252B:$LN1097 (l)253E:$LN1098 (l)2543:$LN1099 (l)254C:$LN1100 (l)2562:$LN1101 (l)5821:$LN1830 (l)5891:$LN1832 (l)5B60:$LN1872 (l)5B83:$LN1887 (l)5B9C:$LN1919 (l)5BDA:$LN1922 (l)5E09:$LN1947 (l)5E99:$LN3535 (l)5EB2:$LN1955 (l)60FC:$LN1976 (l)611F:$LN1979 (l)612C:$LN1981 (l)6143:$LN1983 (l)618A:$ASSERT_NL_OR_EOS$4080 (l)62BC:$LN1995 (l)6392:$LN2000 (l)647C:$LN2009 (l)6494:$LN2011 (l)64A1:$LN2012 (l)883D:$LN2051 (l)88F0:$LN2598 (l)8B12:$LN1852 (l)8B26:$LN1870 (l)8B54:$LN1873 (l)8B73:$LN1876 (l)8B80:$LN1877 (l)8BCE:$LN1892 (l)8BDE:$LN1893 (l)8C11:$LN547 (l)8CAE:$LN552 (l)8CE2:$LN1913 (l)8D16:$LN2038 (l)8D50:$LN2041 (l)8D74:$LN2043 (l)8DAE:$LN2045 (l)8DD1:$LN2047 (l)8E08:$LN2049 (l)8E28:$LN2054 (l)8E48:$LN2056
+  83F92EBA3B000000661BC06625F3FF6683C02E663BCA660F43C2BA48000000:
+    0. 1C 80DF 003C (l)0000:get_repeat_base
+  895424104883EC2841B802000000488D542438E8........4883C428C3:
+    0. 00 0000 001E (l)0000:sljit_unaligned_store_s16
+  900FB7:
+    01:
+      6685C0750438027419440FBE024883C10248FFC266443BC074E31B:
+        0. 0A E308 002A 0000:_pcre2_strcmp_c8_16
+      83F804724083F805761983F818763683F81C760F83F876740A83F8:
+        0. 0E 3147 0050 (l)0000:assert_needs_str_ptr_saving
+    4102488D0C416683397874F2488D4104C3:
+      0. 00 0000 0015 (l)0000:bracketend
+81F9FFFF0000770966890AB801000000C381C10000FFFF41B800D800008BC1C1:
+  0. 23 73FB 0043 0000:_pcre2_ord2utf_16
+83:
+  3900:
+    75:
+      06C70102000000C3:
+        0. 00 0000 000C (l)0000:sljit_set_compiler_memory_error
+      178D42FF83F87F770F8D42074863D04883E2F8E9........33C0C3:
+        0. 00 0000 001F (l)0000:sljit_alloc_memory
+    B8040000000F4501C3:
+      0. 00 0000 000C (l)0000:sljit_emit_mem
+  B9C001000000448BC2744C4183F87F76464C8D0D........418BC09983E27F:
+    0. 14 5834 0071 (l)0000:char_othercase
+  F90B7F50747783F9057F210F848F00000085C9746583E901745D83E9017455:
+    0. 84 B2E7 00A4 (l)0000:get_jump_code
+89:
+  51:
+    3C33C0C3:
+      0. 00 0000 0006 0000:pcre2_set_parens_nest_limit_16
+    4033C0C3:
+      0. 00 0000 0006 0000:pcre2_set_compile_extra_options_16
+    5033C0C3:
+      0. 00 0000 0006 0000:pcre2_set_heap_limit_16
+    5433C0C3:
+      0. 00 0000 0006 0000:pcre2_set_match_limit_16
+    5833C0C3:
+      0. 00 0000 0006 0000:pcre2_set_recursion_limit_16
+      1. 00 0000 0006 0000:pcre2_set_depth_limit_16
+  5424104883EC2841B804000000488D542438E8........4883C428C3:
+    0. 00 0000 001D (l)0000:sljit_unaligned_store_s32
+8B4424:
+  288941548B4424308941588B44243889415C89510444894950C3:
+    0. 00 0000 001D (l)0000:set_emit_enter
+  30448B542428458991080100004189810C010000E9:
+    0. 00 0000 001C (l)0000:add_to_class
+8D:
+  41FF85C1B8000000000F94C0C3:
+    0. 00 0000 000E (l)0000:is_powerof2
+  42:
+    D283F801760B83FA5C7406B8E3FFFFFFC389511833C0C3:
+      0. 00 0000 0019 0000:pcre2_set_glob_separator_16
+    FF83F8:
+      0177076689513833C0C3B8E3FFFFFFC3:
+        0. 00 0000 0015 0000:pcre2_set_bsr_16
+      0577076689513A33C0C3B8E3FFFFFFC3:
+        0. 00 0000 0015 0000:pcre2_set_newline_16
+B858800000E8........482BE0488B05........4833C4488984244080000048:
+  0. 43 817E 006F (l)0000:jit_machine_stack_exec
+B900000080488D05........4883E0F0BAFFFFFF7F488905........83602000:
+  0. 10 AE34 0030 (l)0000:init_compiler
+EB1F488B014885C074134885D2740E48836010FD488348100148895018488B49:
+  0. 07 C7A4 0027 (l)0000:set_jumps

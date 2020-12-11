@@ -1,0 +1,418 @@
+40:
+  53:
+    4883EC:
+      20:
+        33DB:
+          381D........74143959107C0FE8........4885C07405BB:
+            0. 0C 19DC 002C 0000:?isValid@XPThemeData@@QEAA_NXZ
+          84C975088A05........EB27FF15........85C07415FF15:
+            0. 00 0000 0041 0000:?useXP@QWindowsXPStylePrivate@@SA_N_N@Z
+        48:
+          8B:
+            CA488BDAE8........448B4324488BC88B5320FF15:
+              0. 00 0000 002C 0000:?isTransparent@QWindowsXPStylePrivate@@QEAA_NAEAVXPThemeData@@@Z
+            D9:
+              4881C1B8000000E8........488B8BA800000083390074:
+                0. 23 2DF7 0072 0000:??1QStyleOptionViewItem@@QEAA@XZ
+              B988010000E8........488BC8E8........488BD0488B:
+                0. 02 034A 0039 0000:??0QWindowsVistaStyle@@QEAA@XZ (REF 0017: ??0QWindowsVistaStylePrivate@@QEAA@XZ)
+                1. 02 034A 0039 0000:??0QWindowsXPStyle@@QEAA@XZ (REF 0017: ??0QWindowsXPStylePrivate@@QEAA@XZ)
+              E8........488D05........:
+                488903488BC34883C4205B:
+                  0. 01 EF04 0021 0000:??0QWindowsVistaStylePrivate@@QEAA@XZ (REF 000A: ??0QWindowsXPStylePrivate@@QEAA@XZ)
+                  1. 01 EF04 0021 0000:??0QWindowsXPStyle@@QEAA@AEAVQWindowsXPStylePrivate@@@Z (REF 000A: ??0QWindowsStyle@@IEAA@AEAVQWindowsStylePrivate@@@Z)
+                C6834401000000488D8B48:
+                  0. 07 1631 0086 0000:??0QWindowsXPStylePrivate@@QEAA@XZ
+            DAE8........488BC34883C4205BC3:
+              0. 00 0000 0017 0000:?standardPalette@QWindowsVistaStyle@@UEBA?AVQPalette@@XZ
+          8D05........33D2488901488BD9E8........488B8B580100:
+            0. 24 CDBA 009B 0000:??1QWindowsXPStylePrivate@@UEAA@XZ
+        803D........00488B:
+          D9750433C0EB2248837918007517488B09:
+            0. 01 3E9B 003E 0000:?handle@XPThemeData@@QEAAPEAXXZ
+          DA7416488B15........4885D2740A488B:
+            0. 02 034A 0039 0000:?standardPalette@QWindowsXPStyle@@UEBA?AVQPalette@@XZ
+        8B:
+          05........33DB3D800000007C14A8F0741033C9E8:
+            0. 11 D01A 0031 0000:?isUpdateNeeded@QWindowsVistaAnimation@@UEBA_NXZ
+          5930C1EB044885D27429488B4208488D0D........488B5010:
+            0. 01 3E9B 0048 0000:?isLineEditBaseColorSet@QWindowsXPStylePrivate@@SA_NPEBVQStyleOption@@PEBVQWidget@@@Z
+      40488B05........4833C44889442438488BDAE8........BA0400:
+        0. 0A 1F1D 008B 0000:?polish@QWindowsVistaStyle@@UEAAXAEAVQPalette@@@Z (0006: 68)
+        1. 0A 1F1D 008B 0000:?polish@QWindowsXPStyle@@UEAAXAEAVQPalette@@@Z (0006: 6E)
+    5556:
+      415541564883EC20836424580083CDFF4C8BF1448D6D0983FA127766:
+        0. 0B 3917 0115 0000:?themeName@QWindowsXPStylePrivate@@SA?AVQString@@H@Z
+      5741564883EC70488B05........4833C44889442460488B81680100:
+        0. 3D 7D58 01A7 0000:?buffer@QWindowsXPStylePrivate@@QEAAPEAUHBITMAP__@@HH@Z
+    5657:
+      415641574883EC304C8BF9498BF8488D4C24204C8BF2E8........49:
+        0. 05 78F2 0294 0000:??6@YA?AVQDebug@@V0@AEBVXPThemeData@@@Z
+      4883EC60488B05........4833C4488944245048832200418BF04883:
+        0. 14 3E45 00C1 0000:?margins@XPThemeData@@QEAA?AVQMarginsF@@H@Z
+  5553:
+    488D6C24D84881EC2801000083654000E8........4885C00F84A30100:
+      0. 04 EB8F 01D0 (l)0000:?createTreeViewHelperWindow@@YAPEAUHWND__@@XZ
+    565741:
+      54415541564157488DAC2458FFFFFF4881ECA8010000488B05:
+        0. 00 0000 0436 0000:?subElementRect@QWindowsXPStyle@@UEBA?AVQRect@@W4SubElement@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+      56488BEC4883EC70488B05........4833C4488945F848832200:
+        0. 1C 0BF2 00F2 0000:?margins@XPThemeData@@QEAA?AVQMarginsF@@AEBVQRect@@H@Z
+    5748:
+      8BEC4883EC50488BFA488BD9E8........488B4B08488BD7E8:
+        0. 00 0000 025F 0000:?unpolish@QWindowsVistaStyle@@UEAAXPEAVQWidget@@@Z
+      8D6C24C14881EC90000000488B05........4833C44889452F488B:
+        0. 32 76FB 013C 0000:?styleHint@QWindowsVistaStyle@@UEBAHW4StyleHint@QStyle@@PEBVQStyleOption@@PEBVQWidget@@PEAVQStyleHintReturn@@@Z
+448B525841BB01000000448A4A58448B425C4522CB41D1EA32D24522D3412BCB:
+  0. 9A B8F3 00BA (l)0000:?buttonVisible@@YA_NW4SubControl@QStyle@@PEBVQStyleOptionTitleBar@@@Z
+4533C08D42FE458D4801413BC17630413BD175604184C97506458D4103EB55F6:
+  0. 58 2E20 0078 (l)0000:?buttonStateId@@YAHHH@Z
+48:
+  83EC:
+    18:
+      660F6E224C8BC1F30FE6E40F293C240F57DB660F6E7A04F20F:
+        59E2F3:
+          0. 0D 89CA 00BE 0000:??D@YA?BVQSize@@AEBV0@N@Z
+        5EE2F3:
+          0. 0D 89CA 00BE 0000:??K@YA?BVQSize@@AEBV0@N@Z
+          1. 0D 89CA 00BE 0000:??K@YA?BVQPoint@@AEBV0@N@Z
+      F20F10194C8BCA0F28C30F293C24F20F5C05........F20F1079080F:
+        0. 0C C03C 00AF 0000:?toSize@QSizeF@@QEBA?AVQSize@@XZ
+        1. 0C C03C 00AF 0000:?toPoint@QPointF@@QEBA?AVQPoint@@XZ
+    28:
+      488B0D........4885C974:
+        0EFF15........488325........004883:
+          0. 03 53B6 0023 0000:?cleanupVistaTreeViewTheming@QWindowsXPStylePrivate@@CAXXZ
+        1D83C8FFF00FC10183F8017511488B0D:
+          0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QWindowsVistaStylePlugin@@YAPEAVQObject@@XZ@YAXXZ
+      83642438004C8D4424384533C933D2B942100000FF15........85C0:
+        0. 14 4622 0034 0000:?transitionsEnabled@QWindowsVistaStylePrivate@@QEBA_NXZ
+      F0FF05........740484D2742684D27507F0FF05........B101E8:
+        0. 00 0000 003C 0000:?init@QWindowsXPStylePrivate@@QEAAX_N@Z
+    38:
+      0F297C24204C8BDAF20F10390F57ED0F28DF440F29442410F20F5859:
+        0. 06 B1D0 0168 0000:?toRect@QRectF@@QEBA?AVQRect@@XZ
+      F20F10194C8BC2F20F1061080F28C3F20F5C05........0F29742420:
+        0. 19 3671 0152 0000:?toMargins@QMarginsF@@QEBA?AVQMargins@@XZ
+    4848833D........007571E8........488905........4885C0753621:
+      0. 06 E0EE 0086 0000:?initVistaTreeViewTheming@QWindowsXPStylePrivate@@CA_NXZ
+    6866410F6E01418B4108412B0166410F6E4904FFC0F30FE6C0F30FE6C9:
+      0. 85 FF78 00AE 0000:?drawPixmap@QPainter@@QEAAXAEBVQRect@@AEBVQPixmap@@0@Z
+  85:
+    C974:
+      0F8339:
+        017C0A837904:
+          027504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionButton@@@@YAPEBVQStyleOptionButton@@PEBVQStyleOption@@@Z
+          047504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionMenuItem@@@@YAPEBVQStyleOptionMenuItem@@PEBVQStyleOption@@@Z
+          087504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEAVQStyleOptionHeader@@@@YAPEAVQStyleOptionHeader@@PEAVQStyleOption@@@Z
+            1. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionHeader@@@@YAPEBVQStyleOptionHeader@@PEBVQStyleOption@@@Z
+          0D7504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionRubberBand@@@@YAPEBVQStyleOptionRubberBand@@PEBVQStyleOption@@@Z
+          0E7504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionToolBar@@@@YAPEBVQStyleOptionToolBar@@PEBVQStyleOption@@@Z
+        027C0A837904:
+          067504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionProgressBar@@@@YAPEBVQStyleOptionProgressBar@@PEBVQStyleOption@@@Z
+          097504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionDockWidget@@@@YAPEBVQStyleOptionDockWidget@@PEBVQStyleOption@@@Z
+          0B7504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionTabWidgetFrame@@@@YAPEBVQStyleOptionTabWidgetFrame@@PEBVQStyleOption@@@Z
+          0C7504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionTabBarBase@@@@YAPEBVQStyleOptionTabBarBase@@PEBVQStyleOption@@@Z
+        037C0A837904:
+          037504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionTab@@@@YAPEBVQStyleOptionTab@@PEBVQStyleOption@@@Z
+          057504488BC1C333C0C3:
+            0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionFrame@@@@YAPEBVQStyleOptionFrame@@PEBVQStyleOption@@@Z
+        047C0A8379040A7504488BC1C333C0C3:
+          0. 00 0000 0017 0000:??$qstyleoption_cast@PEBVQStyleOptionViewItem@@@@YAPEBVQStyleOptionViewItem@@PEBVQStyleOption@@@Z
+      12833901:
+        7C0D817904:
+          00000F007C04488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEAVQStyleOptionComplex@@@@YAPEAVQStyleOptionComplex@@PEAVQStyleOption@@@Z
+            1. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionComplex@@@@YAPEBVQStyleOptionComplex@@PEBVQStyleOption@@@Z
+          01000F007504488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionSlider@@@@YAPEBVQStyleOptionSlider@@PEBVQStyleOption@@@Z
+          02000F007504488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionSpinBox@@@@YAPEBVQStyleOptionSpinBox@@PEBVQStyleOption@@@Z
+          03000F007504488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionToolButton@@@@YAPEBVQStyleOptionToolButton@@PEBVQStyleOption@@@Z
+          04000F007504488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionComboBox@@@@YAPEBVQStyleOptionComboBox@@PEBVQStyleOption@@@Z
+          05000F007504488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionTitleBar@@@@YAPEBVQStyleOptionTitleBar@@PEBVQStyleOption@@@Z
+          06000F007504488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionGroupBox@@@@YAPEBVQStyleOptionGroupBox@@PEBVQStyleOption@@@Z
+          07000F007504488BC1C333C0C3:
+            0. 00 0000 001A 0000:??$qstyleoption_cast@PEBVQStyleOptionSizeGrip@@@@YAPEBVQStyleOptionSizeGrip@@PEBVQStyleOption@@@Z
+        7F0D81790401F000007504488BC1C333C0C3:
+          0. 00 0000 001A 0000:??$qstyleoption_cast@PEAVQStyleHintReturnMask@@@@YAPEAVQStyleHintReturnMask@@PEAVQStyleHintReturn@@@Z
+    D2741B8B4108488322008942080F10410CF30F7F420C488B411C4889421C:
+      0. 01 EF04 0021 0000:?duplicateNode@?$QHash@UThemeMapKey@@UThemeMapData@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  895C24:
+    08:
+      4889:
+        6C2410488974241857:
+          415641574883EC3033DB498BE9381D:
+            0. 00 0000 025A 0000:?pixelMetric@QWindowsXPStyle@@UEBAHW4PixelMetric@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+          4883EC:
+            20:
+              488B:
+                E9488BFA488D0D:
+                  0. 00 0000 0174 0000:?unpolish@QWindowsXPStyle@@UEAAXPEAVQWidget@@@Z
+                F2:
+                  41B8:
+                    04000F00BA0100:
+                      0. 06 6D74 00BC 0000:??0QStyleOptionComboBox@@QEAA@AEBV0@@Z
+                    06000F00BA0100:
+                      0. 06 6D74 00A7 0000:??0QStyleOptionGroupBox@@QEAA@AEBV0@@Z
+                  488BE9BA0100000044:
+                    0. 04 6F9B 0094 0000:??0QStyleOptionButton@@QEAA@AEBV0@@Z
+              8B:
+                05........498BF9498BF0:
+                  0. 13 E3AC 0093 0000:?pixelMetric@QWindowsVistaStyle@@UEBAHW4PixelMetric@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+                EA488BD9488B09BA080000:
+                  0. 08 D93E 0079 0000:?createNode@?$QHash@UThemeMapKey@@UThemeMapData@@@@AEAAPEAU?$QHashNode@UThemeMapKey@@UThemeMapData@@@@IAEBUThemeMapKey@@AEBUThemeMapData@@PEAPEAU2@@Z
+            308B05........498B:
+              D9498BF8:
+                0. 13 C0CA 005B 0000:?hitTestComplexControl@QWindowsVistaStyle@@UEBA?AW4SubControl@QStyle@@W4ComplexControl@3@PEBVQStyleOptionComplex@@AEBVQPoint@@PEBVQWidget@@@Z
+              F9418BF0:
+                0. 14 76F0 008C 0000:?standardPixmap@QWindowsVistaStyle@@UEBA?AVQPixmap@@W4StandardPixmap@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+        742410574883EC:
+          20:
+            448B4A0C488BD9448B420841FFC18B0A41:
+              0. 07 F2FF 0084 (l)0000:?qt_add_rect@@YAXAEAPEAUHRGN__@@VQRect@@@Z
+            488D05........488BD9488DB9C8000000:
+              0. 07 0E4A 009A 0000:??1QCommonStylePrivate@@UEAA@XZ
+          30488BD94885C974138339017C0E81790401:
+            0. 17 0322 01C4 0000:?clonedAnimationStyleOption@@YAPEAVQStyleOption@@PEBV1@@Z
+        7C241055488BEC4883EC70488BDA488BF9E8........803D:
+          0. 00 0000 0279 0000:?polish@QWindowsXPStyle@@UEAAXPEAVQWidget@@@Z
+      55:
+        488BEC4883EC7041B90B000000412BC90F849B01000083E9070F:
+          0. 8A 9F3F 0207 0000:?pixelMetricFromSystemDp@QWindowsXPStylePrivate@@SAHW4PixelMetric@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+        565741544156488BEC4883EC404863F9488BDA83FF120F870801:
+          0. 0E D738 0171 0000:?createTheme@QWindowsXPStylePrivate@@SAPEAXHPEAUHWND__@@@Z
+      574883EC:
+        20:
+          48:
+            83B96801000000408AFA488BD97433488B89600100:
+              0. 14 8A1D 00A2 0000:?cleanup@QWindowsXPStylePrivate@@QEAAX_N@Z
+            85C97455488B4108488B50104885D27448488B4228:
+              0. 1D C911 0071 0000:?isItemViewDelegateLineEdit@QWindowsXPStylePrivate@@SA_NPEBVQWidget@@@Z
+            8B:
+              39488B5F088B4720EB0BFFC848393B753F4883C3:
+                0. 25 0733 0061 0000:??$qDeleteAll@V?$QHash@PEBVQObject@@PEAVQStyleAnimation@@@@@@YAXAEBV?$QHash@PEBVQObject@@PEAVQStyleAnimation@@@@@Z
+              D94885C974138339017C0E81790401000F007505:
+                0. 10 CC7C 019A 0000:?deleteClonedAnimationStyleOption@@YAXPEBVQStyleOption@@@Z
+              DA:
+                41B803000F00BA01000000488BF9E8:
+                  0. 09 313C 006B 0000:??0QStyleOptionToolButton@@QEAA@AEBV0@@Z
+                488BF9:
+                  4885D2750433C0EB23488D15:
+                    0. 04 BF6F 0047 0000:?qt_metacast@QWindowsVistaAnimation@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QWindowsVistaAnimation@@3Uqt_meta_stringdata_QWindowsVistaAnimation_t@@B)
+                    1. 04 BF6F 0047 0000:?qt_metacast@QWindowsVistaPulse@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QWindowsVistaPulse@@3Uqt_meta_stringdata_QWindowsVistaPulse_t@@B)
+                    2. 04 BF6F 0047 0000:?qt_metacast@QWindowsVistaTransition@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QWindowsVistaTransition@@3Uqt_meta_stringdata_QWindowsVistaTransition_t@@B)
+                    3. 04 BF6F 0047 0000:?qt_metacast@QWindowsVistaStyle@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QWindowsVistaStyle@@3Uqt_meta_stringdata_QWindowsVistaStyle_t@@B)
+                    4. 04 BF6F 0047 0000:?qt_metacast@QWindowsVistaStylePlugin@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QWindowsVistaStylePlugin@@3Uqt_meta_stringdata_QWindowsVistaStylePlugin_t@@B)
+                    5. 04 BF6F 0047 0000:?qt_metacast@QWindowsXPStyle@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QWindowsXPStyle@@3Uqt_meta_stringdata_QWindowsXPStyle_t@@B)
+                  BA:
+                    02000000448D4209E8........83C9:
+                      0. 33 C365 00A1 0000:??0QStyleOptionTabWidgetFrame@@QEAA@AEBV0@@Z
+                    04000000448D4206E8........8367:
+                      0. 13 6C1B 00A1 0000:??0QStyleOptionViewItem@@QEAA@AEBV0@@Z
+                  E8........8B4340:
+                    488D53:
+                      5089474048:
+                        0. 10 AF37 0078 0000:??4QStyleOptionToolButton@@QEAAAEAV0@AEBV0@@Z
+                      5889474048:
+                        0. 1E 3457 00E0 0000:??4QStyleOptionViewItem@@QEAAAEAV0@AEBV0@@Z
+                      6089474048:
+                        0. 1F C32B 0077 0000:??4QStyleOptionMenuItem@@QEAAAEAV0@AEBV0@@Z
+                    8947408B43448947:
+                      0. 59 68EA 0079 0000:??4QStyleOptionSlider@@QEAAAEAV0@AEBV0@@Z
+              F9:
+                8BDA4883C170E8........488D4F50E8:
+                  0. 00 0000 0052 0000:??_GQWindowsVistaPulse@@UEAAPEAXI@Z
+                  1. 00 0000 0052 0000:??_GQWindowsVistaTransition@@UEAAPEAXI@Z
+                  2. 00 0000 0052 0000:??_GQWindowsVistaAnimation@@UEAAPEAXI@Z
+                E8........488BD84885C075:
+                  1C488BCFE8:
+                    0. 00 0000 00B8 0000:?getHWNDForWidget@QApplicationPrivate@@SAPEAUHWND__@@PEBVQWidget@@@Z
+                  1F488BCFE8:
+                    0. 00 0000 00A9 (l)0000:?hdcForWidgetBackingStore@@YAPEAUHDC__@@PEBVQWidget@@@Z
+            8D:
+              05........8BDA488901488BF9E8........F6C3:
+                0. 0C B597 003E 0000:??_GQWindowsVistaStyle@@UEAAPEAXI@Z (REF 000D: ??_7QWindowsVistaStyle@@6B@)
+                1. 0C B597 003E 0000:??_GQWindowsXPStyle@@UEAAPEAXI@Z (REF 000D: ??_7QWindowsXPStyle@@6B@)
+              1D........BF13000000488B0B4885C9740AFF15:
+                0. 00 0000 0041 0000:?cleanupHandleMap@QWindowsXPStylePrivate@@QEAAXXZ
+          65488B0425580000008B0D........41B8........48:
+            0. 09 8104 0105 (l)0000:?qt_plugin_instance_QWindowsVistaStylePlugin@@YAPEAVQObject@@XZ
+          8BDA488BF9E8........F6C301740DBA:
+            10000000488B:
+              0. 02 632D 0034 0000:??_GQWindowsVistaStylePlugin@@UEAAPEAXI@Z
+            20000000488B:
+              0. 02 632D 0034 0000:??_GQImage@@UEAAPEAXI@Z
+            88010000488B:
+              0. 02 632D 0034 0000:??_GQWindowsVistaStylePrivate@@UEAAPEAXI@Z
+              1. 02 632D 0034 0000:??_GQWindowsXPStylePrivate@@UEAAPEAXI@Z
+            D0000000488B:
+              0. 02 632D 0034 0000:??_GQCommonStylePrivate@@UEAAPEAXI@Z
+        3048:
+          8BD9C744242008000000488B094C8D05........41:
+            0. 08 590F 0070 0000:?detach_helper@?$QHash@UThemeMapKey@@UThemeMapData@@@@AEAAXXZ
+          8D3D........488BDA488BCFE8........89442420:
+            0. 1C 565E 0063 0000:?create@QWindowsVistaStylePlugin@@UEAAPEAVQStyle@@AEBVQString@@@Z
+        4048:
+          832200488BDA4883620800488BF9E8........84C0:
+            0. 06 8DBE 0083 0000:?size@XPThemeData@@QEAA?AVQSizeF@@XZ
+          8BFA498BD8488D542420E8........4C8BC0488D53:
+            0. 05 368F 003E 0000:?paint@QWindowsVistaAnimation@@QEAAXPEAVQPainter@@PEBVQStyleOption@@@Z
+    10:
+      4889:
+        6C2418565741:
+          55415641574883EC204C8BF9:
+            498BF8488D4C24:
+              0. 05 CE48 01CE 0000:??6@YA?AVQDebug@@V0@AEBUThemeMapData@@@Z
+            4D8BF0488D4C24:
+              0. 05 CE48 018A 0000:??6@YA?AVQDebug@@V0@AEBUThemeMapKey@@@Z
+          564883EC30488B014D8BF1498BF8488BF2488B:
+            0. 08 35FB 00E6 0000:?insert@?$QHash@UThemeMapKey@@UThemeMapData@@@@QEAA?AViterator@1@AEBUThemeMapKey@@AEBUThemeMapData@@@Z
+        742418:
+          5557415541564157488D6C24D14881ECD0000000803D:
+            0. 00 0000 0243 0000:?styleHint@QWindowsXPStyle@@UEBAHW4StyleHint@QStyle@@PEBVQStyleOption@@PEBVQWidget@@PEAVQStyleHintReturn@@@Z
+          574883EC204885C9740EE8........4885C00F859600:
+            0. 08 E66A 00C8 0000:?winId@QWindowsXPStylePrivate@@SAPEAUHWND__@@PEBVQWidget@@@Z
+      55565741564157488BEC4881EC800000008BDA0F297424704C8BF1:
+        0. 0D 7E63 0167 0000:?scrollBarGripperBounds@QWindowsXPStylePrivate@@SA?AVQRect@@V?$QFlags@W4StateFlag@QStyle@@@@PEBVQWidget@@PEAVXPThemeData@@@Z
+      574883EC:
+        20488BFA488BD94885D2740A488BCAE8........EB0383:
+          0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+        3033DB895C24408BFB4885C9742C488B49384885C97423:
+          0. 03 000E 0060 0000:?canAnimate@@YA_NPEBVQStyleOption@@@Z
+    18:
+      4889742420574883EC60488B05........4833C44889442450488B:
+        0. 05 1973 00D2 0000:?mask@XPThemeData@@QEAAPEAUHRGN__@@PEAVQWidget@@@Z
+      55488D6C24A94881EC90000000488B05........4833C44889454F:
+        0. 04 F6E3 0363 0000:?polish@QWindowsVistaStyle@@UEAAXPEAVQWidget@@@Z
+      574883EC300F29742420488BDA488BF94D85C07414498D4810BA0B:
+        0. 43 1F77 00A0 (l)0000:?createAnimationBuffer@@YA?AVQImage@@PEBVQStyleOption@@PEBVQWidget@@@Z
+  8B:
+    014533C94C8BDA4C8BD14439482075054D85C07417448B482444334A0844:
+      0. 5D BEBB 007D 0000:?findNode@?$QHash@UThemeMapKey@@UThemeMapData@@@@AEBAPEAPEAU?$QHashNode@UThemeMapKey@@UThemeMapData@@@@AEBUThemeMapKey@@PEAI@Z
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QWindowsVistaAnimation@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QWindowsVistaAnimation@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@QWindowsVistaPulse@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QWindowsVistaPulse@@2UQMetaObject@@B)
+      2. 00 0000 0017 0000:?metaObject@QWindowsVistaTransition@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QWindowsVistaTransition@@2UQMetaObject@@B)
+      3. 00 0000 0017 0000:?metaObject@QWindowsVistaStyle@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QWindowsVistaStyle@@2UQMetaObject@@B)
+      4. 00 0000 0017 0000:?metaObject@QWindowsVistaStylePlugin@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QWindowsVistaStylePlugin@@2UQMetaObject@@B)
+      5. 00 0000 0017 0000:?metaObject@QWindowsXPStyle@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QWindowsXPStyle@@2UQMetaObject@@B)
+    C4:
+      48:
+        83EC680F57C04C8D4C24400F1140D8660F6E020F57C90F1148E8660F:
+          0. 46 11E1 006F 0000:?drawPixmap@QPainter@@QEAAXAEBVQRect@@AEBVQPixmap@@@Z
+        8958:
+          08:
+            4889:
+              68:
+                104889701848897820:
+                  4156448B4A04418AE8448B5208:
+                    0. 97 EC93 00B7 0000:?swapAlphaChannel@QWindowsXPStylePrivate@@QEAA_NAEBVQRect@@_N@Z
+                  448B:
+                    42044183CBFF8B420C8B3A:
+                      0. 82 4DFD 00A2 0000:?hasAlphaChannel@QWindowsXPStylePrivate@@QEAA_NAEBVQRect@@@Z
+                    5208488BE98B5A0C8B3244:
+                      0. 96 77DA 00B6 0000:?fixAlphaChannel@QWindowsXPStylePrivate@@QEAA_NAEBVQRect@@@Z
+                184889702057415641574883EC300F2970D8488BDA8B:
+                  0. 2B F8CC 02C1 0000:?drawBackground@QWindowsXPStylePrivate@@QEAA_NAEAVXPThemeData@@@Z
+              70104889781855:
+                41564157488D68:
+                  A94881ECC000000080:
+                    0. 01 1E1A 019F 0000:?standardPixmap@QWindowsXPStyle@@UEBA?AVQPixmap@@W4StandardPixmap@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+                  B14881ECF00000000F:
+                    0. 07 4CB2 0413 0000:?sizeFromContents@QWindowsXPStyle@@UEBA?AVQSize@@W4ContentsType@QStyle@@PEBVQStyleOption@@AEBV2@PEBVQWidget@@@Z
+                  D84881EC100100000F:
+                    0. 24 B0C5 040B 0000:?sizeFromContents@QWindowsVistaStyle@@UEBA?AVQSize@@W4ContentsType@QStyle@@PEBVQStyleOption@@AEBV2@PEBVQWidget@@@Z
+                488BEC4883EC70488BD90F2970E8488B:
+                  0. 08 4A03 0170 (l)0000:?scaleRegion@@YA?AVQRegion@@AEBV1@N@Z
+            55565741564157488D6C24A04881EC600100000F2970C8488B:
+              0. 01 D5A7 03DB 0000:?drawBackgroundDirectly@QWindowsXPStylePrivate@@QEAA_NPEAUHDC__@@AEAVXPThemeData@@N@Z
+            574881EC80000000660F6E02488BF9660F6E4A04498BC80F29:
+              0. 43 7D7C 00C3 0000:?drawImage@QPainter@@QEAAXAEBVQRect@@AEBVQImage@@@Z
+          1048897018488978204889480855415441554156415748:
+            8BEC48:
+              0. 16 7DFD 057A 0000:?subControlRect@QWindowsVistaStyle@@UEBA?AVQRect@@W4ComplexControl@QStyle@@PEBVQStyleOptionComplex@@W4SubControl@4@PEBVQWidget@@@Z
+            8D68B1:
+              0. 09 FF9C 0932 0000:?subControlRect@QWindowsXPStyle@@UEBA?AVQRect@@W4ComplexControl@QStyle@@PEBVQStyleOptionComplex@@W4SubControl@4@PEBVQWidget@@@Z
+          2055565741:
+            54415541564157488DA818FDFFFF4881ECB0030000:
+              0. 0B 9751 0DEC 0000:?drawBackgroundThruNativeBuffer@QWindowsXPStylePrivate@@QEAA_NAEAVXPThemeData@@N@Z
+            564157488D68A14881EC900000000F2970C8488B05:
+              0. 00 0000 028C 0000:?region@QWindowsXPStylePrivate@@QEAA?AVQRegion@@AEAVXPThemeData@@@Z
+      55535657415441:
+        5541564157488D:
+          68:
+            984881EC280100000F2970A8488B:
+              0. 01 D5A7 0628 0000:?standardIcon@QWindowsXPStyle@@UEBA?AVQIcon@@W4StandardPixmap@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+            A84881EC180100000F2970A80F29:
+              0. 05 CE74 0611 0000:?subElementRect@QWindowsVistaStyle@@UEBA?AVQRect@@W4SubElement@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+          6C24884881EC780100000F2970A848:
+            0. 02 8E30 1175 0000:?drawComplexControl@QWindowsVistaStyle@@UEBAXW4ComplexControl@QStyle@@PEBVQStyleOptionComplex@@PEAVQPainter@@PEBVQWidget@@@Z
+          A8:
+            58F6FFFF4881EC680A00000F2970:
+              0. 35 82E9 1C34 0000:?drawPrimitive@QWindowsXPStyle@@UEBAXW4PrimitiveElement@QStyle@@PEBVQStyleOption@@PEAVQPainter@@PEBVQWidget@@@Z
+            68F6FFFF4881EC580A00000F2970:
+              0. 08 83D1 274E 0000:?drawComplexControl@QWindowsXPStyle@@UEBAXW4ComplexControl@QStyle@@PEBVQStyleOptionComplex@@PEAVQPainter@@PEBVQWidget@@@Z
+            88F3FFFF4881EC380D00000F2970:
+              0. 25 6793 300C 0000:?drawControl@QWindowsVistaStyle@@UEBAXW4ControlElement@QStyle@@PEBVQStyleOption@@PEAVQPainter@@PEBVQWidget@@@Z
+            C8F8FFFF4881ECF80700000F2970:
+              0. 04 4644 248C 0000:?drawControl@QWindowsXPStyle@@UEBAXW4ControlElement@QStyle@@PEBVQStyleOption@@PEAVQPainter@@PEBVQWidget@@@Z
+            E8F9FFFF4881ECD80600000F2970:
+              0. 04 4644 1D4A 0000:?drawPrimitive@QWindowsVistaStyle@@UEBAXW4PrimitiveElement@QStyle@@PEBVQStyleOption@@PEAVQPainter@@PEBVQWidget@@@Z
+        564157488D68A94881ECF00000000F2970B8488B05:
+          0. 00 0000 02CD 0000:?standardIcon@QWindowsVistaStyle@@UEBA?AVQIcon@@W4StandardPixmap@QStyle@@PEBVQStyleOption@@PEBVQWidget@@@Z
+    CABA18000000448D42F0E9:
+      0. 00 0000 0011 0000:?freeData@?$QVector@U?$QPair@NVQColor@@@@@@AEAAXPEAU?$QTypedArrayData@U?$QPair@NVQColor@@@@@@@Z
+  8D05........:
+    488901:
+      488D05........48894108488BC1C3:
+        0. 00 0000 0019 0000:?qt_static_plugin_QWindowsVistaStylePlugin@@YA?BUQStaticPlugin@@XZ
+      E9:
+        0. 00 0000 000F 0000:??1QWindowsVistaStyle@@UEAA@XZ (REF 0003: ??_7QWindowsVistaStyle@@6B@)
+        1. 00 0000 000F 0000:??1QWindowsXPStyle@@UEAA@XZ (REF 0003: ??_7QWindowsXPStyle@@6B@)
+    C3:
+      0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QWindowsVistaStylePlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+4C8BDC:
+  4883EC7866410F6E01418B4108412B0166410F6E4904FFC0F30FE6C0F3:
+    0. 8E DAD3 00B7 0000:?drawImage@QPainter@@QEAAXAEBVQRect@@AEBVQImage@@0V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z
+  49895B0849896B2089542410565741564883EC208B41044D8D4B10488B:
+    0. 2D 961A 00D5 0000:?realloc@?$QVarLengthArray@VQLine@@$0CA@@@AEAAXHH@Z
+4D85C074:
+  4248895C240848896C24104889742418574883EC20498BF1498BD848:
+    0. 28 AE31 0048 0000:??_H@YAXPEAX_K1P6APEAX0@Z@Z
+  4948895C240848896C24104889742418574883EC20488BFA498BE949:
+    0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+83:
+  2100488BC183610400C3:
+    0. 00 0000 000B 0000:??0QPoint@@QEAA@XZ
+  F90A742783F91B7E1C83F91D7E1483F91E740983F94C750D8D41B9C3B80300:
+    0. 12 D5A8 0032 0000:?fixedPixelMetric@QWindowsVistaStylePrivate@@SAHW4PixelMetric@QStyle@@@Z
+8B0289018B4208FFC08941088B42048941048B420CFFC089410C488BC1C3:
+  0. 00 0000 001E 0000:?toRECT@XPThemeData@@SA?AUtagRECT@@AEBVQRect@@@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QWindowsXPStyle@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QWindowsStyle@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?qt_metacall@QWindowsVistaAnimation@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QBlendStyleAnimation@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  2. 00 0000 0005 0000:?qt_metacall@QWindowsVistaPulse@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QBlendStyleAnimation@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  3. 00 0000 0005 0000:?qt_metacall@QWindowsVistaTransition@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QBlendStyleAnimation@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  4. 00 0000 0005 0000:?qt_metacall@QWindowsVistaStyle@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QWindowsXPStyle@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  5. 00 0000 0005 0000:?polish@QWindowsXPStyle@@UEAAXPEAVQApplication@@@Z (REF 0001: ?polish@QWindowsStyle@@UEAAXPEAVQApplication@@@Z)
+  6. 00 0000 0005 0000:?unpolish@QWindowsXPStyle@@UEAAXPEAVQApplication@@@Z (REF 0001: ?unpolish@QWindowsStyle@@UEAAXPEAVQApplication@@@Z)
+  7. 00 0000 0005 0000:?polish@QWindowsVistaStyle@@UEAAXPEAVQApplication@@@Z (REF 0001: ?polish@QWindowsXPStyle@@UEAAXPEAVQApplication@@@Z)
+  8. 00 0000 0005 0000:?unpolish@QWindowsVistaStyle@@UEAAXPEAVQApplication@@@Z (REF 0001: ?unpolish@QWindowsXPStyle@@UEAAXPEAVQApplication@@@Z)
+  9. 00 0000 0005 0000:?qt_metacall@QWindowsVistaStylePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QStylePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+F20F10010F57D2660F2FC2F20F101D........73030F57C3F20F100D:
+  0. 4B 0DBA 006B 0000:?isNull@QMarginsF@@QEBA_NXZ

@@ -1,0 +1,7 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+?freeData@?$QVector@I@@AEAAXPEAU?$QTypedArrayData@I@@@Z	00 0000 488BCABA04000000448D4204E9......................................
+?freeData@?$QVector@H@@AEAAXPEAU?$QTypedArrayData@H@@@Z	00 0000 488BCABA04000000448D4204E9......................................

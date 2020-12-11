@@ -1,0 +1,1384 @@
+0F2805........0F1105........C3:
+  0. 00 0000 000F 0000:?qaxClearCachedSystemLogicalDpi@@YAXXZ (REF 0003: __xmm@bff0000000000000bff0000000000000)
+33D2E9:
+  0. 00 0000 0007 0000:?deleteNode2@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@CAXPEAUNode@QHashData@@@Z (REF 0003: ??_G?$QHashNode@VQByteArray@@V?$QList@VQByteArray@@@@@@QEAAPEAXI@Z)
+40:
+  53:
+    48:
+      81ECD0000000488B05........4833C448898424C0000000488BDA4533:
+        0. 0A 40E7 00B6 0000:?qax_readEnumInfo@@YAPEAUQMetaObject@@PEAUITypeLib@@PEBU1@@Z
+      83EC:
+        20:
+          4533C0488BD9488B4928418D5001FF15........4C8D43384983:
+            0. 0B C597 0040 0000:?OnInPlaceActivate@QAxClientSite@@UEAAJXZ
+          48:
+            83:
+              793800488BD97549B968000000E8........488D15:
+                0. 00 0000 0063 0000:?metaObject@QAxBasePrivate@@QEAAPEAUQAxMetaObject@@XZ
+              C1F88BDAE8........4885C07507B805400080EB15488BC8:
+                0. 01 3E9B 0038 0000:?EnableModeless@QAxScriptSite@@UEAAJH@Z
+            8B:
+              01488BD9B901000000390877074883781018741B8B500445:
+                0. 13 8D9B 0047 0000:?data@QByteArray@@QEAAPEADXZ
+              02488BD948894424308B10FFC283FA017603F0FF00:
+                418AD0:
+                  0. 06 1A1E 0073 0000:??H@YA?BVQByteArray@@AEBV0@D@Z
+                498BD0:
+                  0. 06 1A1E 0073 0000:??H@YA?BVQByteArray@@AEBV0@PEBD@Z (REF 0026: ?append@QByteArray@@QEAAAEAV1@PEBD@Z)
+                  1. 06 1A1E 0073 0000:??H@YA?BVQByteArray@@AEBV0@0@Z (REF 0026: ?append@QByteArray@@QEAAAEAV1@AEBV1@@Z)
+              41:
+                38488BDA4885C07413488B80980000004889442430488D:
+                  0. 0B 3411 003E 0000:?sizeHint@QAxHostWidget@@UEBA?AVQSize@@XZ
+                40488BDA4885C0741C488B809800000085C078114C8BC0:
+                  0. 0F DE68 003C 0000:?sizeHint@QAxWidget@@UEBA?AVQSize@@XZ
+              49:
+                10488BDA488D542430E8........488B0848890B488D0D:
+                  0. 00 0000 005A 0000:?scriptNames@QAxScriptManager@@QEBA?AVQStringList@@XZ
+                30488BDA488D542430488B4930E8........488BD0488B:
+                  0. 02 034A 005D 0000:?clsid@QAxSelect@@QEBA?AVQString@@XZ
+              9198000000488BD94885D2741D807A34007417488B0D:
+                0. 00 0000 003A 0000:?OnUIDeactivate@QAxClientSite@@UEAAJH@Z
+              C2488BD9488BC8488D542430E8........488B4B10488BD0:
+                0. 05 16A9 005D 0000:?objectDestroyed@QAxScriptManager@@AEAAXPEAVQObject@@@Z
+              D9:
+                4183C8FF488D4C2430E8........488B4B08488D542430:
+                  0. 05 D3A5 006E 0000:?propertyWritable@QAxBase@@UEBA_NPEBD@Z
+                488B:
+                  49:
+                    08:
+                      48:
+                        837918007527488B4208488B501848895118:
+                          0. 21 596E 0041 0000:?initializeFrom@QAxBase@@IEAAXPEAV1@@Z
+                        85C974098A542430E8........488B4B1048:
+                          0. 09 C882 0033 0000:?doDestroySubTree@?$QMapNode@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@AEAAXU?$integral_constant@_N$00@std@@@Z
+                      837910007413837910FF741D83C8FFF00FC141:
+                        0. 0D B0CE 0067 0000:??1QAxScriptManagerPrivate@@QEAA@XZ
+                    1083390074118339FF741E83C8FFF00FC10183F8:
+                      0. 11 94AD 0065 0000:??1Property@MetaObjectGenerator@@QEAA@XZ (0008: 39)
+                      1. 11 94AD 0066 0000:??1QMetaStringTable@@QEAA@XZ (0008: 79)
+                    384885C97406488B01FF5010488B4B284533C048:
+                      0. 0C E386 0038 0000:?OnInPlaceDeactivate@QAxClientSite@@UEAAJXZ
+                    484885C97406488B01FF50104883634800488B4B:
+                      0. 5F FF91 007F 0000:?releaseAll@QAxClientSite@@QEAAXXZ
+                    504885C9741F488B01FF502885C07915488D4B18:
+                      0. 0D ED03 0037 0000:?deactivate@QAxClientSite@@QEAAXXZ
+                  4B:
+                    084885C97405E8........488B5B104885DB75E9:
+                      0. 06 59CA 0026 0000:?destroySubTree@?$QMapNode@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@QEAAXXZ
+                    1883390074118339FF741E83C8FFF00FC10183F8:
+                      0. 11 3E11 0052 0000:?destroySubTree@?$QMapNode@VQByteArray@@_N@@QEAAXXZ (0005: 8B) (0007: 08)
+                      1. 11 3E11 007E 0000:?destroySubTree@?$QMapNode@VQByteArray@@V1@@@QEAAXXZ (0005: 8B) (0007: 20)
+                      2. 11 3E11 005D 0000:?destroySubTree@?$QMapNode@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEAAXXZ (0005: 8D) (0008: 33)
+                      3. 11 3E11 005B 0000:?destroySubTree@?$QMapNode@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEAAXXZ (0005: 8D) (0008: E8) (REF 003A: ??1Property@MetaObjectGenerator@@QEAA@XZ)
+                      4. 11 3E11 005B 0000:?destroySubTree@?$QMapNode@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEAAXXZ (0005: 8D) (0008: E8) (REF 003A: ??1Method@MetaObjectGenerator@@QEAA@XZ)
+                      5. 11 E1DE 0052 0000:?destroySubTree@?$QMapNode@VQString@@J@@QEAAXXZ (0005: 8B)
+                      6. 11 E1DE 005B 0000:?destroySubTree@?$QMapNode@VQString@@VQVariant@@@@QEAAXXZ (0005: 8D)
+                    2083390074118339FF741E83C8FFF00FC10183F8:
+                      0. 11 5B3E 0052 0000:?destroySubTree@?$QMapNode@JVQByteArray@@@@QEAAXXZ
+                    2883390074118339FF741583C8FFF00FC10183F8:
+                      0. 08 4C19 0049 0000:?destroySubTree@?$QMapNode@VQUuid@@V?$QMap@JVQByteArray@@@@@@QEAAXXZ
+                  CAE8........488BD0488BCB4883C4205BE9:
+                    0. 00 0000 0021 0000:?qaxHrgnFromQRegion@@YAPEAUHRGN__@@AEBVQRegion@@PEBVQWidget@@@Z
+                4C8BC2488B4930488D542430E8........488B4B30488D:
+                  0. 08 F451 0088 0000:?onActiveXListCurrentChanged@QAxSelect@@AEAAXAEBVQModelIndex@@@Z
+                E8........:
+                  48:
+                    85C0751A488BCBE8........4885C0740D:
+                      0. 09 B968 0033 0000:?hostWindow@QAxHostWidget@@QEBAPEAVQWindow@@XZ
+                    8B43384885C074184883784000741133D2:
+                      0. 08 749A 0035 0000:?focusInEvent@QAxHostWidget@@MEAAXPEAVQFocusEvent@@@Z
+                    8D05........B910000000488903E8:
+                      0. 00 0000 003D 0000:??0QAxScriptManager@@QEAA@PEAVQObject@@@Z
+                  84C075064883C4205BC3488D4BD033D2488B:
+                    0. 0D 32D8 002D 0000:?initialize@QAxWidget@@MEAA_NPEAPEAUIUnknown@@@Z
+                F6C201740ABA20000000E8........488BC34883C4205B:
+                  0. 01 EF04 0021 0000:??_GQAxScriptSite@@UEAAPEAXI@Z
+              DA4885D275:
+                0433C0EB1333D2E8........488B4818834910:
+                  0. 0B 5A74 002B 0000:?qax_createObjectWrapper@@YAPEAXHPEAUIUnknown@@@Z
+                07B803400080EB:
+                  11488B8998000000E8:
+                    0. 00 0000 002C 0000:?GetWindow@QAxClientSite@@UEAAJPEAPEAUHWND__@@@Z
+                  26488322004883C1F8E8:
+                    0. 00 0000 0041 0000:?GetWindow@QAxScriptSite@@UEAAJPEAPEAUHWND__@@@Z
+            8D05........:
+              488BD9488901:
+                48:
+                  8B49284885C9740B488B01BA:
+                    0. 3E 1A70 009B 0000:??1QAxScript@@UEAA@XZ
+                  8D05........48894110488B:
+                    0. 4E 9C46 007F 0000:??1QAxScriptEngine@@UEAA@XZ
+                BA60000000488D05........48:
+                  0. 08 04CF 0039 0000:??1QAxSelect@@UEAA@XZ
+              4C8D4424404889442440E8........488B4C24:
+                0. 28 BA1B 0054 0000:?createHostWindow@QAxWidget@@MEAA_N_N@Z
+          496300488BDA85C00F88BB00000041837804000F8CB000000049:
+            0. 3E 0E73 00E3 0000:?data@ControlList@@UEBA?AVQVariant@@AEBVQModelIndex@@H@Z
+          4C8B4228488BD9418B40:
+            1489442430418B40184C8D4424308944:
+              0. 03 121C 0030 0000:?qaxNativeWidgetPosition@@YA?AVQPoint@@PEBVQWidget@@@Z
+            1C412B4014FFC089442430418B402041:
+              0. 0F D199 003C 0000:?qaxNativeWidgetSize@@YA?AVQSize@@PEBVQWidget@@@Z
+          83:
+            64243000488BD9488D4C2430E8........488D0D........48:
+              0. 32 26BC 005F 0000:?fromWCharArray@QString@@SA?AV1@PEB_WH@Z
+            CBFFF00FC1:
+              59:
+                1083EB01750F4885C9740A4C8B018D530141FF:
+                  0. 0A 8FD0 002A 0000:?Release@QtPropertyBag@@UEAAKXZ
+                1883EB01750F4885C9740A4C8B018D530141FF:
+                  0. 0A 413E 002A 0000:?Release@QAxScriptSite@@UEAAKXZ
+                5083EB01750F4885C9740A4C8B018D530141FF:
+                  0. 0A 1B2F 002A 0000:?Release@QAxEventSink@@UEAAKXZ
+              99A000000083EB01750F4885C9740A4C8B018D53:
+                0. 0D 8D84 002D 0000:?Release@QAxClientSite@@UEAAKXZ
+          8B05........85C00F85D6000000488D0D........E8:
+            0. 06 B2AF 00F0 0000:?qt_metatype_id@?$QMetaTypeIdQObject@PEAVQAxScript@@$07@@SAHXZ
+        30:
+          488B01488BD94C8B18498B004C8B10418B03418902498B43084D:
+            0. 7A 0631 00A4 0000:??$_Pop_heap_hole_unchecked@Viterator@?$QList@UControl@@@@UControl@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@00$$QEAUControl@@AEAU?$less@X@0@@Z
+          498BD94C8BD185D2757C4585C074484183E80174314183F8010F:
+            0. 23 6CA0 00D4 0000:?qt_static_metacall@QAxScriptManager@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+          4D8B104C89542420418B02FFC083F8017604F041FF024883C120:
+            0. 06 AF59 00B0 0000:?addEnumValue@MetaObjectGenerator@@AEAAXAEBVQByteArray@@0H@Z
+          8364242000488BDAE8........488BC34883C4305BC3:
+            0. 00 0000 001C 0000:?dynamicCall@QAxBase@@QEAA?AVQVariant@@PEBDAEAV?$QList@VQVariant@@@@@Z
+        408364245000488BD9488D4C24604183C8FFE8........488D0D:
+          0. 00 0000 00BC 0000:?SetStatusText@QAxClientSite@@UEAAJPEB_W@Z
+        50:
+          41833800488BDA7C6241837804007C5B49837810007454488B49:
+            0. 36 495B 0084 0000:?clsidAt@QAxSelectPrivate@@QEBA?AVQString@@AEBVQModelIndex@@@Z
+          488B:
+            05........4833C44889442448488B4138488BD94885C00F:
+              0. 0D 2A69 00F5 0000:?resizeObject@QAxHostWidget@@AEAAXXZ
+            4918488D05........8364244000488BDA498BD048894424:
+              0. 07 8F9B 00AA 0000:?propertyType@MetaObjectGenerator@@AEAA?AVQByteArray@@AEBV2@@Z
+        60488B05........4833C44889442450488BD94889542430488B49:
+          0. 2F 8129 0139 0000:?ActivateMe@QAxClientSite@@UEAAJPEAUIOleDocumentView@@@Z
+    56574883EC:
+      30488BF2498BF8498BD0488BD9E8........488D05:
+        0. 19 40B6 00D5 0000:??0QAxScript@@QEAA@AEBVQString@@PEAVQAxScriptManager@@@Z
+      50488B05........4833C44889442448488B01498BF0488BFA:
+        0. 0E FC3C 00B3 0000:?registerEngine@QAxScriptManager@@SA_NAEBVQString@@00@Z
+  55:
+    488BEC4883EC:
+      40488B05........4833C4488945F049832000488B492848:
+        0. 61 0821 008B 0000:?queryInterface@QAxScriptEngine@@QEBAJAEBVQUuid@@PEAPEAX@Z
+      70:
+        488B05........4833C4488945F0488B4538488365C000:
+          0. 1F BDE6 006D 0000:?error@QAxScriptManager@@QEAAXPEAVQAxScript@@HAEBVQString@@H1@Z
+        4C8BCA488B12488BC2482B0148C1F80383F8020F8C8D00:
+          0. 11 51A9 00B5 0000:??$_Pop_heap_unchecked@Viterator@?$QList@UControl@@@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@0AEAU?$less@X@0@@Z
+    53:
+      5657:
+        41:
+          5441:
+            5541:
+              56415748:
+                8BEC4883EC68488BF14533FF44897D48498B:
+                  0. 09 2CD0 022B 0000:?OnScriptTerminate@QAxScriptSite@@UEAAJPEBUtagVARIANT@@PEBUtagEXCEPINFO@@@Z
+                8DAC2448FDFFFF4881ECB8030000488B05:
+                  0. 00 0000 11BB 0000:?dynamicCallHelper@QAxBase@@AEAA_NPEBDPEAXAEAV?$QList@VQVariant@@@@AEAVQByteArray@@I@Z
+              57488BEC4883EC6033DB488BF1895D40488BFA488B41:
+                0. 0D 496D 0215 0000:?verbs@QAxBase@@QEBA?AVQStringList@@XZ
+            56:
+              4157488BEC4883EC:
+                40:
+                  488D05........:
+                    33FF897D404C8D:
+                      0. 01 D786 01DD 0000:??0MetaObjectGenerator@@QEAA@PEAUITypeLib@@PEAUITypeInfo@@@Z
+                    458BF048890248:
+                      0. 12 CC18 01AB 0000:?functions@QAxScript@@QEBA?AVQStringList@@W4FunctionFlags@1@@Z
+                  BE25000000488BDA4C8BF9668975:
+                    0. 0F 545F 01B2 (l)0000:?replaceEnvironmentVariables@@YA?AVQString@@V1@@Z
+                60488B41084C8D3D........488BF2:
+                  0. 32 27BC 0272 0000:?propertyBag@QAxBase@@QEBA?AV?$QMap@VQString@@VQVariant@@@@XZ
+                70488B194C8BFA4C8BF1483B1A0F84:
+                  0. 14 1097 01D3 0000:??$_Insertion_sort_unchecked@Viterator@?$QList@UControl@@@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@0AEAU?$less@X@0@@Z
+              488D6C24D14881ECA800000083656700488BDA33D2488B:
+                0. 0A 3CE0 01C4 0000:?OnScriptError@QAxScriptSite@@UEAAJPEAUIActiveScriptError@@@Z
+          56488BEC4883EC:
+            20498BD8488BFA4533C0488BF1E8........83:
+              0. 06 B817 015D 0000:??0QAxHostWidget@@QEAA@PEAVQWidget@@PEAVQAxClientSite@@@Z
+            40488BDA4C8D05........488BF9488D15:
+              0. 00 0000 0168 0000:?retranslateUi@Ui_QAxSelect@@QEAAXPEAVQDialog@@@Z
+            60488B05........4833C4488945F88365C000:
+              0. 3E 4207 021F 0000:?GetItemInfo@QAxScriptSite@@UEAAJPEB_WKPEAPEAUIUnknown@@PEAPEAUITypeInfo@@@Z
+          57488BEC4883EC40488B05........4833C4488945F049832000:
+            0. 09 EE27 01F6 0000:?QueryInterface@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEAX@Z
+        48:
+          8BEC4883EC38488BF9488BDA488B4958E8........4C8BC84D85:
+            0. 29 9A5D 0166 0000:?parsePrototype@QAxMetaObject@@QEAAXAEBVQByteArray@@@Z
+          8DAC2408FAFFFF4881ECF8060000488B05........4833C44889:
+            0. 19 E152 23F6 0000:?VARIANTToQVariant_container@@YA?AVQVariant@@AEBUtagVARIANT@@AEBVQByteArray@@I@Z
+      57:
+        41564157488BEC4883EC50488B7930488BD94885FF74274C8D472049:
+          0. 14 5845 02EC 0000:?init@MetaObjectGenerator@@AEAAXXZ
+        488BEC4883EC6083652000488BDA488B02488BF9488D55E8488BCBFF:
+          0. 6F E99D 0180 (l)0000:?IFontToQFont@@YA?AVQFont@@PEAUIFont@@@Z
+  574883EC204C8B01488D3D........4889394183781000741541837810FF74:
+    0. 12 B795 0072 0000:?clear@?$QHash@VQUuid@@PEAVQAxEventSink@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@VQUuid@@PEAVQAxEventSink@@@@CAXPEAUNode@QHashData@@@Z)
+    1. 12 B795 0072 0000:?clear@?$QHash@VQString@@PEAUQAxMetaObject@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@VQString@@PEAUQAxMetaObject@@@@CAXPEAUNode@QHashData@@@Z)
+448944241855535657415541564157488BEC4883EC60488BF2488D1D:
+  0. 10 3334 0288 0000:?findProperty@QAxEventSink@@QEAA?AVQByteArray@@J@Z
+4533:
+  C0488B5108418D40FD41FFC02142104183F8027CEC488B4108836010FBC3:
+    0. 00 0000 0020 0000:?disableMetaObject@QAxBase@@QEAAXXZ
+  C9488D15........45:
+    33C0E9:
+      0. 00 0000 0012 0000:?entered@QAxScript@@QEAAXXZ
+    8D4101E9:
+      0. 00 0000 0013 0000:?finished@QAxScript@@QEAAXXZ
+48:
+  83:
+    2100488BC1C7410800000080C3:
+      0. 00 0000 000F 0000:??0QVariant@@QEAA@XZ
+    C1:
+      10E9:
+        0. 00 0000 0009 0000:?metaObject@QAxObject@@UEBAPEBUQMetaObject@@XZ (REF 0005: ?metaObject@QAxBase@@UEBAPEBUQMetaObject@@XZ)
+        1. 00 0000 0009 0000:?connectNotify@QAxObject@@MEAAXAEBVQMetaMethod@@@Z (REF 0005: ?connectNotify@QAxBase@@IEAAXXZ)
+      30E9:
+        0. 00 0000 0009 0000:?metaObject@QAxWidget@@UEBAPEBUQMetaObject@@XZ (REF 0005: ?metaObject@QAxBase@@UEBAPEBUQMetaObject@@XZ)
+        1. 00 0000 0009 0000:?connectNotify@QAxWidget@@MEAAXAEBVQMetaMethod@@@Z (REF 0005: ?connectNotify@QAxBase@@IEAAXXZ)
+      F0450FB7C0488B0148FF6038:
+        0. 00 0000 000F 0000:?TranslateAcceleratorW@QAxClientSite@@UEAAJPEAUtagMSG@@G@Z
+    E9:
+      08E9:
+        0. 00 0000 0009 0000:?AddRef@QAxScriptSite@@W7EAAKXZ (REF 0005: ?AddRef@QAxScriptSite@@UEAAKXZ)
+        1. 00 0000 0009 0000:?QueryInterface@QAxScriptSite@@W7EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxScriptSite@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        2. 00 0000 0009 0000:?Release@QAxScriptSite@@W7EAAKXZ (REF 0005: ?Release@QAxScriptSite@@UEAAKXZ)
+        3. 00 0000 0009 0000:?AddRef@QAxClientSite@@W7EAAKXZ (REF 0005: ?AddRef@QAxClientSite@@UEAAKXZ)
+        4. 00 0000 0009 0000:?ContextSensitiveHelp@QAxClientSite@@W7EAAJH@Z (REF 0005: ?ContextSensitiveHelp@QAxClientSite@@UEAAJH@Z)
+        5. 00 0000 0009 0000:?GetWindow@QAxClientSite@@W7EAAJPEAPEAUHWND__@@@Z (REF 0005: ?GetWindow@QAxClientSite@@UEAAJPEAPEAUHWND__@@@Z)
+        6. 00 0000 0009 0000:?QueryInterface@QAxClientSite@@W7EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        7. 00 0000 0009 0000:?Release@QAxClientSite@@W7EAAKXZ (REF 0005: ?Release@QAxClientSite@@UEAAKXZ)
+        8. 00 0000 0009 0000:?AddRef@QAxEventSink@@W7EAAKXZ (REF 0005: ?AddRef@QAxEventSink@@UEAAKXZ)
+        9. 00 0000 0009 0000:?QueryInterface@QAxEventSink@@W7EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxEventSink@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        10. 00 0000 0009 0000:?Release@QAxEventSink@@W7EAAKXZ (REF 0005: ?Release@QAxEventSink@@UEAAKXZ)
+      10E9:
+        0. 00 0000 0009 0000:??_EQAxSelect@@WBA@EAAPEAXI@Z (REF 0005: ??_EQAxSelect@@UEAAPEAXI@Z)
+        1. 00 0000 0009 0000:??_EQAxScriptEngine@@WBA@EAAPEAXI@Z (REF 0005: ??_EQAxScriptEngine@@UEAAPEAXI@Z)
+        2. 00 0000 0009 0000:?metaObject@QAxObject@@WBA@EBAPEBUQMetaObject@@XZ (REF 0005: ?metaObject@QAxObject@@UEBAPEBUQMetaObject@@XZ)
+        3. 00 0000 0009 0000:?qt_metacall@QAxObject@@WBA@EAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0005: ?qt_metacall@QAxObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+        4. 00 0000 0009 0000:??_EQAxObject@@WBA@EAAPEAXI@Z (REF 0005: ??_EQAxObject@@UEAAPEAXI@Z)
+        5. 00 0000 0009 0000:??_EQAxHostWidget@@WBA@EAAPEAXI@Z (REF 0005: ??_EQAxHostWidget@@UEAAPEAXI@Z)
+        6. 00 0000 0009 0000:??_EQAxWidget@@WBA@EAAPEAXI@Z (REF 0005: ??_EQAxWidget@@UEAAPEAXI@Z)
+        7. 00 0000 0009 0000:?AddRef@QAxClientSite@@WBA@EAAKXZ (REF 0005: ?AddRef@QAxClientSite@@UEAAKXZ)
+        8. 00 0000 0009 0000:?QueryInterface@QAxClientSite@@WBA@EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        9. 00 0000 0009 0000:?Release@QAxClientSite@@WBA@EAAKXZ (REF 0005: ?Release@QAxClientSite@@UEAAKXZ)
+      18E9:
+        0. 00 0000 0009 0000:?QueryInterface@QAxClientSite@@WBI@EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        1. 00 0000 0009 0000:?Release@QAxClientSite@@WBI@EAAKXZ (REF 0005: ?Release@QAxClientSite@@UEAAKXZ)
+        2. 00 0000 0009 0000:?AddRef@QAxClientSite@@WBI@EAAKXZ (REF 0005: ?AddRef@QAxClientSite@@UEAAKXZ)
+      20E9:
+        0. 00 0000 0009 0000:?QueryInterface@QAxClientSite@@WCA@EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        1. 00 0000 0009 0000:?Release@QAxClientSite@@WCA@EAAKXZ (REF 0005: ?Release@QAxClientSite@@UEAAKXZ)
+        2. 00 0000 0009 0000:?AddRef@QAxClientSite@@WCA@EAAKXZ (REF 0005: ?AddRef@QAxClientSite@@UEAAKXZ)
+      28E9:
+        0. 00 0000 0009 0000:?QueryInterface@QAxClientSite@@WCI@EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        1. 00 0000 0009 0000:?Release@QAxClientSite@@WCI@EAAKXZ (REF 0005: ?Release@QAxClientSite@@UEAAKXZ)
+        2. 00 0000 0009 0000:?AddRef@QAxClientSite@@WCI@EAAKXZ (REF 0005: ?AddRef@QAxClientSite@@UEAAKXZ)
+      30E9:
+        0. 00 0000 0009 0000:?AddRef@QAxClientSite@@WDA@EAAKXZ (REF 0005: ?AddRef@QAxClientSite@@UEAAKXZ)
+        1. 00 0000 0009 0000:?QueryInterface@QAxClientSite@@WDA@EAAJAEBU_GUID@@PEAPEAX@Z (REF 0005: ?QueryInterface@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEAX@Z)
+        2. 00 0000 0009 0000:?Release@QAxClientSite@@WDA@EAAKXZ (REF 0005: ?Release@QAxClientSite@@UEAAKXZ)
+        3. 00 0000 0009 0000:?metaObject@QAxWidget@@WDA@EBAPEBUQMetaObject@@XZ (REF 0005: ?metaObject@QAxWidget@@UEBAPEBUQMetaObject@@XZ)
+        4. 00 0000 0009 0000:?qt_metacall@QAxWidget@@WDA@EAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0005: ?qt_metacall@QAxWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+        5. 00 0000 0009 0000:??_EQAxWidget@@WDA@EAAPEAXI@Z (REF 0005: ??_EQAxWidget@@UEAAPEAXI@Z)
+    EC:
+      18:
+        660F6E224C8BC1F30FE6E40F293C240F57DB660F6E7A04F20F59E2F3:
+          0. 0D 89CA 00BE 0000:??D@YA?BVQSize@@AEBV0@N@Z
+          1. 0D 89CA 00BE 0000:??D@YA?BVQPoint@@AEBV0@N@Z
+        F20F10194C8BCA0F28C30F293C24F20F5C05........F20F1079080F:
+          0. 0C C03C 00AF 0000:?toSize@QSizeF@@QEBA?AVQSize@@XZ
+          1. 0C C03C 00AF 0000:?toPoint@QPointF@@QEBA?AVQPoint@@XZ
+      28:
+        33D2488D0D........E8........488D0D........4883C428E9:
+          0. 00 0000 0022 (l)0000:??__Ecache_mutex@@YAXXZ
+        48:
+          83792000740C488BD1488B4920E8........4883C428C3:
+            0. 00 0000 001C 0000:?updateObjects@QAxScript@@AEAAXXZ
+          8B:
+            0D........83791000741A837910FF742083C8FFF00FC1411083:
+              0. 07 1867 003C (l)0000:??__Fmo_cache@@YAXXZ (REF 0007: ?mo_cache@@3V?$QHash@VQString@@PEAUQAxMetaObject@@@@A)
+              1. 07 1867 003C (l)0000:??__Fenum_cache@@YAXXZ (REF 0007: ?enum_cache@@3V?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@A)
+            11833A007411833AFF741D83C8FFF00FC10283F8017511488B09:
+              0. 0A 7FD3 0033 0000:??1QString@@QEAA@XZ
+              1. 0A A01C 0033 0000:??1QByteArray@@QEAA@XZ
+            15........833A007418833AFF741F83C8FFF00FC10283F80175:
+              0. 04 4EF5 0039 (l)0000:??__Fqax_qualified_usertypes@@YAXXZ (REF 0007: ?qax_qualified_usertypes@@3V?$QList@VQByteArray@@@@A)
+              1. 04 4EF5 0039 (l)0000:??__Fengines@@YAXXZ (REF 0007: ?engines@@3V?$QList@UQAxEngineDescriptor@@@@A)
+            41:
+              08488B48184885C97406488B01FF50104883C428C3:
+                0. 00 0000 001C 0000:?internalRelease@QAxBase@@IEAAXXZ
+              104533C0488B48084C8B49104D85C97417498B51088A422024:
+                0. 18 C1CE 005E 0000:?window@QAxScriptSite@@IEBAPEAVQWidget@@XZ
+            49:
+              08488B4930E8........488BC833C04885C974038B41204883:
+                0. 03 53B6 0023 0000:?indexOfVerb@QAxBase@@IEBAJAEBVQString@@@Z
+              10E8........33C04883C428C3:
+                0. 00 0000 0014 0000:?OnLeaveScript@QAxScriptSite@@UEAAJXZ (REF 0009: ?finished@QAxScript@@QEAAXXZ)
+                1. 00 0000 0014 0000:?OnStateChange@QAxScriptSite@@UEAAJW4tagSCRIPTSTATE@@@Z (REF 0009: ?stateChanged@QAxScript@@QEAAXH@Z)
+                2. 00 0000 0014 0000:?OnEnterScript@QAxScriptSite@@UEAAJXZ (REF 0009: ?entered@QAxScript@@QEAAXXZ)
+              284885C9:
+                7406488B01FF50284883C428C3:
+                  0. 00 0000 0018 0000:?setState@QAxScriptEngine@@QEAAXW4State@1@@Z
+                750433C0EB0F488B01488D542430FF50308B442430:
+                  0. 05 492C 0025 0000:?state@QAxScriptEngine@@QEBA?AW4State@1@XZ
+              30488B4948E8........8BC8B8010000003BC8740A33C08D50:
+                0. 0B 0CF4 002B 0000:?sandboxingLevel@QAxSelect@@QEBA?AW4SandboxingLevel@1@XZ
+              384885C97406488B01FF503033C04883C428C3:
+                0. 00 0000 001A 0000:?DeactivateAndUndo@QAxClientSite@@UEAAJXZ
+              484885C97406488B01FF50284883C428C3:
+                0. 00 0000 0018 0000:?emitAmbientPropertyChange@QAxClientSite@@QEAAXJ@Z
+            51:
+              08833A007411833AFF741583C8FFF00FC10283F8017509488B:
+                0. 03 22F9 002C 0000:??1QtPropertyBag@@UEAA@XZ
+              10833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+                0. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@PEAVQAxScript@@@@CAXPEAUNode@QHashData@@@Z
+                1. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@@Z
+                2. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@PEAUQAxMetaObject@@@@CAXPEAUNode@QHashData@@@Z
+                3. 0C 4579 0035 0000:?deleteNode2@?$QHash@VQString@@PEAVQAxBase@@@@CAXPEAUNode@QHashData@@@Z
+                4. 0C 9AB6 0035 0000:?deleteNode2@?$QHash@VQByteArray@@J@@CAXPEAUNode@QHashData@@@Z
+                5. 0C 9AB6 0035 0000:?deleteNode2@?$QHash@VQByteArray@@H@@CAXPEAUNode@QHashData@@@Z
+              20833A007411833AFF741583C8FFF00FC10283F8017509488B:
+                0. 03 D114 002C 0000:?deleteNode2@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@CAXPEAUNode@QHashData@@@Z
+              404885D2743C488B49288B411C2B4114FFC0894424308B4120:
+                0. 25 3736 004E 0000:?resizeEvent@QAxWidget@@MEAAXPEAVQResizeEvent@@@Z
+            D1488B49384885C9740A488B014883C270FF501833C04883C428:
+              0. 01 EF04 0021 0000:?OnControlInfoChanged@QAxClientSite@@UEAAJXZ
+          8D0D........E8........8B05........B9FEFFFFFF83F8FF0F44:
+            0. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_s_nativeEventFilter@?A0xc99e2d0d@@YAPEAVQAxNativeEventFilter@@XZ@YAXXZ
+        4C8BC24885D274:
+          208B4108488322008942080F10410CF30F7F420C48:
+            0. 08 5024 0031 0000:?duplicateNode@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@CAXPEAUNode@QHashData@@PEAX@Z
+          2B8B410848832200894208488B5110498950108B02:
+            0. 13 2801 003C 0000:?duplicateNode@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@CAXPEAUNode@QHashData@@PEAX@Z
+        65488B0425580000008B0D........:
+          41B8........488B14C8418B04:
+            0. 03 4E75 0095 (l)0000:?innerFunction@Q_QGS_s_nativeEventFilter@?A0xc99e2d0d@@YAPEAVQAxNativeEventFilter@@XZ
+          BA........488B0CC88B040A39:
+            0. 01 D5A7 006E 0000:?types@?$ConnectionTypes@U?$List@AEBVQModelIndex@@AEBV1@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (0035: B8)
+            1. 01 D5A7 0067 0000:?types@?$ConnectionTypes@U?$List@AEBVQString@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (0035: C7) (003B: 0A)
+            2. 01 D5A7 0067 0000:?types@?$ConnectionTypes@U?$List@AEBVQModelIndex@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (0035: C7) (003B: 2A)
+        85D2:
+          7407E8........EB05E8........33C04883C428C3:
+            0. 00 0000 001B 0000:?ContextSensitiveHelp@QAxClientSite@@UEAAJH@Z
+          75304585C074224183E80174134183F801751F498B51084883C4:
+            0. 02 7B98 003D 0000:?qt_static_metacall@QAxSelect@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        8B05........85C0751A448D40014883CAFF488D0D........E8:
+          0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@PEAVQAxObject@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAVQAxObject@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          1. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@PEAPEAUIDispatch@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAPEAUIDispatch@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          2. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@PEAUIUnknown@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAUIUnknown@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      38:
+        4533D24C8BDA85C974:
+          6283E901743A83F901756A0F10421066480F7E:
+            0. 5E C3DA 0087 0000:?impl@?$QSlotObject@P8QDialog@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+            1. 5E C3DA 0087 0000:?impl@?$QSlotObject@P8QAxSelect@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+          6683E901743A83F901756E0F10421066480F7E:
+            0. 62 B228 008B 0000:?impl@?$QSlotObject@P8QAxSelect@@EAAXAEBVQString@@@ZU?$List@AEBVQString@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+            1. 62 B228 008B 0000:?impl@?$QSlotObject@P8QAxSelect@@EAAXAEBVQModelIndex@@@ZU?$List@AEBVQModelIndex@@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        48:
+          83642420004C8D4C2420488954242841B802000000488D15:
+            0. 00 0000 002B 0000:?finished@QAxScript@@QEAAXAEBVQVariant@@@Z
+          85D2750EBA270000004883C438E9........4585C0B80C000000BA:
+            0. 07 0DF1 0055 0000:??$qRegisterNormalizedMetaType@PEAVQObject@@@@YAHAEBVQByteArray@@PEAPEAVQObject@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQObject@@$0A@@QtPrivate@@@Z
+        4D8BD14C8BD985D20F85B50000004585C00F84960000004183E8010F:
+          0. 3F 1A8B 014B 0000:?qt_static_metacall@QAxScript@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+  85:
+    C9741F534883EC20488BD9E8........BA68000000488BCBE8........48:
+      0. 05 28D1 0025 0000:?qax_deleteMetaObject@@YAXPEAUQMetaObject@@@Z
+    D2:
+      74:
+        0B4885C97406488B02488901488BC1C3:
+          0. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAPEAUIDispatch@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+          1. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAUIDispatch@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+          2. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAUIUnknown@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+          3. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAVQAxObject@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+          4. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAVQObject@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+          5. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAVQAxScript@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+        1B8B4108488322008942080F10410CF30F7F420C488B412048894220:
+          0. 01 EF04 0021 0000:?duplicateNode@?$QHash@VQUuid@@PEAVQAxEventSink@@@@CAXPEAUNode@QHashData@@PEAX@Z
+        1E8B410848832200894208488B491048894A108B01FFC083F8017603:
+          0. 04 49A0 0024 0000:?duplicateNode@?$QHash@VQString@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@PEAX@Z
+        268B4108488322008942084C8B41104C894210418B00FFC083F80176:
+          0. 0C 14B8 002C 0000:?duplicateNode@?$QHash@VQByteArray@@J@@CAXPEAUNode@QHashData@@PEAX@Z
+        288B4108488322008942084C8B41104C894210418B00FFC083F80176:
+          0. 0E E38F 002E 0000:?duplicateNode@?$QHash@VQString@@PEAVQAxScript@@@@CAXPEAUNode@QHashData@@PEAX@Z
+          1. 0E E38F 002E 0000:?duplicateNode@?$QHash@VQString@@PEAUQAxMetaObject@@@@CAXPEAUNode@QHashData@@PEAX@Z
+          2. 0E E38F 002E 0000:?duplicateNode@?$QHash@VQString@@PEAVQAxBase@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      7506B803400080C348832200B8:
+        01400080C3:
+          0. 00 0000 0015 0000:?GetExtendedControl@QAxClientSite@@UEAAJPEAPEAUIDispatch@@@Z
+        02400080C3:
+          0. 00 0000 0015 0000:?GetContainer@QAxClientSite@@UEAAJPEAPEAUIOleContainer@@@Z
+  89:
+    4C2408555356574154415541564157488BEC4883EC684C8BE1488D0D:
+      0. 00 0000 0468 0000:?scriptFileFilter@QAxScriptManager@@SA?AVQString@@XZ
+    542410:
+      5356574883EC30488B02488BF9488BCAFF5018488BC8488D542450:
+        0. 04 B53D 00E2 0000:?addObject@QAxScriptManager@@QEAAXPEAVQAxBase@@@Z
+      555356574154415541564157488D6C24E14881ECB8000000836567:
+        0. 07 E018 0662 0000:?toolTip@Control@@QEBA?AVQString@@XZ
+    5C24:
+      08:
+        4889:
+          6C24:
+            10:
+              4889:
+                7424:
+                  1857:
+                    41:
+                      544155415641574883EC:
+                        30488B01:
+                          49:
+                            0. 11 0059 00E7 0000:?insert@?$QMap@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEAA?AViterator@1@AEBVQByteArray@@AEBUProperty@MetaObjectGenerator@@@Z (0018: 64)
+                            1. 11 0059 00F4 0000:?insert@?$QMap@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEAA?AViterator@1@AEBVQByteArray@@AEBUMethod@MetaObjectGenerator@@@Z (0018: 71)
+                          4D:
+                            0. 11 32AB 00FB 0000:?insert@?$QMap@VQString@@J@@QEAA?AViterator@1@AEBVQString@@AEBJ@Z (0028: 84)
+                            1. 11 32AB 00FB 0000:?insert@?$QMap@VQByteArray@@_N@@QEAA?AViterator@1@AEBVQByteArray@@AEB_N@Z (0028: 85)
+                            2. 11 C62D 0103 0000:?insert@?$QMap@VQString@@VQVariant@@@@QEAA?AViterator@1@AEBVQString@@AEBVQVariant@@@Z (0028: 84)
+                            3. 11 C62D 0103 0000:?insert@?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEAA?AViterator@1@AEBVQByteArray@@AEBV?$QList@U?$QPair@VQByteArray@@H@@@@@Z (0028: 85) (0069: 48)
+                            4. 11 C62D 010E 0000:?insert@?$QMap@VQByteArray@@V1@@@QEAA?AViterator@1@AEBVQByteArray@@0@Z (0028: 85) (0069: 53)
+                        508BB424A0:
+                          0. FB 172E 011B (l)0000:?Invoke@@YAJPEAUIDispatch@@JAEBU_GUID@@KKPEAUtagDISPPARAMS@@PEAUtagVARIANT@@PEAUtagEXCEPINFO@@PEAI@Z
+                      5641574883EC:
+                        20448BFA488BF1488B:
+                          0. 0D 7DB8 0086 0000:?createNode@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@AEAAPEAU?$QHashNode@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@IAEBVQUuid@@AEBV?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@PEAPEAU2@@Z (0010: 21)
+                          1. 0D 7DB8 0090 0000:?createNode@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@AEAAPEAU?$QHashNode@VQByteArray@@V?$QList@VQByteArray@@@@@@IAEBVQByteArray@@AEBV?$QList@VQByteArray@@@@PEAPEAU2@@Z (0010: 2B)
+                        508BBC249800000033:
+                          0. 16 5E99 00B5 0000:??$connect@P8QLineEdit@@EAAXAEBVQString@@@ZP8QAxSelect@@EAAX0@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVQLineEdit@@P83@EAAXAEBVQString@@@ZPEBVQAxSelect@@P85@EAAX1@ZW4ConnectionType@Qt@@@Z (REF 0036: ?types@?$ConnectionTypes@U?$List@AEBVQString@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                          1. 16 5E99 00B5 0000:??$connect@P8QAbstractItemView@@EAAXAEBVQModelIndex@@@ZP8QAxSelect@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemView@@P83@EAAXAEBVQModelIndex@@@ZPEBVQAxSelect@@P85@EAAXXZW4ConnectionType@Qt@@@Z (REF 0036: ?types@?$ConnectionTypes@U?$List@AEBVQModelIndex@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ)
+                    4883EC:
+                      20:
+                        33ED498BF8408AF2488BD948:
+                          0. 0B 1BB3 00DF 0000:?createHostWindow@QAxWidget@@IEAA_N_NAEBVQByteArray@@@Z
+                        48:
+                          635A0C488BFA48636A0848:
+                            0. 24 6F38 0076 0000:?dealloc@?$QList@VQVariant@@@@AEAAXPEAUData@QListData@@@Z (0005: 10)
+                            1. 24 6F38 0076 0000:?dealloc@?$QList@UQAxEngineDescriptor@@@@AEAAXPEAUData@QListData@@@Z (0005: 18)
+                            2. 24 6F38 0076 0000:?dealloc@?$QList@UControl@@@@AEAAXPEAUData@QListData@@@Z (0005: 38)
+                          8B:
+                            02488BFA488901488BD9:
+                              0. 13 34FE 00A0 0000:??0?$QList@VQVariant@@@@QEAA@AEBV0@@Z (0031: 10)
+                              1. 13 34FE 00A0 0000:??0?$QList@UControl@@@@QEAA@AEBV0@@Z (0031: 38)
+                              2. 13 E965 00B1 0000:??0?$QList@U?$QPair@VQByteArray@@H@@@@QEAA@AEBV0@@Z
+                            D9498BE9B93800000049:
+                              0. 06 55E8 007C 0000:?load@QAxScriptManager@@QEAAPEAVQAxScript@@AEBVQString@@00@Z
+                            F9418BF0488B09488BEA:
+                              0. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@PEAVQAxScript@@@@AEBAPEAPEAU?$QHashNode@VQString@@PEAVQAxScript@@@@AEBVQString@@I@Z
+                              1. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@PEAUQAxMetaObject@@@@AEBAPEAPEAU?$QHashNode@VQString@@PEAUQAxMetaObject@@@@AEBVQString@@I@Z
+                              2. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@UQHashDummyValue@@@@AEBAPEAPEAU?$QHashNode@VQString@@UQHashDummyValue@@@@AEBVQString@@I@Z
+                              3. 2B 8B7B 007B 0000:?findNode@?$QHash@VQString@@PEAVQAxBase@@@@AEBAPEAPEAU?$QHashNode@VQString@@PEAVQAxBase@@@@AEBVQString@@I@Z
+                        49:
+                          832000488BF2498BF8488D:
+                            0. 01 54B7 00A7 0000:?QueryInterface@QAxScriptSite@@UEAAJAEBU_GUID@@PEAPEAX@Z (001A: 16)
+                            1. 01 54B7 00BA 0000:?QueryInterface@QAxEventSink@@UEAAJAEBU_GUID@@PEAPEAX@Z (001A: 5B)
+                          8B:
+                            E8488BF2488BF94885D2:
+                              0. 27 A7F2 00AB 0000:?eventFilter@QAxHostWidget@@MEAA_NPEAVQObject@@PEAVQEvent@@@Z
+                            F18BFA488BE9E8:
+                              0. 00 0000 006A 0000:?qt_metacall@QAxScriptManager@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 2E)
+                              1. 00 0000 006C 0000:?qt_metacall@QAxSelect@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30) (000D: 03)
+                              2. 00 0000 006C 0000:?qt_metacall@QAxScript@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (0006: 30) (000D: 06)
+                        817A0800010000488BDA488B:
+                          0. 1A 1143 00B2 0000:?TranslateAcceleratorW@QAxClientSite@@UEAAJPEAUtagMSG@@K@Z
+                        8BEA488BD9488B09BA080000:
+                          0. 08 D93E 0079 0000:?createNode@?$QHash@VQUuid@@PEAVQAxEventSink@@@@AEAAPEAU?$QHashNode@VQUuid@@PEAVQAxEventSink@@@@IAEBVQUuid@@AEBQEAVQAxEventSink@@PEAPEAU2@@Z (0010: 1C)
+                          1. 08 D93E 0082 0000:?createNode@?$QHash@VQByteArray@@J@@AEAAPEAU?$QHashNode@VQByteArray@@J@@IAEBVQByteArray@@AEBJPEAPEAU2@@Z (0010: 25)
+                          2. 08 D93E 0083 0000:?createNode@?$QHash@VQString@@PEAUQAxMetaObject@@@@AEAAPEAU?$QHashNode@VQString@@PEAUQAxMetaObject@@@@IAEBVQString@@AEBQEAUQAxMetaObject@@PEAPEAU2@@Z (0010: 26)
+                          3. 08 D93E 0083 0000:?createNode@?$QHash@VQString@@PEAVQAxScript@@@@AEAAPEAU?$QHashNode@VQString@@PEAVQAxScript@@@@IAEBVQString@@AEBQEAVQAxScript@@PEAPEAU2@@Z (0010: 26)
+                          4. 08 D93E 0083 0000:?createNode@?$QHash@VQString@@PEAVQAxBase@@@@AEAAPEAU?$QHashNode@VQString@@PEAVQAxBase@@@@IAEBVQString@@AEBQEAVQAxBase@@PEAPEAU2@@Z (0010: 26)
+                      30:
+                        418BD9498BF88BF2488BE9E8:
+                          0. 00 0000 0067 0000:?scriptError@QAxScriptManager@@AEAAXHAEBVQString@@H0@Z
+                        488BDA498BE9498BD0498BF8:
+                          0. 01 3E9B 009B 0000:?call@QAxScriptManager@@QEAA?AVQVariant@@AEBVQString@@AEAV?$QList@VQVariant@@@@@Z
+                        498B:
+                          F1418BD8488BF985D275:
+                            0. 0E F6A3 00AA 0000:?qt_static_metacall@QAxBase@@SAHPEAV1@W4Call@QMetaObject@@HPEAPEAX@Z
+                          F8488BDA488BE94D85C0:
+                            0. 06 E4FB 006C 0000:?replace@QByteArray@@QEAAAEAV1@PEBD0@Z
+                      50488BE9498BD9B92000000049:
+                        0. 06 55E8 009C 0000:??$connect@P8QDialogButtonBox@@EAAXXZP8QDialog@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQDialogButtonBox@@P83@EAAXXZPEBVQDialog@@P84@EAAXXZW4ConnectionType@Qt@@@Z
+                  2057415641574883EC20498B00498BF8488B:
+                    0. 0E 3533 013C 0000:?replaceType@MetaObjectGenerator@@AEAA?AVQByteArray@@AEBV2@@Z
+                7C241841564883EC20488BD9BD08000000488B49:
+                  0. 26 3165 00AA 0000:??1Method@MetaObjectGenerator@@QEAA@XZ
+                  1. 26 9BC3 00F8 0000:??1Control@@QEAA@XZ
+                  2. 26 D571 00AA 0000:??1QAxEngineDescriptor@@QEAA@XZ
+              4C89442418565741564883EC508BBC249800000033DB:
+                0. 12 8A02 00AF 0000:??$connect@P8QItemSelectionModel@@EAAXAEBVQModelIndex@@0@ZP8QAxSelect@@EAAX0@Z@QObject@@SA?AVConnection@QMetaObject@@PEBVQItemSelectionModel@@P83@EAAXAEBVQModelIndex@@1@ZPEBVQAxSelect@@P85@EAAX1@ZW4ConnectionType@Qt@@@Z
+              565741:
+                55415641574883EC308364247000498BF14183:
+                  0. 3A C6EE 0119 (l)0000:?menuItemEntry@@YAHPEAUHMENU__@@HUtagMENUITEMINFOW@@AEAVQString@@AEAVQPixmap@@@Z
+                564883EC20488BDA488BF933D233C94533C945:
+                  0. 04 9727 00E5 0000:?qaxHrgnFromQRegion@@YAPEAUHRGN__@@AEBVQRegion@@PEBVQWindow@@@Z
+            188954241056574154415641574883EC20488B11488BF1:
+              0. 18 3165 0128 0000:?detach_helper_grow@?$QList@VQVariant@@@@AEAAPEAUNode@1@HH@Z (002A: 20) (002C: 10)
+              1. 18 3165 0128 0000:?detach_helper_grow@?$QList@UControl@@@@AEAAPEAUNode@1@HH@Z (002A: 20) (002C: 38)
+              2. 18 3165 0167 0000:?detach_helper_grow@?$QList@U?$QPair@VQByteArray@@H@@@@AEAAPEAUNode@1@HH@Z (002A: 31)
+          7424:
+            10:
+              48897C24:
+                18:
+                  41564883EC:
+                    20:
+                      488B:
+                        01498BF04C8BF2488B:
+                          0. 3E 0915 0093 0000:?key@?$QMap@JVQByteArray@@@@QEBA?BJAEBVQByteArray@@AEBJ@Z
+                        7908488BF1488B7F08:
+                          0. 61 FD0A 0163 0000:?clear@QAxBase@@UEAAXXZ
+                        D9498BF8488B094C8B:
+                          0. 2B D654 00BE 0000:?erase@?$QList@VQByteArray@@@@QEAA?AViterator@1@V21@@Z
+                        F9418BF0488B094C8B:
+                          0. 47 1D21 0098 0000:?findNode@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@AEBAPEAPEAU?$QHashNode@VQByteArray@@V?$QList@VQByteArray@@@@@@AEBVQByteArray@@I@Z
+                          1. 47 1D21 0098 0000:?findNode@?$QHash@VQByteArray@@J@@AEBAPEAPEAU?$QHashNode@VQByteArray@@J@@AEBVQByteArray@@I@Z
+                      4C8BF1488D05........48:
+                        0. 05 993F 00CC 0000:??0QAxBasePrivate@@QEAA@XZ
+                    30488B01498B:
+                      F14D8BF0488B:
+                        0. 0A D347 00D8 0000:?insert@?$QMap@JVQByteArray@@@@QEAA?AViterator@1@AEBJAEBVQByteArray@@@Z
+                      F94D8BF0488B:
+                        0. 0A 0956 00DE 0000:?insert@?$QMap@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@QEAA?AViterator@1@AEBQEAVQAction@@AEBUOleMenuItem@QAxClientSite@@@Z
+                    404C8BB4248000000033DB48:
+                      0. 7C D14F 02B3 0000:?Invoke@QAxClientSite@@UEAAJJAEBU_GUID@@KGPEAUtagDISPPARAMS@@PEAUtagVARIANT@@PEAUtagEXCEPINFO@@PEAI@Z
+                  5541:
+                    54415541564157488BEC4883EC6045:
+                      0. 96 D3AB 0259 0000:?readVarsInfo@MetaObjectGenerator@@QEAAXPEAUITypeInfo@@G@Z
+                    564157488BEC4883EC:
+                      50488D05:
+                        0. 00 0000 014B 0000:?argumentsToList@QAxBase@@KA?AV?$QList@VQVariant@@@@AEBVQVariant@@0000000@Z
+                      60488BF2488D:
+                        0. 01 D5A7 018B 0000:?querySubObject@QAxBase@@QEAAPEAVQAxObject@@PEBDAEBVQVariant@@1111111@Z
+                205541554157488BEC4883EC508365300049:
+                  0. 1F 23B3 014E 0000:?Read@QtPropertyBag@@UEAAJPEB_WPEAUtagVARIANT@@PEAUIErrorLog@@@Z
+              555741:
+                5441564157488BEC48:
+                  81EC800000004C8BE14D:
+                    0. 0A 9FDA 0294 0000:?load@QAxScriptManager@@QEAAPEAVQAxScript@@AEBVQString@@0@Z
+                  83EC30488BF2BB280000:
+                    0. 15 AA87 0200 0000:?scriptForFunction@QAxScriptManager@@AEBAPEAVQAxScript@@AEBVQString@@@Z
+                56488BEC4883EC408365300041BE2200000048:
+                  0. 19 D440 0157 (l)0000:?outOfProcessBinary@@YA?AVQString@@AEBV1@@Z
+                57488BEC4883EC4083653000498BD8488BF94D:
+                  0. 19 58B3 0122 0000:?Write@QtPropertyBag@@UEAAJPEB_WPEAUtagVARIANT@@@Z
+              574883EC:
+                20:
+                  33DB418BF081EA00010000741383EA0474:
+                    0. 20 49CD 00A5 0000:?translateKeyEvent@QAxWidget@@MEBA_NHH@Z
+                  4533D2498BD9418BF88BF24885C9741048:
+                    0. 05 59A5 0058 0000:?qt_static_metacall@QAxObject@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z (000D: 10)
+                    1. 05 59A5 0058 0000:?qt_static_metacall@QAxWidget@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z (000D: 30)
+                  48:
+                    635A0C488BFA486372084883C3024883:
+                      0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                      1. 39 F195 0079 0000:?dealloc@?$QList@VQByteArray@@@@AEAAXPEAUData@QListData@@@Z
+                    8B:
+                      01:
+                        41B801000000488BF2488BF94439:
+                          0. 09 F890 0062 0000:??6?$QList@VQVariant@@@@QEAAAEAV0@AEBVQVariant@@@Z
+                        488BDA488BF9498BF0488B10488B:
+                          0. 05 18A1 009A 0000:??$_Med3_unchecked@Viterator@?$QList@UControl@@@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@00AEAU?$less@X@0@@Z
+                        BE01000000488BDA3930760C448B:
+                          0. 04 9AE2 008B 0000:?prepend@?$QList@UQAxEngineDescriptor@@@@QEAAXAEBUQAxEngineDescriptor@@@Z
+                      11833A007411833AFF744A83C8FFF0:
+                        0. 35 D4FE 0076 0000:??1?$QList@VQUuid@@@@QEAA@XZ
+                      39488B5F088B4720EB0BFFC848393B:
+                        0. 1F 64FC 0075 0000:??$qDeleteAll@V?$QHash@VQString@@PEAUQAxMetaObject@@@@@@YAXAEBV?$QHash@VQString@@PEAUQAxMetaObject@@@@@Z
+                      5910488BF24885DB743E33FF488D4B:
+                        0. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@VQVariant@@@@QEBAPEAU?$QMapNode@VQString@@VQVariant@@@@AEBVQString@@@Z (0004: 84)
+                        1. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@J@@QEBAPEAU?$QMapNode@VQString@@J@@AEBVQString@@@Z (0004: 84)
+                        2. 05 9F97 006B 0000:?findNode@?$QMapData@VQUuid@@V?$QMap@JVQByteArray@@@@@@QEBAPEAU?$QMapNode@VQUuid@@V?$QMap@JVQByteArray@@@@@@AEBVQUuid@@@Z (0004: 84)
+                        3. 05 9F97 006B 0000:?findNode@?$QMapData@VQByteArray@@_N@@QEBAPEAU?$QMapNode@VQByteArray@@_N@@AEBVQByteArray@@@Z (0004: 85)
+                        4. 05 9F97 006B 0000:?findNode@?$QMapData@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEBAPEAU?$QMapNode@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@AEBVQByteArray@@@Z (0004: 85)
+                        5. 05 9F97 006B 0000:?findNode@?$QMapData@VQByteArray@@V1@@@QEBAPEAU?$QMapNode@VQByteArray@@V1@@@AEBVQByteArray@@@Z (0004: 85)
+                        6. 05 9F97 006B 0000:?findNode@?$QMapData@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEBAPEAU?$QMapNode@VQByteArray@@UProperty@MetaObjectGenerator@@@@AEBVQByteArray@@@Z (0004: 85)
+                        7. 05 9F97 006B 0000:?findNode@?$QMapData@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEBAPEAU?$QMapNode@VQByteArray@@UMethod@MetaObjectGenerator@@@@AEBVQByteArray@@@Z (0004: 85)
+                      72284885F67444488B7910488B7F08:
+                        0. 28 F1D1 0071 0000:?updateScript@QAxScriptManager@@AEAAXPEAVQAxScript@@@Z
+                      79:
+                        1033DB488BF2488B07395814742D:
+                          0. 0F 0F22 0060 0000:?script@QAxScriptManager@@QEBAPEAVQAxScript@@AEBVQString@@@Z
+                        2033DB488BF24885FF750433C0EB:
+                          0. 1D 80A0 0070 0000:?findObject@QAxScript@@AEAAPEAVQAxBase@@AEBVQString@@@Z
+                      D9:
+                        488B4910E8........488B4B08E8:
+                          0. 00 0000 0136 0000:??1QAxMetaObject@@QEAA@XZ
+                        E8........488B13488BF8488B4A:
+                          0. 0A 4BC7 0092 0000:?detach_helper@?$QMap@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@AEAAXXZ (001F: 2E)
+                          1. 0A 4BC7 009B 0000:?detach_helper@?$QMap@VQByteArray@@V1@@@AEAAXXZ (001F: 37)
+                      DA:
+                        33C0488B11498BF0488BF9394214:
+                          0. 0E 8FCE 0073 0000:?value@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@QEBA?BV?$QList@VQByteArray@@@@AEBVQByteArray@@@Z (001D: 18)
+                          1. 0E 8FCE 0073 0000:?value@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@QEBA?BV?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@AEBVQUuid@@@Z (001D: 20)
+                        488BF1498BD0E8........488BD3:
+                          0. 05 2E1A 0051 0000:??0QAxObject@@QEAA@PEAUIUnknown@@PEAVQObject@@@Z
+                      F98BF2488B:
+                        0983390074118339FF74:
+                          0. 2C 4FE8 007E 0000:??_G?$QList@U?$QPair@VQByteArray@@H@@@@QEAAPEAXI@Z
+                        8990000000E8:
+                          0. 07 0BA0 0080 0000:?EnableModeless@QAxClientSite@@UEAAJH@Z
+                      FA488BF1498BD0E8........488D5E:
+                        0. 07 CA88 005D 0000:??0QAxObject@@QEAA@AEBVQString@@PEAVQObject@@@Z
+                    8DB1A8000000488B068338017608488B:
+                      0. 02 BB34 009F 0000:?RemoveMenus@QAxClientSite@@UEAAJPEAUHMENU__@@@Z
+                  49:
+                    832000488BF2498BF8488D15:
+                      0. 0D 3D1D 0073 0000:?QueryInterface@QtPropertyBag@@UEAAJAEBU_GUID@@PEAPEAX@Z
+                    8B:
+                      C0488B:
+                        DA488BD0458BC1488BF1E8:
+                          0. 00 0000 0067 0000:??0QAxWidget@@QEAA@PEAUIUnknown@@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z
+                        FA488BD0458BC1488BF1E8:
+                          0. 00 0000 0073 0000:??0QAxWidget@@QEAA@AEBVQString@@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z
+                      D98BFA488BF1E8........85C07811:
+                        0. 0D 2EB6 0041 0000:?qt_metacall@QAxObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                        1. 0D 9B1A 0041 0000:?qt_metacall@QAxWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                      F8488BDA488BF1E8........4533C0:
+                        0. 45 2937 0065 0000:?flags@ControlList@@UEBA?AV?$QFlags@W4ItemFlag@Qt@@@@AEBVQModelIndex@@@Z
+                  4C8B01488BF24963780C496358084883C7:
+                    0. 31 1051 0078 0000:?contains_impl@?$QList@VQByteArray@@@@AEBA_NAEBVQByteArray@@UArrayCompatibleLayout@QListData@@@Z
+                  80493801488D05........48890133F648:
+                    0. 02 5E64 0143 0000:??0QAxClientSite@@QEAA@PEAVQAxWidget@@@Z
+                30:
+                  4533C9C644242000488BF2488BF9488BCE:
+                    0. 09 37F9 00B8 0000:?copy@?$QMapNode@VQUuid@@V?$QMap@JVQByteArray@@@@@@QEBAPEAU1@PEAU?$QMapData@VQUuid@@V?$QMap@JVQByteArray@@@@@@@Z (0008: 83)
+                    1. 09 37F9 00C6 0000:?copy@?$QMapNode@VQString@@VQVariant@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQVariant@@@@@Z (0008: 8D)
+                    2. 09 6FD8 00BF 0000:?copy@?$QMapNode@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@QEBAPEAU1@PEAU?$QMapData@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@@Z
+                    3. 09 DF9A 00BF 0000:?copy@?$QMapNode@JVQByteArray@@@@QEBAPEAU1@PEAU?$QMapData@JVQByteArray@@@@@Z (0008: 83)
+                    4. 09 DF9A 00D0 0000:?copy@?$QMapNode@VQByteArray@@V1@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@V1@@@@Z (0008: 8D) (0025: 43)
+                    5. 09 DF9A 00C2 0000:?copy@?$QMapNode@VQByteArray@@_N@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@_N@@@Z (0008: 8D) (0025: 4B) (002B: 05) (002C: 8A)
+                    6. 09 DF9A 00C2 0000:?copy@?$QMapNode@VQString@@J@@QEBAPEAU1@PEAU?$QMapData@VQString@@J@@@Z (0008: 8D) (0025: 4B) (002B: 05) (002C: 8B)
+                    7. 09 DF9A 00C6 0000:?copy@?$QMapNode@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@Z (0008: 8D) (0025: 4B) (002B: 09)
+                  488B:
+                    F10F297C2420498BC9498BF8488BDA:
+                      0. 01 3E9B 00F3 0000:?qaxMapLogHiMetricsToPix@@YA?AVQSize@@AEBUtagSIZE@@AEBU?$QPair@NN@@PEBVQWindow@@@Z
+                    F2C644242000488D5118488BF94C8D:
+                      0. 09 4BA7 0098 0000:?copy@?$QMapNode@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@UProperty@MetaObjectGenerator@@@@@Z (REF 0029: ?createNode@?$QMapData@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEAAPEAU?$QMapNode@VQByteArray@@UProperty@MetaObjectGenerator@@@@AEBVQByteArray@@AEBUProperty@MetaObjectGenerator@@PEAU2@_N@Z)
+                      1. 09 4BA7 0098 0000:?copy@?$QMapNode@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@UMethod@MetaObjectGenerator@@@@@Z (REF 0029: ?createNode@?$QMapData@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEAAPEAU?$QMapNode@VQByteArray@@UMethod@MetaObjectGenerator@@@@AEBVQByteArray@@AEBUMethod@MetaObjectGenerator@@PEAU2@_N@Z)
+                40488364243000488BD9488BCA498BF9498B:
+                  0. 02 0918 008C (l)0000:?querySubKeyValue@@YA_NPEAUHKEY__@@AEBVQString@@PEAEPEAK@Z
+                60488BDA498BF1498BD0498BF8E8:
+                  0. 79 1BF2 00B0 0000:?call@QAxScriptManager@@QEAA?AVQVariant@@AEBVQString@@AEBV2@1111111@Z
+            18:
+              48897C242055488BEC4883EC60488B05........4833:
+                0. 07 DBC8 00D1 0000:?qaxNativeWidgetRect@@YA?AUtagRECT@@PEBVQWidget@@@Z
+              55574154415541:
+                56488BEC4881EC80000000488B05:
+                  0. 00 0000 01C1 0000:?initializeActive@QAxBase@@IEAA_NPEAPEAUIUnknown@@@Z
+                57488D6C24C94881EC00010000488B:
+                  0. 01 D5A7 01D2 0000:?qax_readInterfaceInfo@@YAPEAUQMetaObject@@PEAUITypeLib@@PEAUITypeInfo@@PEBU1@@Z
+              574883EC30418BF0488BF94885D275508B1D:
+                0. 07 0638 00AF 0000:??$qRegisterNormalizedMetaType@PEAUIDispatch@@@@YAHAEBVQByteArray@@PEAPEAUIDispatch@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUIDispatch@@$00@QtPrivate@@@Z (REF 001C: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAUIDispatch@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+                1. 07 0638 00AF 0000:??$qRegisterNormalizedMetaType@PEAUIUnknown@@@@YAHAEBVQByteArray@@PEAPEAUIUnknown@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUIUnknown@@$00@QtPrivate@@@Z (REF 001C: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAUIUnknown@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+                2. 07 0638 00AF 0000:??$qRegisterNormalizedMetaType@PEAPEAUIDispatch@@@@YAHAEBVQByteArray@@PEAPEAPEAUIDispatch@@W4DefinedType@?$MetaTypeDefinedHelper@PEAPEAUIDispatch@@$00@QtPrivate@@@Z (REF 001C: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAPEAUIDispatch@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          7C24:
+            10:
+              41564883EC20488BD9488B49404885C97406488B01FF:
+                0. 4D 2F57 0199 0000:??1MetaObjectGenerator@@QEAA@XZ
+              4C8B19418BF84C8BCA41837B20007466418BC033D241:
+                0. 6E F726 008E 0000:?findNode@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@AEBAPEAPEAU?$QHashNode@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@AEBVQUuid@@I@Z
+                1. 6E F726 008E 0000:?findNode@?$QHash@VQUuid@@PEAVQAxEventSink@@@@AEBAPEAPEAU?$QHashNode@VQUuid@@PEAVQAxEventSink@@@@AEBVQUuid@@I@Z
+            2055488BEC4883EC50488BF9BB28000000448BC3488D4D:
+              0. 04 A16A 0114 (l)0000:?QFontToIFont@@YAPEAUIFontDisp@@AEBVQFont@@@Z
+        498B004D8BD9488BDA4C8BD14839027478498300F8498B004C8B08:
+          0. 7D 560C 009D 0000:??$_Move_backward_unchecked1@Viterator@?$QList@UControl@@@@V12@@std@@YA?AViterator@?$QList@UControl@@@@V12@00U_General_ptr_iterator_tag@0@@Z
+        4C:
+          8944241848895424105556574154415541564157488D6C24A048:
+            0. 44 081E 0529 0000:?SetMenu@QAxClientSite@@UEAAJPEAUHMENU__@@PEAXPEAUHWND__@@@Z
+          8B014963400C4D8D48104883C0024D8D1CC0496340084D8D0CC1:
+            0. 56 2974 0076 0000:?contains_impl@?$QList@VQUuid@@@@AEBA_NAEBVQUuid@@UNotArrayCompatibleLayout@QListData@@@Z
+        55565741:
+          5441:
+            5541564157488D:
+              6C24D94881ECA00000004533ED48:
+                0. 02 97F8 03C1 0000:?qax_docuFromName@@YA?AVQString@@PEAUITypeInfo@@AEBV1@@Z
+              AC24A0FDFFFF4881EC6003000048:
+                0. 02 8E30 0F4E (l)0000:?checkHRESULT@@YA_NJPEAUtagEXCEPINFO@@PEAVQAxBase@@AEBVQString@@I@Z
+            57488BEC4883EC60488B0241BF0100000048894538:
+              0. 23 C814 0217 0000:?addSetterSlot@MetaObjectGenerator@@AEAAXAEBVQByteArray@@@Z
+          5541564883EC204D8B0841BD010000004C890A488BF24C:
+            0. 19 D821 01D9 0000:?replacePrototype@MetaObjectGenerator@@AEAA?AVQByteArray@@AEBV2@@Z
+        564883EC20488B19488D35........488931833B007411833BFF74:
+          0. 20 27BF 0098 0000:?clear@?$QMap@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@QEAAXXZ
+        574883EC:
+          20:
+            418AC04863DA4533C0488BF9488B0984C0418D400174:
+              0. 20 6A15 00AA 0000:?setBit@QBitArray@@QEAAXH_N@Z
+            48:
+              83:
+                64243800488BF933DBE8........4C8D44243848:
+                  0. 17 034F 00B7 0000:?qax_create_object_wrapper@@YAPEAVQAxBase@@PEAVQObject@@@Z
+                795800488BF974614883B9A8000000007457E8:
+                  0. 00 0000 0080 0000:?windowActivationChange@QAxClientSite@@QEAAXXZ
+              8B:
+                02488BFA48:
+                  8901488BD9833800740A8338FF745D:
+                    0. 09 1D8B 008B 0000:??0?$QList@VQByteArray@@@@QEAA@AEBV0@@Z
+                    1. 09 1D8B 008B 0000:??0?$QList@VQString@@@@QEAA@AEBV0@@Z
+                  8BD983380074108338FF7403F0FF00:
+                    0. 09 8783 0077 0000:??0?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEAA@AEBV0@@Z (REF 0040: ?copy@?$QMapNode@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@Z)
+                    1. 09 8783 0077 0000:??0?$QMap@VQString@@VQVariant@@@@QEAA@AEBV0@@Z (REF 0040: ?copy@?$QMapNode@VQString@@VQVariant@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQVariant@@@@@Z)
+                    2. 09 8783 0077 0000:??0?$QMap@JVQByteArray@@@@QEAA@AEBV0@@Z (REF 0040: ?copy@?$QMapNode@JVQByteArray@@@@QEBAPEAU1@PEAU?$QMapData@JVQByteArray@@@@@Z)
+                59:
+                  10488BF94885DB74:
+                    51488B4B28833900741183:
+                      0. 15 6E88 0079 0000:?destroy@?$QMapData@VQUuid@@V?$QMap@JVQByteArray@@@@@@QEAAXXZ
+                    5A488B4B:
+                      18833900741183:
+                        0. 1E 6218 0082 0000:?destroy@?$QMapData@VQByteArray@@_N@@QEAAXXZ
+                        1. 1E BDD7 0082 0000:?destroy@?$QMapData@VQString@@J@@QEAAXXZ
+                      20833900741183:
+                        0. 1E 0737 0082 0000:?destroy@?$QMapData@JVQByteArray@@@@QEAAXXZ
+                    63488B4B18833900741183:
+                      0. 1E 6218 008B 0000:?destroy@?$QMapData@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEAAXXZ (REF 0047: ??1Property@MetaObjectGenerator@@QEAA@XZ)
+                      1. 1E 6218 008B 0000:?destroy@?$QMapData@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEAAXXZ (REF 0047: ??1Method@MetaObjectGenerator@@QEAA@XZ)
+                      2. 1E BDD7 008B 0000:?destroy@?$QMapData@VQString@@VQVariant@@@@QEAAXXZ
+                    65488B4B18833900741183:
+                      0. 1E 6218 008D 0000:?destroy@?$QMapData@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEAAXXZ
+                  28488BF94885DB741B488B1B488BCAE8:
+                    0. 00 0000 003C 0000:?addItem@QAxScriptEngine@@QEAAXAEBVQString@@@Z
+                7910488D05........488901488BD94885FF7415:
+                  0. 04 DF08 0047 0000:??1QAxScriptManager@@UEAA@XZ
+                D9:
+                  408AFA488B098B5308488B013B50047C07E8:
+                    0. 00 0000 0070 0000:??4QByteRef@@QEAAAEAV0@D@Z
+                  488BFA48:
+                    83C130E8........84C07574488B4B:
+                      0. 1F 6F98 009C 0000:?changeEvent@QAxWidget@@MEAAXPEAVQEvent@@@Z
+                    8BCAE8........83F84A7515488BCF:
+                      0. 01 3E9B 0082 0000:?metaType@?$QVariantValueHelper@VQCursor@@@QtPrivate@@SA?AVQCursor@@AEBVQVariant@@@Z
+                  8BFA48:
+                    83C1:
+                      104C8B01418338007413418338FF:
+                        0. 13 28D9 0060 0000:??_GControlList@@UEAAPEAXI@Z
+                      184C8B01418338007413418338FF:
+                        0. 13 28D9 0084 0000:??_G?$QHashNode@VQByteArray@@V?$QList@VQByteArray@@@@@@QEAAPEAXI@Z
+                    8B:
+                      490883390074118339FF741583C8FF:
+                        0. 0E BC39 0053 0000:??_GQtPropertyBag@@UEAAPEAXI@Z
+                      89A00000004885C9743285D20F95C0:
+                        0. 0D 27E2 005A 0000:?OnFocus@QAxClientSite@@UEAAJH@Z
+                  E8........488B13488BF8488B4A104885C974:
+                    0. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQByteArray@@UMethod@MetaObjectGenerator@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@UMethod@MetaObjectGenerator@@@@@Z)
+                    1. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQByteArray@@UProperty@MetaObjectGenerator@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@UProperty@MetaObjectGenerator@@@@@Z)
+                    2. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@Z)
+                    3. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQByteArray@@_N@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQByteArray@@_N@@QEBAPEAU1@PEAU?$QMapData@VQByteArray@@_N@@@Z)
+                    4. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@J@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQString@@J@@QEBAPEAU1@PEAU?$QMapData@VQString@@J@@@Z)
+                    5. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@VQVariant@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQString@@VQVariant@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQVariant@@@@@Z)
+                    6. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQUuid@@V?$QMap@JVQByteArray@@@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQUuid@@V?$QMap@JVQByteArray@@@@@@QEBAPEAU1@PEAU?$QMapData@VQUuid@@V?$QMap@JVQByteArray@@@@@@@Z)
+                    7. 05 B3A9 006E 0000:?detach_helper@?$QMap@JVQByteArray@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@JVQByteArray@@@@QEBAPEAU1@PEAU?$QMapData@JVQByteArray@@@@@Z)
+                DA488BF9:
+                  48:
+                    85D2:
+                      74104183F8FF750A488BCAE8:
+                        0. 00 0000 0043 0000:?fromLatin1@QString@@SA?AV1@PEBDH@Z
+                      750433C0EB23488D15:
+                        0. 04 BF6F 0047 0000:?qt_metacast@QAxScript@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QAxScript@@3Uqt_meta_stringdata_QAxScript_t@@B)
+                        1. 04 BF6F 0047 0000:?qt_metacast@QAxScriptManager@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QAxScriptManager@@3Uqt_meta_stringdata_QAxScriptManager_t@@B)
+                        2. 04 BF6F 0047 0000:?qt_metacast@QAxHostWidget@@UEAAPEAXPEBD@Z (REF 001C: ??_C@_0O@HNMLPGHP@QAxHostWidget?$AA@)
+                        3. 04 BF6F 0047 0000:?qt_metacast@QAxSelect@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QAxSelect@@3Uqt_meta_stringdata_QAxSelect_t@@B)
+                    8B:
+                      5220833A007411833AFF741E83C8:
+                        0. 18 3C5C 0051 0000:?deleteNode@?$QMapData@JVQByteArray@@@@QEAAXPEAU?$QMapNode@JVQByteArray@@@@@Z
+                      CB4533C0B228E8........4183C9:
+                        0. 0E 815E 00C4 0000:?paramList@MetaObjectGenerator@@CA?AV?$QList@VQByteArray@@@@AEBVQByteArray@@@Z
+                  BA02000000488D4C2448448D4208E8:
+                    0. 00 0000 00B0 0000:?signalHasReceivers@QAxEventSink@@SA_NPEAVQObject@@PEBD@Z
+                F9:
+                  48:
+                    8BDA488B49384885C9741FF6475002750B48:
+                      0. 37 6D10 0057 0000:?SetActiveObject@QAxClientSite@@UEAAJPEAUIOleInPlaceActiveObject@@PEB_W@Z
+                    8D1D........488BCBE8........4883CB01:
+                      0. 02 0453 00F7 0000:??1QAxBasePrivate@@QEAA@XZ
+                  83FAFF747048837940007469448BC24883C1F8:
+                    0. 06 A7C8 008F 0000:?OnRequestEdit@QAxEventSink@@UEAAJJ@Z
+                  E8........:
+                    33D2488D4F:
+                      10E8........488B5C:
+                        0. 05 A965 0040 0000:??0QAxObject@@QEAA@PEAVQObject@@@Z
+                      30E8........488367:
+                        0. 05 F8A5 0050 0000:??0QAxWidget@@QEAA@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z
+                    488BD84885C0751C488BCFE8:
+                      0. 00 0000 00A9 0000:?hwndForWidget@@YAPEAUHWND__@@PEAVQWidget@@@Z
+                FA:
+                  418BD8488BD1488D4C2448E8........448BC3:
+                    0. 09 738E 006A 0000:??$qRegisterMetaType@PEAUIDispatch@@@@YAHPEBDPEAPEAUIDispatch@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUIDispatch@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@PEAUIDispatch@@@@YAHAEBVQByteArray@@PEAPEAUIDispatch@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUIDispatch@@$00@QtPrivate@@@Z)
+                    1. 09 738E 006A 0000:??$qRegisterMetaType@PEAUIUnknown@@@@YAHPEBDPEAPEAUIUnknown@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUIUnknown@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@PEAUIUnknown@@@@YAHAEBVQByteArray@@PEAPEAUIUnknown@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUIUnknown@@$00@QtPrivate@@@Z)
+                    2. 09 738E 006A 0000:??$qRegisterMetaType@PEAVQAxObject@@@@YAHPEBDPEAPEAVQAxObject@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQAxObject@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@PEAVQAxObject@@@@YAHAEBVQByteArray@@PEAPEAVQAxObject@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQAxObject@@$00@QtPrivate@@@Z)
+                    3. 09 738E 006A 0000:??$qRegisterMetaType@PEAVQObject@@@@YAHPEBDPEAPEAVQObject@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQObject@@$0A@@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@PEAVQObject@@@@YAHAEBVQByteArray@@PEAPEAVQObject@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQObject@@$0A@@QtPrivate@@@Z)
+                    4. 09 738E 006A 0000:??$qRegisterMetaType@PEAPEAUIDispatch@@@@YAHPEBDPEAPEAPEAUIDispatch@@W4DefinedType@?$MetaTypeDefinedHelper@PEAPEAUIDispatch@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@PEAPEAUIDispatch@@@@YAHAEBVQByteArray@@PEAPEAPEAUIDispatch@@W4DefinedType@?$MetaTypeDefinedHelper@PEAPEAUIDispatch@@$00@QtPrivate@@@Z)
+                  488BD9:
+                    48:
+                      85D2740A488BCAE8........EB0233:
+                        0. 15 42FC 0035 0000:??0QLatin1String@@QEAA@PEBD@Z
+                      8BCF488D15........E8........85:
+                        0. 0B D3F1 0060 0000:?qt_metacast@QAxObject@@UEAAPEAXPEBD@Z (0013: 10)
+                        1. 0B D3F1 0060 0000:?qt_metacast@QAxWidget@@UEAAPEAXPEBD@Z (0013: 30)
+                    E8........8B533085D2740C488BCBE8:
+                      0. 00 0000 006C 0000:?focusOutEvent@QAxHostWidget@@MEAAXPEAVQFocusEvent@@@Z
+              8D:
+                05........488B:
+                  D9488901:
+                    488D:
+                      05........4889:
+                        0. 05 644B 0118 0000:??1QAxClientSite@@UEAA@XZ
+                      7930488D05:
+                        0. 00 0000 007F 0000:??1QAxWidget@@UEAA@XZ
+                    83CFFF488D05:
+                      0. 00 0000 0090 0000:??1QAxEventSink@@UEAA@XZ
+                    E8........488B7B08:
+                      0. 09 D049 004A 0000:??1QAxBase@@UEAA@XZ
+                  F9488901488BDAB940000000E8:
+                    0. 00 0000 005D 0000:??0QAxBase@@QEAA@PEAUIUnknown@@@Z
+                542438488BF9E8........488B4C2438488B1083:
+                  0. 27 F748 0079 0000:?onActiveXListActivated@QAxSelect@@AEAAXXZ
+                5910488BF9488D05........488901488D05:
+                  0. 00 0000 0047 0000:??1QAxObject@@UEAA@XZ
+            4C8B01488BF9496340084983C010498D1CC0E8:
+              0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z (REF 0085: ?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z)
+              1. 00 0000 0094 0000:?detach_helper@?$QList@VQByteArray@@@@AEAAXH@Z (REF 0085: ?dealloc@?$QList@VQByteArray@@@@AEAAXPEAUData@QListData@@@Z)
+            8B:
+              05........488BFA488BD985C0751A448D40014883:
+                0. 05 9F2A 0055 0000:??$fromValue@PEAVQAxObject@@@QVariant@@SA?AV0@AEBQEAVQAxObject@@@Z
+              DA488BF9E8........F6C301740DBA:
+                10000000488B:
+                  0. 02 632D 0034 0000:??_GQAxBase@@UEAAPEAXI@Z (REF 0010: ??1QAxBase@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQAxNativeEventFilter@@UEAAPEAXI@Z (REF 0010: ??1QAbstractNativeEventFilter@@UEAA@XZ)
+                18000000488B:
+                  0. 02 632D 0034 0000:??_GQAxScriptManager@@UEAAPEAXI@Z
+                20000000488B:
+                  0. 02 632D 0034 0000:??_GQAxObject@@UEAAPEAXI@Z
+                38000000488B:
+                  0. 02 632D 0034 0000:??_GQAxScript@@UEAAPEAXI@Z (REF 0010: ??1QAxScript@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQAxScriptEngine@@UEAAPEAXI@Z (REF 0010: ??1QAxScriptEngine@@UEAA@XZ)
+                  2. 02 632D 0034 0000:??_GQAxSelect@@UEAAPEAXI@Z (REF 0010: ??1QAxSelect@@UEAA@XZ)
+                40000000488B:
+                  0. 02 632D 0034 0000:??_GQAxHostWidget@@UEAAPEAXI@Z
+                50000000488B:
+                  0. 02 632D 0034 0000:??_GQAxWidget@@UEAAPEAXI@Z
+                58000000488B:
+                  0. 02 632D 0034 0000:??_GQAxEventSink@@UEAAPEAXI@Z
+                D0000000488B:
+                  0. 02 632D 0034 0000:??_GQAxClientSite@@UEAAPEAXI@Z
+          30:
+            0F57C00F29742420660F2F05........488BF9765233:
+              0. 03 A4E8 008F (l)0000:?systemLogicalDpi@@YA?AU?$QPair@NN@@XZ
+            418BF8488BD94885D27516E8........83F8FF740C8B:
+              0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@PEAUIUnknown@@@@YAHAEBVQByteArray@@PEAPEAUIUnknown@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUIUnknown@@$00@QtPrivate@@@Z (0005: 35) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@PEAUIUnknown@@@@SAHXZ)
+              1. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@PEAPEAUIDispatch@@@@YAHAEBVQByteArray@@PEAPEAPEAUIDispatch@@W4DefinedType@?$MetaTypeDefinedHelper@PEAPEAUIDispatch@@$00@QtPrivate@@@Z (0005: 35) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@PEAPEAUIDispatch@@@@SAHXZ)
+              2. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@PEAVQAxObject@@@@YAHAEBVQByteArray@@PEAPEAVQAxObject@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQAxObject@@$00@QtPrivate@@@Z (0005: 3B) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@PEAVQAxObject@@@@SAHXZ)
+              3. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@PEAVQAxScript@@@@YAHAEBVQByteArray@@PEAPEAVQAxScript@@W4DefinedType@?$MetaTypeDefinedHelper@PEAVQAxScript@@$00@QtPrivate@@@Z (0005: 3B) (REF 0016: ?qt_metatype_id@?$QMetaTypeIdQObject@PEAVQAxScript@@$07@@SAHXZ)
+            488BD9:
+              488BFA488BCAE8........83F8407515488BCF:
+                0. 01 3E9B 007E 0000:?metaType@?$QVariantValueHelper@VQFont@@@QtPrivate@@SA?AVQFont@@AEBVQVariant@@@Z
+              C744242008000000488B094C8D05........41:
+                0. 08 13D9 0070 0000:?detach_helper@?$QHash@VQString@@UQHashDummyValue@@@@AEAAXXZ
+                1. 08 590F 0070 0000:?detach_helper@?$QHash@VQUuid@@PEAVQAxEventSink@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQUuid@@PEAVQAxEventSink@@@@CAXPEAUNode@QHashData@@@Z)
+                2. 08 590F 0070 0000:?detach_helper@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@CAXPEAUNode@QHashData@@@Z)
+                3. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@PEAUQAxMetaObject@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@PEAUQAxMetaObject@@@@CAXPEAUNode@QHashData@@@Z)
+                4. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@CAXPEAUNode@QHashData@@@Z)
+                5. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQByteArray@@J@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQByteArray@@J@@CAXPEAUNode@QHashData@@@Z)
+                6. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@PEAVQAxScript@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@PEAVQAxScript@@@@CAXPEAUNode@QHashData@@@Z)
+                7. 08 B5D1 0070 0000:?detach_helper@?$QHash@VQString@@PEAVQAxBase@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@VQString@@PEAVQAxBase@@@@CAXPEAUNode@QHashData@@@Z)
+            8A442460488BFABA:
+              3800000088442420498BD8448D42:
+                0. 02 3A3B 008D 0000:?createNode@?$QMapData@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEAAPEAU?$QMapNode@VQByteArray@@UProperty@MetaObjectGenerator@@@@AEBVQByteArray@@AEBUProperty@MetaObjectGenerator@@PEAU2@_N@Z
+              4000000088442420498BD8448D42:
+                0. 02 6B60 00A2 0000:?createNode@?$QMapData@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEAAPEAU?$QMapNode@VQByteArray@@UMethod@MetaObjectGenerator@@@@AEBVQByteArray@@AEBUMethod@MetaObjectGenerator@@PEAU2@_N@Z
+          40488BD9488BFA:
+            488BCAE8........83F8417515488BCF:
+              0. 01 3E9B 007E 0000:?metaType@?$QVariantValueHelper@VQPixmap@@@QtPrivate@@SA?AVQPixmap@@AEBVQVariant@@@Z
+            8B0D........85C9751C448D41014883:
+              0. 05 9F2A 00D2 0000:??$qVariantSetValue@PEAPEAUIDispatch@@@@YAXAEAVQVariant@@AEBQEAPEAUIDispatch@@@Z (REF 0012: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAPEAUIDispatch@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              1. 05 9F2A 00D2 0000:??$qVariantSetValue@PEAUIUnknown@@@@YAXAEAVQVariant@@AEBQEAUIUnknown@@@Z (REF 0012: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAUIUnknown@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+      10:
+        4889:
+          6C24:
+            18:
+              488974242057:
+                41:
+                  544155415641574883EC30488B:
+                    014D:
+                      0. 11 32AB 0139 0000:?insert@?$QMap@VQUuid@@V?$QMap@JVQByteArray@@@@@@QEAA?AViterator@1@AEBVQUuid@@AEBV?$QMap@JVQByteArray@@@@@Z
+                    DA49:
+                      0. 3B 058A 0195 0000:??$_Pop_heap_hole_by_index@Viterator@?$QList@UControl@@@@_JUControl@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@_J1$$QEAUControl@@AEAU?$less@X@0@@Z
+                  5641574883EC:
+                    204D8BF8488BF24183:
+                      0. 05 DEA0 013E (l)0000:?namedPrototype@@YA?AVQByteArray@@AEBV?$QList@VQByteArray@@@@0H@Z
+                    4033C04D8BF9894424:
+                      0. 24 60E7 010D 0000:?nativeEvent@QAxHostWidget@@MEAA_NAEBVQByteArray@@PEAXPEAJ@Z
+                48:
+                  81ECD0000000488B05........4833:
+                    0. 4F 16FC 0144 0000:?metaObject@QAxBase@@UEBAPEBUQMetaObject@@XZ
+                  83EC20488D05........488BF24889:
+                    0. 14 BD3C 00EC 0000:?functions@QAxScriptManager@@QEBA?AVQStringList@@W4FunctionFlags@QAxScript@@@Z
+              565741:
+                54415641574883EC:
+                  30488B014D8BF1498BE848:
+                    0. 0C 4BB5 0101 0000:?insert@?$QHash@VQUuid@@V?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@@QEAA?AViterator@1@AEBVQUuid@@AEBV?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@@Z (006C: 4B)
+                    1. 0C 4BB5 0106 0000:?insert@?$QHash@VQByteArray@@V?$QList@VQByteArray@@@@@@QEAA?AViterator@1@AEBVQByteArray@@AEBV?$QList@VQByteArray@@@@@Z (006C: 50)
+                  6033F64D8BF989B4249000:
+                    0. 24 AF7C 017D 0000:?qt_metacall@QAxBase@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                564883EC20488BF2488BE9488D5424404883C1:
+                  0. 02 A3D2 00A0 0000:?doVerb@QAxWidget@@QEAA_NAEBVQString@@@Z
+            20565741564883EC20488BDA498BE9488D5424404D8BF0:
+              0. 04 ADEA 010B 0000:?addSlot@MetaObjectGenerator@@AEAAXAEBVQByteArray@@00H@Z
+          7424:
+            18:
+              48897C2420:
+                41564883EC204C8BF2498BD8498BD0488B:
+                  0. 02 11CF 0126 0000:??0QAxScriptEngine@@QEAA@AEBVQString@@PEAVQAxScript@@@Z
+                5541564157488BEC4883EC:
+                  304C8D71504D:
+                    0. 1E 3DBC 01CD 0000:?paramType@QAxMetaObject@@QEAA?AVQByteArray@@AEBV2@HPEA_N@Z
+                  604883792800:
+                    0. 21 1C02 01D7 0000:?load@QAxScript@@QEAA_NAEBVQString@@0@Z
+                  70488B024D8B:
+                    0. 32 0C5B 00EE 0000:??$_Make_heap_unchecked@Viterator@?$QList@UControl@@@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@0AEAU?$less@X@0@@Z
+              555741544156415748:
+                8BEC4883EC304C8BF1498BF848:
+                  0. 02 16E8 015F (l)0000:?docuFromName@@YA?AVQString@@PEAUITypeInfo@@AEBV1@@Z
+                8D6C24C94881ECE0000000488B:
+                  0. 01 D5A7 0292 0000:?paintEvent@QAxHostWidget@@MEAAXPEAVQPaintEvent@@@Z
+              574883EC:
+                20:
+                  48:
+                    8B:
+                      0133FF488BF1483978107406488B58:
+                        0. 1A 6CDE 009E 0000:?aggregateParameterCount@MetaObjectGenerator@@CAHAEBV?$QMap@VQByteArray@@UMethod@MetaObjectGenerator@@@@@Z
+                      D9E8........33F684C00F85D60000:
+                        0. 0A 2B44 0107 0000:?clear@QAxWidget@@UEAAXXZ
+                    8D:
+                      05........:
+                        33FF488901488D35:
+                          0. 00 0000 00E2 0000:??0MetaObjectGenerator@@QEAA@PEAVQAxBase@@PEAVQAxBasePrivate@@@Z
+                        488B:
+                          DA488901488BF948:
+                            0. 0C A6DB 0080 0000:??0?$QList@VQString@@@@QEAA@V?$initializer_list@VQString@@@std@@@Z
+                          FA488902488BF148:
+                            0. 07 09A0 00EA 0000:?keys@?$QHash@VQString@@PEAVQAxScript@@@@QEBA?AV?$QList@VQString@@@@XZ
+                            1. 07 9C25 00DF 0000:?keys@?$QMap@VQString@@J@@QEBA?AV?$QList@VQString@@@@XZ
+                      79504533C0488B07488BDA488BF144:
+                        0. 0C 873F 00A6 0000:?numParameter@QAxMetaObject@@QEAAHAEBVQByteArray@@@Z
+                  498BF8488BF24C8BC2488BD9488D542430:
+                    0. 01 3E9B 00C5 0000:?addSignal@MetaObjectGenerator@@AEAAXAEBVQByteArray@@0@Z
+                30:
+                  4883792800498BF1488BDA488BF9750D48:
+                    0. 15 8791 00A1 0000:?call@QAxScript@@QEAA?AVQVariant@@AEBVQString@@AEAV?$QList@VQVariant@@@@@Z
+                  498BC0488BDA488BF983CEFF448BC6488D:
+                    0. 07 3AA2 00B8 0000:?addClassInfo@MetaObjectGenerator@@QEAAXPEBD0@Z
+                40:
+                  4883794000498BF1418BF8488BD90F84D1:
+                    0. 58 6DB7 0106 0000:?qt_metacall@QAxClientSite@@QEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                  8B3D........488BF2488BD985FF753548:
+                    0. 02 DF74 00F1 0000:??$qVariantSetValue@PEAUIUnknown@@@@YAXAEAVQVariant@@AEBQEAUIUnknown@@@Z (REF 0011: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAUIUnknown@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+                    1. 02 DF74 00F1 0000:??$qVariantSetValue@PEAUIDispatch@@@@YAXAEAVQVariant@@AEBQEAUIDispatch@@@Z (REF 0011: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAUIDispatch@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+            205557415441564157488BEC4883EC30498B004D8BF84C:
+              0. 63 79AE 012D 0000:??$_Guess_median_unchecked@Viterator@?$QList@UControl@@@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@00AEAU?$less@X@0@@Z
+          7C24:
+            1855488BEC4883EC50488B05........4833C4488945F0:
+              0. 11 20C0 00FC 0000:?hasIntrospection@QAxScriptEngine@@QEBA_NXZ
+            2041564883EC208364243000488BF9488BCA488BDAE8:
+              0. 00 0000 0121 0000:?fromLatin1@QString@@SA?AV1@AEBVQByteArray@@@Z (001E: 58)
+              1. 00 0000 0122 0000:?fromLocal8Bit@QString@@SA?AV1@AEBVQByteArray@@@Z (001E: 59)
+        4C894424185556574154415541564157488D6C24:
+          804881EC800100:
+            0. 22 7CF4 0640 (l)0000:?qax_noSuchFunction@@YAXHAEBVQByteArray@@0PEBVQAxBase@@@Z
+          D94881ECB00000:
+            0. 37 A6DE 03A8 0000:?InsertMenus@QAxClientSite@@UEAAJPEAUHMENU__@@PEAUtagOleMenuGroupWidths@@@Z
+        55:
+          488BEC4883EC50488B05........4833C4488945F8488BD9E8:
+            0. 00 0000 0121 (l)0000:?QDateTimeToDATE@@YANAEBVQDateTime@@@Z
+          5657:
+            41:
+              5441554156415748:
+                8BEC4881EC80000000488BFA488BD9:
+                  0. 08 685F 0707 0000:?setupUi@Ui_QAxSelect@@QEAAXPEAVQDialog@@@Z
+                8D:
+                  6C24:
+                    804881EC80010000488B014D:
+                      0. 18 99AD 05BE 0000:?internalProperty@QAxBase@@AEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                    C04881EC40010000488B05:
+                      0. 00 0000 08DB 0000:?activateObject@QAxClientSite@@QEAA_N_NAEBVQByteArray@@@Z
+                  AC2450FEFFFF4881ECB002000048:
+                    0. 02 8E30 07F4 0000:?internalInvoke@QAxBase@@AEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+              564157488BEC4883EC60488B41084C8BFA488BF9488D50:
+                0. 3A 5FFB 0216 0000:?setPropertyBag@QAxBase@@QEAAXAEBV?$QMap@VQString@@VQVariant@@@@@Z
+            488BEC4883EC40:
+              33FF4C8D4538488BF248897D30488BD948:
+                0. 0A AA6D 00E9 0000:?initializeFromFile@QAxBase@@IEAA_NPEAPEAUIUnknown@@@Z
+              48:
+                8BF1E8........488D05........41B8:
+                  0. 0E 1F90 0157 0000:??0ControlList@@QEAA@PEAVQObject@@@Z
+                8D7960498BF0488B07488BDA83781400:
+                  0. 12 D409 0122 0000:?dispIDofName@QAxMetaObject@@QEAAJAEBVQByteArray@@PEAUIDispatch@@@Z
+        574883EC:
+          20:
+            418AF8488BD94183C8FF488D4C2430E8........488B:
+              0. 10 181C 00A3 0000:?setPropertyWritable@QAxBase@@UEAAXPEBD_N@Z
+            488B:
+              01488BFA488BD983380176:
+                05E8........488B0B:
+                  0. 04 8E53 00B0 0000:??A?$QMap@VQByteArray@@V?$QList@U?$QPair@VQByteArray@@H@@@@@@QEAAAEAV?$QList@U?$QPair@VQByteArray@@H@@@@AEBVQByteArray@@@Z
+                29BAFFFFFF7F41B801:
+                  0. 04 9897 0073 0000:??6?$QList@VQString@@@@QEAAAEAV0@AEBVQString@@@Z
+                  1. 04 9897 0073 0000:??6?$QList@VQByteArray@@@@QEAAAEAV0@AEBVQByteArray@@@Z
+                  2. 04 9897 0073 0000:??6QStringList@@QEAAAEAV0@AEBVQString@@@Z
+              02488BF9483901745F488D4C2430E8........48:
+                0. 48 E0E0 0082 0000:??4?$QList@U?$QPair@VQByteArray@@H@@@@QEAAAEAV0@AEBV0@@Z
+              4958488D3D........488BDA48897C2430498BD0:
+                0. 01 3E9B 0085 0000:?propertyType@QAxMetaObject@@QEAA?AVQByteArray@@AEBV2@@Z
+              D9488BFA488B0A448B410C8B5108443BC20F84C6:
+                0. 09 9E3E 00F7 0000:??Y?$QList@VQString@@@@QEAAAEAV0@AEBV0@@Z
+              F9488BDA488B49:
+                384885C97421488D542430E8:
+                  0. 00 0000 0053 0000:?minimumSizeHint@QAxHostWidget@@UEBA?AVQSize@@XZ
+                404885C9:
+                  741F488D542430E8:
+                    0. 00 0000 0051 0000:?minimumSizeHint@QAxWidget@@UEBA?AVQSize@@XZ
+                  750A83C8FF89028942:
+                    0. 4D 8F27 0097 0000:?minimumSizeHint@QAxClientSite@@QEBA?AVQSize@@XZ
+            498BD8488BF94183C8FF488D4C2430E8........488B:
+              0. 05 8594 0077 0000:??H@YA?BVQByteArray@@PEBDAEBV0@@Z
+            4C8B09488BFA488BD9498B01833801762CBAFFFFFF7F:
+              0. 0A 4190 0079 0000:??4?$back_insert_iterator@V?$QList@VQString@@@@@std@@QEAAAEAV01@AEBVQString@@@Z
+          30488B:
+            01488BFA488BD98338017605E8........488B0B:
+              0. 04 8E53 007B 0000:??A?$QMap@VQString@@VQVariant@@@@QEAAAEAVQVariant@@AEBVQString@@@Z
+            D90F297C2420498BC8488BFAE8........660F6E:
+              0. 0F E5E9 00F6 0000:?qaxMapPixToLogHiMetrics@@YA?AUtagSIZE@@AEBVQSize@@AEBU?$QPair@NN@@PEBVQWindow@@@Z
+            F9498BD8488BCAE8........488BC8E8:
+              0. 04 3297 00BB 0000:?qaxToNativeSize@@YA?AVQSize@@PEBVQWidget@@AEBV1@@Z (006C: 59)
+              1. 04 3297 00BB 0000:?qaxFromNativeSize@@YA?AVQSize@@PEBVQWidget@@AEBV1@@Z (006C: 5E) (REF 00A3: ?toSize@QSizeF@@QEBA?AVQSize@@XZ)
+              2. 04 3297 00BB 0000:?qaxFromNativePosition@@YA?AVQPoint@@PEBVQWidget@@AEBV1@@Z (006C: 5E) (REF 00A3: ?toPoint@QPointF@@QEBA?AVQPoint@@XZ)
+          40488B01488BFA488BD98338017605E8........488B0B:
+            0. 04 8E53 007A 0000:??A?$QMap@VQByteArray@@UProperty@MetaObjectGenerator@@@@QEAAAEAUProperty@MetaObjectGenerator@@AEBVQByteArray@@@Z (0008: 3E)
+            1. 04 8E53 008F 0000:??A?$QMap@VQByteArray@@UMethod@MetaObjectGenerator@@@@QEAAAEAUMethod@MetaObjectGenerator@@AEBVQByteArray@@@Z (0008: 53)
+          508364246000458BC84C8BC1488BFA488B49104885C974:
+            0. 88 58FC 00C9 0000:?data@QModelIndex@@QEBA?AVQVariant@@H@Z
+      18:
+        4889:
+          54241048894C2408555657488D6C24904881EC70010000488B:
+            0. 08 3C17 03D6 0000:?generatePopup@QAxClientSite@@AEAAPEAVQMenu@@PEAUHMENU__@@PEAVQWidget@@@Z
+          6C2420565741564883EC70488B05........4833C448894424:
+            0. 26 A31A 01AD 0000:?event@QAxHostWidget@@MEAA_NPEAVQEvent@@@Z
+          742420:
+            555741:
+              54:
+                41564157488BEC48:
+                  81EC80000000488B05:
+                    0. 00 0000 020F 0000:?initialize@QAxScriptEngine@@MEAA_NPEAPEAUIUnknown@@@Z
+                  83EC504883653800458B:
+                    0. 3D 31FE 0295 0000:?addChangedSignal@MetaObjectGenerator@@AEAAXAEBVQByteArray@@0H@Z
+                488BEC4883EC20488B0241BC010000004889:
+                  0. 1F 1FEB 0157 0000:?addProperty@MetaObjectGenerator@@AEAAXAEBVQByteArray@@0I@Z
+              5648:
+                8BEC4883EC70488B05........4833C448:
+                  0. 12 05E2 0162 0000:?doVerb@QAxObject@@QEAA_NAEBVQString@@@Z
+                8D6C24B04881EC50010000488B05:
+                  0. 00 0000 04A3 0000:??0QAxSelect@@QEAA@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z
+              57488D6C24B94881ECC0000000488B05:
+                0. 00 0000 02B8 0000:?initialize@QAxBase@@MEAA_NPEAPEAUIUnknown@@@Z
+            574883EC20488B01498BF04C8B0A488BDA4C2BC8488B:
+              0. 26 96FA 0070 0000:??$_Sort_heap_unchecked@Viterator@?$QList@UControl@@@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@0AEAU?$less@X@0@@Z
+        4C8974242055488BEC4883EC30488B0241BE010000004889451048:
+          0. 1B F0C5 0187 (l)0000:?toType@@YA?AVQByteArray@@AEBV1@@Z
+        55:
+          488BEC4883EC60488B05........4833C4488945F0660F2F0D:
+            0. 00 0000 00A9 (l)0000:?DATEToQDateTime@@YA?AVQDateTime@@N@Z
+          5657:
+            41:
+              54415541564157488D:
+                6C24A04881EC60010000488B05:
+                  0. 00 0000 0734 0000:?setControl@QAxBase@@QEAA_NAEBVQString@@@Z
+                AC24:
+                  70FFFFFF4881EC9001000048:
+                    0. 02 8E30 07BA 0000:?initializeRemote@QAxBase@@IEAA_NPEAPEAUIUnknown@@@Z
+                  80F8FFFF4881EC8008000048:
+                    0. 02 8E30 417E 0000:?qax_generateDocumentation@@YA?AVQString@@PEAVQAxBase@@@Z
+              564157488BEC4883EC408B1A488BF98B7204498BC8448B:
+                0. 27 D958 015B 0000:?qaxFromNativeRect@@YA?AVQRect@@AEBUtagRECT@@PEBVQWidget@@@Z
+            4883EC70488B05........4833C44889442460488D71408B:
+              0. 2A B601 00B2 0000:?doVerb@QAxClientSite@@QEAAJJ@Z
+          574156488BEC4883EC40836520004C8D35........8365200048:
+            0. 4C DB2D 0128 0000:?qaxTypeInfoName@@YA?AVQByteArray@@PEAUITypeInfo@@J@Z
+        574883EC:
+          20488B01488BFA488BD983380176088B5004E8:
+            0. 12 503D 0082 0000:?takeLast@?$QList@VQByteArray@@@@QEAA?AVQByteArray@@XZ
+          40488B05........4833C44889442430488BD9488BFA48:
+            0. 03 1ABF 00AB 0000:?metaType@?$QVariantValueHelper@VQColor@@@QtPrivate@@SA?AVQColor@@AEBVQVariant@@@Z
+        89542410:
+          48894C24085556574154415541564157488BEC4883EC30:
+            0. 0F 8EB0 015D 0000:?addSignal@QAxEventSink@@QEAAXJPEBD@Z
+          555657488BEC4883EC40498BD0488BD983CEFF488D4D20:
+            0. 07 A076 00C3 0000:?addProperty@QAxEventSink@@QEAAXJPEBD0@Z
+      20:
+        4489442418555657488BEC4883EC30488B02498BF1482B01488BDA:
+          0. 38 1BFC 0157 0000:??$_Sort_unchecked1@Viterator@?$QList@UControl@@@@HU?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@0HAEAU?$less@X@0@@Z
+        555657:
+          41:
+            5441554156415748:
+              83EC204C8B124C8BE24D8B18498BE8:
+                0. 3C C9CD 01E7 0000:??$_Partition_by_median_guess_unchecked@Viterator@?$QList@UControl@@@@U?$less@X@std@@@std@@YA?AU?$pair@Viterator@?$QList@UControl@@@@V12@@0@Viterator@?$QList@UControl@@@@0AEAU?$less@X@0@@Z
+              8DAC2460FDFFFF4881ECA003000048:
+                0. 02 8E30 09E4 (l)0000:?readControls@@YA?AV?$QList@UControl@@@@PEB_WI@Z
+            564157488DAC2490F8FFFF4881EC70080000488B05:
+              0. 00 0000 0242 0000:?qaxTypeInfoNames@@YA?AV?$QList@VQByteArray@@@@PEAUITypeInfo@@J@Z
+          48:
+            8BEC4883EC40488B:
+              05........4833C4488945F0498320:
+                0. 35 C9C3 00D6 0000:?queryInterface@QAxBase@@QEBAJAEBVQUuid@@PEAPEAX@Z
+              4108488BFA488BD9488D501848833A:
+                0. 37 2A1E 01E6 0000:?asVariant@QAxBase@@QEBA?AVQVariant@@XZ
+            8DAC2410FEFFFF4881ECF0020000488B05........4833:
+              0. 2F DD61 19B0 0000:?QVariantToVARIANT_container@@YA_NAEBVQVariant@@AEAUtagVARIANT@@AEBVQByteArray@@_N@Z
+        895424105556574154415541564157488DAC24B0FEFFFF4881EC50:
+          0. 06 A400 0727 0000:?Invoke@QAxEventSink@@UEAAJJAEBU_GUID@@KGPEAUtagDISPPARAMS@@PEAUtagVARIANT@@PEAUtagEXCEPINFO@@PEAI@Z
+    742408574883EC208B4230488BFA488BF1394130760583C8FFEB707307B8:
+      0. 15 0331 0098 0000:?compare@Control@@QEBAHAEBU1@@Z
+  8B:
+    01FFA0:
+      80010000:
+        0. 00 0000 0009 0000:??_9QDialog@@$BBIA@AA
+      88010000:
+        0. 00 0000 0009 0000:??_9QDialog@@$BBII@AA
+    41:
+      08:
+        48:
+          837818000F94C0C3:
+            0. 00 0000 000D 0000:?isNull@QAxBase@@QEBA_NXZ
+          8B0848890A8B01FFC083F8017603F0FF01488BC2C3:
+            0. 00 0000 001A 0000:?control@QAxBase@@QEBA?AVQString@@XZ
+        836010:
+          FBC3:
+            0. 00 0000 0009 0000:?disableClassInfo@QAxBase@@QEAAXXZ
+          FEC3:
+            0. 00 0000 0009 0000:?disableEventSink@QAxBase@@QEAAXXZ
+        895014C3:
+          0. 00 0000 0008 0000:?setClassContext@QAxBase@@QEAAXK@Z
+        8B4014C3:
+          0. 00 0000 0008 0000:?classContext@QAxBase@@QEBAKXZ
+      10:
+        4885C074:
+          298B1233C93950187C09488BC8488B4008EB04488B401048:
+            0. 15 E542 0035 0000:?findNode@?$QMapData@JVQByteArray@@@@QEBAPEAU?$QMapNode@JVQByteArray@@@@AEBJ@Z
+          2C488B1233C9483950187209488BC8488B4008EB04488B40:
+            0. 18 7323 0038 0000:?findNode@?$QMapData@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@QEBAPEAU?$QMapNode@PEAVQAction@@UOleMenuItem@QAxClientSite@@@@AEBQEAVQAction@@@Z
+        8B480C2B48088BC1C3:
+          0. 00 0000 000D 0000:?rowCount@ControlList@@UEBAHAEBVQModelIndex@@@Z
+    49:
+      08:
+        48837928000F85........488D05........C3:
+          0. 00 0000 0017 0000:?metaObject@QAxScript@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QAxScript@@2UQMetaObject@@B)
+          1. 00 0000 0017 0000:?metaObject@QAxScriptManager@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QAxScriptManager@@2UQMetaObject@@B)
+          2. 00 0000 0017 0000:?metaObject@QAxSelect@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QAxSelect@@2UQMetaObject@@B)
+        E9:
+          0. 00 0000 0009 0000:?internalMetaObject@QAxBase@@AEBAPEAUQAxMetaObject@@XZ (REF 0005: ?metaObject@QAxBasePrivate@@QEAAPEAUQAxMetaObject@@XZ)
+      30488B4958E9:
+        0. 00 0000 000D 0000:?onFilterLineEditChanged@QAxSelect@@AEAAXAEBVQString@@@Z
+      384885C90F85........83C8FFC3:
+        0. 00 0000 0011 0000:?qt_metacall@QAxHostWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+    C4:
+      488958:
+        08:
+          4889:
+            68:
+              104889:
+                7018:
+                  4889782041564883EC:
+                    20:
+                      488B:
+                        01:
+                          488BFA48:
+                            0. 13 B3A3 00FF 0000:?take@?$QHash@VQString@@PEAVQAxBase@@@@QEAAPEAVQAxBase@@AEBVQString@@@Z
+                          4D8BF048:
+                            0. 0C 4BB5 00DF 0000:?insert@?$QHash@VQString@@UQHashDummyValue@@@@QEAA?AViterator@1@AEBVQString@@AEBUQHashDummyValue@@@Z
+                        FA488D42FF:
+                          0. 24 9A3C 014E 0000:??$_Push_heap_by_index@Viterator@?$QList@UControl@@@@_JUControl@@U?$less@X@std@@@std@@YAXViterator@?$QList@UControl@@@@_J1$$QEAUControl@@AEAU?$less@X@0@@Z
+                      4C8B01488BF149:
+                        0. 0C 95F6 00B1 0000:?detach_helper@?$QList@VQVariant@@@@AEAAXH@Z (0025: 10)
+                        1. 0C 95F6 00B1 0000:?detach_helper@?$QList@UControl@@@@AEAAXH@Z (0025: 38)
+                      8BEA488BD9F6C2:
+                        0. 21 EF9E 009F 0000:??_EQVariant@@QEAAPEAXI@Z
+                    30488B014D8BF149:
+                      0. 0F 81A7 00C4 0000:?insert@?$QHash@VQByteArray@@J@@QEAA?AViterator@1@AEBVQByteArray@@AEBJ@Z (006A: 09)
+                      1. 0F 81A7 00C5 0000:?insert@?$QHash@VQString@@PEAVQAxScript@@@@QEAA?AViterator@1@AEBVQString@@AEBQEAVQAxScript@@@Z (006A: 0A) (0071: 18) (REF 002F: ?detach_helper@?$QHash@VQString@@PEAVQAxScript@@@@AEAAXXZ)
+                      2. 0F 81A7 00C5 0000:?insert@?$QHash@VQString@@PEAUQAxMetaObject@@@@QEAA?AViterator@1@AEBVQString@@AEBQEAUQAxMetaObject@@@Z (006A: 0A) (0071: 18) (REF 002F: ?detach_helper@?$QHash@VQString@@PEAUQAxMetaObject@@@@AEAAXXZ)
+                      3. 0F 81A7 00C5 0000:?insert@?$QHash@VQString@@PEAVQAxBase@@@@QEAA?AViterator@1@AEBVQString@@AEBQEAVQAxBase@@@Z (006A: 0A) (0071: 18) (REF 002F: ?detach_helper@?$QHash@VQString@@PEAVQAxBase@@@@AEAAXXZ)
+                      4. 0F 81A7 00C5 0000:?insert@?$QHash@VQUuid@@PEAVQAxEventSink@@@@QEAA?AViterator@1@AEBVQUuid@@AEBQEAVQAxEventSink@@@Z (006A: 0A) (0071: 20)
+                  574883EC50803D........00498BF00F29:
+                    0. 0F 2AFA 00BB 0000:?qaxMapLogHiMetricsToPix@@YA?AVQSize@@AEBUtagSIZE@@PEBVQWidget@@@Z
+                78184C89702041574883EC20498BE94D8BF04C:
+                  0. 40 E7A3 00EF 0000:?GetWindowContext@QAxClientSite@@UEAAJPEAPEAUIOleInPlaceFrame@@PEAPEAUIOleInPlaceUIWindow@@PEAUtagRECT@@2PEAUtagOIFI@@@Z
+              18488970208950105741544155415641574883EC2048:
+                0. 1D 7C0C 0161 0000:?detach_helper_grow@?$QList@VQUuid@@@@AEAAPEAUNode@1@HH@Z
+            70:
+              10:
+                488978:
+                  18:
+                    41564883EC608B394C8BF2488B5908488B:
+                      0. 07 1FC4 011B 0000:??$swap@UControl@@X@std@@YAXAEAUControl@@0@Z
+                    4C89702055488BEC4881EC80000000488B:
+                      0. 10 36BC 0136 0000:?dynamicCall@QAxBase@@IEAA?AVQVariant@@PEBDAEAV?$QList@VQVariant@@@@I@Z
+                    5541:
+                      54415541564157488D68A14881ECF0:
+                        0. 18 4D6E 049D 0000:?querySubObject@QAxBase@@QEAAPEAVQAxObject@@PEBDAEAV?$QList@VQVariant@@@@@Z
+                      564157488BEC4883EC60803D:
+                        0. 00 0000 011F 0000:?toNativeLocalRegion@QHighDpi@@YA?AVQRegion@@AEBV2@PEBVQWindow@@@Z
+                  20554154415541564157488D68:
+                    A14881EC00:
+                      0. 06 D90C 02FC 0000:?nativeEventFilter@QAxNativeEventFilter@@UEAA_NAEBVQByteArray@@PEAXPEAJ@Z
+                    A94881ECD0:
+                      0. 25 142C 0749 0000:?usertypeToString@MetaObjectGenerator@@AEAA?AVQByteArray@@AEBUtagTYPEDESC@@PEAUITypeInfo@@AEBV2@@Z
+                574883EC50803D........00488BFA0F2970E8488B:
+                  0. 08 2501 00A9 0000:?qaxMapPixToLogHiMetrics@@YA?AUtagSIZE@@AEBVQSize@@PEBVQWidget@@@Z
+              1848897820:
+                5541:
+                  54415541564157488DA848FFFFFF48:
+                    0. 09 CED3 070B 0000:?qax_readClassInfo@@YAPEAUQMetaObject@@PEAUITypeLib@@PEAUITypeInfo@@PEBU1@@Z
+                  554156488D68A14881ECA000000048:
+                    0. 02 8E30 0286 0000:?initializeLicensed@QAxBase@@IEAA_NPEAPEAUIUnknown@@@Z
+                89501041564883EC20488B11:
+                  488BD94963:
+                    0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z (REF 00F5: ?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z)
+                    1. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQByteArray@@@@AEAAPEAUNode@1@HH@Z (REF 00F5: ?dealloc@?$QList@VQByteArray@@@@AEAAXPEAUData@QListData@@@Z)
+                  4C8BF14963:
+                    0. 16 A7E5 00E7 0000:?detach_helper_grow@?$QList@UQAxEngineDescriptor@@@@AEAAPEAUNode@1@HH@Z
+          574883EC400F57C0C740D81800000033DBC740DC0100000048:
+            0. 0C 677A 0089 (l)0000:?QPixmapToIPicture@@YAPEAUIPictureDisp@@AEBVQPixmap@@@Z
+          6644894018488950105556574154415541564157488D68A148:
+            0. 5D B620 0772 0000:?readFuncsInfo@MetaObjectGenerator@@QEAAXPEAUITypeInfo@@G@Z
+        104889701848897820554154415541564157488D:
+          68:
+            984881EC40:
+              0. 06 D90C 0744 0000:?readEnumInfo@MetaObjectGenerator@@QEAAXXZ
+            A14881EC:
+              B0:
+                0. 06 F208 0555 0000:?tryCache@MetaObjectGenerator@@AEAAPEAUQMetaObject@@XZ
+              C0:
+                0. 06 F208 04C9 0000:?readInterfaceInfo@MetaObjectGenerator@@QEAAXXZ
+            A84881EC30:
+              0. 0A 37C2 07DC 0000:?readEventInfo@MetaObjectGenerator@@QEAAXXZ
+          A8:
+            28FFFFFF48:
+              0. 09 4DB0 0F8F 0000:?metaObject@MetaObjectGenerator@@QEAAPEAUQMetaObject@@PEBU2@AEBVQByteArray@@@Z
+            38FFFFFF48:
+              0. 0D B000 052E 0000:?connectNotify@QAxBase@@IEAAXXZ
+            88FDFFFF48:
+              0. 09 839A 191F 0000:?readClassInfo@MetaObjectGenerator@@QEAAXXZ
+        18885010574883EC20498BD8488D5010488BF941B80100000048:
+          0. 04 0D3F 0081 0000:??H@YA?BVQByteArray@@DAEBV0@@Z
+        20:
+          4C89401848894808555657488D68C84881EC20010000488D05:
+            0. 00 0000 0818 0000:?guessTypes@MetaObjectGenerator@@AEAA?AVQByteArray@@AEBUtagTYPEDESC@@PEAUITypeInfo@@AEBV2@@Z
+          5556574154415541564157488D68A14881ECE00000000F2970:
+            0. 04 E787 04B5 0000:?readEventInterface@MetaObjectGenerator@@QEAAXPEAUITypeInfo@@PEAUIConnectionPoint@@@Z
+      4C89482048894808555356574154415541564157488D68B94881ECB800:
+        0. 13 896A 05A5 0000:?createPrototype@MetaObjectGenerator@@AEAA?AVQByteArray@@PEAUtagFUNCDESC@@PEAUITypeInfo@@AEBV?$QList@VQByteArray@@@@AEAV2@AEAV5@@Z
+  8D:
+    05........:
+      4889:
+        01488D05........48894110488B41384885C074244839:
+          0. 23 7080 0047 0000:??1QAxHostWidget@@UEAA@XZ
+        5110488901488D05........48894108488BC1C7411801:
+          0. 04 4908 0024 0000:??0QAxScriptSite@@QEAA@PEAVQAxScript@@@Z
+      C3:
+        0. 00 0000 0008 0000:?fallbackMetaObject@QAxObject@@MEBAPEBUQMetaObject@@XZ (REF 0003: ?staticMetaObject@QAxObject@@2UQMetaObject@@B)
+        1. 00 0000 0008 0000:?parentMetaObject@QAxObject@@EEBAPEBUQMetaObject@@XZ (REF 0003: ?staticMetaObject@QObject@@2UQMetaObject@@B)
+        2. 00 0000 0008 0000:?className@QAxWidget@@UEBAPEBDXZ (REF 0003: ??_C@_09PKHKMFDL@QAxWidget?$AA@)
+        3. 00 0000 0008 0000:?fallbackMetaObject@QAxWidget@@MEBAPEBUQMetaObject@@XZ (REF 0003: ?staticMetaObject@QAxWidget@@2UQMetaObject@@B)
+        4. 00 0000 0008 0000:?parentMetaObject@QAxWidget@@EEBAPEBUQMetaObject@@XZ (REF 0003: ?staticMetaObject@QWidget@@2UQMetaObject@@B)
+        5. 00 0000 0008 0000:?className@QAxObject@@UEBAPEBDXZ (REF 0003: ??_C@_09NFDIONAJ@QAxObject?$AA@)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__Eenum_cache@@YAXXZ (REF 0003: ??__Fenum_cache@@YAXXZ)
+      1. 00 0000 000C (l)0000:??__Emo_cache@@YAXXZ (REF 0003: ??__Fmo_cache@@YAXXZ)
+      2. 00 0000 000C (l)0000:??__Eqax_qualified_usertypes@@YAXXZ (REF 0003: ??__Fqax_qualified_usertypes@@YAXXZ)
+      3. 00 0000 000C (l)0000:??__Fcache_mutex@@YAXXZ (REF 0003: ?cache_mutex@@3VQMutex@@A)
+      4. 00 0000 000C (l)0000:??__Eengines@@YAXXZ (REF 0003: ??__Fengines@@YAXXZ)
+    41:
+      D0C3:
+        0. 00 0000 0005 0000:?qObject@QAxWidget@@UEBAPEAVQObject@@XZ
+      F0C3:
+        0. 00 0000 0005 0000:?qObject@QAxObject@@UEBAPEAVQObject@@XZ
+493BD0:
+  0F848100000048895C24084889742410574883EC20498BF9498BF0482B:
+    0. 0A F055 008B 0000:?node_copy@?$QList@UQAxEngineDescriptor@@@@AEAAXPEAUNode@1@00@Z
+  746C48895C24084889742410574883EC20498BD8488BF24883EB08488B:
+    0. 2C F5F3 0072 0000:?node_destruct@?$QList@U?$QPair@VQByteArray@@H@@@@AEAAXPEAUNode@1@0@Z
+4C8BDC:
+  4883EC68488B05........4833C448894424:
+    50488B8424900000004983:
+      0. 12 70BC 0063 0000:?finished@QAxScript@@QEAAXHAEBVQString@@00@Z
+    58488B8424900000008954:
+      0. 22 3930 006B 0000:?error@QAxScript@@QEAAXHAEBVQString@@H0@Z
+  49895B:
+    0849897318574883EC:
+      30488B02488BDA4983631000488D15:
+        0. 00 0000 00B3 0000:?initializeLicensedHelper@QAxBase@@AEAA_NPEAXAEBVQString@@PEAPEAUIUnknown@@@Z
+      50488B8424B00000004D8BD14C8B8C2488:
+        0. 50 2208 00C4 0000:?call@QAxScript@@QEAA?AVQVariant@@AEBVQString@@AEBV2@1111111@Z (0004: 4C)
+        1. 50 2208 00C9 0000:?dynamicCall@QAxBase@@QEAA?AVQVariant@@PEBDAEBV2@1111111@Z (0004: 83)
+    1049896B1849897320574883EC20488BD9488BFA488B0A448B41:
+      0. 13 6555 010B 0000:??Y?$QList@UControl@@@@QEAAAEAV0@AEBV0@@Z
+    1849896B20565741564883EC20488BDA488D05........498943:
+      0. 08 DDB5 00F1 (l)0000:?nonbreakingSpace@@YA?AVQString@@V1@@Z
+  534883EC20488D05........488BD949894308498D4B18488D05:
+    0. 00 0000 00A6 (l)0000:?msgOutParameterNotSupported@@YA?AVQByteArray@@AEBV1@@Z
+4D85:
+  C074:
+    4248895C240848896C24104889742418574883EC20498BF1498BD848:
+      0. 28 AE31 0048 0000:??_H@YAXPEAX_K1P6APEAX0@Z@Z
+    4948895C240848896C24104889742418574883EC20488BFA498BE949:
+      0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+  C97506B803400080C349832100B801400080C3:
+    0. 00 0000 0015 0000:?GetMoniker@QAxClientSite@@UEAAJKKPEAPEAUIMoniker@@@Z
+66:
+  4489442418534883EC204C8B0A488BD94C8909418B01FFC083F801760AF041:
+    0. 0D AC19 003A 0000:??H@YA?BVQString@@AEBV0@VQChar@@@Z
+  89542410534883EC204C8B09488BD9418339017715458B4108418B4104410F:
+    0. 16 8988 0078 0000:??YQString@@QEAAAEAV0@VQChar@@@Z
+89542410:
+  4C8BDC4883EC38498363E800498D43104D8D4BE8498943F041B80400:
+    0. 05 5B74 0033 0000:?stateChanged@QAxScript@@QEAAXH@Z
+  55535657415441564157488BEC4881EC800000004183CCFF8BDA488B:
+    0. 35 17ED 02BF 0000:?OnChanged@QAxEventSink@@UEAAJJ@Z
+8B0241B90100000089014C8B42084C894108418B00FFC0413BC17604F0450108:
+  0. 62 0EAB 0082 0000:??0Control@@QEAA@AEBU0@@Z
+B8:
+  01:
+    000000:
+      C3:
+        0. 00 0000 0006 0000:?Scroll@QAxClientSite@@UEAAJUtagSIZE@@@Z
+      F00FC1:
+        41:
+          10FFC0C3:
+            0. 00 0000 000D 0000:?AddRef@QtPropertyBag@@UEAAKXZ
+          18FFC0C3:
+            0. 00 0000 000D 0000:?AddRef@QAxScriptSite@@UEAAKXZ
+          50FFC0C3:
+            0. 00 0000 000D 0000:?AddRef@QAxEventSink@@UEAAKXZ
+        81A0000000FFC0C3:
+          0. 00 0000 0010 0000:?AddRef@QAxClientSite@@UEAAKXZ
+    400080C3:
+      0. 00 0000 0006 0000:?GetDocVersionString@QAxScriptSite@@UEAAJPEAPEA_W@Z
+      1. 00 0000 0006 0000:?GetLCID@QAxScriptSite@@UEAAJPEAK@Z
+      2. 00 0000 0006 0000:?GetIDsOfNames@QAxClientSite@@UEAAJAEBU_GUID@@PEAPEA_WIKPEAJ@Z
+      3. 00 0000 0006 0000:?GetTypeInfo@QAxClientSite@@UEAAJIKPEAPEAUITypeInfo@@@Z
+      4. 00 0000 0006 0000:?GetTypeInfoCount@QAxClientSite@@UEAAJPEAI@Z
+      5. 00 0000 0006 0000:?RequestNewObjectLayout@QAxClientSite@@UEAAJXZ
+      6. 00 0000 0006 0000:?SaveObject@QAxClientSite@@UEAAJXZ
+      7. 00 0000 0006 0000:?ShowPropertyFrame@QAxClientSite@@UEAAJXZ
+      8. 00 0000 0006 0000:?GetIDsOfNames@QAxEventSink@@UEAAJAEBU_GUID@@PEAPEA_WIKPEAJ@Z
+      9. 00 0000 0006 0000:?GetTypeInfo@QAxEventSink@@UEAAJIKPEAPEAUITypeInfo@@@Z
+      10. 00 0000 0006 0000:?GetTypeInfoCount@QAxEventSink@@UEAAJPEAI@Z
+  0D000480C3:
+    0. 00 0000 0006 0000:?SetBorderSpace@QAxClientSite@@UEAAJPEBUtagRECT@@@Z
+  A1010480C3:
+    0. 00 0000 0006 0000:?RequestBorderSpace@QAxClientSite@@UEAAJPEBUtagRECT@@@Z
+    1. 00 0000 0006 0000:?GetBorder@QAxClientSite@@UEAAJPEAUtagRECT@@@Z
+E9:
+  0. 00 0000 0005 0000:?showEvent@QAxHostWidget@@MEAAXPEAVQShowEvent@@@Z (REF 0001: ?resizeObject@QAxHostWidget@@AEAAXXZ)
+  1. 00 0000 0005 0000:?resizeEvent@QAxHostWidget@@MEAAXPEAVQResizeEvent@@@Z (REF 0001: ?resizeObject@QAxHostWidget@@AEAAXXZ)

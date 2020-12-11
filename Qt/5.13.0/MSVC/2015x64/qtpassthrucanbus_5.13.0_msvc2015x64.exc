@@ -1,0 +1,13 @@
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+?impl@?$QSlotObject@P8QEventLoop@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z	24 C78E 4883EC284C8BD285C9742B83E901741B83F9017533488B4210493901488B4424
+?impl@?$QSlotObject@P8PassThruCanIO@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z	24 C78E 4883EC284C8BD285C9742B83E901741B83F9017533488B4210493901488B4424
+?impl@?$QSlotObject@P8PassThruCanBackend@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z	24 C78E 4883EC284C8BD285C9742B83E901741B83F9017533488B4210493901488B4424
+
+?qt_metacall@PassThru@J2534@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................
+?Destruct@?$QMetaTypeFunctionHelper@V?$QList@UFilter@QCanBusDevice@@@@$00@QtMetaTypePrivate@@SAXPEAX@Z	00 0000 E9..............................................................
+?qt_metacall@PassThruCanBusPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................
+?qt_metacall@PassThruCanBackend@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z	00 0000 E9..............................................................

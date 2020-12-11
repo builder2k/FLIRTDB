@@ -1,0 +1,1011 @@
+33C0:
+  668901488BC1C3:
+    0. 00 0000 0009 0000:??0QChar@@QEAA@XZ
+  83FA038D48020F44C1C3:
+    0. 00 0000 000C 0000:?glyphMargin@QFontEngine@@UEAAHW4GlyphFormat@1@@Z
+40:
+  53:
+    48:
+      81EC90000000488B05........4833C448898424800000000F10811001:
+        0. 6A 9E6B 00BE 0000:?selectDesignFont@QWindowsFontEngine@@QEBAPEAXXZ
+      83EC:
+        20:
+          48:
+            832100488BD965488B0425580000008B15........B9:
+              0. 00 0000 00C2 (l)0000:?createDirectWriteFactory@@YAXPEAPEAUIDWriteFactory@@@Z
+            8B:
+              01:
+                4533C9488BDAFF9088000000488BC34883C4205BC3:
+                  0. 00 0000 001E 0000:?alphaMapForGlyph@QFontEngineFT@@UEAA?AVQImage@@I@Z
+                488B:
+                  D9448B4008410FBAF01F413BD07E084533C0E8:
+                    0. 00 0000 0052 0000:?reserve@?$QVector@UFontKey@?A0x16133ca6@@@@QEAAXH@Z
+                  DAFF90E8000000488BC34883C4205BC3:
+                    0. 00 0000 001B 0000:?emSquareSize@QFontEngine@@UEBA?AUQFixed@@XZ
+              0933DB8D5302E8........4885C074040FB758088BC34883:
+                0. 04 1875 0024 0000:?fsType@QFreetypeFace@@QEBAHXZ
+              CA488BDAE8........488BC34883C4205BC3:
+                0. 00 0000 001A 0000:?defaultFont@QWindowsFontDatabase@@UEBA?AVQFont@@XZ
+                1. 00 0000 001A 0000:?defaultFont@QWindowsFontDatabaseFT@@UEBA?AVQFont@@XZ
+              D9:
+                488B:
+                  094885C9742948837B28007419488B53304885D274:
+                    0. 03 F9A8 0048 0000:??1QWindowsNativeImage@@QEAA@XZ
+                  490883390074118339FF741E83C8FFF00FC10183F8:
+                    0. 11 7B60 0065 0000:??1Properties@QFontEngine@@QEAA@XZ
+                    1. 11 7B60 0065 0000:??1FaceId@QFontEngine@@QEAA@XZ
+                    2. 11 A4AF 0065 0000:??1?$QPair@VQString@@V1@@@QEAA@XZ
+                  4B1883390074118339FF741E83C8FFF00FC10183F8:
+                    0. 11 E1DE 0052 0000:?destroySubTree@?$QMapNode@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@QEAAXXZ (0005: 8B)
+                    1. 11 E1DE 005B 0000:?destroySubTree@?$QMapNode@VQString@@VQVariant@@@@QEAAXXZ (0005: 8D)
+                  89:
+                    100400004885C97406FF15........488B8B2004:
+                      0. 25 B693 0045 0000:??1QWindowsFontEngineData@@QEAA@XZ
+                    4808000048:
+                      83A34808000000488B835008000048:
+                        0. 17 A4E0 0045 0000:?cleanup@QFreetypeFace@@AEAAXXZ
+                      85C9740E488B83500800004885C074:
+                        0. 31 0AD2 0066 0000:??1QFreetypeFace@@AEAA@XZ
+                E8........488B4B20837910007413837910FF741D83C8:
+                  0. 12 9557 006E 0000:??1QGlyphSet@QFontEngineFT@@QEAA@XZ
+                F6C201740ABA28000000E8........488BC34883C4205B:
+                  0. 01 EF04 0021 0000:??_GGeometrySink@?A0xf78ad5fc@@UEAAPEAXI@Z
+            8D05........:
+              48:
+                8BD9488901488B89E80000004885C9740C48:
+                  0. 07 2AD2 0078 0000:??1QFontEngineFT@@UEAA@XZ
+                8D5424384889442438E8........488B5C24:
+                  0. 3A CAF7 006C 0000:?clear@?$QList@UWinApplicationFont@QWindowsFontDatabase@@@@QEAAXXZ
+              C641100048894118488BD94889412033D28361:
+                0. 1B 9086 004F 0000:??0QGlyphSet@QFontEngineFT@@QEAA@XZ
+          4C634204488BDA49C1E0044C0342104C03C248035210E8:
+            0. 00 0000 0037 0000:?freeData@?$QVector@UFontKey@?A0x16133ca6@@@@AEAAXPEAU?$QTypedArrayData@UFontKey@?A0x16133ca6@@@@@Z
+          83CBFFF00FC159:
+            0883EB01750F4885C9740A4C8B018D530141FF:
+              0. 0A 45AF 002A (l)0000:?Release@DirectWriteFontFileLoader@?A0xe3d357da@@UEAAKXZ
+            1083EB01750F4885C9740A4C8B018D530141FF:
+              0. 0A 1B2F 002A (l)0000:?Release@DirectWriteFontFileStream@?A0xe3d357da@@UEAAKXZ
+          8B:
+            05........83F8FF754233C9FF15........488BD84885C074:
+              0. 0B C45F 0059 0000:?defaultVerticalDPI@QWindowsFontDatabase@@SAHXZ
+            0D........83F9FF754233C9FF15........488BD84885C074:
+              0. 0B 2CE2 0067 0000:?systemFormat@QWindowsNativeImage@@SA?AW4Format@QImage@@XZ
+            81:
+              04020000488BDA85C07E048902EB05E8........488BC348:
+                0. 05 28D1 0025 0000:?lineThickness@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+              08010000488BDA85C07E048902EB05E8........488BC348:
+                0. 05 28D1 0025 0000:?lineThickness@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+              0C010000488BDA85C07E048902EB05E8........488BC348:
+                0. 05 28D1 0025 0000:?underlinePosition@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+              10010000488BDA85C07E07C1E0068902EB09488B01FF90E8:
+                0. 0C 5A41 002C 0000:?emSquareSize@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+              18010000488BDA85C07F07E8........EB11F74140000400:
+                0. 14 E6A7 0034 0000:?capHeight@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+              E0010000488BDA85C078048902EB05E8........488BC348:
+                0. 05 28D1 0025 0000:?xHeight@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+          BB0100000084996C010000750E488BCAE8........3BC37E0233:
+            0. 09 98FC 0029 0000:?supportsTransformation@QWindowsFontEngine@@UEBA_NAEBVQTransform@@@Z
+          F20F1081C8010000488BD9660F2E05........7A0B7509488B01:
+            0. 14 01B4 0034 0000:?minLeftBearing@QWindowsFontEngine@@UEBANXZ
+        30:
+          488B014D8BD14533C9488BDA44894C24284C89542420FF90C000:
+            0. 0B C5AB 002B 0000:?boundingBox@QFontEngineFT@@UEAA?AUglyph_metrics_t@@IAEBVQTransform@@@Z
+          4C8B014C8BCA488BD9418B5008418B40040FBAF21FFFC0418338:
+            0. 4C 60B5 00A6 0000:?append@?$QVector@UtagFONTSIGNATURE@@@@QEAAXAEBUtagFONTSIGNATURE@@@Z
+        40488BDA488D05........488BD14889442428488D4C2428E8:
+          0. 00 0000 00A0 0000:?resolve@QSystemLibrary@@SAP6AXXZAEBVQString@@PEBD@Z
+    55565741564883EC50488B05........4833C44889442440488B81E80000:
+      0. 1F CD52 00B8 0000:?getGlyphBearings@QWindowsFontEngine@@UEAAXIPEAN0@Z
+    56574883EC60488B05........4833C4488944245883642420004C8D4C24:
+      0. 40 9E8F 01A7 0000:?boundingBox@QWindowsFontEngineDirectWrite@@UEAA?AUglyph_metrics_t@@I@Z
+    574883EC28833D........FE7F0433FFEB08E8........488BF8488BCFE8:
+      0. 00 0000 00DE 0000:?qt_getFreetypeData@@YAPEAVQtFreetypeData@@XZ
+  5553:
+    565741:
+      54415541:
+        564157488D:
+          6C24:
+            D84881EC2801000065488B04255800:
+              0. 08 42EE 063A (l)0000:?fontKeys@@YAAEAV?$QVector@UFontKey@?A0x16133ca6@@@@XZ
+            E14881EC:
+              98000000488B05:
+                0. 41 8AC3 01A4 0000:?getOutlineMetrics@QWindowsFontEngine@@QEBA_NIAEBVQTransform@@PEAUglyph_metrics_t@@@Z
+              C8000000488B:
+                05:
+                  0. 8E 4EE8 0138 0000:?getUnscaledGlyph@QWindowsFontEngine@@UEAAXIPEAVQPainterPath@@PEAUglyph_metrics_t@@@Z
+                F2498BD9BA:
+                  0. 0B EDEC 0542 0000:??0QWindowsFontEngine@@QEAA@AEBVQString@@UtagLOGFONTW@@AEBV?$QSharedPointer@VQWindowsFontEngineData@@@@@Z
+              E8000000488B05:
+                0. 97 0D29 033B 0000:?alphaMapForGlyph@QWindowsFontEngine@@UEAA?AVQImage@@IAEBVQTransform@@@Z
+              F8000000488B05:
+                0. 0D FC1D 0503 (l)0000:?getFamiliesAndSignatures@@YAXAEBVQByteArray@@PEAV?$QList@UQFontNames@@@@PEAV?$QVector@UtagFONTSIGNATURE@@@@PEAV?$QVector@UQFontValues@@@@@Z
+            F14881ECE8000000488B05:
+              0. 6B ACF6 034A 0000:?drawGDIGlyph@QWindowsFontEngine@@AEAAPEAVQWindowsNativeImage@@PEAUHFONT__@@IHAEBVQTransform@@W4Format@QImage@@@Z
+          AC24:
+            48FFFFFF4881ECB8010000488B05:
+              0. 00 0000 09AD (l)0000:?addFontToDatabase@@YA_NVQString@@0AEBUtagLOGFONTW@@PEBUtagTEXTMETRICW@@PEBUtagFONTSIGNATURE@@H@Z
+            78FFFFFF4881EC88010000488B05:
+              0. 00 0000 078E 0000:?addApplicationFont@QWindowsFontDatabase@@UEAA?AVQStringList@@AEBVQByteArray@@AEBVQString@@@Z
+            C8FDFFFF4881EC38030000488B05:
+              0. 00 0000 08DB 0000:?createEngine@QWindowsFontDatabase@@SAPEAVQFontEngine@@AEBUQFontDef@@AEBVQString@@HAEBV?$QSharedPointer@VQWindowsFontEngineData@@@@@Z
+            E8FEFFFF4881EC18020000488B05:
+              0. 00 0000 0E7F (l)0000:?addFontToDatabase@@YA_NVQString@@0AEBV1@AEBUtagLOGFONTW@@PEBUtagTEXTMETRICW@@PEBUtagFONTSIGNATURE@@H@Z
+        57488BEC4883EC:
+          2083654000488BF9F681A701000004:
+            0. 09 FFFA 02E8 0000:?getCMap@QWindowsFontEngine@@QEAAXXZ
+          50488D05........488BF948890148:
+            0. 07 1756 02D9 0000:?extraTryFontsForFamily@QWindowsFontDatabase@@SA?AVQStringList@@AEBVQString@@@Z
+      5541564157488D6C24D94881ECB0000000488B01488D557FFF50:
+        0. 0A F7DE 042F 0000:?populateFontDatabase@QFreeTypeFontDatabase@@UEAAXXZ
+      56415748:
+        8BEC4883EC58488B05........4833C4488945F0488B:
+          0. 24 A70E 0163 0000:?boundingBox@QWindowsFontEngine@@UEAA?AUglyph_metrics_t@@IAEBVQTransform@@@Z
+        8D6C24D94881ECA8000000488B05........4833C448:
+          0. 1D 4002 013E (l)0000:?createDIB@@YAPEAUHBITMAP__@@PEAUHDC__@@HHW4Format@QImage@@PEAPEAE@Z
+    57488BEC4883EC70488D1D........488BFA488BCBE8........488D15:
+      0. 00 0000 0151 0000:?fontDir@QWindowsFontDatabaseFT@@UEBA?AVQString@@XZ
+  574883EC20:
+    488B11488D3D........488939833A007411833AFF741683C8FF:
+      0. 0F BA90 0065 0000:?clear@?$QList@VQString@@@@QEAAXXZ
+    4C8B01488D3D........4889394183781000741541837810FF74:
+      0. 12 B795 0072 0000:?clear@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@CAXPEAUNode@QHashData@@@Z)
+      1. 12 B795 0072 0000:?clear@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@CAXPEAUNode@QHashData@@@Z)
+44:
+  894C242055535657:
+    4154415541564157488D6C24D84881EC28010000488B05:
+      0. 00 0000 0D70 0000:?loadGlyph@QFontEngineFT@@QEBAPEAUGlyph@1@PEAUQGlyphSet@1@IUQFixed@@W4GlyphFormat@QFontEngine@@_N3@Z
+    488D6C24B84881EC48010000488B05........4833C448:
+      0. 1E 700E 0252 0000:?alphaMapBoundingBox@QWindowsFontEngineDirectWrite@@UEAA?AUglyph_metrics_t@@IUQFixed@@AEBVQTransform@@W4GlyphFormat@QFontEngine@@@Z
+  8B:
+    51444533C04C8BC9458D580141F6C2037412488B81E8000000488B104484:
+      0. 51 8649 0071 0000:?synthesized@QFontEngineFT@@UEBAHXZ
+    8194090000442B818C090000448B89900900004C6391A00900004503C844:
+      0. 44 D746 0064 0000:?leading@QFontEngineFT@@UEBA?AUQFixed@@XZ
+    99F00000004533D283B9F400000001B800000100440F44D04183F8017508:
+      0. 8D F949 00AD 0000:?loadFlags@QFontEngineFT@@AEBAHPEAUQGlyphSet@1@W4GlyphFormat@QFontEngine@@HAEA_NAEAH@Z
+45:
+  85:
+    C0:
+      0F849D00000048895C24084889742410574883EC50488BF1418BF8488D:
+        0. 69 2156 00A7 (l)0000:?AddBeziers@GeometrySink@?A0xf78ad5fc@@UEAAXPEBUD2D1_BEZIER_SEGMENT@@I@Z
+      745A48895C24084889742410574883EC30488BDA418BF8488BF1F30F10:
+        0. 22 D823 0060 (l)0000:?AddLines@GeometrySink@?A0xf78ad5fc@@UEAAXPEBUD2D_POINT_2F@@I@Z
+    C90F84:
+      32010000488BC44889580848896818488970204889501057415441:
+        0. FF 1E7E 013C (l)0000:??$convertRGBToARGB_V_helper@ULcdFilterLegacy@@@@YAXPEBEPEAIHHH_N@Z
+      4001000048895C240848896C241048897424185741544155415641:
+        0. FF 10E0 014A (l)0000:??$convertRGBToARGB_helper@ULcdFilterLegacy@@@@YAXPEBEPEAIHHH_N@Z
+      B9000000488BC44889580848896810488970184889782041564157:
+        0. A3 AFB9 00C3 (l)0000:??$convertRGBToARGB_helper@ULcdFilterDummy@@@@YAXPEBEPEAIHHH_N@Z
+  8BC10F28CA488BCAE9:
+    0. 00 0000 000E 0000:?fontEngine@QFreeTypeFontDatabase@@UEAAPEAVQFontEngine@@AEBVQByteArray@@NW4HintingPreference@QFont@@@Z
+48:
+  81C1280100004533C0E9:
+    0. 00 0000 000F 0000:?removeGlyphFromCache@QFontEngineFT@@UEAAXI@Z
+  83:
+    2100488BC14883610800C3:
+      0. 00 0000 000D 0000:??0QPointF@@QEAA@XZ
+    2200B801400080C3:
+      0. 00 0000 000A (l)0000:?GetLastWriteTime@DirectWriteFontFileStream@?A0xe3d357da@@UEAAJPEA_K@Z
+    C110E9:
+      0. 00 0000 0009 0000:?deleter@?$ExternalRefCountWithContiguousData@VQWindowsFontEngineData@@@QtSharedPointer@@SAXPEAUExternalRefCountData@2@@Z (REF 0005: ??1QWindowsFontEngineData@@QEAA@XZ)
+      1. 00 0000 0009 0000:?deleteNode2@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@CAXPEAUNode@QHashData@@@Z (REF 0005: ??1FaceId@QFontEngine@@QEAA@XZ)
+      2. 00 0000 0009 0000:?deleteNode2@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@@Z (REF 0005: ??1?$QPair@VQString@@V1@@@QEAA@XZ)
+    EC:
+      28:
+        48:
+          89542430488D5110F30F10442430F30F104C2434488B49200F5AD0:
+            0. 0C AA5D 0035 (l)0000:?BeginFigure@GeometrySink@?A0xf78ad5fc@@UEAAXUD2D_POINT_2F@@W4D2D1_FIGURE_BEGIN@@@Z
+          8B:
+            11833A007411833AFF741D83C8FFF00FC10283F8017511488B09:
+              0. 0A 7FD3 0033 0000:??1QString@@QEAA@XZ
+            15........833A007418833AFF741F83C8FFF00FC10283F80175:
+              0. 04 4EF5 0039 (l)0000:??__Fresult@?1??fontKeys@@YAAEAV?$QVector@UFontKey@?A0x16133ca6@@@@XZ@YAXXZ
+            5118833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+              0. 0C 300A 0035 0000:?deleteNode2@?$QHash@PEBXVQByteArray@@@@CAXPEAUNode@QHashData@@@Z
+            CAE8........83F8040F9EC04883C428C3:
+              0. 00 0000 0017 0000:?supportsTransformation@QFontEngineFT@@UEBA_NAEBVQTransform@@@Z
+          8D:
+            05........488901488B51:
+              08833A007411833AFF741E83C8FFF0:
+                0. 16 1EE6 003F (l)0000:??1DirectWriteFontFileStream@?A0xe3d357da@@UEAA@XZ
+              10837A10007413837A10FF741D83C8:
+                0. 12 D18E 0040 (l)0000:??1DirectWriteFontFileLoader@?A0xe3d357da@@UEAA@XZ
+            0D........E8........8B05........B9FEFFFFFF83F8FF0F44:
+              0. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_theFreetypeData@?A0xea6b096a@@YAPEAV?$QThreadStorage@PEAVQtFreetypeData@@@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_theFreetypeData@?A0xea6b096a@@YAPEAV?$QThreadStorage@PEAVQtFreetypeData@@@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+              1. 03 F39A 002C 0000:??__Fholder@?1??innerFunction@Q_QGS_fontEngineThreadLocalData@?A0xe3d357da@@YAPEAV?$QThreadStorage@V?$QSharedPointer@VQWindowsFontEngineData@@@@@@XZ@YAXXZ (REF 0007: ?holder@?1??innerFunction@Q_QGS_fontEngineThreadLocalData@?A0xe3d357da@@YAPEAV?$QThreadStorage@V?$QSharedPointer@VQWindowsFontEngineData@@@@@@XZ@4UHolder@?1??123@YAPEAV4@XZ@A)
+        65488B0425580000008B0D........:
+          41B8........488B14C8418B04:
+            0. 03 4E75 0077 0000:?lcQpaFonts@@YAAEBVQLoggingCategory@@XZ (003A: 48)
+            1. 03 4E75 007E (l)0000:?innerFunction@Q_QGS_theFreetypeData@?A0xea6b096a@@YAPEAV?$QThreadStorage@PEAVQtFreetypeData@@@@XZ (003A: 83) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_theFreetypeData@?A0xea6b096a@@YAPEAV?$QThreadStorage@PEAVQtFreetypeData@@@@XZ@4HA)
+            2. 03 4E75 007E (l)0000:?innerFunction@Q_QGS_fontEngineThreadLocalData@?A0xe3d357da@@YAPEAV?$QThreadStorage@V?$QSharedPointer@VQWindowsFontEngineData@@@@@@XZ (003A: 83) (REF 0023: ?$TSS0@?1??innerFunction@Q_QGS_fontEngineThreadLocalData@?A0xe3d357da@@YAPEAV?$QThreadStorage@V?$QSharedPointer@VQWindowsFontEngineData@@@@@@XZ@4HA)
+          BA........488B0CC88B040A39:
+            0. 01 D5A7 0068 0000:?systemFont@QWindowsFontDatabase@@SAPEAUHFONT__@@XZ
+        803D........007559488D05........C605........01488D15:
+          0. 00 0000 006B (l)0000:?resolveGetCharWidthI@@YAXXZ
+        83:
+          C8FFF00FC1410883E80175124885C9740B488B01BA01000000FF50:
+            0. 08 9327 0028 (l)0000:?Release@GeometrySink@?A0xf78ad5fc@@UEAAKXZ
+          FA017509488B4920E8........4883C428C3:
+            0. 00 0000 0017 (l)0000:?EndFigure@GeometrySink@?A0xf78ad5fc@@UEAAXW4D2D1_FIGURE_END@@@Z
+        85D2740F83EA01742483EA01741883FA01750EBA03000000488B01FF:
+          0. 15 1F63 0035 0000:?setQtDefaultHintStyle@QFontEngineFT@@QEAAXW4HintingPreference@QFont@@@Z
+        8B05........85C0751A448D40014883CAFF488D0D........E8:
+          0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@UtagLOGFONTW@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@UtagLOGFONTW@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+          1. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@PEAUHFONT__@@@@SAHXZ (REF 0006: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeId@PEAUHFONT__@@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+        E8........488B004883C428C3:
+          0. 00 0000 0011 0000:?qt_getFreetype@@YAPEAUFT_LibraryRec_@@XZ
+        F20F10010F57E4F20F1015........0F28C80F297424100F293C24F2:
+          0. 2D F2B9 00FA (l)0000:?is2dRotation@@YA_NAEBVQTransform@@@Z
+        F6816C01000004750BE8........33C984C07405B9010000008AC148:
+          0. 04 E284 0024 0000:?hasUnreliableGlyphOutline@QWindowsFontEngine@@UEBA_NXZ
+      48:
+        0F297424304C8D4424500F297C24204533C9F20F103D........33D2:
+          0. 0A 12B4 006E 0000:?fontSmoothingGamma@QWindowsFontDatabase@@SANXZ
+        81796073746962756E80B9820000000175658B413C660F6E4A04448B:
+          0. 1A 2911 0080 0000:?addBitmapToPath@QFreetypeFace@@SAXPEAUFT_GlyphSlotRec_@@AEBUQFixedPoint@@PEAVQPainterPath@@@Z
+  85:
+    C974:
+      1F534883EC20488BD9E8........BA18000000488BCBE8........48:
+        0. 05 28D1 0025 0000:?deleteData@?$QThreadStorage@PEAVQtFreetypeData@@@@CAXPEAX@Z
+      5448895C2408574883EC20488B5908488BF94885DB742783C8FFF00F:
+        0. 1E 4346 005A 0000:?deleteData@?$QThreadStorage@V?$QSharedPointer@VQWindowsFontEngineData@@@@@@CAXPEAX@Z
+    D274:
+      0B4885C97406488B02488901488BC1C3:
+        0. 00 0000 0014 0000:?Construct@?$QMetaTypeFunctionHelper@PEAUHFONT__@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+      108B4108488322008942088B410C89420CC3:
+        0. 00 0000 0016 0000:?duplicateNode@?$QHash@IUQHashDummyValue@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      1A8B410848832200894208488B410C4889420C488B411848894218C3:
+        0. 00 0000 0020 0000:?duplicateNode@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@CAXPEAUNode@QHashData@@PEAX@Z
+      268B410848832200894208488B411048894210488B491848894A188B:
+        0. 0C 19B9 002C 0000:?duplicateNode@?$QHash@PEBXVQByteArray@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      348B4108488322008942084C8B41104C894210418B00FFC083F80176:
+        0. 1A F7C7 003A 0000:?duplicateNode@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      3B4885C974360F10020F11010F104A100F1149100F1042200F114120:
+        0. 24 8107 0044 0000:?Construct@?$QMetaTypeFunctionHelper@UtagLOGFONTW@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+      44534883EC20488B0A488BDA83390074118339FF741D83C8FFF00FC1:
+        0. 13 4F37 004A 0000:?releaseHandle@QFreeTypeFontDatabase@@UEAAXPEAX@Z
+      4A8B4108488322008942084C8B41104C894210418B00FFC083F80176:
+        0. 30 54D5 0050 0000:?duplicateNode@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  89:
+    11488BC14C894108C3:
+      0. 00 0000 000B 0000:??$?HVQByteArray@@$$BY07D@@YA?AV?$QStringBuilder@VQByteArray@@$$BY07D@@AEBVQByteArray@@AEAY07$$CBD@Z
+      1. 00 0000 000B 0000:??$?HVQLatin1String@@V0@@@YA?AV?$QStringBuilder@VQLatin1String@@V1@@@AEBVQLatin1String@@0@Z
+      2. 00 0000 000B 0000:??$?HVQByteArray@@V0@@@YA?AV?$QStringBuilder@VQByteArray@@V1@@@AEBVQByteArray@@0@Z
+      3. 00 0000 000B 0000:??$?HUQLatin1Char@@VQString@@@@YA?AV?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBUQLatin1Char@@AEBVQString@@@Z
+      4. 00 0000 000B 0000:??$?HV?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@AEBV?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBUQLatin1Char@@@Z
+      5. 00 0000 000B 0000:??$?HV?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@AEBV?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@AEBVQString@@@Z
+      6. 00 0000 000B 0000:??$?HV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@AEBV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@AEBUQLatin1Char@@@Z
+      7. 00 0000 000B 0000:??$?HV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@AEBV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@AEBVQString@@@Z
+      8. 00 0000 000B 0000:??$?HV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@AEBV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@AEBUQLatin1Char@@@Z
+      9. 00 0000 000B 0000:??$?HV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@AEBV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@AEBVQString@@@Z
+    5424104C894424184C894C2420C3:
+      0. 00 0000 0010 0000:?setQObjectShared@ExternalRefCountData@QtSharedPointer@@QEAAXZZ
+      1. 00 0000 0010 0000:?enableSharedFromThis@?$QSharedPointer@VQWindowsFontEngineData@@@@AEAAXZZ
+    5C24:
+      08:
+        48:
+          89:
+            6C24:
+              10:
+                448944241856574154415641574881EC800000008B81:
+                  0. 43 4BFA 01BF 0000:?lockedAlphaMapForGlyph@QFontEngineFT@@UEAAPEAVQImage@@IUQFixed@@W4GlyphFormat@QFontEngine@@AEBVQTransform@@PEAVQPoint@@@Z
+                4889:
+                  7424:
+                    1857:
+                      41:
+                        544155415641574883EC30488B:
+                          014D:
+                            0. 11 1A25 010B 0000:?insert@?$QMap@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@QEAA?AViterator@1@AEBVQString@@AEBUUniqueFontData@QWindowsFontDatabase@@@Z
+                            1. 11 C62D 0103 0000:?insert@?$QMap@VQString@@VQVariant@@@@QEAA?AViterator@1@AEBVQString@@AEBVQVariant@@@Z
+                          8424:
+                            0. CF 23A3 02B4 0000:?stringToCMap@QFontEngineFT@@UEBA_NPEBVQChar@@HPEAUQGlyphLayout@@PEAHV?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+                        5641574883EC:
+                          20488B:
+                            01:
+                              41BF080000:
+                                0. 1F D01B 0121 0000:?realloc@?$QVector@UQFontValues@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                              45:
+                                33FF4C8B:
+                                  0. 2D 57EF 00AE (l)0000:?createFontFile@@YAPEAVQChar@@AEBVQString@@@Z
+                                8BC84C63:
+                                  0. 13 B670 012C 0000:?realloc@?$QVector@UFontKey@?A0x16133ca6@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                            024C8BF24C8B:
+                              0. 13 A632 012B 0000:??$printSequentialContainer@V?$QList@VQString@@@@@QtPrivate@@YA?AVQDebug@@V1@PEBDAEBV?$QList@VQString@@@@@Z
+                          30488B:
+                            01498BE94D8B:
+                              0. 0E 2E5A 0120 0000:?insert@?$QHash@PEBXVQByteArray@@@@QEAA?AViterator@1@AEBQEBXAEBVQByteArray@@@Z
+                            F2418BF9BA01:
+                              0. 0A 4689 00D8 0000:?addGlyphsToPath@QFontEngineFT@@UEAAXPEAIPEAUQFixedPoint@@HPEAVQPainterPath@@V?$QFlags@W4RenderFlag@QTextItem@@@@@Z
+                      4883EC:
+                        20:
+                          33FF4963E9488D05:
+                            0. 1A 619B 00EB (l)0000:?readName@?A0xe3d357da@@YA?AVQString@@_NPEBEH@Z
+                          48:
+                            635A0C488BFA48636A0848:
+                              0. 24 6F38 0076 0000:?dealloc@?$QList@UQFontNames@@@@AEAAXPEAUData@QListData@@@Z (0005: 20)
+                              1. 24 6F38 0076 0000:?dealloc@?$QList@UQGlyphSet@QFontEngineFT@@@@AEAAXPEAUData@QListData@@@Z (0005: 30)
+                            8B:
+                              01488BDA488BF9837814:
+                                0. 0A 041B 00AA 0000:?take@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@QEAAPEAUGlyph@QFontEngineFT@@AEBUGlyphAndSubPixelPosition@3@@Z
+                              F1488BFA488B89E80000:
+                                0. 0C B515 00A1 0000:?capHeight@QFontEngineFT@@UEBA?AUQFixed@@XZ
+                              F9418BF0488B09488BEA:
+                                0. 2B 8B7B 007B 0000:?findNode@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@AEBAPEAPEAU?$QHashNode@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@AEBUFaceId@QFontEngine@@I@Z
+                              FA488BE9E8........4C:
+                                0. 25 6705 0081 (l)0000:?findFontKey@@YAPEBUFontKey@?A0x16133ca6@@AEBVQString@@PEAH@Z
+                          83B92808000000488BD97E3B:
+                            0. 16 E523 0081 0000:?clear@QGlyphSet@QFontEngineFT@@QEAAXXZ
+                          8B:
+                            44245833FF83C0FD418BE8:
+                              0. 52 0F1D 0072 0000:?alphaMapBoundingBox@QWindowsFontEngine@@UEAA?AUglyph_metrics_t@@IUQFixed@@AEBVQTransform@@W4GlyphFormat@QFontEngine@@@Z
+                            DA488BF181FA0002000073:
+                              0. 28 0249 00D1 0000:?glyphIndex@QFontEngineFT@@UEBAII@Z
+                            EA488BD9488B09BA080000:
+                              0. 08 D93E 0077 0000:?createNode@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@AEAAPEAU?$QHashNode@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@IAEBUGlyphAndSubPixelPosition@QFontEngineFT@@AEBQEAUGlyph@4@PEAPEAU2@@Z (0010: 1A)
+                              1. 08 D93E 0083 0000:?createNode@?$QHash@PEBXVQByteArray@@@@AEAAPEAU?$QHashNode@PEBXVQByteArray@@@@IAEBQEBXAEBVQByteArray@@PEAPEAU2@@Z (0010: 26)
+                        30F6816C01000009498BF1498B:
+                          0. 23 B7E6 007D 0000:?getSfntTableData@QWindowsFontEngine@@UEBA_NIPEAEPEAI@Z
+                        6033ED488D05........488902:
+                          0. 2D 01C3 01DA 0000:?properties@QFreetypeFace@@QEBA?AUProperties@QFontEngine@@XZ
+                    20574883EC204183782800488BF2488BE975:
+                      0. 75 3237 00D3 0000:?boundingBox@QWindowsFontEngine@@UEAA?AUglyph_metrics_t@@AEBUQGlyphLayout@@@Z
+                  7C241841564883EC20488BD9BD08000000488B49:
+                    0. 26 7C22 00D0 0000:??1QFontNames@@QEAA@XZ
+                4C89:
+                  442418565741564883EC20488BF9488BF2488B09:
+                    0. 34 07BC 0100 0000:?erase@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@QEAA?AViterator@1@Vconst_iterator@1@@Z
+                  4C242056574155415641574883EC204533F64963:
+                    0. 8C 4C7E 0265 0000:?getGlyphIndexes@QWindowsFontEngine@@QEBAHPEBVQChar@@HPEAUQGlyphLayout@@@Z
+                565741564883EC2041837828004D8BD0488BF2488BE9:
+                  0. 93 3096 00EC 0000:?boundingBox@QWindowsFontEngineDirectWrite@@UEAA?AUglyph_metrics_t@@AEBUQGlyphLayout@@@Z
+              18:
+                565741564883EC20418BE8488BDA4C8BF14883C20441:
+                  0. 0E 29EC 010E (l)0000:?getFontTable@@YAXPEBE0IPEAPEBEPEAI@Z
+                8954241056574154415641574883EC20488B11488BF1:
+                  0. 18 3165 0128 0000:?detach_helper_grow@?$QList@UQGlyphSet@QFontEngineFT@@@@AEAAPEAUNode@1@HH@Z (002A: 20)
+                  1. 18 3165 016D 0000:?detach_helper_grow@?$QList@UWinApplicationFont@QWindowsFontDatabase@@@@AEAAPEAUNode@1@HH@Z (002A: 34)
+            742410:
+              44894C2420574883EC30488B01488BF2BA0300000041:
+                0. 28 DE0E 005F 0000:?bitmapForGlyph@QWindowsFontEngineDirectWrite@@UEAA?AVQImage@@IUQFixed@@AEBVQTransform@@@Z
+              48897C2418:
+                41564883EC:
+                  20:
+                    488B:
+                      39488BF14C8BF2488B:
+                        0. 05 0048 0093 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@AEAPEAVQChar@@@Z
+                      5108488BF148637A0C:
+                        0. 23 AF09 0092 0000:?removeApplicationFonts@QWindowsFontDatabase@@AEAAXXZ
+                    8BF2488BF9488B09BA0800:
+                      0. 09 E8D4 00A7 0000:?createNode@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@AEAAPEAU?$QHashNode@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@IAEBUFaceId@QFontEngine@@AEBQEAVQFreetypeFace@@PEAPEAU2@@Z
+                  40498BF04C8BF2E8:
+                    0. 04 75F3 0102 0000:?fontEngine@QWindowsFontDatabaseFT@@UEAAPEAVQFontEngine@@AEBUQFontDef@@PEAX@Z
+                5541564157488BEC4883EC70498BF8488D:
+                  0. 10 CECD 0192 0000:?fontEngine@QWindowsFontDatabase@@UEAAPEAVQFontEngine@@AEBUQFontDef@@PEAX@Z
+              55574154488BEC4883EC608365D4004C8D25:
+                0. 26 65DB 012D 0000:?fontEngine@QFreeTypeFontDatabase@@UEAAPEAVQFontEngine@@AEBUQFontDef@@PEAX@Z
+              574883EC:
+                20:
+                  4533C033D2488BF1FF15........8BC88B:
+                    0. 03 ED37 004B (l)0000:?getOutlineTextMetric@@YAPEAU_OUTLINETEXTMETRICW@@PEAUHDC__@@@Z
+                  48:
+                    635A0C488BFA486372084883C3024883:
+                      0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                    8B:
+                      01488B:
+                        F24C8B02488BF90F1000660F:
+                          0. 0F 99B1 0074 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQLatin1String@@V1@@@@@SAXAEBV?$QStringBuilder@VQLatin1String@@V1@@@AEAPEAVQChar@@@Z
+                        FA488BD98338017612BAFFFF:
+                          0. 09 E6EF 0071 0000:??6?$QList@UWinApplicationFont@QWindowsFontDatabase@@@@QEAAAEAV0@AEBUWinApplicationFont@QWindowsFontDatabase@@@Z
+                      11833A007411833AFF74:
+                        4583C8FFF0:
+                          0. 30 1831 0071 0000:??1?$QList@VQFileInfo@@@@QEAA@XZ
+                        4A83C8FFF0:
+                          0. 35 72B3 0076 0000:??1?$QList@W4WritingSystem@QFontDatabase@@@@QEAA@XZ
+                      12488BD9488B42108B3402488B0148:
+                        0. 30 E4CA 00A5 (l)0000:?tableDirectoryEntry@EmbeddedFont@?A0xe3d357da@@QEAAPEAUTableDirectory@2@AEBVQByteArray@@@Z
+                      39488B5F088B4720EB0BFFC848393B:
+                        0. 20 A781 0076 0000:??$qDeleteAll@V?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@@@YAXAEBV?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@@Z
+                      4208488BDA488BF1488B094C8B008B:
+                        0. 28 9B95 00EA 0000:??$?YUQLatin1Char@@VQString@@@@YAAEAVQString@@AEAV0@AEBV?$QStringBuilder@UQLatin1Char@@VQString@@@@@Z
+                      442450488D5908498BF0488BFA4533:
+                        0. 3A 1765 008A (l)0000:?ReadFileFragment@DirectWriteFontFileStream@?A0xe3d357da@@UEAAJPEAPEBX_K1PEAPEAX@Z
+                      5910488BF24885DB743E33FF488D4B:
+                        0. 05 9F97 006B 0000:?findNode@?$QMapData@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@QEBAPEAU?$QMapNode@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@AEBVQString@@@Z
+                      5C2450498BF1488BF98B03413BC07D:
+                        0. 0D 11B2 005C 0000:?stringToCMap@QWindowsFontEngine@@UEBA_NPEBVQChar@@HPEAUQGlyphLayout@@PEAHV?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+                      D9:
+                        81FA0001000073414585C0753C8B:
+                          0. 10 A23D 00A0 0000:?removeGlyphFromCache@QGlyphSet@QFontEngineFT@@QEAAXIUQFixed@@@Z
+                        8BF2B910000000E8........488B:
+                          0. 07 E55D 004C (l)0000:?createFontFile@@YAPEAUFontFile@@AEBVQString@@H@Z
+                      F141B8010000004883C118488BFAE8:
+                        0. 00 0000 0050 0000:?isPrivateFontFamily@QWindowsFontDatabase@@UEBA_NAEBVQString@@@Z
+                      F2498BF8488BD9488D15........48:
+                        0. 09 1C26 0073 (l)0000:?QueryInterface@DirectWriteFontFileStream@?A0xe3d357da@@UEAAJAEBU_GUID@@PEAPEAX@Z (REF 003A: _GUID_6d4865fe_0ab8_4d91_8f62_5dd6be34a3e0)
+                        1. 09 1C26 0073 (l)0000:?QueryInterface@DirectWriteFontFileLoader@?A0xe3d357da@@UEAAJAEBU_GUID@@PEAPEAX@Z (REF 003A: _GUID_727cad4e_d6af_4c9e_8a08_d695b11caa49)
+                    8D7908488BF1488B07488B58088B5020:
+                      0. 1E C2DB 00A6 0000:??1QtFreetypeData@@QEAA@XZ
+                  498BF8488BD941B810000000488D0D:
+                    0. 00 0000 0070 (l)0000:?QueryInterface@GeometrySink@?A0xf78ad5fc@@UEAAJAEBU_GUID@@PEAPEAX@Z
+                  4C8B09488BF2488BF9498B01440FB60048:
+                    0. 26 D939 006E 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@AEAPEAVQChar@@@Z
+                  8B:
+                    421033F6488BDA488BF939411075618B:
+                      0. 29 C426 0093 0000:??8@YA_NAEBUFaceId@QFontEngine@@0@Z
+                    F2488BF9488B09BA08000000498BD8E8:
+                      0. 00 0000 0083 0000:?createNode@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@AEAAPEAU?$QHashNode@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@IAEBU?$QPair@VQString@@V1@@@AEBUQHashDummyValue@@PEAPEAU2@@Z
+                30:
+                  4533C9C644242000488BF2488BF9488BCE:
+                    0. 09 37F9 00C6 0000:?copy@?$QMapNode@VQString@@VQVariant@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQVariant@@@@@Z (002B: 09)
+                    1. 09 37F9 00CA 0000:?copy@?$QMapNode@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@@Z (002B: 0D)
+                  488BF98BDA488B89E80000004881C13808:
+                    0. 03 8AAD 012D 0000:?lockFace@QFontEngineFT@@QEBAPEAUFT_FaceRec_@@W4Scaling@1@@Z
+                  4C8B014C8BCA488BD9418B7808418B7004:
+                    0. 40 1E80 015B 0000:?append@?$QVector@UFontKey@?A0x16133ca6@@@@QEAAXAEBUFontKey@?A0x16133ca6@@@Z
+          8B0133DB4C8BD94C8B0049634004490340104D8B48104903C04D:
+            0. 4D 8439 006D 0000:??$appendTo@D@?$QConcatenable@V?$QStringBuilder@VQByteArray@@$$BY07D@@@@SAXAEBV?$QStringBuilder@VQByteArray@@$$BY07D@@AEAPEAD@Z
+        5556574154415541564157488BEC48:
+          81EC800000004C8D35:
+            0. 00 0000 01FE 0000:?qt_getCanonicalFontNames@@YA?AUQFontNames@@AEBUtagLOGFONTW@@@Z
+          83EC304183CDFF488D1D:
+            0. 00 0000 0290 (l)0000:?familyName@EmbeddedFont@?A0xe3d357da@@QEAA?AVQString@@PEAUTableDirectory@2@@Z
+        574883EC:
+          20:
+            0F1002488BD9488BFAF30F7F018A42108841104883C1:
+              0. 26 47AC 00EC 0000:??0QGlyphSet@QFontEngineFT@@QEAA@AEBU01@@Z
+            33D2488BF933DBE8........4885C07416488B8FE800:
+              0. 0D CF58 003E 0000:?glyphCount@QFontEngineFT@@UEBAHXZ
+            48:
+              8B:
+                02488BFA488901488BD9833800740A8338FF745D:
+                  0. 09 1D8B 008B 0000:??0?$QList@VQString@@@@QEAA@AEBV0@@Z
+                5910488BF94885DB74:
+                  5A488B4B18833900741183:
+                    0. 1E BDD7 0082 0000:?destroy@?$QMapData@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@QEAAXXZ
+                  63488B4B18833900741183:
+                    0. 1E BDD7 008B 0000:?destroy@?$QMapData@VQString@@VQVariant@@@@QEAAXXZ
+                D9:
+                  418B:
+                    F84883C110E8........0F57ED660F2F6B:
+                      0. 0C B396 00C3 0000:?initFontInfo@QWindowsFontEngineDirectWrite@@QEAAXAEBUQFontDef@@H@Z
+                    F9488B09E8........85C07560488B0348:
+                      0. 67 0AE5 0087 0000:?getPointInOutline@QFreetypeFace@@QEAAHIHIPEAUQFixed@@0PEAI@Z
+                  488BFA488B0A48890B8B01FFC083F8017603F0:
+                    0. 0B B8CB 00F6 0000:??0QFontDef@@QEAA@AEBU0@@Z
+                  83CFFF4883C118488B11833A00740E393A7412:
+                    0. 0E D2D7 00AF 0000:??1QFontDef@@QEAA@XZ
+                  8BFA:
+                    33C9388B80000000742C488B8BB0010000:
+                      0. 0A 5082 008B 0000:?glyphIndex@QWindowsFontEngine@@UEBAII@Z
+                    4883C1084C8B01418338007413418338FF:
+                      0. 13 28D9 0082 0000:??_GFontKey@?A0x16133ca6@@QEAAPEAXI@Z
+                  B938040000E8........4885C07418488D0D:
+                    0. 00 0000 0086 0000:??$create@$$V@?$QSharedPointer@VQWindowsFontEngineData@@@@SA?AV0@XZ
+                  E8........488B13488BF8488B4A104885C974:
+                    0. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@@Z)
+                    1. 05 B3A9 006E 0000:?detach_helper@?$QMap@VQString@@VQVariant@@@@AEAAXXZ (REF 0025: ?copy@?$QMapNode@VQString@@VQVariant@@@@QEBAPEAU1@PEAU?$QMapData@VQString@@VQVariant@@@@@Z)
+                DA:
+                  41B8322F534F488D542440488BF9E8:
+                    0. 97 5CC5 00F8 0000:?capHeight@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+                  488BF9488B5218833A007411833AFF741E83C8:
+                    0. 18 86BC 0051 0000:?deleteNode@?$QMapData@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@QEAAXPEAU?$QMapNode@VQString@@UUniqueFontData@QWindowsFontDatabase@@@@@Z
+                F9488BDAB910000000E8........4C8B034C8900:
+                  0. 20 8528 007E 0000:?setLocalData@?$QThreadStorage@V?$QSharedPointer@VQWindowsFontEngineData@@@@@@QEAAXV?$QSharedPointer@VQWindowsFontEngineData@@@@@Z
+                FA418BD8488BD1488D4C2448E8........448BC3:
+                  0. 09 738E 006A 0000:??$qRegisterMetaType@UtagLOGFONTW@@@@YAHPEBDPEAUtagLOGFONTW@@W4DefinedType@?$MetaTypeDefinedHelper@UtagLOGFONTW@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@UtagLOGFONTW@@@@YAHAEBVQByteArray@@PEAUtagLOGFONTW@@W4DefinedType@?$MetaTypeDefinedHelper@UtagLOGFONTW@@$00@QtPrivate@@@Z)
+                  1. 09 738E 006A 0000:??$qRegisterMetaType@PEAUHFONT__@@@@YAHPEBDPEAPEAUHFONT__@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUHFONT__@@$00@QtPrivate@@@Z (REF 0029: ??$qRegisterNormalizedMetaType@PEAUHFONT__@@@@YAHAEBVQByteArray@@PEAPEAUHFONT__@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUHFONT__@@$00@QtPrivate@@@Z)
+              8D05........488B:
+                D94889018BFA488B49:
+                  08833900:
+                    0. 21 66A7 0066 0000:??_GDirectWriteFontFileStream@?A0xe3d357da@@UEAAPEAXI@Z
+                  10837910:
+                    0. 1D 0598 0067 0000:??_GDirectWriteFontFileLoader@?A0xe3d357da@@UEAAPEAXI@Z
+                F9488901E8........488D4F18:
+                  0. 1D 2773 00B5 0000:??1QWindowsFontDatabase@@UEAA@XZ
+            498B09488D05........498BF8488BDA483BC8750433:
+              0. 14 CD1F 0084 0000:?addApplicationFont@QFreeTypeFontDatabase@@UEAA?AVQStringList@@AEBVQByteArray@@AEBVQString@@@Z
+            4C8B01488B:
+              F9496340084983C010498D1CC0E8:
+                0. 00 0000 0094 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z
+              FA488BD9418B5008418B40040FBAF21FFF:
+                0. 1A 1A3C 0075 0000:?append@?$QVector@UQFontValues@@@@QEAAX$$QEAUQFontValues@@@Z
+            8B:
+              DA488BF9E8........F6C301740DBA:
+                08000000488B:
+                  0. 02 632D 0034 0000:??_GQPlatformFontDatabase@@UEAAPEAXI@Z
+                20000000488B:
+                  0. 02 632D 0034 0000:??_GQWindowsFontDatabase@@UEAAPEAXI@Z (REF 0010: ??1QWindowsFontDatabase@@UEAA@XZ)
+                  1. 02 632D 0034 0000:??_GQImage@@UEAAPEAXI@Z (REF 0010: ??1QImage@@UEAA@XZ)
+                28020000488B:
+                  0. 02 632D 0034 0000:??_GQWindowsFontEngine@@UEAAPEAXI@Z
+                50010000488B:
+                  0. 02 632D 0034 0000:??_GQWindowsFontEngineDirectWrite@@UEAAPEAXI@Z
+                A8090000488B:
+                  0. 02 632D 0034 0000:??_GQFontEngineFTRawData@?A0xea6b096a@@UEAAPEAXI@Z
+                  1. 02 632D 0034 0000:??_GQFontEngineFT@@UEAAPEAXI@Z
+              FA488BD933D2E8........448BCF488D4B08448BC7:
+                0. 18 733C 0089 0000:?qHash@@YAIAEBUFaceId@QFontEngine@@I@Z
+            B920000000498BD8488BFAE8........4C8BC8BA0100:
+              0. 5A 1209 007A 0000:?node_construct@?$QList@UQFontNames@@@@AEAAXPEAUNode@1@AEBUQFontNames@@@Z
+          30:
+            418BF8488BD94885D27516E8........83F8FF740C8B:
+              0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@PEAUHFONT__@@@@YAHAEBVQByteArray@@PEAPEAUHFONT__@@W4DefinedType@?$MetaTypeDefinedHelper@PEAUHFONT__@@$00@QtPrivate@@@Z (0022: 08)
+              1. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@UtagLOGFONTW@@@@YAHAEBVQByteArray@@PEAUtagLOGFONTW@@W4DefinedType@?$MetaTypeDefinedHelper@UtagLOGFONTW@@$00@QtPrivate@@@Z (0022: 5C)
+            48:
+              8B:
+                81E8000000488B9108010000488B981004000048:
+                  0. 04 758A 0053 0000:?hasCFFTable@QWindowsFontEngine@@AEBA_NXZ (0011: 43)
+                  1. 04 758A 0053 0000:?hasCMapTable@QWindowsFontEngine@@AEBA_NXZ (0011: 63)
+                D9:
+                  0F29742420B9500100000F28F1E8........48:
+                    0. 14 8652 009D 0000:?cloneWithSize@QWindowsFontEngineDirectWrite@@UEBAPEAVQFontEngine@@N@Z
+                  C744242008000000488B094C8D05........41:
+                    0. 08 7C64 0070 0000:?detach_helper@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@AEAAXXZ
+                    1. 08 B5D1 0070 0000:?detach_helper@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@CAXPEAUNode@QHashData@@@Z)
+                    2. 08 B5D1 0070 0000:?detach_helper@?$QHash@PEBXVQByteArray@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@PEBXVQByteArray@@@@CAXPEAUNode@QHashData@@@Z)
+                    3. 08 B5D1 0070 0000:?detach_helper@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@@Z)
+                    4. 08 FF07 0070 0000:?detach_helper@?$QHash@IUQHashDummyValue@@@@AEAAXXZ
+              8D05........488BDA4C8D0D........4889442420:
+                0. 04 ADEA 003E 0000:??$?6W4Style@QFont@@@@YA?AVQDebug@@V0@W4Style@QFont@@@Z (REF 000D: ??_C@_05IHAFCALK@Style?$AA@)
+                1. 04 ADEA 003E 0000:??$?6W4StyleHint@QFont@@@@YA?AVQDebug@@V0@W4StyleHint@QFont@@@Z (REF 000D: ??_C@_09GDJOPLAB@StyleHint?$AA@)
+                2. 04 ADEA 003E 0000:??$?6W4HintingPreference@QFont@@@@YA?AVQDebug@@V0@W4HintingPreference@QFont@@@Z (REF 000D: ??_C@_0BC@PFPKGCKG@HintingPreference?$AA@)
+            833D........FE488BF97F0433DBEB08E8........48:
+              0. 06 7EE9 009C 0000:?sharedFontData@@YA?AV?$QSharedPointer@VQWindowsFontEngineData@@@@XZ
+          40488BFAE8........E8........F64010017472E8:
+            0. 00 0000 009D 0000:?fontDir@QWindowsFontDatabase@@UEBA?AVQString@@XZ
+          50488B02488BDA488BF9488D542430488BCBFF5020448B:
+            0. 1F 2FCF 00CE 0000:?initFromFontEngine@QFontEngineFT@@QEAA_NPEBV1@@Z
+          70488BD90F29742460488D51100F28F1488D4C2420E8:
+            0. 00 0000 008A 0000:?cloneWithSize@QFontEngineFT@@UEBAPEAVQFontEngine@@N@Z
+      10:
+        4489:
+          4424185556574883EC2033ED488BF2488BD94038A99C090000:
+            0. 10 E86D 011D 0000:?doKerning@QFontEngineFT@@UEBAXPEAUQGlyphLayout@@V?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+          4C2420555657488D6C24C14881EC90000000488B01488BF283:
+            0. 30 60E4 00FB 0000:?alphaRGBMapForGlyph@QWindowsFontEngineDirectWrite@@UEAA?AVQImage@@IUQFixed@@AEBVQTransform@@@Z
+        4889:
+          6C2418:
+            488974242057:
+              41:
+                544155415641574883EC40488B81E8:
+                  0. 86 55AA 0267 0000:?recalcAdvances@QFontEngineFT@@UEBAXPEAUQGlyphLayout@@V?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+                5641574883EC60488BF1458BF933C9:
+                  0. 08 C0B4 0149 0000:??0QWindowsNativeImage@@QEAA@HHW4Format@QImage@@@Z
+              4883EC:
+                20488B:
+                  01488BF2488BD9488BCE:
+                    0. 10 E42B 0085 0000:??$convertTo@VQByteArray@@@?$QStringBuilder@VQByteArray@@$$BY07D@@AEBA?AVQByteArray@@XZ
+                  EA488BD983C8FFF00FC1:
+                    0. 11 7227 00BD 0000:?release@QFreetypeFace@@QEAAXAEBUFaceId@QFontEngine@@@Z
+                30488B01498BE9498BF0488BFA:
+                  0. 0A 764E 00A3 0000:?insert@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@QEAA?AViterator@1@AEBU?$QPair@VQString@@V1@@@AEBUQHashDummyValue@@@Z
+                508BF2418BF933D2418BD8488B:
+                  0. 02 805A 00B2 0000:?getPointInOutline@QFontEngineFT@@UEAAHIHIPEAUQFixed@@0PEAI@Z
+            5657415648:
+              81ECB00000004533F6418BE8B800A86100:
+                0. 64 162E 0236 0000:?boundingBox@QFontEngineFT@@UEAA?AUglyph_metrics_t@@I@Z
+              83EC:
+                20488BF1488BFA488B89E8000000BA:
+                  0. 08 67E2 00FF 0000:?averageCharWidth@QFontEngineFT@@UEBA?AUQFixed@@XZ (0017: 02)
+                  1. 08 67E2 00FF 0000:?xHeight@QFontEngineFT@@UEBA?AUQFixed@@XZ (0017: 58)
+                30:
+                  488B014D8BF1498BF0488BFA488B:
+                    0. 08 35FB 00DE 0000:?insert@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@QEAA?AViterator@1@AEBUGlyphAndSubPixelPosition@QFontEngineFT@@AEBQEAUGlyph@4@@Z
+                  8BDA498BF9BA010000004D8BF048:
+                    0. 03 41B6 0106 0000:?getUnscaledGlyph@QFontEngineFT@@UEAAXIPEAVQPainterPath@@PEAUglyph_metrics_t@@@Z
+          742418:
+            48897C242041564883EC40488D05........488BF948:
+              0. 10 EBB4 0217 0000:??1QWindowsFontEngine@@UEAA@XZ
+            555741:
+              5441554156488BEC4883EC5083653000488D59:
+                0. 1E 1726 025F (l)0000:?populateFontFamilies@@YAHPEBUtagLOGFONTW@@PEBUtagTEXTMETRICW@@K_J@Z
+              57488BEC4883EC3083652000488D591CB8BFFF:
+                0. 17 2397 0143 (l)0000:?populateFontFamilies@@YAHPEBUtagLOGFONTW@@PEBUtagTEXTMETRICW@@K_J@Z
+            574883EC:
+              20:
+                33DB488BF9889900040000E8........45:
+                  0. 31 5369 011E 0000:??0QWindowsFontEngineData@@QEAA@XZ
+                48:
+                  8B:
+                    01488BF9488BF24C8B18498B034C8B:
+                      0. 3F C9C3 00BC 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@UQLatin1Char@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@UQLatin1Char@@@@VQString@@@@AEBA?AVQString@@XZ
+                    DA488BF9BA04000000E8........48:
+                      0. 02 5E64 0174 0000:??0QFontEngineFT@@QEAA@AEBUQFontDef@@@Z
+                  8D05........488BDA488901488BF948:
+                    0. 0C A6DB 0080 0000:??0?$QList@VQString@@@@QEAA@V?$initializer_list@VQString@@@std@@@Z
+              50488BF20F29742440BA08000000498BD90F:
+                0. 06 EACC 01C0 0000:??0QWindowsFontEngineDirectWrite@@QEAA@PEAUIDWriteFontFace@@NAEBV?$QSharedPointer@VQWindowsFontEngineData@@@@@Z
+          7C24:
+            1855488D6C24A94881ECF0000000488B05........4833:
+              0. 09 37F1 0193 0000:?systemDefaultFont@QWindowsFontDatabase@@SA?AVQFont@@XZ
+            2041564883EC208364243000488BF9488BCA488BDAE8:
+              0. 00 0000 0122 0000:?fromLocal8Bit@QString@@SA?AV1@AEBVQByteArray@@@Z
+        55:
+          488BEC4883EC60488D05........48894510488D5510488D05:
+            0. 00 0000 0119 (l)0000:?resolveDWriteCreateFactory@@YAP6AJW4DWRITE_FACTORY_TYPE@@AEBU_GUID@@PEAPEAUIUnknown@@@ZXZ
+          5657415441554156415748:
+            8BEC48:
+              81EC80000000836550004C8B:
+                0. 19 51A0 024B (l)0000:?storeFont@@YAHPEBUtagLOGFONTW@@PEBUtagTEXTMETRICW@@K_J@Z
+              83EC:
+                50488B81E80000004533:
+                  0. 6F A037 0363 0000:?recalcAdvances@QWindowsFontEngine@@UEBAXPEAUQGlyphLayout@@V?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+                60836550004C8BEA488D:
+                  0. 16 E64B 01CD (l)0000:?storeFont@@YAHPEBUtagLOGFONTW@@PEBUtagTEXTMETRICW@@K_J@Z
+            8D6C24D94881EC90000000488B0145:
+              0. 1F F233 0487 0000:?getFace@QFreetypeFace@@SAPEAV1@AEBUFaceId@QFontEngine@@AEBVQByteArray@@@Z
+        574883EC:
+          20:
+            488B:
+              01:
+                41B801000000488BFA488BD9443900761DBAFF:
+                  0. 04 B5E7 0069 0000:??6?$QList@I@@QEAAAEAV0@AEBI@Z
+                488BFA488BD98338017629BAFFFFFF7F41B801:
+                  0. 04 9897 0073 0000:??6QStringList@@QEAAAEAV0@AEBVQString@@@Z
+              02488BF9488D0D........488944243048890A48:
+                0. 39 CB6F 0073 0000:??4?$QList@UWinApplicationFont@QWindowsFontDatabase@@@@QEAAAEAV0@$$QEAV0@@Z
+              D9488BFA488B0A448B410C8B5108443BC20F84C6:
+                0. 09 9E3E 00F7 0000:??Y?$QList@VQString@@@@QEAAAEAV0@AEBV0@@Z
+              FA488BD94885D2740A488BCAE8........EB0383:
+                0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+            4C8B09488BFA488BD9498B01833801762CBAFFFFFF7F:
+              0. 0A 4190 0079 0000:??4?$back_insert_iterator@V?$QList@VQString@@@@@std@@QEAAAEAV01@AEBVQString@@@Z
+          30:
+            33DB498BF9F64108087427418B014D8BC88944244045:
+              0. 0D 65FB 0049 (l)0000:?ft_getSfntTable@@YA_NPEAXIPEAEPEAI@Z
+            488D5910488BFA488B0BE8........4885C0744A488B:
+              0. 0A 9A4E 0073 0000:?refUniqueFont@QWindowsFontDatabase@@QEAAXAEBVQString@@@Z
+            83B900020000FF488BF90F85B900000083A100020000:
+              0. 28 7722 00E4 0000:?synthesized@QWindowsFontEngine@@UEBAHXZ
+          40488D:
+            05........488BF9488901E8........F6401001:
+              0. 03 F5A1 0144 0000:??1QWindowsFontEngineDirectWrite@@UEAA@XZ
+            5910488BFA488B0BE8........4885C00F84D300:
+              0. 0E 0609 0100 0000:?derefUniqueFont@QWindowsFontDatabase@@QEAAXAEBVQString@@@Z
+      18:
+        4889:
+          7424205557415441554157488DAC2460FEFFFF4881ECA00200:
+            0. 04 A303 02D9 0000:?filenameFromFontFile@QWindowsFontEngineDirectWrite@@CA?AVQString@@PEAUIDWriteFontFile@@@Z
+          7C24205548:
+            8BEC4883EC70488BFA488BD9488B89E800000048:
+              0. 04 49B1 00E3 0000:?properties@QFontEngineFT@@UEBA?AUProperties@QFontEngine@@XZ
+            8D6C24A94881ECC0000000488B05........4833:
+              0. 08 FC54 0121 0000:?fontNameSubstitute@QWindowsFontEngineDirectWrite@@SA?AVQString@@AEBV2@@Z
+        555657:
+          41:
+            54415541564157488D6C24:
+              D94881EC:
+                B0000000488B05:
+                  0. 00 0000 0416 (l)0000:?qt_getCanonicalFontNames@?A0xe3d357da@@YA?AUQFontNames@@PEBEI@Z
+                D0000000488B05:
+                  0. 00 0000 03B9 0000:?properties@QWindowsFontEngine@@UEBA?AUProperties@QFontEngine@@XZ
+              E94881ECA0000000448B7D77:
+                0. 03 616D 0281 0000:?fallbacksForFamily@QWindowsFontDatabase@@UEBA?AVQStringList@@AEBVQString@@W4Style@QFont@@W4StyleHint@5@W4Script@QChar@@@Z
+            56415748:
+              81EC80080000488B05........4833C4488984:
+                0. 0F 8851 02DA 0000:?loadGlyphSet@QFontEngineFT@@QEAAPEAUQGlyphSet@1@AEBVQTransform@@@Z
+              83EC2083642450004C8BF9488D4C2458498BE8:
+                0. 04 050E 018C 0000:??6@YA?AVQDebug@@V0@AEBUtagLOGFONTW@@@Z
+          4881ECC0000000488B05........4833C448898424B00000:
+            0. 14 2DFE 01C2 0000:?initFontInfo@QWindowsFontEngine@@QEAAXAEBUQFontDef@@H@Z
+        5748:
+          81EC80000000488B05........4833C44889442470488BD948:
+            0. 7B BE54 0126 (l)0000:?alphaMapFromGlyphData@@YA?AVQImage@@PEAUGlyph@QFontEngineFT@@W4GlyphFormat@QFontEngine@@@Z
+          83EC20488BFA488BD9E8........488D5708488B0248394308:
+            0. 08 92AC 0163 0000:??4QFontDef@@QEAAAEAU0@AEBU0@@Z
+      20:
+        44894424185556574154415541564157488BEC4881EC8000000048:
+          0. 02 8E30 020C 0000:?loadGlyphFor@QFontEngineFT@@QEAAPEAUGlyph@1@IUQFixed@@W4GlyphFormat@QFontEngine@@AEBVQTransform@@_N3@Z
+        555657:
+          415441:
+            554156415748:
+              8BEC4883EC70488B05........4833:
+                0. 18 B832 03BE (l)0000:?changeFamilyName@EmbeddedFont@?A0xe3d357da@@QEAA?AVQString@@AEBV3@@Z
+              8D6C24F04881EC10010000488B05:
+                0. 00 0000 04F6 0000:?addTTFile@QFreeTypeFontDatabase@@SA?AVQStringList@@AEBVQByteArray@@0@Z
+            57488BEC4883EC7083653000488D5110488BD90F29:
+              0. 0B 3BF2 0190 0000:?cloneWithSize@QWindowsFontEngine@@UEBAPEAVQFontEngine@@N@Z
+          488D6C24B94881ECD0000000488B05........4833C44889:
+            0. 06 72C3 0234 0000:?create@QFontEngineFT@@SAPEAV1@AEBVQByteArray@@NW4HintingPreference@QFont@@@Z
+        565741564883EC308364246000418BF0488BDA488BF94585C07F07:
+          0. 01 3E9B 014D 0000:?LOGFONT_to_QFont@QWindowsFontDatabase@@SA?AVQFont@@AEBUtagLOGFONTW@@H@Z
+  8B:
+    018B4808B80100000084C875060FBAE10E720233C0C3:
+      0. 00 0000 0018 0000:?isScalableBitmap@QFreetypeFace@@QEBA_NXZ
+    09E9:
+      0. 00 0000 0008 0000:?getSfntTable@QFreetypeFace@@QEBA_NIPEAEPEAI@Z (REF 0004: ?ft_getSfntTable@@YA_NPEAXIPEAEPEAI@Z)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__FemptyGlyph@@YAXXZ (REF 0003: ?emptyGlyph@@3UGlyph@QFontEngineFT@@A)
+    1133C04C8B421048634A044C03C24885C97E14BA00010000664139144073:
+      0. 0F 353F 002F 0000:?qt_localizedName@@YA_NAEBVQString@@@Z
+    41084863480433C048890AC3:
+      0. 00 0000 000E (l)0000:?GetFileSize@DirectWriteFontFileStream@?A0xe3d357da@@UEAAJPEA_K@Z
+    49:
+      10E9:
+        0. 00 0000 0009 0000:??1Glyph@QFontEngineFT@@QEAA@XZ (REF 0005: ??_V@YAXPEAX@Z)
+      208BC233D285C00F95C2E9:
+        0. 00 0000 0012 (l)0000:?SetFillMode@GeometrySink@?A0xf78ad5fc@@UEAAXW4D2D1_FILL_MODE@@@Z
+    81:
+      08010000C3:
+        0. 00 0000 0008 0000:?handle@QWindowsFontEngine@@UEBAPEAXXZ
+      E8000000:
+        488B00:
+          C3:
+            0. 00 0000 000B 0000:?non_locked_face@QFontEngineFT@@QEBAPEAUFT_FaceRec_@@XZ
+            1. 00 0000 000B 0000:?handle@QFontEngineFT@@UEBAPEAXXZ
+          F6400801740B0FB74068C1E0068902EB10488B808000:
+            0. 0F 0590 002F 0000:?emSquareSize@QFontEngineFT@@UEBA?AUQFixed@@XZ
+        4C8B00B80100000041844008750332C0C33981F40000007607:
+          0. 08 89FE 0028 0000:?shouldUseDesignMetrics@QFontEngineFT@@AEBA_NV?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+      F8000000C3:
+        0. 00 0000 0008 0000:?handle@QWindowsFontEngineDirectWrite@@UEBAPEAXXZ
+    89E800000048:
+      81C138080000E9:
+        0. 00 0000 0013 0000:?unlockFace@QFontEngineFT@@QEBAXXZ
+      8B09E9:
+        0. 00 0000 000F 0000:?getSfntTableData@QFontEngineFT@@UEBA_NIPEAEPEAI@Z
+    C4:
+      44894820555356574154415541564157488DA8D8FEFFFF4881ECE80100:
+        0. 11 AFAD 058E 0000:?imageForGlyph@QWindowsFontEngineDirectWrite@@AEAA?AVQImage@@IUQFixed@@HAEBVQTransform@@@Z
+      488958:
+        084889:
+          68:
+            1048897018:
+              44894820574881EC90000000488B19488B:
+                0. 0C 5F3C 0065 0000:?alphaMapForGlyph@QFontEngineFT@@UEAA?AVQImage@@IUQFixed@@@Z
+                1. 0C 5F3C 0065 0000:?alphaMapForGlyph@QWindowsFontEngineDirectWrite@@UEAA?AVQImage@@IUQFixed@@@Z
+              4889782041:
+                54415641574883EC20F20F10:
+                  0. 0C AFC0 029A 0000:?minRightBearing@QWindowsFontEngine@@UEBANXZ
+                564883EC:
+                  20:
+                    4533F6488BEA48:
+                      0. 52 2F89 00BE 0000:??$indexOf@VQString@@V1@@QtPrivate@@YAHAEBV?$QList@VQString@@@@AEBVQString@@H@Z
+                    48:
+                      63F2BD080000:
+                        0. 14 9FDB 00F0 0000:?realloc@?$QVector@UtagFONTSIGNATURE@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                      8BF9418BE848:
+                        0. 33 4072 009A 0000:?findNode@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@AEBAPEAPEAU?$QHashNode@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@AEBU?$QPair@VQString@@V1@@@I@Z
+                    4C8B:
+                      01488BF149:
+                        0. 0C 95F6 00B1 0000:?detach_helper@?$QList@UQGlyphSet@QFontEngineFT@@@@AEAAXH@Z
+                      F133C0488B:
+                        0. 1A BA87 0081 0000:?findNode@?$QHash@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@AEBAPEAPEAU?$QHashNode@U?$QPair@VQString@@V1@@@UQHashDummyValue@@@@AEBU?$QPair@VQString@@V1@@@PEAI@Z
+                  30:
+                    488B014D8BF149:
+                      0. 0F 81A7 00C5 0000:?insert@?$QHash@UFaceId@QFontEngine@@PEAVQFreetypeFace@@@@QEAA?AViterator@1@AEBUFaceId@QFontEngine@@AEBQEAVQFreetypeFace@@@Z
+                    807C247000488B:
+                      0. 91 21A3 00D0 (l)0000:?convertRGBToARGB_V@@YAXPEBEPEAIHHH_N2@Z
+                    8B1D........41:
+                      0. 13 F016 00B9 (l)0000:?useDirectWrite@@YA_NW4HintingPreference@QFont@@AEBVQString@@_N@Z
+                  70488BF14D8BF0B9:
+                    0. 08 FFAE 0197 0000:?create@QFontEngineFT@@SAPEAV1@AEBUQFontDef@@UFaceId@QFontEngine@@AEBVQByteArray@@@Z
+              5748:
+                81EC80000000488B19488BF1488D48:
+                  0. 08 0D22 005A 0000:?alphaMapForGlyph@QWindowsFontEngine@@UEAA?AVQImage@@I@Z (0012: 80)
+                  1. 08 0D22 005A 0000:?boundingBox@QWindowsFontEngine@@UEAA?AUglyph_metrics_t@@I@Z (0012: D0)
+                83EC504C8B12418BD94C8950D8418A:
+                  0. 44 DA63 00A1 0000:?init@QFontEngineFT@@QEAA_NUFaceId@QFontEngine@@_NW4GlyphFormat@3@AEBVQByteArray@@@Z
+            1848897020:
+              488950105741544155415641574883EC20:
+                0. 0C A65A 0271 0000:?computeSize@QFreetypeFace@@QEAAXAEBUQFontDef@@PEAH1PEA_NPEAUQFixed@@@Z
+              895010574883EC20488B11488BF94963E8:
+                0. 15 32D5 010F 0000:?detach_helper_grow@?$QList@I@@AEAAPEAUNode@1@HH@Z
+          70:
+            10:
+              48897818:
+                41564883EC700F2970E8418BF10F28F24C:
+                  0. 03 78C7 013C 0000:?fontEngine@QWindowsFontDatabaseFT@@UEAAPEAVQFontEngine@@AEBVQByteArray@@NW4HintingPreference@QFont@@@Z
+                448948205541564157488D68A94881EC90:
+                  0. 14 B6F8 016D 0000:?alphaRGBMapForGlyph@QFontEngineFT@@UEAA?AVQImage@@IUQFixed@@AEBVQTransform@@@Z
+                4C897020:
+                  41574883EC20488B014D8BF84C:
+                    0. 0C 11BF 012C 0000:?insert@?$QHash@IUQHashDummyValue@@@@QEAA?AViterator@1@AEBIAEBUQHashDummyValue@@@Z
+                  55488D68E84881EC10010000:
+                    48:
+                      0. 14 5409 01CB 0000:?scaledBitmapMetrics@QFontEngineFT@@AEBA?AUglyph_metrics_t@@AEBU2@AEBVQTransform@@@Z
+                    4C:
+                      0. 2C E143 0274 0000:?bitmapForGlyph@QFontEngineFT@@UEAA?AVQImage@@IUQFixed@@AEBVQTransform@@@Z
+                55:
+                  41:
+                    54415541564157488DA898FAFFFF48:
+                      0. 42 1C91 020F 0000:?stringToCMap@QWindowsFontEngineDirectWrite@@UEBA_NPEBVQChar@@HPEAUQGlyphLayout@@PEAHV?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+                    564157488DA8:
+                      18F4FFFF4881ECD00C:
+                        0. 49 72EE 019E 0000:?addOutlineToPath@QFontEngineFT@@UEAAXNNAEBUQGlyphLayout@@PEAVQPainterPath@@V?$QFlags@W4RenderFlag@QTextItem@@@@@Z
+                      38F2FFFF4881ECB00E:
+                        0. 24 864D 0240 0000:?addGlyphsToPath@QWindowsFontEngineDirectWrite@@UEAAXPEAIPEAUQFixedPoint@@HPEAVQPainterPath@@V?$QFlags@W4RenderFlag@QTextItem@@@@@Z
+                  488DA8A8E2FFFFB8501E0000E8:
+                    0. 00 0000 021D 0000:?recalcAdvances@QWindowsFontEngineDirectWrite@@UEBAXPEAUQGlyphLayout@@V?$QFlags@W4ShaperFlag@QFontEngine@@@@@Z
+              574883EC:
+                40498BF14183F80874418360DC004C8D05:
+                  0. 00 0000 013D (l)0000:?CreateStreamFromKey@DirectWriteFontFileLoader@?A0xe3d357da@@UEAAJPEBXIPEAPEAUIDWriteFontFileStream@@@Z
+                50F681A701000006498BF9488BB4248000:
+                  0. 29 6FE3 0091 0000:?addOutlineToPath@QWindowsFontEngine@@UEAAXNNAEBUQGlyphLayout@@PEAVQPainterPath@@V?$QFlags@W4RenderFlag@QTextItem@@@@@Z
+            1848897820:
+              55:
+                4154415541564157488D:
+                  68:
+                    A14881EC00:
+                      0. 06 D90C 04E5 0000:?fontDefToLOGFONT@QWindowsFontDatabase@@SA?AUtagLOGFONTW@@AEBUQFontDef@@AEBVQString@@@Z
+                    B14881ECA0:
+                      0. 0A C12C 0281 0000:?fallbacksForFamily@QWindowsFontDatabaseFT@@UEBA?AVQStringList@@AEBVQString@@W4Style@QFont@@W4StyleHint@5@W4Script@QChar@@@Z
+                  A8C8FBFFFF48:
+                    0. 40 DC2D 053E 0000:?renderGlyphRun@QWindowsFontEngineDirectWrite@@AEAAXPEAVQImage@@MMMMPEAUIDWriteGlyphRunAnalysis@@AEBVQRect@@@Z
+                488D68A14881EC00010000488B05:
+                  0. 00 0000 01F3 0000:?populateFamily@QWindowsFontDatabase@@UEAAXAEBVQString@@@Z (008F: 1B)
+                  1. 00 0000 0202 0000:?populateFamily@QWindowsFontDatabaseFT@@UEAAXAEBVQString@@@Z (008F: 2A)
+              89501041564883EC20488B11:
+                488BD94963:
+                  0. 16 833F 0126 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z
+                4C8BF14963:
+                  0. 16 A7E5 00E7 0000:?detach_helper_grow@?$QList@UQFontNames@@@@AEAAPEAUNode@1@HH@Z
+        10:
+          4889:
+            68184889702057415641574883EC304C8BF90F2970D848:
+              0. 0A 0C8D 025C 0000:??6@YA?AVQDebug@@V0@AEBUQFontDef@@@Z
+            70184889782055:
+              41:
+                544155:
+                  41564157488D68:
+                    A14881ECF0:
+                      0. 06 F208 0296 0000:?qt_getEnglishName@@YA?AVQString@@AEBV1@_N@Z
+                    A94881EC:
+                      A0:
+                        0. 5E 174C 05FD 0000:?init@QFontEngineFT@@QEAA_NUFaceId@QFontEngine@@_NW4GlyphFormat@3@PEAVQFreetypeFace@@@Z
+                      B0:
+                        0. 27 C2C6 024A 0000:?alphaRGBMapForGlyph@QWindowsFontEngine@@UEAA?AVQImage@@IUQFixed@@AEBVQTransform@@@Z
+                  488DA818FEFFFF4881ECD002:
+                    0. 05 0A30 030E 0000:?addDefaultEUDCFont@QWindowsFontDatabase@@AEAAXXZ
+                564157488BEC4883EC60488BF90F29:
+                  0. 05 896C 026D 0000:??0QWindowsFontDatabase@@QEAA@XZ
+              488D68A14881ECC0000000488B05:
+                0. 00 0000 012C 0000:?populateFontDatabase@QWindowsFontDatabaseFT@@UEAAXXZ
+            78184C89:
+              70205548:
+                8BEC4881EC800000000F2970E8488B:
+                  0. 01 D5A7 02D8 0000:?collectMetrics@QWindowsFontEngineDirectWrite@@AEAAXXZ
+                8D68A14881ECC0000000488B05:
+                  0. 00 0000 0141 0000:?populateFontDatabase@QWindowsFontDatabase@@UEAAXXZ
+              782055488D68984881EC60010000836570004C:
+                0. 02 95D9 01D7 0000:?readRegistryString@QWindowsFontDatabase@@SA?AVQString@@PEAUHKEY__@@PEB_W1@Z
+          5556574154415541564157488D6C24804881EC800100000F29:
+            0. 1B 776E 067A (l)0000:?addGlyphToPath@@YA_NIAEBUQFixedPoint@@PEAUHDC__@@PEAVQPainterPath@@_NPEAUglyph_metrics_t@@NN@Z
+        185556574154415541564157488D68B14881ECD00000000F2970:
+          0. 1A 4AAA 0527 0000:?addGlyphToPath@QFreetypeFace@@SAXPEAUFT_FaceRec_@@PEAUFT_GlyphSlotRec_@@AEBUQFixedPoint@@PEAVQPainterPath@@JJ@Z
+      555356574154415541564157488DA808FEFFFF4881ECB80200000F2970:
+        0. 04 4644 0C40 0000:?fontEngine@QWindowsFontDatabase@@UEAAPEAVQFontEngine@@AEBVQByteArray@@NW4HintingPreference@QFont@@@Z
+    CA:
+      BA:
+        06000000448D4202E9:
+          0. 00 0000 0011 0000:?freeData@?$QVector@UQFontValues@@@@AEAAXPEAU?$QTypedArrayData@UQFontValues@@@@@Z
+        10000000448D42F8E9:
+          0. 00 0000 0011 0000:?freeData@?$QVector@VQStringRef@@@@AEAAXPEAU?$QTypedArrayData@VQStringRef@@@@@Z
+        18000000448D42F0E9:
+          0. 00 0000 0011 0000:?freeData@?$QVector@UtagFONTSIGNATURE@@@@AEAAXPEAU?$QTypedArrayData@UtagFONTSIGNATURE@@@@@Z
+      E9:
+        0. 00 0000 0008 0000:?releaseHandle@QWindowsFontDatabase@@UEAAXPEAX@Z (REF 0004: ??_V@YAXPEAX@Z)
+  8D:
+    05........488901488BC1C3:
+      0. 00 0000 000E 0000:??0QString@@QEAA@XZ
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__EemptyGlyph@@YAXXZ (REF 0003: ??__FemptyGlyph@@YAXXZ)
+      1. 00 0000 000C (l)0000:??__Fcategory@?1??lcQpaFonts@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcQpaFonts@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+49:
+  3BD0:
+    0F849500000048895C24084889742410574883EC20498BF9498BF0482B:
+      0. 0A 01DB 009F 0000:?node_copy@?$QList@UQFontNames@@@@AEAAXPEAUNode@1@00@Z
+    74:
+      2D48895C2408574883EC20498BF8488BDA488BCB33D24883C310E8:
+        0. 00 0000 0033 0000:?destruct@?$QVector@UFontKey@?A0x16133ca6@@@@AEAAXPEAUFontKey@?A0x16133ca6@@0@Z
+      6E48895C24084889742410574883EC20498BD8488BF24883EB08488B:
+        0. 2E FC77 0074 0000:?node_destruct@?$QList@UWinApplicationFont@QWindowsFontDatabase@@@@AEAAXPEAUNode@1@0@Z
+  63C04532C94C6381A00900004885C0790648F7D841B1014D85C0790749F7D8:
+    0. 23 7F7C 0043 0000:?scaledBitmapMetrics@QFontEngineFT@@AEBA?AUQFixed@@U2@@Z
+4C:
+  63:
+    81A0090000486391980900004183F8407432488BC232C9498BD04885C079:
+      0. 32 04C0 0057 0000:?maxCharWidth@QFontEngineFT@@UEBANXZ
+    89A00900004863818C09000089024183F94074354532C0498BC94885C079:
+      0. 2F A46A 004F 0000:?ascent@QFontEngineFT@@UEBA?AUQFixed@@XZ
+  89:
+    442418555356574154415541564157488D6C24E14881ECC80000004C8BF2:
+      0. FF F5C1 03C4 0000:?boundingBox@QFontEngineFT@@UEAA?AUglyph_metrics_t@@AEBUQGlyphLayout@@@Z
+    4C242048:
+      83EC3881FA00010000731C4585C075178BC248837CC128007506:
+        0. 2A FD53 0053 0000:?setGlyph@QGlyphSet@QFontEngineFT@@QEAAXIUQFixed@@PEAUGlyph@2@@Z
+      895424105553564154415541564157488BEC4883EC208B01488B:
+        0. 18 1ABE 0118 (l)0000:?transformBoundingBox@@YAXPEAH000PEAUFT_Matrix_@@@Z
+  8B:
+    C1488B89:
+      3001000048890A8B01FFC083F8017603F0FF01498B8838010000:
+        0. 28 3547 0048 0000:?faceId@QWindowsFontEngineDirectWrite@@UEBA?AUFaceId@QFontEngine@@XZ
+      5809000048890A8B01FFC083F8017603F0FF01498B8860090000:
+        0. 28 7DD4 0048 0000:?faceId@QFontEngineFT@@UEBA?AUFaceId@QFontEngine@@XZ
+      E801000048890A8B01FFC083F8017603F0FF01498B88F0010000:
+        0. 28 8495 0048 0000:?faceId@QWindowsFontEngine@@UEBA?AUFaceId@QFontEngine@@XZ
+    DA4533D2488B114C8BC94439522075054D85C07428418B43048D0C80418B:
+      0. 65 6802 0085 0000:?findNode@?$QHash@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@AEBAPEAPEAU?$QHashNode@UGlyphAndSubPixelPosition@QFontEngineFT@@PEAUGlyph@2@@@AEBUGlyphAndSubPixelPosition@QFontEngineFT@@PEAI@Z
+    DC49895B:
+      0849896B104989731857:
+        415641574883EC50488B842490000000:
+          0. 1E BAA1 0156 0000:?alphaMapForGlyph@QWindowsFontEngineDirectWrite@@UEAA?AVQImage@@IUQFixed@@AEBVQTransform@@@Z
+        4883EC:
+          60488BAC2490000000418BC144:
+            0. 25 4C9E 01B3 0000:?alphaMapBoundingBox@QFontEngineFT@@UEAA?AUglyph_metrics_t@@IUQFixed@@AEBVQTransform@@W4GlyphFormat@QFontEngine@@@Z
+          70418BC1C644243001448A89F8:
+            0. 2F BA5B 00E8 0000:?alphaMapForGlyph@QFontEngineFT@@UEAA?AVQImage@@IUQFixed@@AEBVQTransform@@@Z
+      184989732055574156488BEC4883EC40488365F000498BF04883:
+        0. 55 A132 00B9 0000:?getSfntTableData@QWindowsFontEngineDirectWrite@@UEBA_NIPEAEPEAI@Z
+      2055565741544155415641574881ECD0000000410F2973B8410F:
+        0. 06 1BBD 01B6 0000:?addGlyphsToPath@QWindowsFontEngine@@UEAAXPEAIPEAUQFixedPoint@@HPEAVQPainterPath@@V?$QFlags@W4RenderFlag@QTextItem@@@@@Z
+4D85C074:
+  4248895C240848896C24104889742418574883EC20498BF1498BD848:
+    0. 28 AE31 0048 0000:??_H@YAXPEAX_K1P6APEAX0@Z@Z
+  4948895C240848896C24104889742418574883EC20488BFA498BE949:
+    0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+66:
+  0F6E8188010000F30FE6C0C3:
+    0. 00 0000 000D 0000:?maxCharWidth@QWindowsFontEngine@@UEBANXZ
+  89542410534883EC204C8B09488BD9418339017715458B4108418B4104410F:
+    0. 16 8988 0078 0000:??YQString@@QEAAAEAV0@VQChar@@@Z
+81E1C0000000890D........C3:
+  0. 00 0000 000D 0000:?setFontOptions@QWindowsFontDatabase@@SAXI@Z
+83B9F4000000010F96C0C3:
+  0. 00 0000 000B 0000:?supportsSubPixelPositions@QFontEngineFT@@UEBA_NXZ
+85D2745D83EA01744F83EA01744183EA01743383EA03742583EA01741783FA01:
+  0. 05 5AA5 006F 0000:?familyForStyleHint@QWindowsFontDatabase@@SA?AVQString@@W4StyleHint@QFont@@@Z
+89:
+  542410534883EC20488B89F80000004C8D4C243041B801000000488D542438:
+    0. 0F B2AF 004F 0000:?glyphIndex@QWindowsFontEngineDirectWrite@@UEBAII@Z
+  91F4000000C3:
+    0. 00 0000 0007 0000:?setDefaultHintStyle@QFontEngineFT@@UEAAXW4HintStyle@QFontEngine@@@Z
+8A81:
+  05010000C3:
+    0. 00 0000 0007 0000:?hasInternalCaching@QFontEngineFT@@UEBA_NXZ
+  07010000C3:
+    0. 00 0000 0007 0000:?expectsGammaCorrectedBlending@QFontEngineFT@@UEBA_NXZ
+8B:
+  05........C3:
+    0. 00 0000 0007 0000:?fontOptions@QWindowsFontDatabase@@SAIXZ (REF 0002: ?m_fontOptions@QWindowsFontDatabase@@0IA)
+  81:
+    74010000C1E0068902488BC2C3:
+      0. 00 0000 000F 0000:?ascent@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+    78:
+      010000C1E0068902488BC2C3:
+        0. 00 0000 000F 0000:?descent@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+      0900008902488BC2C3:
+        0. 00 0000 000C 0000:?lineThickness@QFontEngineFT@@UEBA?AUQFixed@@XZ
+    7C0900008902488BC2C3:
+      0. 00 0000 000C 0000:?underlinePosition@QFontEngineFT@@UEBA?AUQFixed@@XZ
+    80010000C1E0068902488BC2C3:
+      0. 00 0000 000F 0000:?leading@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+    84010000C1E0068902488BC2C3:
+      0. 00 0000 000F 0000:?averageCharWidth@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+    900900004C6389A0090000F7D889024183F94074374532C04898498BC948:
+      0. 32 A421 0052 0000:?descent@QFontEngineFT@@UEBA?AUQFixed@@XZ
+    DC010000C1E0068902488BC2C3:
+      0. 00 0000 000F 0000:?emSquareSize@QWindowsFontEngine@@UEBA?AUQFixed@@XZ
+B801:
+  000000F00FC141:
+    08FFC0C3:
+      0. 00 0000 000D (l)0000:?AddRef@DirectWriteFontFileLoader@?A0xe3d357da@@UEAAKXZ
+      1. 00 0000 000D (l)0000:?AddRef@GeometrySink@?A0xf78ad5fc@@UEAAKXZ
+    10FFC0C3:
+      0. 00 0000 000D (l)0000:?AddRef@DirectWriteFontFileStream@?A0xe3d357da@@UEAAKXZ
+  400080C3:
+    0. 00 0000 0006 (l)0000:?Close@GeometrySink@?A0xf78ad5fc@@UEAAJXZ
+E9:
+  0. 00 0000 0005 0000:?unlockAlphaMapForGlyph@QFontEngineFT@@UEAAXXZ (REF 0001: ?unlockAlphaMapForGlyph@QFontEngine@@UEAAXXZ)
+F74140000400008B81:
+  14010000740683C02083E0C08902488BC2C3:
+    0. 00 0000 001B 0000:?ascent@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+  1C010000740683C02083E0C08902488BC2C3:
+    0. 00 0000 001B 0000:?descent@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+  20010000740683C02083E0C08902488BC2C3:
+    0. 00 0000 001B 0000:?xHeight@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+  24010000740683C02083E0C08902488BC2C3:
+    0. 00 0000 001B 0000:?leading@QWindowsFontEngineDirectWrite@@UEBA?AUQFixed@@XZ
+  28010000740683C02083E0C0660F6EC0F30FE6C0F20F59:
+    0. 01 D5A7 0026 0000:?maxCharWidth@QWindowsFontEngineDirectWrite@@UEBANXZ

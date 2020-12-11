@@ -1,0 +1,148 @@
+40:
+  534883EC20:
+    48:
+      8BD9:
+        B910000000E8........488BD3488BC84883C4205BE9:
+          0. 00 0000 0023 0000:?clone@QSvgIconEngine@@UEBAPEAVQIconEngine@@XZ
+        E8........488D05........B928000000488903E8:
+          0. 00 0000 0057 0000:??0QSvgIconEngine@@QEAA@XZ
+      8D0D........488BDAE8........8BD0488D0D........E8:
+        0. 00 0000 002F 0000:?key@QSvgIconEngine@@UEBA?AVQString@@XZ
+    4C8B09488BDA4183791400745C458B59204533D24585DB743A45:
+      0. 49 A5C0 0080 0000:?value@?$QHash@HVQPixmap@@@@QEBA?BVQPixmap@@AEBH@Z
+  5553565741:
+    54415541564157488BEC4883EC:
+      28488BF14D63F9488D0D:
+        0. 00 0000 0182 0000:?pmcKey@QSvgIconEnginePrivate@@QEAA?AVQString@@AEBVQSize@@W4Mode@QIcon@@W4State@5@@Z
+      78488BF1BF280000008BCF4C8B:
+        0. 02 B92B 03CD 0000:?read@QSvgIconEngine@@UEAA_NAEAVQDataStream@@@Z
+    56488BEC4883EC:
+      30488BF2488BD9E8........488B4B08448BF0:
+        0. 06 5AE5 0124 0000:??$readAssociativeContainer@V?$QHash@HVQByteArray@@@@@QtPrivate@@YAAEAVQDataStream@@AEAV1@AEAV?$QHash@HVQByteArray@@@@@Z (0091: 01)
+        1. 06 5AE5 0124 0000:??$readAssociativeContainer@V?$QHash@HVQString@@@@@QtPrivate@@YAAEAVQDataStream@@AEAV1@AEAV?$QHash@HVQString@@@@@Z (0091: 02)
+      40488BFA488BD9E8........488B4B08448BF0:
+        0. 06 5AE5 00D8 0000:??$readAssociativeContainer@V?$QHash@HVQPixmap@@@@@QtPrivate@@YAAEAVQDataStream@@AEAV1@AEAV?$QHash@HVQPixmap@@@@@Z
+  574883EC204C8B01488D3D........4889394183781000741541837810FF74:
+    0. 12 B795 0072 0000:?clear@?$QHash@HVQPixmap@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@HVQPixmap@@@@CAXPEAUNode@QHashData@@@Z)
+    1. 12 B795 0072 0000:?clear@?$QHash@HVQString@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@HVQString@@@@CAXPEAUNode@QHashData@@@Z)
+    2. 12 B795 0072 0000:?clear@?$QHash@HVQByteArray@@@@QEAAXXZ (REF 0032: ?deleteNode2@?$QHash@HVQByteArray@@@@CAXPEAUNode@QHashData@@@Z)
+48:
+  83:
+    C110E9:
+      0. 00 0000 0009 0000:?deleteNode2@?$QHash@HVQPixmap@@@@CAXPEAUNode@QHashData@@@Z (REF 0005: ??1QPixmap@@UEAA@XZ)
+    EC:
+      18660F6E194C8BC9F30FE6DB0F2934240F57E4F20F59D90F28F10F28C3:
+        0. 07 4714 00C2 0000:??XQSize@@QEAAAEAV0@N@Z
+      28:
+        488B:
+          0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+            0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QSvgIconPlugin@@YAPEAVQObject@@XZ@YAXXZ
+          5110833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+            0. 0C 4579 0035 0000:?deleteNode2@?$QHash@HVQString@@@@CAXPEAUNode@QHashData@@@Z
+            1. 0C 9AB6 0035 0000:?deleteNode2@?$QHash@HVQByteArray@@@@CAXPEAUNode@QHashData@@@Z
+        4C8BC24885D2741D8B4108488322008942088B410C89420C488D5110:
+          0. 05 B3C7 002E 0000:?duplicateNode@?$QHash@HVQPixmap@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  85D274248B4108488322008942088B410C89420C488B491048894A108B01FF:
+    0. 0A 77EF 002A 0000:?duplicateNode@?$QHash@HVQString@@@@CAXPEAUNode@QHashData@@PEAX@Z
+    1. 0A 77EF 002A 0000:?duplicateNode@?$QHash@HVQByteArray@@@@CAXPEAUNode@QHashData@@PEAX@Z
+  895C24:
+    08:
+      4889:
+        5424105556574154415541564157488D6C24D94881ECA00000:
+          0. 14 EF90 042A 0000:?write@QSvgIconEngine@@UEBA_NAEAVQDataStream@@@Z
+        6C2410488974241857:
+          415641574883EC:
+            20448BFA488BF1488B:
+              0. 0D 7DB8 0083 0000:?createNode@?$QHash@HVQPixmap@@@@AEAAPEAU?$QHashNode@HVQPixmap@@@@IAEBHAEBVQPixmap@@PEAPEAU2@@Z
+            30488B01498BE94D8B:
+              0. 0E 9277 0118 0000:?insert@?$QHash@HVQPixmap@@@@QEAA?AViterator@1@AEBHAEBVQPixmap@@@Z (REF 002E: ?detach_helper@?$QHash@HVQPixmap@@@@AEAAXXZ)
+              1. 0E 9277 0118 0000:?insert@?$QHash@HVQString@@@@QEAA?AViterator@1@AEBHAEBVQString@@@Z (REF 002E: ?detach_helper@?$QHash@HVQString@@@@AEAAXXZ)
+              2. 0E 9277 0118 0000:?insert@?$QHash@HVQByteArray@@@@QEAA?AViterator@1@AEBHAEBVQByteArray@@@Z (REF 002E: ?detach_helper@?$QHash@HVQByteArray@@@@AEAAXXZ)
+          4883EC:
+            20:
+              488B02488BDA488BE98B5014:
+                0. 01 3E9B 0089 0000:??$writeAssociativeContainer@V?$QHash@HVQPixmap@@@@@QtPrivate@@YAAEAVQDataStream@@AEAV1@AEBV?$QHash@HVQPixmap@@@@@Z (REF 0068: ??6@YAAEAVQDataStream@@AEAV0@AEBVQPixmap@@@Z)
+                1. 01 3E9B 0089 0000:??$writeAssociativeContainer@V?$QHash@HVQString@@@@@QtPrivate@@YAAEAVQDataStream@@AEAV1@AEBV?$QHash@HVQString@@@@@Z (REF 0068: ??6@YAAEAVQDataStream@@AEAV0@AEBVQString@@@Z)
+                2. 01 3E9B 0089 0000:??$writeAssociativeContainer@V?$QHash@HVQByteArray@@@@@QtPrivate@@YAAEAVQDataStream@@AEAV1@AEBV?$QHash@HVQByteArray@@@@@Z (REF 0068: ??6@YAAEAVQDataStream@@AEAV0@AEBVQByteArray@@@Z)
+              8BEA488BD9488B09BA080000:
+                0. 08 D93E 0082 0000:?createNode@?$QHash@HVQString@@@@AEAAPEAU?$QHashNode@HVQString@@@@IAEBHAEBVQString@@PEAPEAU2@@Z
+                1. 08 D93E 0082 0000:?createNode@?$QHash@HVQByteArray@@@@AEAAPEAU?$QHashNode@HVQByteArray@@@@IAEBHAEBVQByteArray@@PEAPEAU2@@Z
+            30488B01498BE9498BF8488BF2:
+              0. 0A 764E 00BB 0000:?insertMulti@?$QHash@HVQPixmap@@@@QEAA?AViterator@1@AEBHAEBVQPixmap@@@Z (REF 002A: ?detach_helper@?$QHash@HVQPixmap@@@@AEAAXXZ)
+              1. 0A 764E 00BB 0000:?insertMulti@?$QHash@HVQString@@@@QEAA?AViterator@1@AEBHAEBVQString@@@Z (REF 002A: ?detach_helper@?$QHash@HVQString@@@@AEAAXXZ)
+              2. 0A 764E 00BB 0000:?insertMulti@?$QHash@HVQByteArray@@@@QEAA?AViterator@1@AEBHAEBVQByteArray@@@Z (REF 002A: ?detach_helper@?$QHash@HVQByteArray@@@@AEAAXXZ)
+        7424:
+          10:
+            48897C241841564883EC20488BF24C8BF1E8:
+              0. 03 616D 014F 0000:??0QSvgIconEngine@@QEAA@AEBV0@@Z
+            574883EC20488B:
+              01488BD94885C0743F833801743AE8:
+                0. 00 0000 0069 0000:?detach@?$QSharedDataPointer@VQSvgIconEnginePrivate@@@@QEAAXXZ
+              591883CEFF488BF94885DB7435488B:
+                0. 1D FF24 00CB 0000:??1QSvgIconEnginePrivate@@QEAA@XZ
+          1848897C242055488BEC4883EC70488B02418BF9488BD9:
+            0. 0F 90AE 015B 0000:?addFile@QSvgIconEngine@@UEAAXAEBVQString@@AEBVQSize@@W4Mode@QIcon@@W4State@5@@Z
+      555657488BEC4881EC80000000488D5528488BD9E8........488D:
+        0. 01 1E1A 01E6 (l)0000:?fileType@@YA?AW4FileType@@AEBVQFileInfo@@@Z
+      574883EC:
+        20:
+          48:
+            8B:
+              3A488BD9483939744A8B4710FFC083F8017604F0:
+                0. 25 65C7 006D 0000:??4?$QHash@HVQString@@@@QEAAAEAV0@AEBV0@@Z (REF 0045: ?deleteNode2@?$QHash@HVQString@@@@CAXPEAUNode@QHashData@@@Z)
+                1. 25 65C7 006D 0000:??4?$QHash@HVQByteArray@@@@QEAAAEAV0@AEBV0@@Z (REF 0045: ?deleteNode2@?$QHash@HVQByteArray@@@@CAXPEAUNode@QHashData@@@Z)
+              D9B928000000E8........488B1B488BF8832000:
+                0. 2C D170 0074 0000:?clone@?$QSharedDataPointer@VQSvgIconEnginePrivate@@@@IEAAPEAVQSvgIconEnginePrivate@@XZ
+              DA488BF94885D2750433C0EB23488D15:
+                0. 04 BF6F 0047 0000:?qt_metacast@QSvgIconPlugin@@UEAAPEAXPEBD@Z
+            8D05........488BD9488901488B49084885C9742A:
+              0. 19 4494 005C 0000:??1QSvgIconEngine@@UEAA@XZ
+          65488B0425580000008B0D........41B8........48:
+            0. 09 8104 0105 (l)0000:?qt_plugin_instance_QSvgIconPlugin@@YAPEAVQObject@@XZ
+          8BDA488BF9E8........F6C301740DBA10000000488B:
+            0. 02 632D 0034 0000:??_GQSvgIconPlugin@@UEAAPEAXI@Z (REF 0010: ??1QIconEnginePlugin@@UEAA@XZ)
+            1. 02 632D 0034 0000:??_GQSvgIconEngine@@UEAAPEAXI@Z (REF 0010: ??1QSvgIconEngine@@UEAA@XZ)
+        30:
+          488BD9C744242008000000488B094C8D05........41:
+            0. 08 13D9 0070 0000:?detach_helper@?$QHash@HVQString@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@HVQString@@@@CAXPEAUNode@QHashData@@@Z)
+            1. 08 13D9 0070 0000:?detach_helper@?$QHash@HVQByteArray@@@@AEAAXXZ (REF 001B: ?deleteNode2@?$QHash@HVQByteArray@@@@CAXPEAUNode@QHashData@@@Z)
+            2. 08 7C64 0070 0000:?detach_helper@?$QHash@HVQPixmap@@@@AEAAXXZ
+          B910000000488BFAE8........488BC8E8........48:
+            0. 05 C3B4 0064 0000:?create@QSvgIconPlugin@@UEAAPEAVQIconEngine@@AEBVQString@@@Z
+    104889:
+      6C24:
+        184889742420574883EC50418B4008488BF1412B00488B:
+          0. 1F 6815 00C8 0000:?paint@QSvgIconEngine@@UEAAXPEAVQPainter@@AEBVQRect@@W4Mode@QIcon@@W4State@5@@Z
+        20565741564883EC20488D7908418BE9488BCF418BF04C:
+          0. 03 78C7 00B7 0000:?addPixmap@QSvgIconEngine@@UEAAXAEBVQPixmap@@W4Mode@QIcon@@W4State@4@@Z
+      742418:
+        48897C2420554154415541564157488BEC4883EC40BE:
+          0. 38 240A 0183 0000:?tryLoad@QSvgIconEnginePrivate@@QEAA_NPEAVQSvgRenderer@@W4Mode@QIcon@@W4State@4@@Z
+        5557415441564157488BEC4883EC70488D71084C8BF1:
+          0. 0D 878F 010C 0000:?actualSize@QSvgIconEngine@@UEAA?AVQSize@@AEBV2@W4Mode@QIcon@@W4State@4@@Z
+  8B:
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QSvgIconPlugin@@UEBAPEBUQMetaObject@@XZ
+    C448:
+      83EC680F57C04C8D4C24400F1140D8660F6E020F57C90F1148E8660F:
+        0. 46 11E1 006F 0000:?drawPixmap@QPainter@@QEAAXAEBVQRect@@AEBVQPixmap@@@Z
+      8958:
+        0848896810488970184889782041:
+          54415641574883EC20458BE1:
+            0. 0A B17C 01DF 0000:?loadDataForModeAndState@QSvgIconEnginePrivate@@QEAA?AW4Mode@QIcon@@PEAVQSvgRenderer@@W423@W4State@3@@Z
+          564883EC20498BF08BEA4C8B:
+            0. 0E 933E 00A9 0000:?virtual_hook@QSvgIconEngine@@UEAAXHPEAX@Z
+        1048897018488978205541564157488D68D84881EC1001000048:
+          0. 11 6ABB 0325 0000:?pixmap@QSvgIconEngine@@UEAA?AVQPixmap@@AEBVQSize@@W4Mode@QIcon@@W4State@5@@Z
+  8D05........:
+    488901488D05........48894108488BC1C3:
+      0. 00 0000 0019 0000:?qt_static_plugin_QSvgIconPlugin@@YA?BUQStaticPlugin@@XZ
+    C3:
+      0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QSvgIconPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+4C8B094C8BD2418379140074634533DB453959207407458B5924453318418379:
+  0. 53 4260 007E 0000:?value@?$QHash@HVQString@@@@QEBA?BVQString@@AEBH@Z
+  1. 53 4260 007E 0000:?value@?$QHash@HVQByteArray@@@@QEBA?BVQByteArray@@AEBH@Z
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QSvgIconPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QIconEnginePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

@@ -1,0 +1,760 @@
+40534883EC20488BD9B9:
+  08020000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_NV_vertex_program@@QEAA@XZ
+  10:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_3DFX_tbuffer@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_3DFX_tbuffer@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_AMD_sample_positions@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_sample_positions@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_AMD_sparse_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_sparse_texture@@6B@)
+      3. 00 0000 002D 0000:??0QOpenGLExtension_AMD_stencil_operation_extended@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_stencil_operation_extended@@6B@)
+      4. 00 0000 002D 0000:??0QOpenGLExtension_ARB_cl_event@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_cl_event@@6B@)
+      5. 00 0000 002D 0000:??0QOpenGLExtension_ARB_color_buffer_float@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_color_buffer_float@@6B@)
+      6. 00 0000 002D 0000:??0QOpenGLExtension_ARB_copy_buffer@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_copy_buffer@@6B@)
+      7. 00 0000 002D 0000:??0QOpenGLExtension_ARB_copy_image@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_copy_image@@6B@)
+      8. 00 0000 002D 0000:??0QOpenGLExtension_ARB_draw_buffers@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_draw_buffers@@6B@)
+      9. 00 0000 002D 0000:??0QOpenGLExtension_ARB_instanced_arrays@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_instanced_arrays@@6B@)
+      10. 00 0000 002D 0000:??0QOpenGLExtension_ARB_internalformat_query2@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_internalformat_query2@@6B@)
+      11. 00 0000 002D 0000:??0QOpenGLExtension_ARB_internalformat_query@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_internalformat_query@@6B@)
+      12. 00 0000 002D 0000:??0QOpenGLExtension_ARB_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_multisample@@6B@)
+      13. 00 0000 002D 0000:??0QOpenGLExtension_ARB_provoking_vertex@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_provoking_vertex@@6B@)
+      14. 00 0000 002D 0000:??0QOpenGLExtension_ARB_sample_shading@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_sample_shading@@6B@)
+      15. 00 0000 002D 0000:??0QOpenGLExtension_ARB_shader_atomic_counters@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_shader_atomic_counters@@6B@)
+      16. 00 0000 002D 0000:??0QOpenGLExtension_ARB_shader_storage_buffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_shader_storage_buffer_object@@6B@)
+      17. 00 0000 002D 0000:??0QOpenGLExtension_ARB_texture_buffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_texture_buffer_object@@6B@)
+      18. 00 0000 002D 0000:??0QOpenGLExtension_ARB_texture_buffer_range@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_texture_buffer_range@@6B@)
+      19. 00 0000 002D 0000:??0QOpenGLExtension_ARB_texture_view@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_texture_view@@6B@)
+      20. 00 0000 002D 0000:??0QOpenGLExtension_ATI_draw_buffers@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_draw_buffers@@6B@)
+      21. 00 0000 002D 0000:??0QOpenGLExtension_EXT_blend_color@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_blend_color@@6B@)
+      22. 00 0000 002D 0000:??0QOpenGLExtension_EXT_blend_equation_separate@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_blend_equation_separate@@6B@)
+      23. 00 0000 002D 0000:??0QOpenGLExtension_EXT_blend_func_separate@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_blend_func_separate@@6B@)
+      24. 00 0000 002D 0000:??0QOpenGLExtension_EXT_blend_minmax@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_blend_minmax@@6B@)
+      25. 00 0000 002D 0000:??0QOpenGLExtension_EXT_depth_bounds_test@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_depth_bounds_test@@6B@)
+      26. 00 0000 002D 0000:??0QOpenGLExtension_EXT_draw_range_elements@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_draw_range_elements@@6B@)
+      27. 00 0000 002D 0000:??0QOpenGLExtension_EXT_framebuffer_blit@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_framebuffer_blit@@6B@)
+      28. 00 0000 002D 0000:??0QOpenGLExtension_EXT_framebuffer_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_framebuffer_multisample@@6B@)
+      29. 00 0000 002D 0000:??0QOpenGLExtension_EXT_geometry_shader4@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_geometry_shader4@@6B@)
+      30. 00 0000 002D 0000:??0QOpenGLExtension_EXT_index_func@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_index_func@@6B@)
+      31. 00 0000 002D 0000:??0QOpenGLExtension_EXT_index_material@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_index_material@@6B@)
+      32. 00 0000 002D 0000:??0QOpenGLExtension_EXT_polygon_offset@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_polygon_offset@@6B@)
+      33. 00 0000 002D 0000:??0QOpenGLExtension_EXT_provoking_vertex@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_provoking_vertex@@6B@)
+      34. 00 0000 002D 0000:??0QOpenGLExtension_EXT_stencil_clear_tag@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_stencil_clear_tag@@6B@)
+      35. 00 0000 002D 0000:??0QOpenGLExtension_EXT_stencil_two_side@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_stencil_two_side@@6B@)
+      36. 00 0000 002D 0000:??0QOpenGLExtension_EXT_texture_buffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_texture_buffer_object@@6B@)
+      37. 00 0000 002D 0000:??0QOpenGLExtension_EXT_texture_perturb_normal@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_texture_perturb_normal@@6B@)
+      38. 00 0000 002D 0000:??0QOpenGLExtension_EXT_x11_sync_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_x11_sync_object@@6B@)
+      39. 00 0000 002D 0000:??0QOpenGLExtension_GREMEDY_frame_terminator@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_GREMEDY_frame_terminator@@6B@)
+      40. 00 0000 002D 0000:??0QOpenGLExtension_GREMEDY_string_marker@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_GREMEDY_string_marker@@6B@)
+      41. 00 0000 002D 0000:??0QOpenGLExtension_INGR_blend_func_separate@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_INGR_blend_func_separate@@6B@)
+      42. 00 0000 002D 0000:??0QOpenGLExtension_MESA_resize_buffers@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_MESA_resize_buffers@@6B@)
+      43. 00 0000 002D 0000:??0QOpenGLExtension_NV_copy_image@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_copy_image@@6B@)
+      44. 00 0000 002D 0000:??0QOpenGLExtension_NV_framebuffer_multisample_coverage@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_framebuffer_multisample_coverage@@6B@)
+      45. 00 0000 002D 0000:??0QOpenGLExtension_NV_texture_barrier@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_texture_barrier@@6B@)
+      46. 00 0000 002D 0000:??0QOpenGLExtension_PGI_misc_hints@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_PGI_misc_hints@@6B@)
+      47. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_texture_color_mask@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_texture_color_mask@@6B@)
+      48. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_flush_raster@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_flush_raster@@6B@)
+      49. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_framezoom@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_framezoom@@6B@)
+      50. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_igloo_interface@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_igloo_interface@@6B@)
+      51. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_pixel_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_pixel_texture@@6B@)
+      52. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_reference_plane@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_reference_plane@@6B@)
+      53. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_tag_sample_buffer@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_tag_sample_buffer@@6B@)
+      54. 00 0000 002D 0000:??0QOpenGLExtension_SUNX_constant_data@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SUNX_constant_data@@6B@)
+      55. 00 0000 002D 0000:??0QOpenGLExtension_SUN_mesh_array@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SUN_mesh_array@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_NV_gpu_shader5@@QEAA@XZ
+  18:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_AMD_multi_draw_indirect@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_multi_draw_indirect@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_AMD_vertex_shader_tesselator@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_vertex_shader_tesselator@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_flush_buffer_range@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_flush_buffer_range@@6B@)
+      3. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_texture_range@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_texture_range@@6B@)
+      4. 00 0000 002D 0000:??0QOpenGLExtension_ARB_blend_func_extended@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_blend_func_extended@@6B@)
+      5. 00 0000 002D 0000:??0QOpenGLExtension_ARB_clear_buffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_clear_buffer_object@@6B@)
+      6. 00 0000 002D 0000:??0QOpenGLExtension_ARB_compute_shader@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_compute_shader@@6B@)
+      7. 00 0000 002D 0000:??0QOpenGLExtension_ARB_draw_indirect@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_draw_indirect@@6B@)
+      8. 00 0000 002D 0000:??0QOpenGLExtension_ARB_draw_instanced@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_draw_instanced@@6B@)
+      9. 00 0000 002D 0000:??0QOpenGLExtension_ARB_framebuffer_no_attachments@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_framebuffer_no_attachments@@6B@)
+      10. 00 0000 002D 0000:??0QOpenGLExtension_ARB_map_buffer_range@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_map_buffer_range@@6B@)
+      11. 00 0000 002D 0000:??0QOpenGLExtension_ARB_multi_draw_indirect@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_multi_draw_indirect@@6B@)
+      12. 00 0000 002D 0000:??0QOpenGLExtension_ARB_point_parameters@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_point_parameters@@6B@)
+      13. 00 0000 002D 0000:??0QOpenGLExtension_ARB_shader_image_load_store@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_shader_image_load_store@@6B@)
+      14. 00 0000 002D 0000:??0QOpenGLExtension_ARB_tessellation_shader@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_tessellation_shader@@6B@)
+      15. 00 0000 002D 0000:??0QOpenGLExtension_ARB_texture_storage_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_texture_storage_multisample@@6B@)
+      16. 00 0000 002D 0000:??0QOpenGLExtension_ARB_transform_feedback_instanced@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_transform_feedback_instanced@@6B@)
+      17. 00 0000 002D 0000:??0QOpenGLExtension_ATI_map_object_buffer@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_map_object_buffer@@6B@)
+      18. 00 0000 002D 0000:??0QOpenGLExtension_ATI_pn_triangles@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_pn_triangles@@6B@)
+      19. 00 0000 002D 0000:??0QOpenGLExtension_ATI_separate_stencil@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_separate_stencil@@6B@)
+      20. 00 0000 002D 0000:??0QOpenGLExtension_EXT_color_subtable@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_color_subtable@@6B@)
+      21. 00 0000 002D 0000:??0QOpenGLExtension_EXT_compiled_vertex_array@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_compiled_vertex_array@@6B@)
+      22. 00 0000 002D 0000:??0QOpenGLExtension_EXT_cull_vertex@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_cull_vertex@@6B@)
+      23. 00 0000 002D 0000:??0QOpenGLExtension_EXT_draw_instanced@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_draw_instanced@@6B@)
+      24. 00 0000 002D 0000:??0QOpenGLExtension_EXT_gpu_program_parameters@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_gpu_program_parameters@@6B@)
+      25. 00 0000 002D 0000:??0QOpenGLExtension_EXT_multi_draw_arrays@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_multi_draw_arrays@@6B@)
+      26. 00 0000 002D 0000:??0QOpenGLExtension_EXT_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_multisample@@6B@)
+      27. 00 0000 002D 0000:??0QOpenGLExtension_EXT_point_parameters@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_point_parameters@@6B@)
+      28. 00 0000 002D 0000:??0QOpenGLExtension_EXT_shader_image_load_store@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_shader_image_load_store@@6B@)
+      29. 00 0000 002D 0000:??0QOpenGLExtension_EXT_subtexture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_subtexture@@6B@)
+      30. 00 0000 002D 0000:??0QOpenGLExtension_EXT_texture3D@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_texture3D@@6B@)
+      31. 00 0000 002D 0000:??0QOpenGLExtension_EXT_timer_query@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_timer_query@@6B@)
+      32. 00 0000 002D 0000:??0QOpenGLExtension_IBM_multimode_draw_arrays@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_IBM_multimode_draw_arrays@@6B@)
+      33. 00 0000 002D 0000:??0QOpenGLExtension_NV_conditional_render@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_conditional_render@@6B@)
+      34. 00 0000 002D 0000:??0QOpenGLExtension_NV_gpu_program5@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_gpu_program5@@6B@)
+      35. 00 0000 002D 0000:??0QOpenGLExtension_NV_pixel_data_range@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_pixel_data_range@@6B@)
+      36. 00 0000 002D 0000:??0QOpenGLExtension_NV_point_sprite@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_point_sprite@@6B@)
+      37. 00 0000 002D 0000:??0QOpenGLExtension_NV_primitive_restart@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_primitive_restart@@6B@)
+      38. 00 0000 002D 0000:??0QOpenGLExtension_NV_register_combiners2@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_register_combiners2@@6B@)
+      39. 00 0000 002D 0000:??0QOpenGLExtension_NV_vertex_array_range@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_vertex_array_range@@6B@)
+      40. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_detail_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_detail_texture@@6B@)
+      41. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_fog_function@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_fog_function@@6B@)
+      42. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_multisample@@6B@)
+      43. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_point_parameters@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_point_parameters@@6B@)
+      44. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_sharpen_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_sharpen_texture@@6B@)
+      45. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_texture4D@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_texture4D@@6B@)
+      46. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_texture_filter4@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_texture_filter4@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_multitexture@@QEAA@XZ
+  20000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_AMD_name_gen_delete@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_name_gen_delete@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_object_purgeable@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_object_purgeable@@6B@)
+    2. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_vertex_array_range@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_vertex_array_range@@6B@)
+    3. 00 0000 002D 0000:??0QOpenGLExtension_ARB_base_instance@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_base_instance@@6B@)
+    4. 00 0000 002D 0000:??0QOpenGLExtension_ARB_get_program_binary@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_get_program_binary@@6B@)
+    5. 00 0000 002D 0000:??0QOpenGLExtension_ARB_texture_storage@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_texture_storage@@6B@)
+    6. 00 0000 002D 0000:??0QOpenGLExtension_ARB_timer_query@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_timer_query@@6B@)
+    7. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_shader@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_vertex_shader@@6B@)
+    8. 00 0000 002D 0000:??0QOpenGLExtension_ATI_element_array@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_element_array@@6B@)
+    9. 00 0000 002D 0000:??0QOpenGLExtension_ATI_vertex_attrib_array_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_vertex_attrib_array_object@@6B@)
+    10. 00 0000 002D 0000:??0QOpenGLExtension_EXT_bindable_uniform@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_bindable_uniform@@6B@)
+    11. 00 0000 002D 0000:??0QOpenGLExtension_EXT_light_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_light_texture@@6B@)
+    12. 00 0000 002D 0000:??0QOpenGLExtension_EXT_separate_shader_objects@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_separate_shader_objects@@6B@)
+    13. 00 0000 002D 0000:??0QOpenGLExtension_EXT_vertex_weighting@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_vertex_weighting@@6B@)
+    14. 00 0000 002D 0000:??0QOpenGLExtension_NV_depth_buffer_float@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_depth_buffer_float@@6B@)
+    15. 00 0000 002D 0000:??0QOpenGLExtension_NV_explicit_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_explicit_multisample@@6B@)
+    16. 00 0000 002D 0000:??0QOpenGLExtension_NV_parameter_buffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_parameter_buffer_object@@6B@)
+  28000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_AMD_debug_output@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_debug_output@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_AMD_draw_buffers_blend@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_draw_buffers_blend@@6B@)
+    2. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_vertex_array_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_vertex_array_object@@6B@)
+    3. 00 0000 002D 0000:??0QOpenGLExtension_ARB_debug_output@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_debug_output@@6B@)
+    4. 00 0000 002D 0000:??0QOpenGLExtension_ARB_draw_buffers_blend@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_draw_buffers_blend@@6B@)
+    5. 00 0000 002D 0000:??0QOpenGLExtension_ARB_draw_elements_base_vertex@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_draw_elements_base_vertex@@6B@)
+    6. 00 0000 002D 0000:??0QOpenGLExtension_ARB_geometry_shader4@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_geometry_shader4@@6B@)
+    7. 00 0000 002D 0000:??0QOpenGLExtension_ARB_texture_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_texture_multisample@@6B@)
+    8. 00 0000 002D 0000:??0QOpenGLExtension_ARB_transform_feedback3@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_transform_feedback3@@6B@)
+    9. 00 0000 002D 0000:??0QOpenGLExtension_ARB_transpose_matrix@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_transpose_matrix@@6B@)
+    10. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_array_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_vertex_array_object@@6B@)
+    11. 00 0000 002D 0000:??0QOpenGLExtension_ATI_envmap_bumpmap@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_envmap_bumpmap@@6B@)
+    12. 00 0000 002D 0000:??0QOpenGLExtension_EXT_paletted_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_paletted_texture@@6B@)
+    13. 00 0000 002D 0000:??0QOpenGLExtension_INTEL_parallel_arrays@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_INTEL_parallel_arrays@@6B@)
+    14. 00 0000 002D 0000:??0QOpenGLExtension_NV_geometry_program4@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_geometry_program4@@6B@)
+    15. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_polynomial_ffd@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_polynomial_ffd@@6B@)
+    16. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_sprite@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_sprite@@6B@)
+  30000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_ES2_compatibility@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_ES2_compatibility@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_matrix_palette@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_matrix_palette@@6B@)
+    2. 00 0000 002D 0000:??0QOpenGLExtension_EXT_copy_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_copy_texture@@6B@)
+    3. 00 0000 002D 0000:??0QOpenGLExtension_EXT_fog_coord@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_fog_coord@@6B@)
+    4. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_element_array@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_element_array@@6B@)
+  38:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_invalidate_subdata@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_invalidate_subdata@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_program_interface_query@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_program_interface_query@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_ARB_shading_language_include@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_shading_language_include@@6B@)
+      3. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_attrib_binding@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_vertex_attrib_binding@@6B@)
+      4. 00 0000 002D 0000:??0QOpenGLExtension_EXT_draw_buffers2@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_draw_buffers2@@6B@)
+      5. 00 0000 002D 0000:??0QOpenGLExtension_EXT_pixel_transform@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_pixel_transform@@6B@)
+      6. 00 0000 002D 0000:??0QOpenGLExtension_EXT_texture_integer@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_texture_integer@@6B@)
+      7. 00 0000 002D 0000:??0QOpenGLExtension_EXT_texture_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_texture_object@@6B@)
+      8. 00 0000 002D 0000:??0QOpenGLExtension_HP_image_transform@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_HP_image_transform@@6B@)
+      9. 00 0000 002D 0000:??0QOpenGLExtension_NV_fragment_program@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_fragment_program@@6B@)
+      10. 00 0000 002D 0000:??0QOpenGLExtension_NV_present_video@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_present_video@@6B@)
+      11. 00 0000 002D 0000:??0QOpenGLExtension_NV_texture_multisample@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_texture_multisample@@6B@)
+      12. 00 0000 002D 0000:??0QOpenGLExtension_SGIS_pixel_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIS_pixel_texture@@6B@)
+      13. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_async@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_async@@6B@)
+      14. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_instruments@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_instruments@@6B@)
+      15. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_list_priority@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_list_priority@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_type_2_10_10_10_rev@@QEAA@XZ
+  40:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_vertex_program_evaluators@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_vertex_program_evaluators@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_sync@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_sync@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_ARB_texture_compression@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_texture_compression@@6B@)
+      3. 00 0000 002D 0000:??0QOpenGLExtension_ARB_transform_feedback2@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_transform_feedback2@@6B@)
+      4. 00 0000 002D 0000:??0QOpenGLExtension_ARB_uniform_buffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_uniform_buffer_object@@6B@)
+      5. 00 0000 002D 0000:??0QOpenGLExtension_EXT_transform_feedback@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_transform_feedback@@6B@)
+      6. 00 0000 002D 0000:??0QOpenGLExtension_NV_fence@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_fence@@6B@)
+      7. 00 0000 002D 0000:??0QOpenGLExtension_NV_occlusion_query@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_occlusion_query@@6B@)
+      8. 00 0000 002D 0000:??0QOpenGLExtension_NV_transform_feedback2@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_transform_feedback2@@6B@)
+      9. 00 0000 002D 0000:??0QOpenGLExtension_SGI_color_table@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGI_color_table@@6B@)
+      10. 00 0000 002D 0000:??0QOpenGLExtension_SUN_triangle_list@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SUN_triangle_list@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_shader_objects@@QEAA@XZ
+  48:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_occlusion_query@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_occlusion_query@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_shader_subroutine@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_shader_subroutine@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_IBM_vertex_array_lists@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_IBM_vertex_array_lists@@6B@)
+      3. 00 0000 002D 0000:??0QOpenGLExtension_SUN_global_alpha@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SUN_global_alpha@@6B@)
+      4. 00 0000 002D 0000:??0QOpenGLExtension_APPLE_fence@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_APPLE_fence@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_SUN_vertex@@QEAA@XZ
+  50000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_NV_evaluators@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_evaluators@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_EXT_vertex_array@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_vertex_array@@6B@)
+  58:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_blend@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_vertex_blend@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_viewport_array@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_viewport_array@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_EXT_histogram@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_histogram@@6B@)
+      3. 00 0000 002D 0000:??0QOpenGLExtension_KHR_debug@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_KHR_debug@@6B@)
+      4. 00 0000 002D 0000:??0QOpenGLExtension_NV_vdpau_interop@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_vdpau_interop@@6B@)
+      5. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_attrib_64bit@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_vertex_attrib_64bit@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_EXT_vertex_shader@@QEAA@XZ
+  60000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_buffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_vertex_buffer_object@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_EXT_gpu_shader4@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_gpu_shader4@@6B@)
+    2. 00 0000 002D 0000:??0QOpenGLExtension_EXT_vertex_attrib_64bit@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_vertex_attrib_64bit@@6B@)
+    3. 00 0000 002D 0000:??0QOpenGLExtension_AMD_performance_monitor@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_AMD_performance_monitor@@6B@)
+  68000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_NV_transform_feedback@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_transform_feedback@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_NV_vertex_buffer_unified_memory@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_vertex_buffer_unified_memory@@6B@)
+    2. 00 0000 002D 0000:??0QOpenGLExtension_NV_video_capture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_video_capture@@6B@)
+    3. 00 0000 002D 0000:??0QOpenGLExtension_ATI_vertex_array_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_vertex_array_object@@6B@)
+  70:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_NV_bindless_texture@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_bindless_texture@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_NV_register_combiners@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_register_combiners@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_EXT_convolution@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_convolution@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ATI_vertex_streams@@QEAA@XZ
+  78:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ATI_fragment_shader@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ATI_fragment_shader@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_NV_shader_buffer_load@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_shader_buffer_load@@6B@)
+      2. 00 0000 002D 0000:??0QOpenGLExtension_ARB_sampler_objects@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_sampler_objects@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_NV_half_float@@QEAA@XZ
+  88000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_NV_gpu_program4@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_NV_gpu_program4@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_window_pos@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_window_pos@@6B@)
+  90:
+    000000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_EXT_secondary_color@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_secondary_color@@6B@)
+      1. 00 0000 002D 0000:??0QOpenGLExtension_EXT_framebuffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_EXT_framebuffer_object@@6B@)
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_NV_path_rendering@@QEAA@XZ
+  98000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_SGIX_fragment_lighting@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_SGIX_fragment_lighting@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_gpu_shader_fp64@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_gpu_shader_fp64@@6B@)
+  A0000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_NV_vertex_attrib_integer_64bit@@QEAA@XZ
+  A8000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_robustness@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_robustness@@6B@)
+    1. 00 0000 002D 0000:??0QOpenGLExtension_ARB_framebuffer_object@@QEAA@XZ (REF 001D: ??_7QOpenGLExtension_ARB_framebuffer_object@@6B@)
+  B8000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_EXT_coordinate_frame@@QEAA@XZ
+  C0000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_NV_vertex_program4@@QEAA@XZ
+  C8000000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_MESA_window_pos@@QEAA@XZ
+  E8010000E8........C6000048894308488D05:
+    0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_separate_shader_objects@@QEAA@XZ
+  F8:
+    010000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_ARB_vertex_program@@QEAA@XZ
+    060000E8........C6000048894308488D05:
+      0. 00 0000 002D 0000:??0QOpenGLExtension_EXT_direct_state_access@@QEAA@XZ
+48:
+  83EC28488D05........488901488B49084885C9740ABA01000000E8:
+    0. 00 0000 0026 0000:??1QAbstractOpenGLExtension@@UEAA@XZ
+  895C2408:
+    4889742410574883EC40488B4108488BF1803800:
+      0F85:
+        02040000E8:
+          0. 00 0000 0433 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_vertex_streams@@UEAA_NXZ
+        08020000E8:
+          0. 00 0000 0239 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_coordinate_frame@@UEAA_NXZ
+        0F010000E8:
+          0. 00 0000 0140 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_blend@@UEAA_NXZ (REF 006C: ??_C@_0BB@BINNIMAP@glVertexBlendARB?$AA@)
+          1. 00 0000 0140 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_viewport_array@@UEAA_NXZ (REF 006C: ??_C@_0P@PDJCBGIA@glGetDoublei_v?$AA@)
+          2. 00 0000 0140 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_histogram@@UEAA_NXZ (REF 006C: ??_C@_0BB@ICGNPJGJ@glResetMinmaxEXT?$AA@)
+          3. 00 0000 0140 0000:?initializeOpenGLFunctions@QOpenGLExtension_KHR_debug@@UEAA_NXZ (REF 006C: ??_C@_0BE@MIJFJOHM@glGetObjectPtrLabel?$AA@)
+          4. 00 0000 0140 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_vdpau_interop@@UEAA_NXZ (REF 006C: ??_C@_0BH@CJEPFHFG@glVDPAUUnmapSurfacesNV?$AA@)
+          5. 00 0000 0140 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_attrib_64bit@@UEAA_NXZ (REF 006C: ??_C@_0BF@JADLCNLO@glGetVertexAttribLdv?$AA@)
+        10030000E8:
+          0. 00 0000 0341 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_multitexture@@UEAA_NXZ
+        18040000E8:
+          0. 00 0000 0449 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_half_float@@UEAA_NXZ
+        1E020000E8:
+          0. 00 0000 024F 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_vertex_program4@@UEAA_NXZ
+        22010000E8:
+          0. 00 0000 0153 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_buffer_object@@UEAA_NXZ (REF 006C: ??_C@_0BH@KNGCJBNB@glGetBufferPointervARB?$AA@)
+          1. 00 0000 0153 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_gpu_shader4@@UEAA_NXZ (REF 006C: ??_C@_0BB@CFOFBFAP@glUniform4uivEXT?$AA@)
+          2. 00 0000 0153 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_vertex_attrib_64bit@@UEAA_NXZ (REF 006C: ??_C@_0CE@JMHKNOOK@glVertexArrayVertexAttribLOffset@)
+          3. 00 0000 0153 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_performance_monitor@@UEAA_NXZ (REF 006C: ??_C@_0BP@NAMEIDMB@glGetPerfMonitorCounterDataAMD?$AA@)
+        34020000E8:
+          0. 00 0000 0265 0000:?initializeOpenGLFunctions@QOpenGLExtension_MESA_window_pos@@UEAA_NXZ
+        35010000E8:
+          0. 00 0000 0166 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_transform_feedback@@UEAA_NXZ (REF 006C: ??_C@_0CD@IGHHDCAA@glTransformFeedbackStreamAttribs@)
+          1. 00 0000 0166 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_vertex_buffer_unified_memory@@UEAA_NXZ (REF 006C: ??_C@_0BG@BBPDBPBI@glGetIntegerui64i_vNV?$AA@)
+          2. 00 0000 0166 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_video_capture@@UEAA_NXZ (REF 006C: ??_C@_0CC@IPBKANDL@glVideoCaptureStreamParameterdvN@)
+          3. 00 0000 0166 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_vertex_array_object@@UEAA_NXZ (REF 006C: ??_C@_0BN@FKDDOOGP@glGetVariantArrayObjectivATI?$AA@)
+        38130000E8:
+          0. 00 0000 1369 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_direct_state_access@@UEAA_NXZ
+        48010000E8:
+          0. 00 0000 0179 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_bindless_texture@@UEAA_NXZ (REF 006C: ??_C@_0BK@INAMLCNH@glIsImageHandleResidentNV?$AA@)
+          1. 00 0000 0179 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_register_combiners@@UEAA_NXZ (REF 006C: ??_C@_0CF@KOHNGNPL@glGetFinalCombinerInputParameter@)
+          2. 00 0000 0179 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_convolution@@UEAA_NXZ (REF 006C: ??_C@_0BH@BGAJAFHE@glSeparableFilter2DEXT?$AA@)
+        4C050000E8:
+          0. 00 0000 057D 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_separate_shader_objects@@UEAA_NXZ
+        5A040000E8:
+          0. 00 0000 048B 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_path_rendering@@UEAA_NXZ
+        5B010000E8:
+          0. 00 0000 018C 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_fragment_shader@@UEAA_NXZ (REF 006C: ??_C@_0BP@PBPBGPPP@glSetFragmentShaderConstantATI?$AA@)
+          1. 00 0000 018C 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_shader_buffer_load@@UEAA_NXZ (REF 006C: ??_C@_0BI@OLMLNPNN@glProgramUniformui64vNV?$AA@)
+          2. 00 0000 018C 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_sampler_objects@@UEAA_NXZ (REF 006C: ??_C@_0BK@CMBGFHDA@glGetSamplerParameterIuiv?$AA@)
+        68030000E8:
+          0. 00 0000 0399 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_type_2_10_10_10_rev@@UEAA_NXZ
+        78050000E8:
+          0. 00 0000 05A9 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_program@@UEAA_NXZ
+        7E030000E8:
+          0. 00 0000 03AF 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_shader_objects@@UEAA_NXZ
+        84010000E8:
+          0. 00 0000 01B5 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_gpu_program4@@UEAA_NXZ (REF 006C: ??_C@_0BP@MLDOIPNM@glGetProgramEnvParameterIuivNV?$AA@)
+          1. 00 0000 01B5 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_window_pos@@UEAA_NXZ (REF 006C: ??_C@_0BC@IJKCBCKM@glWindowPos3svARB?$AA@)
+        87000000E8:
+          0. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_name_gen_delete@@UEAA_NXZ (REF 0069: ??_C@_0M@BCDOLDGP@glIsNameAMD?$AA@)
+          1. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_object_purgeable@@UEAA_NXZ (REF 0069: ??_C@_0BM@BGLEEFHM@glGetObjectParameterivAPPLE?$AA@)
+          2. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_vertex_array_range@@UEAA_NXZ (REF 0069: ??_C@_0BN@DKJFEMJM@glVertexArrayParameteriAPPLE?$AA@)
+          3. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_base_instance@@UEAA_NXZ (REF 0069: ??_C@_0CO@GCMNEAOA@glDrawElementsInstancedBaseVerte@)
+          4. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_get_program_binary@@UEAA_NXZ (REF 0069: ??_C@_0BE@EELDBEME@glProgramParameteri?$AA@)
+          5. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_texture_storage@@UEAA_NXZ (REF 0069: ??_C@_0P@LBDCCAHA@glTexStorage3D?$AA@)
+          6. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_timer_query@@UEAA_NXZ (REF 0069: ??_C@_0BG@NEGGOMJO@glGetQueryObjectui64v?$AA@)
+          7. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_shader@@UEAA_NXZ (REF 0069: ??_C@_0BH@BINIAJMB@glGetAttribLocationARB?$AA@)
+          8. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_element_array@@UEAA_NXZ (REF 0069: ??_C@_0BL@DCHAKPN@glDrawRangeElementArrayATI?$AA@)
+          9. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_vertex_attrib_array_object@@UEAA_NXZ (REF 0069: ??_C@_0CC@PMLONBNI@glGetVertexAttribArrayObjectivAT@)
+          10. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_bindable_uniform@@UEAA_NXZ (REF 0069: ??_C@_0BG@DFAIJAMP@glGetUniformOffsetEXT?$AA@)
+          11. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_light_texture@@UEAA_NXZ (REF 0069: ??_C@_0BF@PBKCOGKF@glTextureMaterialEXT?$AA@)
+          12. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_separate_shader_objects@@UEAA_NXZ (REF 0069: ??_C@_0BJ@MMLKJOPF@glCreateShaderProgramEXT?$AA@)
+          13. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_vertex_weighting@@UEAA_NXZ (REF 0069: ??_C@_0BJ@KPGBLGAC@glVertexWeightPointerEXT?$AA@)
+          14. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_depth_buffer_float@@UEAA_NXZ (REF 0069: ??_C@_0BB@ONEIOJNL@glDepthBoundsdNV?$AA@)
+          15. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_explicit_multisample@@UEAA_NXZ (REF 0069: ??_C@_0BE@IFGHOHNA@glTexRenderbufferNV?$AA@)
+          16. 00 0000 00B8 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_parameter_buffer_object@@UEAA_NXZ (REF 0069: ??_C@_0CA@MMEICIKL@glProgramBufferParametersIuivNV?$AA@)
+        94030000E8:
+          0. 00 0000 03C5 0000:?initializeOpenGLFunctions@QOpenGLExtension_SUN_vertex@@UEAA_NXZ
+        9A:
+          000000E8:
+            0. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_debug_output@@UEAA_NXZ (REF 0069: ??_C@_0BI@NPJPBOCK@glGetDebugMessageLogAMD?$AA@)
+            1. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_draw_buffers_blend@@UEAA_NXZ (REF 0069: ??_C@_0CC@MGCGBBJG@glBlendEquationSeparateIndexedAM@)
+            2. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_vertex_array_object@@UEAA_NXZ (REF 0069: ??_C@_0BF@KHBAGIFI@glIsVertexArrayAPPLE?$AA@)
+            3. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_debug_output@@UEAA_NXZ (REF 0069: ??_C@_0BI@JOLPFNOB@glGetDebugMessageLogARB?$AA@)
+            4. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_draw_buffers_blend@@UEAA_NXZ (REF 0069: ??_C@_0BI@EJDLCHDA@glBlendFuncSeparateiARB?$AA@)
+            5. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_draw_elements_base_vertex@@UEAA_NXZ (REF 0069: ??_C@_0BO@NAPFJEEK@glMultiDrawElementsBaseVertex?$AA@)
+            6. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_geometry_shader4@@UEAA_NXZ (REF 0069: ??_C@_0BM@PJPLFKLO@glFramebufferTextureFaceARB?$AA@)
+            7. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_texture_multisample@@UEAA_NXZ (REF 0069: ??_C@_0O@JNHBCHMB@glSampleMaski?$AA@)
+            8. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_transform_feedback3@@UEAA_NXZ (REF 0069: ??_C@_0BE@CCFJPMFI@glGetQueryIndexediv?$AA@)
+            9. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_transpose_matrix@@UEAA_NXZ (REF 0069: ??_C@_0BK@EIJJIFHA@glMultTransposeMatrixdARB?$AA@)
+            10. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_array_object@@UEAA_NXZ (REF 0069: ??_C@_0BA@ODJEGGAE@glIsVertexArray?$AA@)
+            11. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_envmap_bumpmap@@UEAA_NXZ (REF 0069: ??_C@_0BL@KCFFCOPN@glGetTexBumpParameterfvATI?$AA@)
+            12. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_paletted_texture@@UEAA_NXZ (REF 0069: ??_C@_0BO@HFKPENKH@glGetColorTableParameterfvEXT?$AA@)
+            13. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_INTEL_parallel_arrays@@UEAA_NXZ (REF 0069: ??_C@_0BI@HLMIGKBN@glTexCoordPointervINTEL?$AA@)
+            14. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_geometry_program4@@UEAA_NXZ (REF 0069: ??_C@_0BM@GHJGPNOI@glFramebufferTextureFaceEXT?$AA@)
+            15. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_polynomial_ffd@@UEAA_NXZ (REF 0069: ??_C@_0CB@HFELNDHH@glLoadIdentityDeformationMapSGIX@)
+            16. 00 0000 00CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_sprite@@UEAA_NXZ (REF 0069: ??_C@_0BI@PJALMMKC@glSpriteParameterivSGIX?$AA@)
+          010000E8:
+            0. 00 0000 01CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_secondary_color@@UEAA_NXZ (REF 006C: ??_C@_0BL@FIJPIBAP@glSecondaryColorPointerEXT?$AA@)
+            1. 00 0000 01CB 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_framebuffer_object@@UEAA_NXZ (REF 006C: ??_C@_0BE@CIGLHJJK@glGenerateMipmapEXT?$AA@)
+        A4050000E8:
+          0. 00 0000 05D5 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_vertex_program@@UEAA_NXZ
+        AD000000E8:
+          0. 00 0000 00DE 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_ES2_compatibility@@UEAA_NXZ (REF 0069: ??_C@_0O@FMBMCDIL@glClearDepthf?$AA@)
+          1. 00 0000 00DE 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_matrix_palette@@UEAA_NXZ (REF 0069: ??_C@_0BI@LOCLKDCL@glMatrixIndexPointerARB?$AA@)
+          2. 00 0000 00DE 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_copy_texture@@UEAA_NXZ (REF 0069: ??_C@_0BH@LLLKENMO@glCopyTexSubImage3DEXT?$AA@)
+          3. 00 0000 00DE 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_fog_coord@@UEAA_NXZ (REF 0069: ??_C@_0BF@FOOIEJCC@glFogCoordPointerEXT?$AA@)
+          4. 00 0000 00DE 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_element_array@@UEAA_NXZ (REF 0069: ??_C@_0CC@NKDNAPPM@glMultiDrawRangeElementArrayAPPL@)
+        B0010000E8:
+          0. 00 0000 01E1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_fragment_lighting@@UEAA_NXZ (REF 006C: ??_C@_0BA@POBMLHOD@glLightEnviSGIX?$AA@)
+          1. 00 0000 01E1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_gpu_shader_fp64@@UEAA_NXZ (REF 006C: ??_C@_0P@NGEMHI@glGetUniformdv?$AA@)
+        C0:
+          000000E8:
+            0. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_invalidate_subdata@@UEAA_NXZ (REF 0069: ??_C@_0BL@IHGLAPPE@glInvalidateSubFramebuffer?$AA@)
+            1. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_program_interface_query@@UEAA_NXZ (REF 0069: ??_C@_0CC@GHECGAIH@glGetProgramResourceLocationInde@)
+            2. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_shading_language_include@@UEAA_NXZ (REF 0069: ??_C@_0BG@MPGNLJCM@glGetNamedStringivARB?$AA@)
+            3. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_vertex_attrib_binding@@UEAA_NXZ (REF 0069: ??_C@_0BH@GNGCLGOI@glVertexBindingDivisor?$AA@)
+            4. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_draw_buffers2@@UEAA_NXZ (REF 0069: ??_C@_0BG@LNLGELCG@glIsEnabledIndexedEXT?$AA@)
+            5. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_pixel_transform@@UEAA_NXZ (REF 0069: ??_C@_0CC@PADIMNCH@glGetPixelTransformParameterfvEX@)
+            6. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_texture_integer@@UEAA_NXZ (REF 0069: ??_C@_0BD@PJECGHFB@glClearColorIuiEXT?$AA@)
+            7. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_texture_object@@UEAA_NXZ (REF 0069: ??_C@_0BI@BHBMGKCN@glPrioritizeTexturesEXT?$AA@)
+            8. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_HP_image_transform@@UEAA_NXZ (REF 0069: ??_C@_0CB@DGHFOPNB@glGetImageTransformParameterfvHP@)
+            9. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_fragment_program@@UEAA_NXZ (REF 0069: ??_C@_0BP@JPKIKCLP@glGetProgramNamedParameterdvNV?$AA@)
+            10. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_present_video@@UEAA_NXZ (REF 0069: ??_C@_0BC@MFCBBHMC@glGetVideoui64vNV?$AA@)
+            11. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_texture_multisample@@UEAA_NXZ (REF 0069: ??_C@_0CG@OKNGAEDK@glTextureImage3DMultisampleCover@)
+            12. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_pixel_texture@@UEAA_NXZ (REF 0069: ??_C@_0CA@LNICMAB@glGetPixelTexGenParameterfvSGIS?$AA@)
+            13. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_async@@UEAA_NXZ (REF 0069: ??_C@_0BE@CDEIKBGM@glIsAsyncMarkerSGIX?$AA@)
+            14. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_instruments@@UEAA_NXZ (REF 0069: ??_C@_0BG@FLIGOOEE@glStopInstrumentsSGIX?$AA@)
+            15. 00 0000 00F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_list_priority@@UEAA_NXZ (REF 0069: ??_C@_0BG@IPAGMPHH@glListParameterivSGIX?$AA@)
+          030000E8:
+            0. 00 0000 03F1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_vertex_shader@@UEAA_NXZ
+        C6010000E8:
+          0. 00 0000 01F7 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_vertex_attrib_integer_64bit@@UEAA_NXZ
+        D6000000E8:
+          0. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_vertex_program_evaluators@@UEAA_NXZ (REF 006C: ??_C@_0BJ@JCFIDNAB@glMapVertexAttrib2fAPPLE?$AA@)
+          1. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_sync@@UEAA_NXZ (REF 006C: ??_C@_0M@MPEEOPIN@glGetSynciv?$AA@)
+          2. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_texture_compression@@UEAA_NXZ (REF 006C: ??_C@_0BL@CKKCLKDF@glGetCompressedTexImageARB?$AA@)
+          3. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_transform_feedback2@@UEAA_NXZ (REF 006C: ??_C@_0BI@LEOILCPN@glDrawTransformFeedback?$AA@)
+          4. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_uniform_buffer_object@@UEAA_NXZ (REF 006C: ??_C@_0BG@BOLEKKCP@glUniformBlockBinding?$AA@)
+          5. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_transform_feedback@@UEAA_NXZ (REF 006C: ??_C@_0CB@KMFIHAIP@glGetTransformFeedbackVaryingEXT@)
+          6. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_fence@@UEAA_NXZ (REF 006C: ??_C@_0N@JFIDDEIM@glSetFenceNV?$AA@)
+          7. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_occlusion_query@@UEAA_NXZ (REF 006C: ??_C@_0BJ@NNFIJICG@glGetOcclusionQueryuivNV?$AA@)
+          8. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_transform_feedback2@@UEAA_NXZ (REF 006C: ??_C@_0BK@BCJIKDKA@glDrawTransformFeedbackNV?$AA@)
+          9. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGI_color_table@@UEAA_NXZ (REF 006C: ??_C@_0BO@BJJNHPGA@glGetColorTableParameterivSGI?$AA@)
+          10. 00 0000 0107 0000:?initializeOpenGLFunctions@QOpenGLExtension_SUN_triangle_list@@UEAA_NXZ (REF 006C: ??_C@_0BM@DAGNLGCG@glReplacementCodePointerSUN?$AA@)
+        DC010000E8:
+          0. 00 0000 020D 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_robustness@@UEAA_NXZ (REF 006C: ??_C@_0BD@MEJNBIJE@glGetnUniformdvARB?$AA@)
+          1. 00 0000 020D 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_framebuffer_object@@UEAA_NXZ (REF 006C: ??_C@_0BK@NIHIDBBO@glFramebufferTextureLayer?$AA@)
+        E9000000E8:
+          0. 00 0000 011A 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_occlusion_query@@UEAA_NXZ (REF 006C: ??_C@_0BH@OOHKBDPD@glGetQueryObjectuivARB?$AA@)
+          1. 00 0000 011A 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_shader_subroutine@@UEAA_NXZ (REF 006C: ??_C@_0BE@LOKJCDFH@glGetProgramStageiv?$AA@)
+          2. 00 0000 011A 0000:?initializeOpenGLFunctions@QOpenGLExtension_IBM_vertex_array_lists@@UEAA_NXZ (REF 006C: ??_C@_0BH@HJFAHGMD@glVertexPointerListIBM?$AA@)
+          3. 00 0000 011A 0000:?initializeOpenGLFunctions@QOpenGLExtension_SUN_global_alpha@@UEAA_NXZ (REF 006C: ??_C@_0BJ@HOOJCLPE@glGlobalAlphaFactoruiSUN?$AA@)
+          4. 00 0000 011A 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_fence@@UEAA_NXZ (REF 006C: ??_C@_0BE@ODFFMDJC@glFinishObjectAPPLE?$AA@)
+        FA020000E8:
+          0. 00 0000 032B 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_gpu_shader5@@UEAA_NXZ
+        FC000000E8:
+          0. 00 0000 012D 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_evaluators@@UEAA_NXZ (REF 006C: ??_C@_0N@MOIOFJHA@glEvalMapsNV?$AA@)
+          1. 00 0000 012D 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_vertex_array@@UEAA_NXZ (REF 006C: ??_C@_0BD@IDICNFAP@glVertexPointerEXT?$AA@)
+      7574E8:
+        0. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_multi_draw_indirect@@UEAA_NXZ (REF 0065: ??_C@_0BP@HLKGEMNG@glMultiDrawElementsIndirectAMD?$AA@)
+        1. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_vertex_shader_tesselator@@UEAA_NXZ (REF 0065: ??_C@_0BG@LFMBMMLB@glTessellationModeAMD?$AA@)
+        2. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_flush_buffer_range@@UEAA_NXZ (REF 0065: ??_C@_0BO@EDNNLCHB@glFlushMappedBufferRangeAPPLE?$AA@)
+        3. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_APPLE_texture_range@@UEAA_NXZ (REF 0065: ??_C@_0BP@JLGLBEPN@glGetTexParameterPointervAPPLE?$AA@)
+        4. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_blend_func_extended@@UEAA_NXZ (REF 0065: ??_C@_0BD@COCJFEOH@glGetFragDataIndex?$AA@)
+        5. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_clear_buffer_object@@UEAA_NXZ (REF 0065: ??_C@_0BF@FDHIBCMD@glClearBufferSubData?$AA@)
+        6. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_compute_shader@@UEAA_NXZ (REF 0065: ??_C@_0BK@EJMOGMMI@glDispatchComputeIndirect?$AA@)
+        7. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_draw_indirect@@UEAA_NXZ (REF 0065: ??_C@_0BH@LJJDOEDH@glDrawElementsIndirect?$AA@)
+        8. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_draw_instanced@@UEAA_NXZ (REF 0065: ??_C@_0BL@JMJLDLNF@glDrawElementsInstancedARB?$AA@)
+        9. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_framebuffer_no_attachments@@UEAA_NXZ (REF 0065: ??_C@_0BM@BFEEFCMK@glGetFramebufferParameteriv?$AA@)
+        10. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_map_buffer_range@@UEAA_NXZ (REF 0065: ??_C@_0BJ@NCDMGHKF@glFlushMappedBufferRange?$AA@)
+        11. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_multi_draw_indirect@@UEAA_NXZ (REF 0065: ??_C@_0BM@KHEEFMKO@glMultiDrawElementsIndirect?$AA@)
+        12. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_point_parameters@@UEAA_NXZ (REF 0065: ??_C@_0BG@MNEGLICG@glPointParameterfvARB?$AA@)
+        13. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_shader_image_load_store@@UEAA_NXZ (REF 0065: ??_C@_0BA@HIHPNLBJ@glMemoryBarrier?$AA@)
+        14. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_tessellation_shader@@UEAA_NXZ (REF 0065: ??_C@_0BD@LJKINJKN@glPatchParameterfv?$AA@)
+        15. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_texture_storage_multisample@@UEAA_NXZ (REF 0065: ??_C@_0BK@GOJPECNJ@glTexStorage3DMultisample?$AA@)
+        16. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_transform_feedback_instanced@@UEAA_NXZ (REF 0065: ??_C@_0CH@OMPFKBLK@glDrawTransformFeedbackStreamIns@)
+        17. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_map_object_buffer@@UEAA_NXZ (REF 0065: ??_C@_0BH@BFJDKMCE@glUnmapObjectBufferATI?$AA@)
+        18. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_pn_triangles@@UEAA_NXZ (REF 0065: ??_C@_0BC@MAHEKHP@glPNTrianglesfATI?$AA@)
+        19. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_separate_stencil@@UEAA_NXZ (REF 0065: ??_C@_0BJ@JMKOAJAB@glStencilFuncSeparateATI?$AA@)
+        20. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_color_subtable@@UEAA_NXZ (REF 0065: ??_C@_0BH@HAGEMNAG@glCopyColorSubTableEXT?$AA@)
+        21. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_compiled_vertex_array@@UEAA_NXZ (REF 0065: ??_C@_0BC@CIFHOEOG@glUnlockArraysEXT?$AA@)
+        22. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_cull_vertex@@UEAA_NXZ (REF 0065: ??_C@_0BF@FPPBNLHI@glCullParameterfvEXT?$AA@)
+        23. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_draw_instanced@@UEAA_NXZ (REF 0065: ??_C@_0BL@CPGJMID@glDrawElementsInstancedEXT?$AA@)
+        24. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_gpu_program_parameters@@UEAA_NXZ (REF 0065: ??_C@_0BP@JDOGGDOI@glProgramLocalParameters4fvEXT?$AA@)
+        25. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_multi_draw_arrays@@UEAA_NXZ (REF 0065: ??_C@_0BH@CPIJKLBJ@glMultiDrawElementsEXT?$AA@)
+        26. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_multisample@@UEAA_NXZ (REF 0065: ??_C@_0BD@GLCOCHJL@glSamplePatternEXT?$AA@)
+        27. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_point_parameters@@UEAA_NXZ (REF 0065: ??_C@_0BG@FDCLBPHA@glPointParameterfvEXT?$AA@)
+        28. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_shader_image_load_store@@UEAA_NXZ (REF 0065: ??_C@_0BD@KBDDKHKJ@glMemoryBarrierEXT?$AA@)
+        29. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_subtexture@@UEAA_NXZ (REF 0065: ??_C@_0BD@EBKKDINC@glTexSubImage2DEXT?$AA@)
+        30. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_texture3D@@UEAA_NXZ (REF 0065: ??_C@_0BD@IKPGOLHH@glTexSubImage3DEXT?$AA@)
+        31. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_timer_query@@UEAA_NXZ (REF 0065: ??_C@_0BJ@LBCFKCPE@glGetQueryObjectui64vEXT?$AA@)
+        32. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_IBM_multimode_draw_arrays@@UEAA_NXZ (REF 0065: ??_C@_0BL@GFJOMAFF@glMultiModeDrawElementsIBM?$AA@)
+        33. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_conditional_render@@UEAA_NXZ (REF 0065: ??_C@_0BJ@OIMPOAOJ@glEndConditionalRenderNV?$AA@)
+        34. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_gpu_program5@@UEAA_NXZ (REF 0065: ??_C@_0CF@PJPEJIBG@glGetProgramSubroutineParameteru@)
+        35. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_pixel_data_range@@UEAA_NXZ (REF 0065: ??_C@_0BI@MFEIJCOB@glFlushPixelDataRangeNV?$AA@)
+        36. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_point_sprite@@UEAA_NXZ (REF 0065: ??_C@_0BF@OEAMIAKB@glPointParameterivNV?$AA@)
+        37. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_primitive_restart@@UEAA_NXZ (REF 0065: ??_C@_0BK@IECCGAIH@glPrimitiveRestartIndexNV?$AA@)
+        38. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_register_combiners2@@UEAA_NXZ (REF 0065: ??_C@_0CA@ODMGFKCG@glGetCombinerStageParameterfvNV?$AA@)
+        39. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_vertex_array_range@@UEAA_NXZ (REF 0065: ??_C@_0BF@EOMCBGEH@glVertexArrayRangeNV?$AA@)
+        40. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_detail_texture@@UEAA_NXZ (REF 0065: ??_C@_0BH@FDPGCHGM@glGetDetailTexFuncSGIS?$AA@)
+        41. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_fog_function@@UEAA_NXZ (REF 0065: ??_C@_0BB@HMPIFFOM@glGetFogFuncSGIS?$AA@)
+        42. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_multisample@@UEAA_NXZ (REF 0065: ??_C@_0BE@FAEHPLE@glSamplePatternSGIS?$AA@)
+        43. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_point_parameters@@UEAA_NXZ (REF 0065: ??_C@_0BH@DCOEEBHM@glPointParameterfvSGIS?$AA@)
+        44. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_sharpen_texture@@UEAA_NXZ (REF 0065: ??_C@_0BI@FJHMDPGB@glGetSharpenTexFuncSGIS?$AA@)
+        45. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_texture4D@@UEAA_NXZ (REF 0065: ??_C@_0BE@GJPODHKF@glTexSubImage4DSGIS?$AA@)
+        46. 0F 2DC5 00A1 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_texture_filter4@@UEAA_NXZ (REF 0065: ??_C@_0BE@CAFLHPGI@glTexFilterFuncSGIS?$AA@)
+    574883EC:
+      208BDA488BF9E8........F6C301740DBA10000000488B:
+        0. 02 632D 0034 0000:??_GQAbstractOpenGLExtension@@UEAAPEAXI@Z
+        1. 02 632D 0034 0000:??_GQOpenGLExtension_3DFX_tbuffer@@UEAAPEAXI@Z
+        2. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_debug_output@@UEAAPEAXI@Z
+        3. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_draw_buffers_blend@@UEAAPEAXI@Z
+        4. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_multi_draw_indirect@@UEAAPEAXI@Z
+        5. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_name_gen_delete@@UEAAPEAXI@Z
+        6. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_performance_monitor@@UEAAPEAXI@Z
+        7. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_sample_positions@@UEAAPEAXI@Z
+        8. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_sparse_texture@@UEAAPEAXI@Z
+        9. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_stencil_operation_extended@@UEAAPEAXI@Z
+        10. 02 632D 0034 0000:??_GQOpenGLExtension_AMD_vertex_shader_tesselator@@UEAAPEAXI@Z
+        11. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_element_array@@UEAAPEAXI@Z
+        12. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_fence@@UEAAPEAXI@Z
+        13. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_flush_buffer_range@@UEAAPEAXI@Z
+        14. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_object_purgeable@@UEAAPEAXI@Z
+        15. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_texture_range@@UEAAPEAXI@Z
+        16. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_vertex_array_object@@UEAAPEAXI@Z
+        17. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_vertex_array_range@@UEAAPEAXI@Z
+        18. 02 632D 0034 0000:??_GQOpenGLExtension_APPLE_vertex_program_evaluators@@UEAAPEAXI@Z
+        19. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_ES2_compatibility@@UEAAPEAXI@Z
+        20. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_base_instance@@UEAAPEAXI@Z
+        21. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_blend_func_extended@@UEAAPEAXI@Z
+        22. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_cl_event@@UEAAPEAXI@Z
+        23. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_clear_buffer_object@@UEAAPEAXI@Z
+        24. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_color_buffer_float@@UEAAPEAXI@Z
+        25. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_compute_shader@@UEAAPEAXI@Z
+        26. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_copy_buffer@@UEAAPEAXI@Z
+        27. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_copy_image@@UEAAPEAXI@Z
+        28. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_debug_output@@UEAAPEAXI@Z
+        29. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_draw_buffers@@UEAAPEAXI@Z
+        30. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_draw_buffers_blend@@UEAAPEAXI@Z
+        31. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_draw_elements_base_vertex@@UEAAPEAXI@Z
+        32. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_draw_indirect@@UEAAPEAXI@Z
+        33. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_draw_instanced@@UEAAPEAXI@Z
+        34. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_framebuffer_no_attachments@@UEAAPEAXI@Z
+        35. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_framebuffer_object@@UEAAPEAXI@Z
+        36. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_geometry_shader4@@UEAAPEAXI@Z
+        37. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_get_program_binary@@UEAAPEAXI@Z
+        38. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_gpu_shader_fp64@@UEAAPEAXI@Z
+        39. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_instanced_arrays@@UEAAPEAXI@Z
+        40. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_internalformat_query2@@UEAAPEAXI@Z
+        41. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_internalformat_query@@UEAAPEAXI@Z
+        42. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_invalidate_subdata@@UEAAPEAXI@Z
+        43. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_map_buffer_range@@UEAAPEAXI@Z
+        44. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_matrix_palette@@UEAAPEAXI@Z
+        45. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_multi_draw_indirect@@UEAAPEAXI@Z
+        46. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_multisample@@UEAAPEAXI@Z
+        47. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_multitexture@@UEAAPEAXI@Z
+        48. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_occlusion_query@@UEAAPEAXI@Z
+        49. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_point_parameters@@UEAAPEAXI@Z
+        50. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_program_interface_query@@UEAAPEAXI@Z
+        51. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_provoking_vertex@@UEAAPEAXI@Z
+        52. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_robustness@@UEAAPEAXI@Z
+        53. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_sample_shading@@UEAAPEAXI@Z
+        54. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_sampler_objects@@UEAAPEAXI@Z
+        55. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_separate_shader_objects@@UEAAPEAXI@Z
+        56. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_shader_atomic_counters@@UEAAPEAXI@Z
+        57. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_shader_image_load_store@@UEAAPEAXI@Z
+        58. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_shader_objects@@UEAAPEAXI@Z
+        59. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_shader_storage_buffer_object@@UEAAPEAXI@Z
+        60. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_shader_subroutine@@UEAAPEAXI@Z
+        61. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_shading_language_include@@UEAAPEAXI@Z
+        62. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_sync@@UEAAPEAXI@Z
+        63. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_tessellation_shader@@UEAAPEAXI@Z
+        64. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_texture_buffer_object@@UEAAPEAXI@Z
+        65. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_texture_buffer_range@@UEAAPEAXI@Z
+        66. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_texture_compression@@UEAAPEAXI@Z
+        67. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_texture_multisample@@UEAAPEAXI@Z
+        68. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_texture_storage@@UEAAPEAXI@Z
+        69. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_texture_storage_multisample@@UEAAPEAXI@Z
+        70. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_texture_view@@UEAAPEAXI@Z
+        71. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_timer_query@@UEAAPEAXI@Z
+        72. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_transform_feedback2@@UEAAPEAXI@Z
+        73. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_transform_feedback3@@UEAAPEAXI@Z
+        74. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_transform_feedback_instanced@@UEAAPEAXI@Z
+        75. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_transpose_matrix@@UEAAPEAXI@Z
+        76. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_uniform_buffer_object@@UEAAPEAXI@Z
+        77. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_array_object@@UEAAPEAXI@Z
+        78. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_attrib_64bit@@UEAAPEAXI@Z
+        79. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_attrib_binding@@UEAAPEAXI@Z
+        80. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_blend@@UEAAPEAXI@Z
+        81. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_buffer_object@@UEAAPEAXI@Z
+        82. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_program@@UEAAPEAXI@Z
+        83. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_shader@@UEAAPEAXI@Z
+        84. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_vertex_type_2_10_10_10_rev@@UEAAPEAXI@Z
+        85. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_viewport_array@@UEAAPEAXI@Z
+        86. 02 632D 0034 0000:??_GQOpenGLExtension_ARB_window_pos@@UEAAPEAXI@Z
+        87. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_draw_buffers@@UEAAPEAXI@Z
+        88. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_element_array@@UEAAPEAXI@Z
+        89. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_envmap_bumpmap@@UEAAPEAXI@Z
+        90. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_fragment_shader@@UEAAPEAXI@Z
+        91. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_map_object_buffer@@UEAAPEAXI@Z
+        92. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_pn_triangles@@UEAAPEAXI@Z
+        93. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_separate_stencil@@UEAAPEAXI@Z
+        94. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_vertex_array_object@@UEAAPEAXI@Z
+        95. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_vertex_attrib_array_object@@UEAAPEAXI@Z
+        96. 02 632D 0034 0000:??_GQOpenGLExtension_ATI_vertex_streams@@UEAAPEAXI@Z
+        97. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_bindable_uniform@@UEAAPEAXI@Z
+        98. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_blend_color@@UEAAPEAXI@Z
+        99. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_blend_equation_separate@@UEAAPEAXI@Z
+        100. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_blend_func_separate@@UEAAPEAXI@Z
+        101. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_blend_minmax@@UEAAPEAXI@Z
+        102. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_color_subtable@@UEAAPEAXI@Z
+        103. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_compiled_vertex_array@@UEAAPEAXI@Z
+        104. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_convolution@@UEAAPEAXI@Z
+        105. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_coordinate_frame@@UEAAPEAXI@Z
+        106. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_copy_texture@@UEAAPEAXI@Z
+        107. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_cull_vertex@@UEAAPEAXI@Z
+        108. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_depth_bounds_test@@UEAAPEAXI@Z
+        109. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_direct_state_access@@UEAAPEAXI@Z
+        110. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_draw_buffers2@@UEAAPEAXI@Z
+        111. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_draw_instanced@@UEAAPEAXI@Z
+        112. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_draw_range_elements@@UEAAPEAXI@Z
+        113. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_fog_coord@@UEAAPEAXI@Z
+        114. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_framebuffer_blit@@UEAAPEAXI@Z
+        115. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_framebuffer_multisample@@UEAAPEAXI@Z
+        116. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_framebuffer_object@@UEAAPEAXI@Z
+        117. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_geometry_shader4@@UEAAPEAXI@Z
+        118. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_gpu_program_parameters@@UEAAPEAXI@Z
+        119. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_gpu_shader4@@UEAAPEAXI@Z
+        120. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_histogram@@UEAAPEAXI@Z
+        121. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_index_func@@UEAAPEAXI@Z
+        122. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_index_material@@UEAAPEAXI@Z
+        123. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_light_texture@@UEAAPEAXI@Z
+        124. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_multi_draw_arrays@@UEAAPEAXI@Z
+        125. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_multisample@@UEAAPEAXI@Z
+        126. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_paletted_texture@@UEAAPEAXI@Z
+        127. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_pixel_transform@@UEAAPEAXI@Z
+        128. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_point_parameters@@UEAAPEAXI@Z
+        129. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_polygon_offset@@UEAAPEAXI@Z
+        130. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_provoking_vertex@@UEAAPEAXI@Z
+        131. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_secondary_color@@UEAAPEAXI@Z
+        132. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_separate_shader_objects@@UEAAPEAXI@Z
+        133. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_shader_image_load_store@@UEAAPEAXI@Z
+        134. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_stencil_clear_tag@@UEAAPEAXI@Z
+        135. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_stencil_two_side@@UEAAPEAXI@Z
+        136. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_subtexture@@UEAAPEAXI@Z
+        137. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_texture3D@@UEAAPEAXI@Z
+        138. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_texture_buffer_object@@UEAAPEAXI@Z
+        139. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_texture_integer@@UEAAPEAXI@Z
+        140. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_texture_object@@UEAAPEAXI@Z
+        141. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_texture_perturb_normal@@UEAAPEAXI@Z
+        142. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_timer_query@@UEAAPEAXI@Z
+        143. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_transform_feedback@@UEAAPEAXI@Z
+        144. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_vertex_array@@UEAAPEAXI@Z
+        145. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_vertex_attrib_64bit@@UEAAPEAXI@Z
+        146. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_vertex_shader@@UEAAPEAXI@Z
+        147. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_vertex_weighting@@UEAAPEAXI@Z
+        148. 02 632D 0034 0000:??_GQOpenGLExtension_EXT_x11_sync_object@@UEAAPEAXI@Z
+        149. 02 632D 0034 0000:??_GQOpenGLExtension_GREMEDY_frame_terminator@@UEAAPEAXI@Z
+        150. 02 632D 0034 0000:??_GQOpenGLExtension_GREMEDY_string_marker@@UEAAPEAXI@Z
+        151. 02 632D 0034 0000:??_GQOpenGLExtension_HP_image_transform@@UEAAPEAXI@Z
+        152. 02 632D 0034 0000:??_GQOpenGLExtension_IBM_multimode_draw_arrays@@UEAAPEAXI@Z
+        153. 02 632D 0034 0000:??_GQOpenGLExtension_IBM_vertex_array_lists@@UEAAPEAXI@Z
+        154. 02 632D 0034 0000:??_GQOpenGLExtension_INGR_blend_func_separate@@UEAAPEAXI@Z
+        155. 02 632D 0034 0000:??_GQOpenGLExtension_INTEL_parallel_arrays@@UEAAPEAXI@Z
+        156. 02 632D 0034 0000:??_GQOpenGLExtension_KHR_debug@@UEAAPEAXI@Z
+        157. 02 632D 0034 0000:??_GQOpenGLExtension_MESA_resize_buffers@@UEAAPEAXI@Z
+        158. 02 632D 0034 0000:??_GQOpenGLExtension_MESA_window_pos@@UEAAPEAXI@Z
+        159. 02 632D 0034 0000:??_GQOpenGLExtension_NV_bindless_texture@@UEAAPEAXI@Z
+        160. 02 632D 0034 0000:??_GQOpenGLExtension_NV_conditional_render@@UEAAPEAXI@Z
+        161. 02 632D 0034 0000:??_GQOpenGLExtension_NV_copy_image@@UEAAPEAXI@Z
+        162. 02 632D 0034 0000:??_GQOpenGLExtension_NV_depth_buffer_float@@UEAAPEAXI@Z
+        163. 02 632D 0034 0000:??_GQOpenGLExtension_NV_evaluators@@UEAAPEAXI@Z
+        164. 02 632D 0034 0000:??_GQOpenGLExtension_NV_explicit_multisample@@UEAAPEAXI@Z
+        165. 02 632D 0034 0000:??_GQOpenGLExtension_NV_fence@@UEAAPEAXI@Z
+        166. 02 632D 0034 0000:??_GQOpenGLExtension_NV_fragment_program@@UEAAPEAXI@Z
+        167. 02 632D 0034 0000:??_GQOpenGLExtension_NV_framebuffer_multisample_coverage@@UEAAPEAXI@Z
+        168. 02 632D 0034 0000:??_GQOpenGLExtension_NV_geometry_program4@@UEAAPEAXI@Z
+        169. 02 632D 0034 0000:??_GQOpenGLExtension_NV_gpu_program4@@UEAAPEAXI@Z
+        170. 02 632D 0034 0000:??_GQOpenGLExtension_NV_gpu_program5@@UEAAPEAXI@Z
+        171. 02 632D 0034 0000:??_GQOpenGLExtension_NV_gpu_shader5@@UEAAPEAXI@Z
+        172. 02 632D 0034 0000:??_GQOpenGLExtension_NV_half_float@@UEAAPEAXI@Z
+        173. 02 632D 0034 0000:??_GQOpenGLExtension_NV_occlusion_query@@UEAAPEAXI@Z
+        174. 02 632D 0034 0000:??_GQOpenGLExtension_NV_parameter_buffer_object@@UEAAPEAXI@Z
+        175. 02 632D 0034 0000:??_GQOpenGLExtension_NV_path_rendering@@UEAAPEAXI@Z
+        176. 02 632D 0034 0000:??_GQOpenGLExtension_NV_pixel_data_range@@UEAAPEAXI@Z
+        177. 02 632D 0034 0000:??_GQOpenGLExtension_NV_point_sprite@@UEAAPEAXI@Z
+        178. 02 632D 0034 0000:??_GQOpenGLExtension_NV_present_video@@UEAAPEAXI@Z
+        179. 02 632D 0034 0000:??_GQOpenGLExtension_NV_primitive_restart@@UEAAPEAXI@Z
+        180. 02 632D 0034 0000:??_GQOpenGLExtension_NV_register_combiners2@@UEAAPEAXI@Z
+        181. 02 632D 0034 0000:??_GQOpenGLExtension_NV_register_combiners@@UEAAPEAXI@Z
+        182. 02 632D 0034 0000:??_GQOpenGLExtension_NV_shader_buffer_load@@UEAAPEAXI@Z
+        183. 02 632D 0034 0000:??_GQOpenGLExtension_NV_texture_barrier@@UEAAPEAXI@Z
+        184. 02 632D 0034 0000:??_GQOpenGLExtension_NV_texture_multisample@@UEAAPEAXI@Z
+        185. 02 632D 0034 0000:??_GQOpenGLExtension_NV_transform_feedback2@@UEAAPEAXI@Z
+        186. 02 632D 0034 0000:??_GQOpenGLExtension_NV_transform_feedback@@UEAAPEAXI@Z
+        187. 02 632D 0034 0000:??_GQOpenGLExtension_NV_vdpau_interop@@UEAAPEAXI@Z
+        188. 02 632D 0034 0000:??_GQOpenGLExtension_NV_vertex_array_range@@UEAAPEAXI@Z
+        189. 02 632D 0034 0000:??_GQOpenGLExtension_NV_vertex_attrib_integer_64bit@@UEAAPEAXI@Z
+        190. 02 632D 0034 0000:??_GQOpenGLExtension_NV_vertex_buffer_unified_memory@@UEAAPEAXI@Z
+        191. 02 632D 0034 0000:??_GQOpenGLExtension_NV_vertex_program4@@UEAAPEAXI@Z
+        192. 02 632D 0034 0000:??_GQOpenGLExtension_NV_vertex_program@@UEAAPEAXI@Z
+        193. 02 632D 0034 0000:??_GQOpenGLExtension_NV_video_capture@@UEAAPEAXI@Z
+        194. 02 632D 0034 0000:??_GQOpenGLExtension_PGI_misc_hints@@UEAAPEAXI@Z
+        195. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_detail_texture@@UEAAPEAXI@Z
+        196. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_fog_function@@UEAAPEAXI@Z
+        197. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_multisample@@UEAAPEAXI@Z
+        198. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_pixel_texture@@UEAAPEAXI@Z
+        199. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_point_parameters@@UEAAPEAXI@Z
+        200. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_sharpen_texture@@UEAAPEAXI@Z
+        201. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_texture4D@@UEAAPEAXI@Z
+        202. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_texture_color_mask@@UEAAPEAXI@Z
+        203. 02 632D 0034 0000:??_GQOpenGLExtension_SGIS_texture_filter4@@UEAAPEAXI@Z
+        204. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_async@@UEAAPEAXI@Z
+        205. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_flush_raster@@UEAAPEAXI@Z
+        206. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_fragment_lighting@@UEAAPEAXI@Z
+        207. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_framezoom@@UEAAPEAXI@Z
+        208. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_igloo_interface@@UEAAPEAXI@Z
+        209. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_instruments@@UEAAPEAXI@Z
+        210. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_list_priority@@UEAAPEAXI@Z
+        211. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_pixel_texture@@UEAAPEAXI@Z
+        212. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_polynomial_ffd@@UEAAPEAXI@Z
+        213. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_reference_plane@@UEAAPEAXI@Z
+        214. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_sprite@@UEAAPEAXI@Z
+        215. 02 632D 0034 0000:??_GQOpenGLExtension_SGIX_tag_sample_buffer@@UEAAPEAXI@Z
+        216. 02 632D 0034 0000:??_GQOpenGLExtension_SGI_color_table@@UEAAPEAXI@Z
+        217. 02 632D 0034 0000:??_GQOpenGLExtension_SUNX_constant_data@@UEAAPEAXI@Z
+        218. 02 632D 0034 0000:??_GQOpenGLExtension_SUN_global_alpha@@UEAAPEAXI@Z
+        219. 02 632D 0034 0000:??_GQOpenGLExtension_SUN_mesh_array@@UEAAPEAXI@Z
+        220. 02 632D 0034 0000:??_GQOpenGLExtension_SUN_triangle_list@@UEAAPEAXI@Z
+        221. 02 632D 0034 0000:??_GQOpenGLExtension_SUN_vertex@@UEAAPEAXI@Z
+      40488B4108488BF9803800755EE8........4885C07536:
+        0. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_3DFX_tbuffer@@UEAA_NXZ (REF 005D: ??_C@_0BC@CCALJJJM@glTbufferMask3DFX?$AA@)
+        1. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_sample_positions@@UEAA_NXZ (REF 005D: ??_C@_0BG@HBDKMMDF@glSetMultisamplefvAMD?$AA@)
+        2. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_sparse_texture@@UEAA_NXZ (REF 005D: ??_C@_0BG@EDPMMPBF@glTexStorageSparseAMD?$AA@)
+        3. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_AMD_stencil_operation_extended@@UEAA_NXZ (REF 005D: ??_C@_0BE@EDMIOPLH@glStencilOpValueAMD?$AA@)
+        4. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_cl_event@@UEAA_NXZ (REF 005D: ??_C@_0BL@FGCKKDPG@glCreateSyncFromCLeventARB?$AA@)
+        5. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_color_buffer_float@@UEAA_NXZ (REF 005D: ??_C@_0BA@PBPFKPHF@glClampColorARB?$AA@)
+        6. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_copy_buffer@@UEAA_NXZ (REF 005D: ??_C@_0BE@EPKABDOG@glCopyBufferSubData?$AA@)
+        7. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_copy_image@@UEAA_NXZ (REF 005D: ??_C@_0BD@BNCHOBBL@glCopyImageSubData?$AA@)
+        8. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_draw_buffers@@UEAA_NXZ (REF 005D: ??_C@_0BB@DLEFHLGI@glDrawBuffersARB?$AA@)
+        9. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_instanced_arrays@@UEAA_NXZ (REF 005D: ??_C@_0BJ@KDFJOAKK@glVertexAttribDivisorARB?$AA@)
+        10. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_internalformat_query2@@UEAA_NXZ (REF 005D: ??_C@_0BI@PHNNEGBD@glGetInternalformati64v?$AA@)
+        11. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_internalformat_query@@UEAA_NXZ (REF 005D: ??_C@_0BG@BAOCDJPF@glGetInternalformativ?$AA@)
+        12. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_multisample@@UEAA_NXZ (REF 005D: ??_C@_0BE@NMFNHPGD@glSampleCoverageARB?$AA@)
+        13. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_provoking_vertex@@UEAA_NXZ (REF 005D: ??_C@_0BC@ECOAPEBI@glProvokingVertex?$AA@)
+        14. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_sample_shading@@UEAA_NXZ (REF 005D: ??_C@_0BG@KHPHHIHH@glMinSampleShadingARB?$AA@)
+        15. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_shader_atomic_counters@@UEAA_NXZ (REF 005D: ??_C@_0CB@CEHFMJFN@glGetActiveAtomicCounterBufferiv@)
+        16. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_shader_storage_buffer_object@@UEAA_NXZ (REF 005D: ??_C@_0BM@GDDCNIBO@glShaderStorageBlockBinding?$AA@)
+        17. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_texture_buffer_object@@UEAA_NXZ (REF 005D: ??_C@_0P@OBHFBJAP@glTexBufferARB?$AA@)
+        18. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_texture_buffer_range@@UEAA_NXZ (REF 005D: ??_C@_0BB@DPMGLFNI@glTexBufferRange?$AA@)
+        19. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ARB_texture_view@@UEAA_NXZ (REF 005D: ??_C@_0O@BNFDGIMP@glTextureView?$AA@)
+        20. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_ATI_draw_buffers@@UEAA_NXZ (REF 005D: ??_C@_0BB@NMDMNOBB@glDrawBuffersATI?$AA@)
+        21. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_blend_color@@UEAA_NXZ (REF 005D: ??_C@_0BA@EGDGJFLJ@glBlendColorEXT?$AA@)
+        22. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_blend_equation_separate@@UEAA_NXZ (REF 005D: ??_C@_0BL@INMJGNKI@glBlendEquationSeparateEXT?$AA@)
+        23. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_blend_func_separate@@UEAA_NXZ (REF 005D: ??_C@_0BH@GFPLHCKF@glBlendFuncSeparateEXT?$AA@)
+        24. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_blend_minmax@@UEAA_NXZ (REF 005D: ??_C@_0BD@CFOJJHII@glBlendEquationEXT?$AA@)
+        25. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_depth_bounds_test@@UEAA_NXZ (REF 005D: ??_C@_0BB@NPFLJMMA@glDepthBoundsEXT?$AA@)
+        26. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_draw_range_elements@@UEAA_NXZ (REF 005D: ??_C@_0BH@GFFILNEF@glDrawRangeElementsEXT?$AA@)
+        27. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_framebuffer_blit@@UEAA_NXZ (REF 005D: ??_C@_0BF@GOMLACDI@glBlitFramebufferEXT?$AA@)
+        28. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_framebuffer_multisample@@UEAA_NXZ (REF 005D: ??_C@_0CE@IGIMMIPN@glRenderbufferStorageMultisample@)
+        29. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_geometry_shader4@@UEAA_NXZ (REF 005D: ??_C@_0BH@PKNCEEOM@glProgramParameteriEXT?$AA@)
+        30. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_index_func@@UEAA_NXZ (REF 005D: ??_C@_0P@JNIENPPF@glIndexFuncEXT?$AA@)
+        31. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_index_material@@UEAA_NXZ (REF 005D: ??_C@_0BD@FDMMOKEF@glIndexMaterialEXT?$AA@)
+        32. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_polygon_offset@@UEAA_NXZ (REF 005D: ??_C@_0BD@KFMIOCPC@glPolygonOffsetEXT?$AA@)
+        33. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_provoking_vertex@@UEAA_NXZ (REF 005D: ??_C@_0BF@NCFNHLBM@glProvokingVertexEXT?$AA@)
+        34. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_stencil_clear_tag@@UEAA_NXZ (REF 005D: ??_C@_0BF@KMNAKPFO@glStencilClearTagEXT?$AA@)
+        35. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_stencil_two_side@@UEAA_NXZ (REF 005D: ??_C@_0BH@FDKCPLFK@glActiveStencilFaceEXT?$AA@)
+        36. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_texture_buffer_object@@UEAA_NXZ (REF 005D: ??_C@_0P@HPBILOFJ@glTexBufferEXT?$AA@)
+        37. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_texture_perturb_normal@@UEAA_NXZ (REF 005D: ??_C@_0BD@HJCKBGND@glTextureNormalEXT?$AA@)
+        38. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_EXT_x11_sync_object@@UEAA_NXZ (REF 005D: ??_C@_0BA@JABFPGIF@glImportSyncEXT?$AA@)
+        39. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_GREMEDY_frame_terminator@@UEAA_NXZ (REF 005D: ??_C@_0BJ@FOGAIAMI@glFrameTerminatorGREMEDY?$AA@)
+        40. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_GREMEDY_string_marker@@UEAA_NXZ (REF 005D: ??_C@_0BG@HOCDKCBN@glStringMarkerGREMEDY?$AA@)
+        41. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_INGR_blend_func_separate@@UEAA_NXZ (REF 005D: ??_C@_0BI@IALGGLKI@glBlendFuncSeparateINGR?$AA@)
+        42. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_MESA_resize_buffers@@UEAA_NXZ (REF 005D: ??_C@_0BE@PCOIAAF@glResizeBuffersMESA?$AA@)
+        43. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_copy_image@@UEAA_NXZ (REF 005D: ??_C@_0BF@OINOFOEL@glCopyImageSubDataNV?$AA@)
+        44. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_framebuffer_multisample_coverage@@UEAA_NXZ (REF 005D: ??_C@_0CL@BLPAMPMF@glRenderbufferStorageMultisample@)
+        45. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_NV_texture_barrier@@UEAA_NXZ (REF 005D: ??_C@_0BD@JMGAFMKM@glTextureBarrierNV?$AA@)
+        46. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_PGI_misc_hints@@UEAA_NXZ (REF 005D: ??_C@_09NAIAGCNA@glHintPGI?$AA@)
+        47. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIS_texture_color_mask@@UEAA_NXZ (REF 005D: ??_C@_0BH@OLFDEOID@glTextureColorMaskSGIS?$AA@)
+        48. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_flush_raster@@UEAA_NXZ (REF 005D: ??_C@_0BC@FBIKHJIB@glFlushRasterSGIX?$AA@)
+        49. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_framezoom@@UEAA_NXZ (REF 005D: ??_C@_0BA@PPOHIBEA@glFrameZoomSGIX?$AA@)
+        50. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_igloo_interface@@UEAA_NXZ (REF 005D: ??_C@_0BF@NAMGNGLD@glIglooInterfaceSGIX?$AA@)
+        51. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_pixel_texture@@UEAA_NXZ (REF 005D: ??_C@_0BC@GLPIMAMJ@glPixelTexGenSGIX?$AA@)
+        52. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_reference_plane@@UEAA_NXZ (REF 005D: ??_C@_0BF@DCBEEABF@glReferencePlaneSGIX?$AA@)
+        53. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SGIX_tag_sample_buffer@@UEAA_NXZ (REF 005D: ??_C@_0BG@LHGDBPGN@glTagSampleBufferSGIX?$AA@)
+        54. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SUNX_constant_data@@UEAA_NXZ (REF 005D: ??_C@_0BE@OGKLOACC@glFinishTextureSUNX?$AA@)
+        55. 07 4969 0081 0000:?initializeOpenGLFunctions@QOpenGLExtension_SUN_mesh_array@@UEAA_NXZ (REF 005D: ??_C@_0BE@MBFJPMLA@glDrawMeshArraysSUN?$AA@)
+  8B:
+    41088A00C3:
+      0. 00 0000 0007 0000:?isInitialized@QAbstractOpenGLExtension@@IEBA_NXZ
+    5108B001C60201C3:
+      0. 00 0000 000A 0000:?initializeOpenGLFunctions@QAbstractOpenGLExtension@@UEAA_NXZ

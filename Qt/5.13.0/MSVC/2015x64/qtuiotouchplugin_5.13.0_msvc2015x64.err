@@ -1,0 +1,244 @@
+0F57C00F28D9F30F5AC1660F2F05........76130F57C0F30F5AC1F20F5C05:
+  0. 00 0000 0098 0000:?setAngle@QTuioToken@@QEAAXM@Z
+40:
+  534883EC20:
+    33D2488BD9E8........488D05........488903488BC34883C4:
+      0. 03 3F06 0023 0000:??0QTuioTouchPlugin@@QEAA@XZ
+    48:
+      634204488BDA4C8B4A104C8D04404F8D04C14C03C24903D1E8:
+        0. 00 0000 003A 0000:?freeData@?$QVector@VQOscMessage@@@@AEAAXPEAU?$QTypedArrayData@VQOscMessage@@@@@Z
+      8B:
+        01488BD9:
+          448B4008410FBAF01F413BD07E084533C0E8:
+            0. 00 0000 0052 0000:?reserve@?$QVector@VQTuioCursor@@@@QEAAXH@Z (0019: 14)
+            1. 00 0000 0052 0000:?reserve@?$QVector@VQTuioToken@@@@QEAAXH@Z (0019: 24)
+          483902743F488D4C2430E8........488B13488B:
+            0. 2C 6FE2 0059 0000:??4?$QVector@VQOscMessage@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@VQOscMessage@@@@QEAA@AEBV0@@Z)
+            1. 2C 6FE2 0059 0000:??4?$QVector@VQOscBundle@@@@QEAAAEAV0@AEBV0@@Z (REF 0017: ??0?$QVector@VQOscBundle@@@@QEAA@AEBV0@@Z)
+        D9488B:
+          49084885C974098A542430E8........488B4B1048:
+            0. 09 C882 0033 0000:?doDestroySubTree@?$QMapNode@HVQTuioToken@@@@AEAAXU?$integral_constant@_N$00@std@@@Z
+            1. 09 C882 0033 0000:?doDestroySubTree@?$QMapNode@HVQTuioCursor@@@@AEAAXU?$integral_constant@_N$00@std@@@Z
+          4B084885C97405E8........488B5B104885DB75E9:
+            0. 06 59CA 0026 0000:?destroySubTree@?$QMapNode@HVQTuioToken@@@@QEAAXXZ
+            1. 06 59CA 0026 0000:?destroySubTree@?$QMapNode@HVQTuioCursor@@@@QEAAXXZ
+    4C634204488BDA49C1E0054C0342104C03C248035210E8:
+      0. 00 0000 0037 0000:?freeData@?$QVector@VQOscBundle@@@@AEAAXPEAU?$QTypedArrayData@VQOscBundle@@@@@Z
+    8B02488BD98901488B4208488941080F104210F30F7F41100F10:
+      0. 3D 854A 006A 0000:??0TouchPoint@QWindowSystemInterface@@QEAA@AEBU01@@Z
+  55:
+    53:
+      56574154415541564157488D6C24:
+        E14881ECD80000004C8BF94883C210:
+          0. 05 D713 035F 0000:?process2DCurAlive@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+        F84881EC080100004C8BF94883C210:
+          0. 05 4ECB 039D 0000:?process2DObjAlive@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+      57488D6C24B94881EC900000004883C210488D4D6FE8........488B4D:
+        0. 11 8390 0208 0000:?process2DObjSource@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+        1. 11 8390 0208 0000:?process2DCurSource@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+    56574154415541564157488DAC2470FFFFFF4881EC900100004C8D61184C:
+      0. 06 5867 09E9 0000:?processPackets@QTuioHandler@@AEAAXXZ
+  574883EC20488B01488BF983780400746D833801762B8B500881E2FFFFFF7F:
+    0. 11 3462 0085 0000:?clear@?$QVector@VQTuioToken@@@@QEAAXXZ
+    1. 11 96D4 0085 0000:?clear@?$QVector@VQTuioCursor@@@@QEAAXXZ
+48:
+  83EC:
+    18F20F10194C8BCA0F28C30F293C24F20F5C05........F20F1079080F:
+      0. 0C C03C 00AF 0000:?toPoint@QPointF@@QEBA?AVQPoint@@XZ
+    28:
+      48:
+        8B:
+          0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+            0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QTuioTouchPlugin@@YAPEAVQObject@@XZ@YAXXZ
+          11833A007411833AFF741483C8FFF00FC10283F8017508488B11:
+            0. 01 3E9B 002A 0000:??1?$QVector@VQOscMessage@@@@QEAA@XZ (REF 0021: ?freeData@?$QVector@VQOscMessage@@@@AEAAXPEAU?$QTypedArrayData@VQOscMessage@@@@@Z)
+            1. 01 3E9B 002A 0000:??1?$QVector@VQOscBundle@@@@QEAA@XZ (REF 0021: ?freeData@?$QVector@VQOscBundle@@@@AEAAXPEAU?$QTypedArrayData@VQOscBundle@@@@@Z)
+        8D0D........E8........8805........4883C428C3:
+          0. 00 0000 001B (l)0000:??__EforceDelivery@@YAXXZ
+      4C8BD285C9742B83E901741B83F9017533488B4210493901488B4424:
+        0. 24 C78E 004D 0000:?impl@?$QSlotObject@P8QTuioHandler@@EAAXXZU?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+      65488B0425580000008B0D........41B8........488B14C8418B04:
+        0. 03 4E75 0077 0000:?lcTuioSet@@YAAEBVQLoggingCategory@@XZ (REF 0023: ?$TSS0@?1??lcTuioSet@@YAAEBVQLoggingCategory@@XZ@4HA)
+        1. 03 4E75 0077 0000:?lcTuioSource@@YAAEBVQLoggingCategory@@XZ (REF 0023: ?$TSS0@?1??lcTuioSource@@YAAEBVQLoggingCategory@@XZ@4HA)
+        2. 03 4E75 0077 0000:?lcTuioMessage@@YAAEBVQLoggingCategory@@XZ (REF 0023: ?$TSS0@?1??lcTuioMessage@@YAAEBVQLoggingCategory@@XZ@4HA)
+        3. 03 4E75 0077 0000:?lcTuioBundle@@YAAEBVQLoggingCategory@@XZ (REF 0023: ?$TSS0@?1??lcTuioBundle@@YAAEBVQLoggingCategory@@XZ@4HA)
+        4. 03 4E75 0077 0000:?lcTuioHandler@@YAAEBVQLoggingCategory@@XZ (REF 0023: ?$TSS0@?1??lcTuioHandler@@YAAEBVQLoggingCategory@@XZ@4HA)
+      85D20F85AA0000004585C00F849C0000004183E8010F848500000041:
+        0. 32 068E 00BB 0000:?qt_static_metacall@QTuioHandler@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+  89:
+    54241055535657488D6C24D84881EC28010000488BF133DB668919488BFA:
+      0. 07 44C4 0691 0000:??0QOscBundle@@QEAA@AEBVQByteArray@@@Z
+    5C24:
+      08:
+        4889:
+          6C24:
+            10488974241857:
+              41:
+                544155415641574883EC20488B0145:
+                  0. 1B CCF3 0151 0000:?realloc@?$QVector@VQOscBundle@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                5641574883EC20488B0141BF080000:
+                  0. 1F 6D2A 012C 0000:?realloc@?$QVector@VQTuioCursor@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+                  1. 1F C022 0135 0000:?realloc@?$QVector@VQTuioToken@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+              4883EC20:
+                48:
+                  635A0C488BFA48636A0848:
+                    0. 24 6F38 0076 0000:?dealloc@?$QList@VQVariant@@@@AEAAXPEAUData@QListData@@@Z
+                  8B02488BFA488901488BD9:
+                    0. 13 34FE 00A0 0000:??0?$QList@VQVariant@@@@QEAA@AEBV0@@Z
+                498BF18BFA488BE9E8:
+                  0. 00 0000 006C 0000:?qt_metacall@QTuioHandler@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+            188954241056574154415641574883EC20488B11488BF1:
+              0. 18 3165 0128 0000:?detach_helper_grow@?$QList@VQVariant@@@@AEAAPEAUNode@1@HH@Z (002C: 10)
+              1. 18 3165 0145 0000:?detach_helper_grow@?$QList@UTouchPoint@QWindowSystemInterface@@@@AEAAPEAUNode@1@HH@Z (002C: 68)
+          7424:
+            10:
+              48897C2418:
+                41564883EC:
+                  20:
+                    488D05........488BD948:
+                      0. 2F F5EB 010F 0000:??1QTuioHandler@@UEAA@XZ
+                    498BF8488BF2458B0033D2:
+                      0. 04 8156 00E1 0000:?qt_readOscString@@YA_NAEBVQByteArray@@AEAV1@AEAI@Z
+                  30488B01498BD94D8BF0488B:
+                    0. 0A BCFA 00E9 0000:?insert@?$QMap@HVQTuioCursor@@@@QEAA?AViterator@1@AEBHAEBVQTuioCursor@@@Z (0017: 49)
+                    1. 0A BCFA 00F9 0000:?insert@?$QMap@HVQTuioToken@@@@QEAA?AViterator@1@AEBHAEBVQTuioToken@@@Z (0017: 51)
+                55488BEC4883EC404C8BC2488BD9488B11:
+                  0. 50 BA3B 0177 0000:?append@?$QVector@VQOscMessage@@@@QEAAXAEBVQOscMessage@@@Z
+              4C89442418574883EC50488BF1498BD9B91800000048:
+                0. 03 B809 009B 0000:??$connect@P8QIODevice@@EAAXXZP8QTuioHandler@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQIODevice@@P83@EAAXXZPEBVQTuioHandler@@P84@EAAXXZW4ConnectionType@Qt@@@Z
+              574883EC:
+                2048:
+                  635A0C488BFA486372084883C3024883:
+                    0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                  8BD9E8........488B13488BF8488B4A:
+                    0. 0A 4BC7 0092 0000:?detach_helper@?$QMap@HVQTuioToken@@@@AEAAXXZ (REF 002A: ?copy@?$QMapNode@HVQTuioToken@@@@QEBAPEAU1@PEAU?$QMapData@HVQTuioToken@@@@@Z)
+                    1. 0A 4BC7 0092 0000:?detach_helper@?$QMap@HVQTuioCursor@@@@AEAAXXZ (REF 002A: ?copy@?$QMapNode@HVQTuioCursor@@@@QEBAPEAU1@PEAU?$QMapData@HVQTuioCursor@@@@@Z)
+                30:
+                  4533C9C644242000488BF2488BF9488BCE:
+                    0. 09 6E1D 00CB 0000:?copy@?$QMapNode@HVQTuioToken@@@@QEBAPEAU1@PEAU?$QMapData@HVQTuioToken@@@@@Z
+                    1. 09 6FD8 00C3 0000:?copy@?$QMapNode@HVQTuioCursor@@@@QEBAPEAU1@PEAU?$QMapData@HVQTuioCursor@@@@@Z
+                  488D35........498BF8488BCE488BDAE8:
+                    0. 00 0000 0075 0000:?create@QTuioTouchPlugin@@UEAAPEAVQObject@@AEBVQString@@0@Z
+            18574883EC30488BF2488BD9410FB7D0488D4C2448418B:
+              0. 02 11CF 0088 0000:?section@QString@@QEBA?AV1@VQChar@@HHV?$QFlags@W4SectionFlag@QString@@@@@Z
+        574883EC20:
+          488B:
+            02488BFA488BD983380074108338FF7403F0FF00:
+              0. 25 607B 00AD 0000:??0?$QVector@VQOscMessage@@@@QEAA@AEBV0@@Z
+              1. 09 8783 0077 0000:??0?$QMap@HVQTuioToken@@@@QEAA@AEBV0@@Z (REF 0040: ?copy@?$QMapNode@HVQTuioToken@@@@QEBAPEAU1@PEAU?$QMapData@HVQTuioToken@@@@@Z)
+              2. 09 8783 0077 0000:??0?$QMap@HVQTuioCursor@@@@QEAA@AEBV0@@Z (REF 0040: ?copy@?$QMapNode@HVQTuioCursor@@@@QEBAPEAU1@PEAU?$QMapData@HVQTuioCursor@@@@@Z)
+              3. 25 A42B 00AD 0000:??0?$QVector@VQOscBundle@@@@QEAA@AEBV0@@Z
+            D98BFA4883C1104C8B01418338007413418338FF:
+              0. 13 28D9 0084 0000:??_GQOscMessage@@QEAAPEAXI@Z
+            DA488BF94885D2750433C0EB23488D15:
+              0. 04 BF6F 0047 0000:?qt_metacast@QTuioTouchPlugin@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QTuioTouchPlugin@@3Uqt_meta_stringdata_QTuioTouchPlugin_t@@B)
+              1. 04 BF6F 0047 0000:?qt_metacast@QTuioHandler@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QTuioHandler@@3Uqt_meta_stringdata_QTuioHandler_t@@B)
+          65488B0425580000008B0D........41B8........48:
+            0. 09 8104 0103 (l)0000:?qt_plugin_instance_QTuioTouchPlugin@@YAPEAVQObject@@XZ
+          8A02488BDA8801488BF98A42018841018B4204894104:
+            0. 0F 0E5F 004E 0000:??0QOscBundle@@QEAA@AEBV0@@Z
+          8BDA488BF9E8........F6C301740DBA:
+            10000000488B:
+              0. 02 632D 0034 0000:??_GQTuioTouchPlugin@@UEAAPEAXI@Z
+            A0000000488B:
+              0. 02 632D 0034 0000:??_GQTuioHandler@@UEAAPEAXI@Z
+      10:
+        5556574154415541564157488D6C24E04881EC200100004C8BE148:
+          0. 02 95D9 081E 0000:??0QOscMessage@@QEAA@AEBVQByteArray@@@Z
+        574883EC:
+          20488B:
+            02488BF94839017454488D4C2430E8........48:
+              0. 3D A89C 0077 0000:??4?$QMap@HVQTuioToken@@@@QEAAAEAV0@AEBV0@@Z (REF 001B: ??0?$QMap@HVQTuioToken@@@@QEAA@AEBV0@@Z)
+              1. 3D A89C 0077 0000:??4?$QMap@HVQTuioCursor@@@@QEAAAEAV0@AEBV0@@Z (REF 001B: ??0?$QMap@HVQTuioCursor@@@@QEAA@AEBV0@@Z)
+            FA488BD94885D2740A488BCAE8........EB0383:
+              0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+          304C8B014C8BCA488BD9418B5008418B40040FBAF21FFF:
+            0. 5F 445B 00BE 0000:?append@?$QVector@VQTuioCursor@@@@QEAAXAEBVQTuioCursor@@@Z
+          404C8B01488BD9458B4808418B4004410FBAF11FFFC041:
+            0. 73 BA17 00DB 0000:?append@?$QVector@VQTuioToken@@@@QEAAXAEBVQTuioToken@@@Z
+      18555657415641574883EC20488B024C8BF24C8BF9498BD0498BCE49:
+        0. 0B CCED 010C 0000:??$printSequentialContainer@V?$QList@VQVariant@@@@@QtPrivate@@YA?AVQDebug@@V1@PEBDAEBV?$QList@VQVariant@@@@@Z
+  8B:
+    41104885C074298B1233C93950187C09488BC8488B4008EB04488B401048:
+      0. 15 E542 0035 0000:?findNode@?$QMapData@HVQTuioToken@@@@QEBAPEAU?$QMapNode@HVQTuioToken@@@@AEBH@Z
+      1. 15 E542 0035 0000:?findNode@?$QMapData@HVQTuioCursor@@@@QEBAPEAU?$QMapNode@HVQTuioCursor@@@@AEBH@Z
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QTuioTouchPlugin@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QTuioTouchPlugin@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@QTuioHandler@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QTuioHandler@@2UQMetaObject@@B)
+    C4:
+      488958:
+        08:
+          4889:
+            6810488970184889782041:
+              54415641574883EC20488B01:
+                0. 1C F423 0161 0000:?realloc@?$QVector@VQOscMessage@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+              564883EC204C8B014C8BF149:
+                0. 0C 85DB 00CE 0000:?detach_helper@?$QList@UTouchPoint@QWindowSystemInterface@@@@AEAAXH@Z
+            7010488978184C89702055488BEC4883EC40488BF1488B:
+              0. 50 464F 0196 0000:?append@?$QVector@VQOscBundle@@@@QEAAXAEBVQOscBundle@@@Z
+          5556574154415541564157488D6C24B04881EC500100000F29:
+            0. 3F 8D24 0707 0000:?process2DObjSet@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+        104889:
+          48085556574154415541564157488DA888FEFFFF4881EC:
+            0. 1F EDD8 080F 0000:??0QTuioHandler@@QEAA@AEBVQString@@@Z
+          701848897820554154415541564157488D68:
+            884881EC50:
+              0. 0A 37C2 0346 0000:?process2DObjFseq@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+            A84881EC30:
+              0. 06 D90C 0324 0000:?process2DCurFseq@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+        18488970205557415541564157488BEC4883EC6048834A08FF4C:
+          0. 4F C3ED 0221 0000:?cursorToTouchPoint@QTuioHandler@@AEAA?AUTouchPoint@QWindowSystemInterface@@AEBVQTuioCursor@@PEAVQWindow@@@Z (000D: 48)
+          1. 4F C3ED 0246 0000:?tokenToTouchPoint@QTuioHandler@@AEAA?AUTouchPoint@QWindowSystemInterface@@AEBVQTuioToken@@PEAVQWindow@@@Z (000D: 49)
+      55535657415441564157488D68A84881EC200100000F2970B8488BF90F:
+        0. 1E B246 04F1 0000:?process2DCurSet@QTuioHandler@@AEAAXAEBVQOscMessage@@@Z
+    CABA:
+      1C000000448D42ECE9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@VQTuioCursor@@@@AEAAXPEAU?$QTypedArrayData@VQTuioCursor@@@@@Z
+      2C000000448D42DCE9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@VQTuioToken@@@@AEAAXPEAU?$QTypedArrayData@VQTuioToken@@@@@Z
+  8D:
+    05........:
+      4889:
+        01488D05........48894108488BC1C3:
+          0. 00 0000 0019 0000:?qt_static_plugin_QTuioTouchPlugin@@YA?BUQStaticPlugin@@XZ
+        41:
+          08488D05........48894110488BC1C3:
+            0. 00 0000 001A 0000:??0QOscMessage@@AEAA@XZ
+          1048894118488BC1C3:
+            0. 00 0000 0013 0000:??0QOscBundle@@AEAA@XZ
+      C3:
+        0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QTuioTouchPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+    0D........E9:
+      0. 00 0000 000C (l)0000:??__Fcategory@?1??lcTuioSet@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcTuioSet@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+      1. 00 0000 000C (l)0000:??__Fcategory@?1??lcTuioSource@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcTuioSource@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+      2. 00 0000 000C (l)0000:??__Fcategory@?1??lcTuioMessage@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcTuioMessage@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+      3. 00 0000 000C (l)0000:??__Fcategory@?1??lcTuioBundle@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcTuioBundle@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+      4. 00 0000 000C (l)0000:??__Fcategory@?1??lcTuioHandler@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcTuioHandler@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+493BD074:
+  2D48895C2408574883EC20498BF8488BDA488BCB33D24883C318E8:
+    0. 00 0000 0033 0000:?destruct@?$QVector@VQOscMessage@@@@AEAAXPEAVQOscMessage@@0@Z
+  4248895C24084889742410574883EC20498BF0488BFA488BDF4883C7:
+    0. 06 CB50 0048 0000:?destruct@?$QVector@VQOscBundle@@@@AEAAXPEAVQOscBundle@@0@Z
+  4448895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+    0. 0D 1454 004A 0000:?copyConstruct@?$QVector@VQOscBundle@@@@AEAAXPEBVQOscBundle@@0PEAV2@@Z
+  5E48895C24084889742410574883EC20498BF8488BDA488BF34883C3:
+    0. 22 DC94 0064 0000:?destruct@?$QVector@VQOscBundle@@@@AEAAXPEAVQOscBundle@@0@Z
+  6348895C24084889742410574883EC20498BF9498BF0488BDA488BCF:
+    0. 2C 581D 0069 0000:?copyConstruct@?$QVector@VQOscMessage@@@@AEAAXPEBVQOscMessage@@0PEAV2@@Z
+  6748895C24084889742410574883EC20498BD8488BF24883EB08488B:
+    0. 27 03A2 006D 0000:?node_destruct@?$QList@UTouchPoint@QWindowSystemInterface@@@@AEAAXPEAUNode@1@0@Z
+8379:
+  18047565F30F1051:
+    040F57E4F20F1005........0F57ED0F5AD2F30F5AE1:
+      0. 04 5FA2 0071 0000:?setX@QTuioCursor@@QEAAXM@Z
+    080F57E4F20F1005........0F57ED0F5AD2F30F5AE1:
+      0. 04 5FA2 0071 0000:?setY@QTuioCursor@@QEAAXM@Z
+  28047565F30F1051:
+    080F57E4F20F1005........0F57ED0F5AD2F30F5AE1:
+      0. 04 5FA2 0071 0000:?setX@QTuioToken@@QEAAXM@Z
+    0C0F57E4F20F1005........0F57ED0F5AD2F30F5AE1:
+      0. 04 5FA2 0071 0000:?setY@QTuioToken@@QEAAXM@Z
+E9:
+  0. 00 0000 0005 0000:?deleteNode@?$QMapData@HVQTuioToken@@@@QEAAXPEAU?$QMapNode@HVQTuioToken@@@@@Z (REF 0001: ?freeNodeAndRebalance@QMapDataBase@@QEAAXPEAUQMapNodeBase@@@Z)
+  1. 00 0000 0005 0000:?qt_metacall@QTuioTouchPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QGenericPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  2. 00 0000 0005 0000:?deleteNode@?$QMapData@HVQTuioCursor@@@@QEAAXPEAU?$QMapNode@HVQTuioCursor@@@@@Z (REF 0001: ?freeNodeAndRebalance@QMapDataBase@@QEAAXPEAUQMapNodeBase@@@Z)

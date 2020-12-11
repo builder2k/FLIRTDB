@@ -1,0 +1,1745 @@
+0F3148C1E220:
+  0F57E4480BC2482B4108F2480F2AE07908F20F5825........0F:
+    0. 09 52C7 006B 0000:?stop@QBenchmarkTickMeasurer@@UEAA_JXZ
+    1. 09 52C7 006B 0000:?checkpoint@QBenchmarkTickMeasurer@@UEAA_JXZ
+  480BC248894108C3:
+    0. 00 0000 000E 0000:?start@QBenchmarkTickMeasurer@@UEAAXXZ
+33C0:
+  48:
+    85D2743F4885C974760F10020F11010F104A100F1149100F1042200F11:
+      0. 66 767E 0086 0000:?Construct@?$QMetaTypeFunctionHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+    8905........488905........488905........488905........8805:
+      0. 00 0000 003C 0000:?reset@QTestResult@@SAXXZ
+  8905........8905........8905........C3:
+    0. 00 0000 0015 0000:?resetCounters@QTestLog@@SAXXZ
+40:
+  53:
+    48:
+      81EC5002000048C7442420FEFFFFFF488B05........4833C448898424:
+        0. 08 79E4 0098 0000:?startLogging@QTapTestLogger@@UEAAXXZ
+      83EC:
+        20:
+          41B80A000000488D542438488BD9FF15........488B54243880:
+            0. 0B 9FE1 0053 (l)0000:?qToInt@QTest@@YAHPEBD@Z (l)0053:$LN5
+          48:
+            634204488BDA4C8D044049C1E0044C0342104C03C248035210:
+              0. 01 3E9B 003B 0000:?freeData@?$QVector@VQBenchmarkResult@@@@AEAAXPEAU?$QTypedArrayData@VQBenchmarkResult@@@@@Z
+            83:
+              25........00:
+                488B194885DB7415488BCBE8........BA30:
+                  0. 07 111F 0031 0000:??1QTestTable@@QEAA@XZ
+                E8........E8........488B1D........48:
+                  0. 08 7889 004B 0000:?qCleanup@QTest@@YAXXZ
+              611800488D590833C9E8........488BC8488BD34883C420:
+                0. 02 D742 0026 0000:?start@QBenchmarkEvent@@UEAAXXZ
+            8911488BD94885D27517448D4236488D15........488D0D:
+              0. 00 0000 0031 0000:??0QTestXunitStreamer@@QEAA@PEAVQXunitTestLogger@@@Z
+            8B:
+              01488BD9448B4008410FBAF01F413BD07E084533C0E8:
+                0. 00 0000 0051 0000:?reserve@?$QVector@VQByteArray@@@@QEAAXH@Z
+              1D........4885DB7415488BCBE8........BA0800000048:
+                0. 03 C2A6 0035 0000:?clearGlobalTestTable@QTestTable@@SAXXZ
+              D9:
+                48:
+                  81C1A0000000E8........488D8B90000000488B1183:
+                    0. 19 C533 0095 0000:??1QAbstractItemModelTesterPrivate@@UEAA@XZ
+                  83C130E8........488D4B204883C4205BE9:
+                    0. 00 0000 0020 0000:??1Changing@QAbstractItemModelTesterPrivate@@QEAA@XZ
+                  85C9750833C04883C4205BC3E8........488D4801E8:
+                    0. 00 0000 0034 0000:?toString@QTest@@YAPEADPEBD@Z
+                  8B:
+                    094885C974:
+                      0A488B01BA01000000FF10488325:
+                        0. 00 0000 005D 0000:??1QBenchmarkGlobalData@@QEAA@XZ
+                      24488B531041B810000000482BD148C1:
+                        0. 03 A435 003B 0000:??1?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@QEAA@XZ
+                    0D........8B412483F8FF7509488B09488B01FF50:
+                      0. 0A B480 002A 0000:?adjustIterationCount@QBenchmarkTestMethodData@@QEAAHH@Z
+                    49:
+                      08:
+                        4885C97406FF15........4883630800488363:
+                          0. 08 DDE5 0028 0000:?cleanup@DebugSymbolResolver@@AEAAXXZ
+                        83390074118339FF741E83C8FFF00FC10183F8:
+                          0. 11 A4AF 0065 0000:??1QBenchmarkContext@@QEAA@XZ
+                      504885C97425488B536041B810000000482BD148:
+                        0. 04 D428 003D 0000:??1TestMethods@QTest@@QEAA@XZ
+                89513C488B094885C9740A488B01BA01000000FF10488B:
+                  0. 02 034A 002F 0000:?setMode@QBenchmarkGlobalData@@QEAAXW4Mode@1@@Z
+                B930000000E8........33C94889084889480848894810:
+                  0. 15 5DEC 003F 0000:??0QTestTable@@QEAA@XZ
+                E8........488D05........:
+                  488903:
+                    33C0488943104889:
+                      0. 1A 480B 003A 0000:??0QXunitTestLogger@@QEAA@PEBD@Z
+                    48:
+                      8BC34883C4205B:
+                        0. 01 EF04 0021 0000:??0QPlainTestLogger@@QEAA@PEBD@Z (REF 0011: ??_7QPlainTestLogger@@6B@)
+                        1. 01 EF04 0021 0000:??0QCsvBenchmarkLogger@@QEAA@PEBD@Z (REF 0011: ??_7QCsvBenchmarkLogger@@6B@)
+                      8D05........48:
+                        0. 14 4E7B 0034 0000:??0QTeamCityLogger@@QEAA@PEBD@Z
+                  C6431000488903488BC348:
+                    0. 05 28D1 0025 0000:??0QTapTestLogger@@QEAA@PEBD@Z
+            8D05........488BD9488901:
+              48:
+                83C108488D05........4889:
+                  0. 02 D97D 0036 0000:??1QBenchmarkEvent@@UEAA@XZ
+                8B:
+                  41104885C0740548836008:
+                    0. 3B E472 005B 0000:??1?$QTestCoreList@VQTestElement@@@@UEAA@XZ (REF 0009: ??_7?$QTestCoreList@VQTestElement@@@@6B@)
+                    1. 3B E472 005B 0000:??1?$QTestCoreList@VQTestElementAttribute@@@@UEAA@XZ (REF 0009: ??_7?$QTestCoreList@VQTestElementAttribute@@@@6B@)
+                  49:
+                    18:
+                      4885C9740A488B01BA:
+                        0. 0F 5807 0033 0000:??1?$QTestCoreElement@VQTestElement@@@@UEAA@XZ
+                      E8........488BCB48:
+                        0. 05 705F 0029 0000:??1QTestElementAttribute@@UEAA@XZ
+                    284885C9740A488B01BA:
+                      0. 0F 5807 0033 0000:??1QTestElement@@UEAA@XZ
+              F6C201740ABA:
+                08000000E8:
+                  0. 00 0000 002B 0000:??_GQBenchmarkMeasurerBase@@UEAAPEAXI@Z
+                10000000E8:
+                  0. 00 0000 002B 0000:??_GQBenchmarkTickMeasurer@@UEAAPEAXI@Z
+                18000000E8:
+                  0. 00 0000 002B 0000:??_GQBenchmarkTimeMeasurer@@UEAAPEAXI@Z
+          498BC04C8BD284C9743E833D........007431803D........00:
+            0. 0C 5B71 00B4 (l)0000:?checkStatement@@YA_N_NPEBD1H@Z
+          4C:
+            634204488BDA49C1E0064C0342104C03C248035210E8:
+              0. 00 0000 0037 0000:?freeData@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXPEAU?$QTypedArrayData@UChanging@QAbstractItemModelTesterPrivate@@@@@Z
+            8B4A10488BDA486342044D8D04C14C03C24903D1E8:
+              0. 11 F075 0035 0000:?freeData@?$QVector@VQByteArray@@@@AEAAXPEAU?$QTypedArrayData@VQByteArray@@@@@Z
+          4D8BC8488BD94533C0E8........488D05........488903488B:
+            0. 07 D358 0027 0000:??0QAbstractItemModelTester@@QEAA@PEAVQAbstractItemModel@@PEAVQObject@@@Z
+          80B99800000000488BD9752DE8........488BCBE8........48:
+            0. 03 C2A6 0045 0000:?runAllTests@QAbstractItemModelTesterPrivate@@QEAAXXZ
+          83:
+            2100488BD9:
+              488B05........488B08488B01FF5010488BC348:
+                0. 05 28D1 0025 0000:??0QBenchmarkIterationController@QTest@@QEAA@XZ
+              83FA01750A488B05........885031488B05:
+                0. 00 0000 0034 0000:??0QBenchmarkIterationController@QTest@@QEAA@W4RunMode@01@@Z
+            3D........FE488BD97E25E8........33C94885C07419833D:
+              0. 00 0000 003D 0000:?ignoreClass@QSignalDumper@@SAXAEBVQByteArray@@@Z
+          8BD985C97F1941B8AF090000488D15........488D0D:
+            0. 01 3E9B 0031 0000:?qSleep@QTest@@YAXH@Z
+          BA:
+            01000000488BD9E8........8943344883C4205BC3:
+              0. 00 0000 001C 0000:?beginDataRun@QBenchmarkTestMethodData@@QEAAXXZ
+            65000000FF15........488BD84885C07451488BC8E8:
+              0. 00 0000 0070 (l)0000:?massageExponent@@YAXPEAD@Z
+          E8........E8........8BD8E8........8BC34883C4205BC3:
+            0. 00 0000 001F 0000:?qExec@QTest@@YAHPEAVQObject@@HPEAPEAD@Z
+          EB21488B4318488D4B08488905........E8........BA200000:
+            0. 05 165C 003B 0000:?clearIgnoreMessages@QTestLog@@SAXXZ
+        30:
+          48:
+            8BD9E8........83F8017C1E83642420004C8D05........45:
+              0. 05 FC7F 0037 0000:?enterTestFunction@QPlainTestLogger@@UEAAXPEBD@Z
+            C7442420FEFFFFFF:
+              488B:
+                59084885DB742983C8FFF00FC14304:
+                  0. 1C 80E7 0047 0000:??1?$QSharedPointer@VQTemporaryDir@@@@QEAA@XZ
+                D9:
+                  4183C8FF488D4C2440E8:
+                    0. 08 7884 0074 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+                  B928000000E8........4C8BC048:
+                    0. 36 2475 0056 0000:?_Buynode0@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@2@XZ (l)0056:$LN187
+                  E8........:
+                    85C00F85F400000048:
+                      0. 03 C2A6 011B (l)0000:?isValidSlot@@YA_NAEBVQMetaMethod@@@Z
+                    B908000000E8:
+                      0. 00 0000 0070 0000:?startLogging@QXunitTestLogger@@UEAAXXZ
+                DAE8........488BC8488944244066:
+                  0. 25 0783 0045 0000:??$_Buynode@AEBVQByteArray@@@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@1@AEBVQByteArray@@@Z (l)0045:$LN158
+              8B:
+                1D........85DB751D448D43014883CA:
+                  0. 04 E91E 004C 0000:??1?$ConverterFunctor@V?$QVector@H@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@H@@@3@@QtPrivate@@QEAA@XZ (REF 0037: ?qt_metatype_id@?$QMetaTypeId@V?$QVector@H@@@@SAHXZ)
+                  1. 04 E91E 004C 0000:??1?$ConverterFunctor@V?$QList@VQPersistentModelIndex@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QList@VQPersistentModelIndex@@@@@3@@QtPrivate@@QEAA@XZ (REF 0037: ?qt_metatype_id@?$QMetaTypeId@V?$QList@VQPersistentModelIndex@@@@@@SAHXZ)
+                413C83F80475178D480CE8........48:
+                  0. 05 C3B4 008D 0000:?createMeasurer@QBenchmarkGlobalData@@QEAAPEAVQBenchmarkMeasurerBase@@XZ
+          4C8B01488D05........488BDA33D2895424204C3BC07407498B:
+            0. 0D 6AD0 003A 0000:?toLocal8Bit@QString@@QEGBA?AVQByteArray@@XZ
+            1. 0D 6AD0 003A 0000:?toLocal8Bit@QString@@QEHAA?AVQByteArray@@XZ
+          8364242000488B:
+            D9E8........488BC34883C4305BC3:
+              0. 00 0000 001C 0000:?decodeName@QFile@@SA?AVQString@@AEBVQByteArray@@@Z
+            DA:
+              488BD1488BCBE8........488BC34883C430:
+                0. 02 8FCC 0022 0000:?toUtf8@QString@@QEGBA?AVQByteArray@@XZ
+                1. 02 8FCC 0022 0000:?simplified@QByteArray@@QEGBA?AV1@XZ
+                2. 02 8FCC 0022 0000:?toUtf8@QString@@QEHAA?AVQByteArray@@XZ
+                3. 02 8FCC 0022 0000:?simplified@QString@@QEHAA?AV1@XZ
+                4. 02 8FCC 0022 0000:?toLatin1@QString@@QEGBA?AVQByteArray@@XZ
+                5. 02 8FCC 0022 0000:?toLatin1@QString@@QEHAA?AVQByteArray@@XZ
+                6. 02 8FCC 0022 0000:?toLower@QString@@QEHAA?AV1@XZ
+              E8........488BC34883C4305BC3:
+                0. 00 0000 001C 0000:??B?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@UQLatin1Char@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@UQLatin1Char@@@@AEBA?AVQString@@XZ)
+                1. 00 0000 001C 0000:??B?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@AEBA?AVQString@@XZ)
+                2. 00 0000 001C 0000:??B?$QStringBuilder@VQLatin1String@@VQString@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@VQLatin1String@@VQString@@@@AEBA?AVQString@@XZ)
+                3. 00 0000 001C 0000:??B?$QStringBuilder@V?$QStringBuilder@VQByteArray@@$$BY01D@@VQByteArray@@@@QEBA?AVQByteArray@@XZ (REF 000F: ??$convertTo@VQByteArray@@@?$QStringBuilder@V?$QStringBuilder@VQByteArray@@$$BY01D@@VQByteArray@@@@AEBA?AVQByteArray@@XZ)
+                4. 00 0000 001C 0000:??B?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@AEBA?AVQString@@XZ)
+                5. 00 0000 001C 0000:??B?$QStringBuilder@UQLatin1Char@@VQString@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBA?AVQString@@XZ)
+                6. 00 0000 001C 0000:??B?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEBA?AVQString@@XZ)
+                7. 00 0000 001C 0000:??B?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@AEBA?AVQString@@XZ)
+                8. 00 0000 001C 0000:??B?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@AEBA?AVQString@@XZ)
+                9. 00 0000 001C 0000:??B?$QStringBuilder@VQLatin1String@@V1@@@QEBA?AVQString@@XZ (REF 000F: ??$convertTo@VQString@@@?$QStringBuilder@VQLatin1String@@V1@@@AEBA?AVQString@@XZ)
+        40:
+          0FB7442478488BDA836424300066894424288B4424704D63C089:
+            0. 04 AAB0 0031 0000:?arg@QString@@QEBA?AV1@HHHVQChar@@@Z
+          8364242000488BDA4C8944242841B8020000004C894C24304C8D:
+            0. 04 B29B 0031 0000:?arg@QString@@QEBA?AV1@AEBV1@0@Z
+        604C8BCA4C8BD24C2BC948BBABAAAAAAAAAAAA2A488BC34C8BD949:
+          0. 26 1E99 011B 0000:??$_Pop_heap_unchecked@PEAVQBenchmarkResult@@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@0AEAU?$less@X@0@@Z
+    55565741:
+      55415641574883EC4048C7442430FEFFFFFF458BF8488BEA4C8B:
+        0. 0F 81E9 0194 0000:?addSkip@QTestLog@@SAXPEBD0H@Z
+      564881EC:
+        40040000488B05........4833C44889842430040000:
+          0. 1A BAE7 0115 0000:?verify@QTestResult@@SA_N_NPEBD11H@Z
+        C000000048C7442430FEFFFFFF488B05........4833:
+          0. 1A E918 0231 0000:?addMessage@QXunitTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z
+    56574881EC:
+      5002000048C7442420FEFFFFFF488B05........4833C44889:
+        0. 3A 9ED8 00A4 0000:?outputElementAttributes@QTestXunitStreamer@@QEBAXPEBVQTestElement@@PEAVQTestElementAttribute@@@Z
+      90010000488B05........4833C44889842480010000488322:
+        0. 24 C5FA 00A1 0000:?resolveSymbol@DebugSymbolResolver@@QEBA?AUSymbol@1@_K@Z
+    574154415641574881ECD000000048C7442458FEFFFFFF48833D:
+      0. 0C D460 030C 0000:?qRun@QTest@@YAHXZ (l)030C:$LN421
+  55:
+    48:
+      83EC20488BEA:
+        488B55:
+          30488B4D38E8........4883C4205DC3488B8A38:
+            0. 08 6819 0087 (l)0000:?dtor$0@?0??realloc@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)001C:?dtor$4@?0??realloc@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)002C:?catch$12@?0??realloc@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)0039:__catch$?realloc@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$0 (l)005E:?catch$13@?0??realloc@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)006B:__catch$?realloc@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$2
+          40488B4D48E8........4883C4205DC3:
+            0. 00 0000 001C (l)0000:?dtor$0@?0??Construct@?$QMetaTypeFunctionHelper@V?$QVector@H@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z@4HA
+            1. 00 0000 001C (l)0000:?dtor$0@?0??Construct@?$QMetaTypeFunctionHelper@V?$QList@VQPersistentModelIndex@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z@4HA
+          50488B4D:
+            28E8........4883C4205DC348895424:
+              0. 1C 8903 0058 (l)0000:?dtor$1@?0??node_copy@?$QList@VQPersistentModelIndex@@@@AEAAXPEAUNode@1@00@Z@4HA (l)001C:?catch$4@?0??node_copy@?$QList@VQPersistentModelIndex@@@@AEAAXPEAUNode@1@00@Z@4HA (l)002A:__catch$?node_copy@?$QList@VQPersistentModelIndex@@@@AEAAXPEAUNode@1@00@Z$2
+            58E8........4883C4205DC348895424:
+              0. 18 EB3D 0079 (l)0000:?dtor$4@?0??append@?$QList@VQPersistentModelIndex@@@@QEAAXAEBVQPersistentModelIndex@@@Z@4HA (l)001C:?catch$11@?0??append@?$QList@VQPersistentModelIndex@@@@QEAAXAEBVQPersistentModelIndex@@@Z@4HA (l)0029:__catch$?append@?$QList@VQPersistentModelIndex@@@@QEAAXAEBVQPersistentModelIndex@@@Z$0 (l)003D:?dtor$8@?0??append@?$QList@VQPersistentModelIndex@@@@QEAAXAEBVQPersistentModelIndex@@@Z@4HA (l)0059:?catch$12@?0??append@?$QList@VQPersistentModelIndex@@@@QEAAXAEBVQPersistentModelIndex@@@Z@4HA (l)0066:__catch$?append@?$QList@VQPersistentModelIndex@@@@QEAAXAEBVQPersistentModelIndex@@@Z$4
+        8B:
+          45:
+            2083E00185C0740D836520FE48:
+              8B4D:
+                40E8:
+                  0. 18 7BDF 0042 (l)0000:?dtor$0@?0???$create@$$V@?$QSharedPointer@VQTemporaryDir@@@@SA?AV0@XZ@4HA (l)0026:?dtor$1@?0???$create@$$V@?$QSharedPointer@VQTemporaryDir@@@@SA?AV0@XZ@4HA
+                48E8:
+                  0. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@UQLatin1Char@@@@AEBA?AVQString@@XZ@4HA
+                  1. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@AEBA?AVQString@@XZ@4HA
+                  2. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@VQLatin1String@@VQString@@@@AEBA?AVQString@@XZ@4HA
+                  3. 06 899E 0026 (l)0000:?dtor$0@?0???B?$QStringBuilder@VQString@@V1@@@QEBA?AVQString@@XZ@4HA
+                  4. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@AEBA?AVQString@@XZ@4HA
+                  5. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBA?AVQString@@XZ@4HA
+                  6. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEBA?AVQString@@XZ@4HA
+                  7. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@AEBA?AVQString@@XZ@4HA
+                  8. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@AEBA?AVQString@@XZ@4HA
+                  9. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQString@@@?$QStringBuilder@VQLatin1String@@V1@@@AEBA?AVQString@@XZ@4HA
+                  10. 06 899E 0026 (l)0000:?dtor$0@?0???B?$QStringBuilder@VQByteArray@@V1@@@QEBA?AVQByteArray@@XZ@4HA
+                58E8:
+                  0. 06 899E 0026 (l)0000:?dtor$0@?0???$convertTo@VQByteArray@@@?$QStringBuilder@V?$QStringBuilder@VQByteArray@@$$BY01D@@VQByteArray@@@@AEBA?AVQByteArray@@XZ@4HA
+              8D4D50E8:
+                0. 06 899E 0026 (l)0000:?dtor$0@?0??fromLocal8Bit@QString@@SA?AV1@AEBVQByteArray@@@Z@4HA
+                1. 06 899E 0026 (l)0000:?dtor$0@?0??fromLatin1@QString@@SA?AV1@AEBVQByteArray@@@Z@4HA
+            3483E00185C07410836534FE488B8D20030000E8:
+              0. 00 0000 02E6 (l)0000:?dtor$0@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0029:?dtor$1@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0035:?dtor$2@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0041:?dtor$4@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)006A:?dtor$6@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0076:?dtor$7@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0082:?dtor$8@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)008E:?dtor$9@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)009A:?dtor$10@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00A6:?dtor$11@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00B2:?dtor$12@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00BE:?dtor$13@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00CA:?dtor$14@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00D6:?dtor$15@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00E2:?dtor$16@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00EE:?dtor$17@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)00FA:?dtor$18@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0106:?dtor$19@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0112:?dtor$20@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)011E:?dtor$21@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)012A:?dtor$22@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0136:?dtor$23@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0142:?dtor$24@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)014E:?dtor$25@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)015A:?dtor$26@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0166:?dtor$27@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0172:?dtor$28@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)017E:?dtor$29@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)018A:?dtor$30@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0196:?dtor$31@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01A2:?dtor$32@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01AE:?dtor$33@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01BA:?dtor$34@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01C6:?dtor$35@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01D2:?dtor$36@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01DE:?dtor$37@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01EA:?dtor$38@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)01F6:?dtor$39@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0202:?dtor$40@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)020E:?dtor$41@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)021A:?dtor$42@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0226:?dtor$43@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0232:?dtor$44@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)023E:?dtor$45@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)024A:?dtor$46@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0256:?dtor$47@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0262:?dtor$48@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)026E:?dtor$49@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)027A:?dtor$50@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0286:?dtor$51@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)0292:?dtor$52@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)029E:?dtor$53@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)02AA:?dtor$54@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)02B6:?dtor$55@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)02C2:?dtor$56@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)02CE:?dtor$57@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA (l)02DA:?dtor$58@?0??qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z@4HA
+            4083E00185C07410836540FE488B8D20010000E8:
+              0. 00 0000 0095 (l)0000:?dtor$0@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0029:?dtor$1@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0035:?dtor$2@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0041:?dtor$3@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)004D:?dtor$4@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0059:?dtor$5@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0065:?dtor$6@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0071:?dtor$7@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)007D:?dtor$8@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0089:?dtor$9@?0??activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA
+          858000000083E00185C0741083A580000000FE488D4D:
+            0. 02 A3D2 0084 (l)0000:?dtor$0@?0??matches@IgnoreResultList@QTest@@QEBA_NW4QtMsgType@@AEBVQString@@@Z@4HA (l)002C:?dtor$1@?0??matches@IgnoreResultList@QTest@@QEBA_NW4QtMsgType@@AEBVQString@@@Z@4HA (l)0058:?dtor$2@?0??matches@IgnoreResultList@QTest@@QEBA_NW4QtMsgType@@AEBVQString@@@Z@4HA
+        BA:
+          08000000488B4D40E8........4883C4205DC3:
+            405548:
+              0. 10 51DB 003A (l)0000:?dtor$0@?0??startLogging@QXunitTestLogger@@UEAAXXZ@4HA (l)001D:?dtor$1@?0??startLogging@QXunitTestLogger@@UEAAXXZ@4HA
+            ..:
+              0. 00 0000 001D (l)0000:?dtor$0@?0??newData@QTestTable@@QEAAPEAVQTestData@@PEBD@Z@4HA
+              1. 00 0000 001D (l)0000:?dtor$0@?0??globalTestTable@QTestTable@@SAPEAV1@XZ@4HA
+          10000000488B4D48E8........4883C4205DC3405548:
+            0. 10 629D 00CB (l)0000:?dtor$0@?0??addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z@4HA (l)001D:?dtor$1@?0??addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z@4HA (l)003A:?dtor$2@?0??addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z@4HA (l)0057:?dtor$3@?0??addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z@4HA (l)0074:?dtor$4@?0??addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z@4HA (l)0091:?dtor$5@?0??addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z@4HA (l)00AE:?dtor$6@?0??addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z@4HA
+          20000000488B4D40E8........4883C4205DC3:
+            0. 00 0000 001D (l)0000:?dtor$0@?0??append@IgnoreResultList@QTest@@SAXAEAPEAU12@W4QtMsgType@@AEBVQVariant@@@Z@4HA
+            1. 00 0000 001D (l)0000:?dtor$0@?0??createMeasurer@QBenchmarkGlobalData@@QEAAPEAVQBenchmarkMeasurerBase@@XZ@4HA
+          28000000488B4D58E8........4883C4205DC3:
+            0. 00 0000 001D (l)0000:?dtor$0@?0??addAttribute@?$QTestCoreElement@VQTestElement@@@@QEAAXW4AttributeIndex@QTest@@PEBD@Z@4HA
+          38000000488B4D:
+            20E8........4883C4205DC3:
+              405548:
+                0. 10 04BE 0091 (l)0000:?dtor$0@?0??stopLogging@QXunitTestLogger@@UEAAXXZ@4HA (l)001D:?dtor$1@?0??stopLogging@QXunitTestLogger@@UEAAXXZ@4HA (l)003A:?dtor$2@?0??stopLogging@QXunitTestLogger@@UEAAXXZ@4HA (l)0057:?dtor$3@?0??stopLogging@QXunitTestLogger@@UEAAXXZ@4HA (l)0074:?dtor$4@?0??stopLogging@QXunitTestLogger@@UEAAXXZ@4HA
+              488D8A:
+                0. 05 098F 0052 (l)0000:?dtor$0@?0??addMessage@QXunitTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)001D:?dtor$1@?0??addMessage@QXunitTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0029:?dtor$2@?0??addMessage@QXunitTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0046:?dtor$3@?0??addMessage@QXunitTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (0004: 40)
+                1. 05 098F 0035 (l)0000:?dtor$0@?0??addBenchmarkResult@QXunitTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA (l)001D:?dtor$1@?0??addBenchmarkResult@QXunitTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA (l)0029:?dtor$2@?0??addBenchmarkResult@QXunitTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA (0004: 48)
+            30E8........4883C4205DC3488D8A:
+              0. 05 6961 0029 (l)0000:?dtor$0@?0??addIncident@QXunitTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)001D:?dtor$1@?0??addIncident@QXunitTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA
+            40E8........4883C4205DC3:
+              0. 00 0000 001D (l)0000:?dtor$0@?0??enterTestFunction@QXunitTestLogger@@UEAAXPEBD@Z@4HA
+          A8000000488B8D88000000E8........4883C4205DC3:
+            0. 08 97E7 002C (l)0000:?dtor$0@?0???0QAbstractItemModelTester@@QEAA@PEAVQAbstractItemModel@@W4FailureReportingMode@0@PEAVQObject@@@Z@4HA (l)0020:?dtor$1@?0???0QAbstractItemModelTester@@QEAA@PEAVQAbstractItemModel@@W4FailureReportingMode@0@PEAVQObject@@@Z@4HA
+      8BEC4883EC:
+        3048C745F0FEFFFFFF48895C244048897C2450488BFA8BD9:
+          0. 08 1849 018B 0000:?addLogger@QTestLog@@SAXW4LogMode@1@PEBD@Z
+        704883659800488D05........8365A400488945B0488D05:
+          0. 00 0000 00CF 0000:?convert@?$ConverterFunctor@V?$QVector@H@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@H@@@3@@QtPrivate@@SA_NPEBUAbstractConverterFunction@2@PEBXPEAX@Z (0062: 02)
+          1. 00 0000 00CF 0000:?convert@?$ConverterFunctor@V?$QList@VQPersistentModelIndex@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QList@VQPersistentModelIndex@@@@@3@@QtPrivate@@SA_NPEBUAbstractConverterFunction@2@PEBXPEAX@Z (0062: 32)
+      8D6C24:
+        A94881EC90000000488B05........4833C448894547837920FF:
+          0. 03 616D 00ED 0000:?name@QTestElementAttribute@@QEBAPEBDXZ
+        E04881EC20010000488B85900000000F1000488B8588000000F3:
+          0. D5 F328 0102 0000:?invoke@QMetaMethod@@QEBA_NPEAVQObject@@W4ConnectionType@Qt@@VQGenericArgument@@222222222@Z (REF 00F5: ?invoke@QMetaMethod@@QEBA_NPEAVQObject@@W4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@333333333@Z)
+          1. D5 F328 0102 0000:?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericArgument@@333333333@Z (REF 00F5: ?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z)
+    53:
+      415441554156488BEC4883EC4048C745F0FEFFFFFF4C8BF18365E00048:
+        0. 0E D1D0 0252 0000:?qMedian@QTest@@YA?AVQBenchmarkResult@@AEBV?$QVector@VQBenchmarkResult@@@@@Z
+      5657:
+        41:
+          5441:
+            5541564157488D:
+              6C24E14881ECD800000048C745FFFEFFFF:
+                0. 04 E91E 0371 0000:?printUnhandledIgnoreMessages@QTestLog@@SAXXZ
+              AC24:
+                18FEFFFF4881ECE802000048C74588:
+                  0. 07 DFAF 049F 0000:?invokeTest@TestMethods@QTest@@AEBA_NHPEBDPEAVWatchDog@2@@Z
+                38FFFFFF4881ECC801000048C74568:
+                  0. 70 7DF3 052B 0000:?nonDestructiveBasicTest@QAbstractItemModelTesterPrivate@@QEAAXXZ
+            564157488D6C24D94881EC9000000048C745F7FEFFFFFF33:
+              0. 0D 3FE6 02C9 0000:?parseBlackList@QTestPrivate@@YAXXZ
+          5541564157488BEC4883EC3048C745F0FEFFFFFF488BD98B15:
+            0. 00 0000 020E (l)0000:?checkCondition@@YA_NAEBVQByteArray@@@Z
+          56:
+            4157488BEC4883EC5848C745E8FEFFFFFF488BD9E8:
+              0. 01 3E9B 0193 0000:?startLogging@QTeamCityLogger@@UEAAXXZ
+            488DAC24:
+              70FAFFFF4881EC9006000048C7442440FEFFFFFF48:
+                0. 02 8E30 01D5 0000:?printMessage@QPlainTestLogger@@AEAAXPEBD00H@Z
+              90FCFFFF4881EC7004000048C7442430FEFFFFFF48:
+                0. 02 8E30 011B 0000:?outputTestLine@QTapTestLogger@@AEAAX_NHAEAUQTestCharBuffer@@@Z
+        488BEC4883EC4848C745E8FEFFFFFF488BD9488D0D........E8:
+          0. 00 0000 010B 0000:?stopLogging@QTeamCityLogger@@UEAAXXZ
+      57:
+        41564157488BEC4883EC4048C745:
+          E8FEFFFFFF488BD983CFFF448BC7:
+            0. 03 E07D 01F5 0000:??$toString@VQVariant@@@QTest@@YAPEADAEBVQVariant@@@Z
+          F0FEFFFFFF488BDA488BD1488D4D:
+            0. 02 6722 0135 0000:?setMainSourcePath@QTest@@YAXPEBD0@Z
+        488BEC4883EC:
+          3048C745F0FEFFFFFF8B05........85C00F85:
+            080100:
+              0. 04 3BDB 0131 0000:?qt_metatype_id@?$QMetaTypeIdQObject@W4LayoutChangeHint@QAbstractItemModel@@$0BA@@@SAHXZ (REF 0015: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeIdQObject@W4LayoutChangeHint@QAbstractItemModel@@$0BA@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              1. 04 3BDB 0131 0000:?qt_metatype_id@?$QMetaTypeIdQObject@W4Orientation@Qt@@$0BA@@@SAHXZ (REF 0015: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeIdQObject@W4Orientation@Qt@@$0BA@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+              2. 04 3BDB 0131 0000:?qt_metatype_id@?$QMetaTypeIdQObject@V?$QFlags@W4AlignmentFlag@Qt@@@@$0BA@@@SAHXZ (REF 0015: ?metatype_id@?1??qt_metatype_id@?$QMetaTypeIdQObject@V?$QFlags@W4AlignmentFlag@Qt@@@@$0BA@@@SAHXZ@4V?$QBasicAtomicInteger@H@@A)
+            200100:
+              0. 05 7647 0149 0000:?qt_metatype_id@?$QMetaTypeId@V?$QList@VQPersistentModelIndex@@@@@@SAHXZ
+              1. 05 D4F1 0149 0000:?qt_metatype_id@?$QMetaTypeId@V?$QVector@H@@@@SAHXZ
+          7048C745C0FEFFFFFF488BD933FF217D20C745286400:
+            0. A0 A6B2 00ED 0000:?layoutAboutToBeChanged@QAbstractItemModelTesterPrivate@@QEAAXXZ
+    56574154415541564157488DAC24C0E3FFFFB8401D0000E8........482B:
+      0. 37 FB52 0467 0000:?printBenchmarkResult@QPlainTestLogger@@AEAAXAEBVQBenchmarkResult@@@Z
+  574883EC:
+    3048C7442420FEFFFFFF48:
+      895C24:
+        40:
+          418BD8488BFA488BD1488D4C:
+            0. 03 E7D0 0075 0000:??$qRegisterMetaType@VQSequentialIterableImpl@QtMetaTypePrivate@@@@YAHPEBDPEAVQSequentialIterableImpl@QtMetaTypePrivate@@W4DefinedType@?$MetaTypeDefinedHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtPrivate@@@Z
+          4889742448488B11833A0074:
+            0. 3F 45F5 0082 0000:??1?$QList@VQModelIndex@@@@QEAA@XZ
+            1. 3A FEC6 007D 0000:??1?$QList@VQPersistentModelIndex@@@@QEAA@XZ
+        48488BDA488BF9B9:
+          08000000E8:
+            0. 00 0000 005E 0000:?newData@QTestTable@@QEAAPEAVQTestData@@PEBD@Z
+          38000000E8:
+            0. 00 0000 0063 0000:?enterTestFunction@QXunitTestLogger@@UEAAXPEBD@Z
+        50488BF9488D591848895C2448:
+          0. 09 550F 009C 0000:?beginTest@WatchDog@QTest@@QEAAXXZ
+      8B114889542440488D3D........4889:
+        0. 22 ED88 007A 0000:?clear@?$QList@VQString@@@@QEAAXXZ (REF 0042: ?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z)
+        1. 22 ED88 007A 0000:?clear@?$QList@VQByteArray@@@@QEAAXXZ (REF 0042: ?dealloc@?$QList@VQByteArray@@@@AEAAXPEAUData@QListData@@@Z)
+    4048C74424:
+      20FEFFFFFF48895C2450488BDA8BF948:
+        85D2751941B8:
+          0. 07 5DD6 00AF 0000:?ignoreMessage@QTestLog@@SAXW4QtMsgType@@PEBD@Z
+        8BCAE8:
+          0. 00 0000 0073 0000:?ignoreMessage@QTestLog@@SAXW4QtMsgType@@AEBVQRegularExpression@@@Z
+      38FEFFFFFF48895C2450488BF9448BD285D2742E4183:
+        0. 37 AF61 00AE 0000:?addMessage@QAbstractTestLogger@@UEAAXW4QtMsgType@@AEBVQMessageLogContext@@AEBVQString@@@Z
+4489:
+  44241855535657415441554156488BEC4883EC7048C745D0FEFFFFFF0F29:
+    0. 1C 8D71 02B2 0000:??$formatResult@N@QTest@@YA?AVQString@@NH@Z
+  4C2420:
+    4489442418555356574154415541564157488DAC2458FFFFFF4881:
+      0. 1A F97C 0571 0000:?rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z
+    555356574154415541564157488DAC2438FFFFFF4881ECC8010000:
+      0. 1A EFF1 04FC 0000:?rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z
+45:
+  33C0895120488D05........4C894108488901488BC14C8941104C894118:
+    4C:
+      0. 08 F964 0028 0000:??0QTestElement@@QEAA@H@Z
+    C3:
+      0. 00 0000 0020 0000:??0?$QTestCoreElement@VQTestElement@@@@QEAA@H@Z
+  85C0745F48895C24084889742410574883EC20C60200488BDA4885C9743649:
+    0. 06 10DB 0065 0000:?indentForElement@QTestXunitStreamer@@CAXPEBVQTestElement@@PEADH@Z
+48:
+  3BCA0F84D701000048895C24185556574154415541564157488BEC4883EC70:
+    0. 1B ADE0 01E1 0000:??$_Insertion_sort_unchecked@PEAVQBenchmarkResult@@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@0AEAU?$less@X@0@@Z
+  63C248C1E002480101C3:
+    0. 00 0000 000B 0000:?advance@?$IteratorOwner@PEBH@QtMetaTypePrivate@@SAXPEAPEAXH@Z
+  81ECD8000000488B05........4833C448898424C0000000488B41104C8D05:
+    0. 00 0000 006D 0000:??$toString@VQModelIndex@@@QTest@@YAPEADAEBVQModelIndex@@@Z
+  83:
+    25........00:
+      C605........00E9:
+        0. 00 0000 0014 0000:?finishedCurrentTestFunction@QTestResult@@SAXXZ
+      E9:
+        0. 00 0000 000D 0000:??1QBenchmarkTestMethodData@@QEAA@XZ (REF 0003: ?current@QBenchmarkTestMethodData@@2PEAV1@EA)
+    610800488D05........4883611000488901488BC1C3:
+      0. 00 0000 0018 0000:??0?$QTestCoreList@VQTestElement@@@@QEAA@XZ (REF 0008: ??_7?$QTestCoreList@VQTestElement@@@@6B@)
+      1. 00 0000 0018 0000:??0?$QTestCoreList@VQTestElementAttribute@@@@QEAA@XZ (REF 0008: ??_7?$QTestCoreList@VQTestElementAttribute@@@@6B@)
+    C1:
+      08E9:
+        0. 00 0000 0009 0000:?start@QBenchmarkTimeMeasurer@@UEAAXXZ (REF 0005: ?start@QElapsedTimer@@QEAAXXZ)
+        1. 00 0000 0009 0000:?stop@QBenchmarkTimeMeasurer@@UEAA_JXZ (REF 0005: ?elapsed@QElapsedTimer@@QEBA_JXZ)
+        2. 00 0000 0009 0000:?checkpoint@QBenchmarkTimeMeasurer@@UEAA_JXZ (REF 0005: ?elapsed@QElapsedTimer@@QEBA_JXZ)
+      10E9:
+        0. 00 0000 0009 0000:?deleter@?$ExternalRefCountWithContiguousData@VQTemporaryDir@@@QtSharedPointer@@SAXPEAUExternalRefCountData@2@@Z (REF 0005: ??1QTemporaryDir@@QEAA@XZ)
+    E908E9:
+      0. 00 0000 0009 0000:??_EQBenchmarkEvent@@W7EAAPEAXI@Z (REF 0005: ??_EQBenchmarkEvent@@UEAAPEAXI@Z)
+    EC:
+      18:
+        0F100248832424004C8BC141BB0000004041BAFFFFFF7F0F110141B9:
+          0. AD 2866 00CD 0000:??0Changing@QAbstractItemModelTesterPrivate@@QEAA@$$QEAU01@@Z
+        83242400488D05........488902488BC24883C418C3:
+          0. 00 0000 001A (l)0000:??R<lambda_f5f0fe47ebc1156bc13e9dbc53e0c8e5>@@QEBA?AVQByteArray@@XZ
+      28:
+        0FB6D183FA6E0F87DA0400000F8457030000B9430000003BD10F878E:
+          0. FF 57D9 09BD 0000:?asciiToKey@QTest@@YA?AW4Key@Qt@@D@Z
+        48:
+          890D........C605........004885C97405E8........4883C428:
+            0. 01 EF04 0021 0000:?setCurrentTestFunction@QTestResult@@SAXPEBD@Z (REF 0007: ?currentTestFunc@QTest@@3PEBDEB)
+            1. 01 EF04 0021 0000:?setCurrentTestData@QTestResult@@SAXPEAVQTestData@@@Z (REF 0007: ?currentTestData@QTest@@3PEAVQTestData@@EA)
+          8B:
+            094885C9740B488B01BA01000000FF50184883C428C3:
+              0. 00 0000 001C 0000:??1?$QScopedPointer@VWatchDog@QTest@@U?$QScopedPointerDeleter@VWatchDog@QTest@@@@@@QEAA@XZ
+            0D........:
+              33C04885C97405E8........4883C428C3:
+                0. 00 0000 001C 0000:?currentGlobalDataTag@QTestResult@@SAPEBDXZ (REF 0007: ?currentGlobalTestData@QTest@@3PEAVQTestData@@EA)
+                1. 00 0000 001C 0000:?currentDataTag@QTestResult@@SAPEBDXZ (REF 0007: ?currentTestData@QTest@@3PEAVQTestData@@EA)
+              83390074188339FF74:
+                2083C8FFF00FC10183F80175:
+                  0. 04 A63E 003A (l)0000:??__Floggers@QTest@@YAXXZ
+                2183C8FFF00FC10183F80175:
+                  0. 04 1D22 003B (l)0000:??__FmainSourcePath@QTest@@YAXXZ
+            11833A007411833AFF74:
+              1483C8FFF00FC10283F8017508488B11:
+                0. 01 3E9B 002A 0000:??1?$QVector@VQByteArray@@@@QEAA@XZ (REF 0021: ?freeData@?$QVector@VQByteArray@@@@AEAAXPEAU?$QTypedArrayData@VQByteArray@@@@@Z)
+                1. 01 3E9B 002A 0000:??1?$QVector@VQBenchmarkResult@@@@QEAA@XZ (REF 0021: ?freeData@?$QVector@VQBenchmarkResult@@@@AEAAXPEAU?$QTypedArrayData@VQBenchmarkResult@@@@@Z)
+              1D83C8FFF00FC10283F8017511488B09:
+                0. 0A 7FD3 0033 0000:??1QString@@QEAA@XZ
+                1. 0A A01C 0033 0000:??1QByteArray@@QEAA@XZ
+                2. 0A D044 0033 0000:?Destruct@?$QMetaTypeFunctionHelper@V?$QVector@H@@$00@QtMetaTypePrivate@@SAXPEAX@Z
+            5110833A007411833AFF741E83C8FFF00FC10283F8017512488B:
+              0. 0C 9AB6 0035 0000:?deleteNode2@?$QHash@VQByteArray@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@@Z
+              1. 0C 9AB6 0035 0000:?deleteNode2@?$QHash@HVQByteArray@@@@CAXPEAUNode@QHashData@@@Z
+            C1488B09F6C10174104883E1FE4889084883E1FEE8........48:
+              0. 04 E284 0024 0000:??1QMutexLocker@@QEAA@XZ
+          8D:
+            411048394108740A488B4908FF15........4883C428C3:
+              0. 00 0000 001D 0000:??1?$QVarLengthArray@PEAD$0BAA@@@QEAA@XZ
+              1. 00 0000 001D 0000:??1QTestCharBuffer@@QEAA@XZ
+            542430C644243000488D0D........E8........4883C428C3:
+              0. 00 0000 001F (l)0000:??__EdisableCoreDump_ctor_instance_@?A0xbd1441a5@@YAXXZ
+        4C8B:
+          51104C8BC94C8B4108498BC2492BC048C1F8:
+            03483BC273584C2B:
+              0. 1D 8DEF 007B 0000:?_Reserve@?$vector@PEAVQTestData@@V?$allocator@PEAVQTestData@@@std@@@std@@IEAAX_K@Z (l)007B:$LN134
+            04483BC273584C2B:
+              0. 1D 4363 007B 0000:?_Reserve@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@IEAAX_K@Z (l)007B:$LN134 (REF 0072: ?_Reallocate@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@IEAAX_K@Z)
+              1. 1D 4363 007B 0000:?_Reserve@?$vector@UElement@QTestTablePrivate@@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@IEAAX_K@Z (l)007B:$LN134 (REF 0072: ?_Reallocate@?$vector@UElement@QTestTablePrivate@@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@IEAAX_K@Z)
+          C285C9741283F901751F488B4A104883C428E9........4D85C0:
+            0. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_a12342021166b2bfeee3ba63d1fc9063>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ?layoutAboutToBeChanged@QAbstractItemModelTesterPrivate@@QEAAXXZ)
+            1. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_cc4d3949325d0cf867e5d021feaead1c>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ?layoutChanged@QAbstractItemModelTesterPrivate@@QEAAXXZ)
+            2. 0B E501 0034 0000:?impl@?$QFunctorSlotObject@V<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 0019: ?runAllTests@QAbstractItemModelTesterPrivate@@QEAAXXZ)
+          CA4883C8FF33D249F7F04C3BC87607FF15........CC4D0FAFC8:
+            0. 10 4E0F 006E 0000:?_Deallocate@std@@YAXPEAX_K1@Z (l)006E:$LN10
+          D285C974:
+            1A83F90175274D8B4110498B5108498B4A104883C428:
+              0. 01 B78A 003C 0000:?impl@?$QFunctorSlotObject@V<lambda_da229b9890a5e4933ef9d69d5ebd3581>@@$01U?$List@AEBVQModelIndex@@AEBV1@@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+            2683F9017533498B4910498B5108498B4118448B0149:
+              0. 0D FA72 0048 0000:?impl@?$QFunctorSlotObject@V<lambda_4b8dd06a347451703849b6da9ed1915a>@@$02U?$List@W4Orientation@Qt@@HH@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z
+        4D8BD94C8BD285C9742483F9017531498B4910498B4118498B530844:
+          0. 0E 991E 0049 0000:?impl@?$QFunctorSlotObject@V<lambda_e349c30c114465c598426c765b723430>@@$02U?$List@AEBVQModelIndex@@HH@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 002E: ?rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z)
+          1. 0E 991E 0049 0000:?impl@?$QFunctorSlotObject@V<lambda_f1afd8739f4df012759a1e63f54d9ac2>@@$02U?$List@AEBVQModelIndex@@HH@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 002E: ?rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z)
+          2. 0E 991E 0049 0000:?impl@?$QFunctorSlotObject@V<lambda_f79636bbdddd3f4dee9c3e221c439c1e>@@$02U?$List@AEBVQModelIndex@@HH@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 002E: ?rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z)
+          3. 0E 991E 0049 0000:?impl@?$QFunctorSlotObject@V<lambda_32760ca80b6395518c7bc6ad0aadc38d>@@$02U?$List@AEBVQModelIndex@@HH@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z (REF 002E: ?rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z)
+        65488B0425580000008B0D........BA........488B0CC88B040A39:
+          0. 01 D5A7 0077 (l)0000:?innerFunction@Q_QGS_ignoreClasses@?A0x728182bf@QTest@@YAPEAV?$QList@VQByteArray@@@@XZ
+        803D........007525803D........00751C803D........00488D0D:
+          0. 00 0000 003E 0000:?finishedCurrentTestDataCleanup@QTestResult@@SAXXZ
+        833D........:
+          0074114533C0488D0D........33D2E8........488B:
+            0. 01 9D2B 006A 0000:?finishedCurrentTestData@QTestResult@@SAXXZ
+          FE7E22E8........33C94885C07416833D........FE:
+            0. 03 89F3 0034 0000:?clearIgnoredClasses@QSignalDumper@@SAXXZ
+          FF7563488D15........488D4C2430E8........488B:
+            0. 0F 5F49 007B 0000:?defaultEventDelay@QTest@@YAHXZ
+        85D2750A4585C07505E8........4883C428C3:
+          0. 00 0000 0017 0000:?qt_static_metacall@QTestEventLoop@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+        8B:
+          05........85C0751A448D40014883CAFF488D0D........E8:
+            0. 00 0000 002D 0000:?qt_metatype_id@?$QMetaTypeId@VQSequentialIterableImpl@QtMetaTypePrivate@@@@SAHXZ
+          412883F8FF750E488B09BA01000000488B01FF50384883C428C3:
+            0. 00 0000 001F 0000:?adjustMedianIterationCount@QBenchmarkGlobalData@@QEAAHXZ
+        B8FF0000003BC80F8F000700000F84F606000083F97D0F8F77030000:
+          0. FF 00AE 0842 0000:?keyToAscii@QTest@@YADW4Key@Qt@@@Z (l)073D:$LN7 (l)0741:$LN8 (l)0745:$LN9 (l)0749:$LN10 (l)074D:$LN11 (l)0751:$LN6 (l)076A:$LN81
+        E8........B1014883C428E9:
+          0. 00 0000 0014 0000:?qSkip@QTest@@YAXPEBD0H@Z
+      3848:
+        894C2428488D4C24204863C248894424200F28442420660F7F4424:
+          0. 02 3247 002B 0000:?toPrettyUnicode@QTest@@YAPEADPEBGH@Z
+        C7442420FEFFFFFF:
+          33C9E8........904883C438C3:
+            0. 00 0000 001A 0000:??1QTestDataSetter@QTest@@QEAA@XZ
+          488B:
+            05........4885C0751D8D4808E8:
+              0. 00 0000 003B 0000:?globalTestTable@QTestTable@@SAPEAV1@XZ
+            0D........83791000741A837910FF7421:
+              0. 10 DE7A 0046 (l)0000:??__FmatchedConditions@?1??checkCondition@@YA_NAEBVQByteArray@@@Z@YAXXZ
+            1183:
+              3A007411833AFF741583C8FFF00FC1:
+                0. 0A DC69 0034 0000:??1QStringList@@QEAA@XZ (REF 002A: ?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z)
+                1. 0A DC69 0034 0000:??1?$QList@VQByteArray@@@@QEAA@XZ (REF 002A: ?dealloc@?$QList@VQByteArray@@@@AEAAXPEAUData@QListData@@@Z)
+              7A10007413837A10FF741D83C8FFF0:
+                0. 0C 0A53 003E 0000:??1?$QSet@VQByteArray@@@@QEAA@XZ
+            15........833A007418833AFF742083C8:
+              0. 0D 254E 0043 (l)0000:??__FtestFunctions@QTest@@YAXXZ (0011: 48) (REF 0010: ?testFunctions@QTest@@3VQStringList@@A)
+              1. 0D 254E 0043 (l)0000:??__FtestTags@QTest@@YAXXZ (0011: 48) (REF 0010: ?testTags@QTest@@3VQStringList@@A)
+              2. 0D 254E 005A 0000:??__Fholder@?1??innerFunction@Q_QGS_ignoreClasses@?A0x728182bf@QTest@@YAPEAV?$QList@VQByteArray@@@@XZ@YAXXZ (0011: 8B)
+          833D........FF7565488D15........488D4C:
+            0. 03 B68B 0086 0000:?defaultMouseDelay@QTest@@YAHXZ (REF 000F: ?mouseDelay@QTest@@3HA)
+            1. 03 B68B 0086 0000:?defaultKeyDelay@QTest@@YAHXZ (REF 000F: ?keyDelay@QTest@@3HA)
+          8B0D........65488B042558000000:
+            41B8:
+              0. 00 0000 007F 0000:?lcModelTest@@YAAEBVQLoggingCategory@@XZ
+            BA:
+              0. 00 0000 007A 0000:?types@?$ConnectionTypes@U?$List@AEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@QAbstractItemModel@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (000F: 3E)
+              1. 00 0000 0080 0000:?types@?$ConnectionTypes@U?$List@AEBVQModelIndex@@AEBV1@AEBV?$QVector@H@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (000F: 44) (0025: B8)
+              2. 00 0000 0080 0000:?types@?$ConnectionTypes@U?$List@W4Orientation@Qt@@HH@QtPrivate@@$00@QtPrivate@@SAPEBHXZ (000F: 44) (0025: E8)
+          EB154D85C074080F1001F3410F7F004983C010:
+            0. 11 2FD0 0031 0000:??$_Uninitialized_copy_al_unchecked1@PEBVQMetaMethod@@PEAV1@V?$allocator@VQMetaMethod@@@std@@@std@@YAPEAVQMetaMethod@@PEBV1@0PEAV1@AEAU?$_Wrap_alloc@V?$allocator@VQMetaMethod@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z (l)0031:$LN40
+            1. 11 2FD0 0031 0000:??$_Uninitialized_move_al_unchecked1@PEAVQMetaMethod@@PEAV1@V?$allocator@VQMetaMethod@@@std@@@std@@YAPEAVQMetaMethod@@PEAV1@00AEAU?$_Wrap_alloc@V?$allocator@VQMetaMethod@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z (l)0031:$LN43
+            2. 11 2FD0 0031 0000:??$_Uninitialized_move_al_unchecked1@PEAUElement@QTestTablePrivate@@PEAU12@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@YAPEAUElement@QTestTablePrivate@@PEAU12@00AEAU?$_Wrap_alloc@V?$allocator@UElement@QTestTablePrivate@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z (l)0031:$LN43
+      4848C7442420FEFFFFFF0F29742430488B05........488B08488B01FF:
+        0. 14 2AA9 0069 0000:??1QBenchmarkIterationController@QTest@@QEAA@XZ
+    FA320F9FC0C3:
+      0. 00 0000 0008 0000:?isMeasurementAccepted@QBenchmarkTimeMeasurer@@UEAA_N_J@Z
+  85D2:
+    0F84:
+      8300000048895C2408574883EC40488B05........4833C4488944:
+        0. 11 622B 008D 0000:?formatEnd@QTestXunitStreamer@@QEBAXPEBVQTestElement@@PEAUQTestCharBuffer@@@Z
+      A200000048895C2408574883EC40488B05........4833C4488944:
+        0. 1C 2E99 00AC 0000:?formatStart@QTestXunitStreamer@@QEBAXPEBVQTestElement@@PEAUQTestCharBuffer@@@Z
+    74:
+      094885C974048B028901488BC1C3:
+        0. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4Orientation@Qt@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+        1. 00 0000 0012 0000:?Construct@?$QMetaTypeFunctionHelper@W4LayoutChangeHint@QAbstractItemModel@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+      0B4885C9740E8B028901EB084885C97403832100488BC1C3:
+        0. 00 0000 001C 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QFlags@W4AlignmentFlag@Qt@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z
+      1E8B410848832200894208488B491048894A108B01FFC083F8017603:
+        0. 04 49A0 0024 0000:?duplicateNode@?$QHash@VQByteArray@@UQHashDummyValue@@@@CAXPEAUNode@QHashData@@PEAX@Z
+      5B534883EC20498BD84885DB7449837A2003488BCA7520E8:
+        0. 0C 32BA 0061 0000:?formatAfterAttributes@QTestXunitStreamer@@QEBAXPEBVQTestElement@@PEAUQTestCharBuffer@@@Z
+  89:
+    0D........C3:
+      0. 00 0000 0008 0000:?setCurrentGlobalTestData@QTestResult@@SAXPEAVQTestData@@@Z (REF 0003: ?currentGlobalTestData@QTest@@3PEAVQTestData@@EA)
+      1. 00 0000 0008 0000:?setCurrentTestObject@QTestResult@@SAXPEBD@Z (REF 0003: ?currentTestObjectName@QTest@@3PEBDEB)
+      2. 00 0000 0008 0000:?setCurrentAppName@QTestResult@@SAXPEBD@Z (REF 0003: ?currentAppName@@3PEBDEB)
+    11488BC14C894108C3:
+      0. 00 0000 000B 0000:??$?LV?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@UQLatin1Char@@@@AEBV?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@AEBUQLatin1Char@@@Z
+      1. 00 0000 000B 0000:??$?LV?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@AEBV?$QStringBuilder@VQLatin1String@@VQString@@@@AEBUQLatin1Char@@@Z
+      2. 00 0000 000B 0000:??$?LV?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@AEBV?$QStringBuilder@VQString@@VQLatin1String@@@@AEBVQString@@@Z
+      3. 00 0000 000B 0000:??$?LVQLatin1String@@VQString@@@@YA?AV?$QStringBuilder@VQLatin1String@@VQString@@@@AEBVQLatin1String@@AEBVQString@@@Z
+      4. 00 0000 000B 0000:??$?LVQString@@V0@@@YA?AV?$QStringBuilder@VQString@@V1@@@AEBVQString@@0@Z
+      5. 00 0000 000B 0000:??$?LVQString@@VQLatin1String@@@@YA?AV?$QStringBuilder@VQString@@VQLatin1String@@@@AEBVQString@@AEBVQLatin1String@@@Z
+      6. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQByteArray@@$$BY01D@@VQByteArray@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQByteArray@@$$BY01D@@VQByteArray@@@@AEBV?$QStringBuilder@VQByteArray@@$$BY01D@@AEBVQByteArray@@@Z
+      7. 00 0000 000B 0000:??$?HVQByteArray@@$$BY01D@@YA?AV?$QStringBuilder@VQByteArray@@$$BY01D@@AEBVQByteArray@@AEAY01$$CBD@Z
+      8. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@AEBV?$QStringBuilder@VQString@@V1@@@AEBUQLatin1Char@@@Z
+      9. 00 0000 000B 0000:??$?HVQString@@V0@@@YA?AV?$QStringBuilder@VQString@@V1@@@AEBVQString@@0@Z
+      10. 00 0000 000B 0000:??$?HUQLatin1Char@@VQString@@@@YA?AV?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBUQLatin1Char@@AEBVQString@@@Z
+      11. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEBV?$QStringBuilder@VQString@@UQLatin1Char@@@@AEBVQString@@@Z
+      12. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@AEBV?$QStringBuilder@VQString@@UQLatin1Char@@@@AEBVQStringRef@@@Z
+      13. 00 0000 000B 0000:??$?HV?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@AEBV?$QStringBuilder@VQString@@VQLatin1String@@@@AEBVQString@@@Z
+      14. 00 0000 000B 0000:??$?HVQByteArray@@V0@@@YA?AV?$QStringBuilder@VQByteArray@@V1@@@AEBVQByteArray@@0@Z
+      15. 00 0000 000B 0000:??$?HVQLatin1String@@V0@@@YA?AV?$QStringBuilder@VQLatin1String@@V1@@@AEBVQLatin1String@@0@Z
+      16. 00 0000 000B 0000:??$?HVQString@@UQLatin1Char@@@@YA?AV?$QStringBuilder@VQString@@UQLatin1Char@@@@AEBVQString@@AEBUQLatin1Char@@@Z
+      17. 00 0000 000B 0000:??$?HVQString@@VQLatin1String@@@@YA?AV?$QStringBuilder@VQString@@VQLatin1String@@@@AEBVQString@@AEBVQLatin1String@@@Z
+      18. 00 0000 000B 0000:??$?LV?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@YA?AV?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEBV?$QStringBuilder@VQString@@UQLatin1Char@@@@AEBVQString@@@Z
+      19. 00 0000 000B 0000:??$?LVQString@@UQLatin1Char@@@@YA?AV?$QStringBuilder@VQString@@UQLatin1Char@@@@AEBVQString@@AEBUQLatin1Char@@@Z
+    4C2408:
+      4883EC3848C7442420FEFFFFFF:
+        33C04885D2741248894C24484885:
+          0. 04 4BE2 0042 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QVector@H@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z (REF 0024: ??0?$QVector@H@@QEAA@AEBV0@@Z)
+          1. 04 4BE2 0042 0000:?Construct@?$QMetaTypeFunctionHelper@V?$QList@VQPersistentModelIndex@@@@$00@QtMetaTypePrivate@@SAPEAXPEAXPEBX@Z (REF 0024: ??0?$QList@VQPersistentModelIndex@@@@QEAA@AEBV0@@Z)
+        B928000000E8........48894424:
+          0. 2C 0D61 004C 0000:?_Buyheadnode@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@2@XZ (l)004C:$LN159
+      534883EC3048C74424:
+        20FEFFFFFF488B:
+          D933D2488911488D0D:
+            0. 00 0000 0059 0000:??0QBenchmarkGlobalData@@QEAA@XZ
+          DA4C8BC9488B0183380176:
+            0. 0D AC6A 0076 0000:?append@?$QList@VQString@@@@QEAAXAEBVQString@@@Z (l)0076:$LN271 (REF 002D: ?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z)
+            1. 0D AC6A 0076 0000:?append@?$QList@VQByteArray@@@@QEAAXAEBVQByteArray@@@Z (l)0076:$LN271 (REF 002D: ?detach_helper_grow@?$QList@VQByteArray@@@@AEAAPEAUNode@1@HH@Z)
+        28FEFFFFFF488BD983642420004183C8FF48:
+          0. 05 AFF5 006D 0000:?decodeName@QFile@@SA?AVQString@@PEBD@Z
+      55:
+        53565741:
+          54415541564157488D:
+            6C24E14881EC:
+              8800000048C745:
+                0. 09 002D 0551 (l)0000:?qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z
+              D800000048C745:
+                0. 10 8AFF 03FA (l)0000:?activeConditions@@YA?AV?$QSet@VQByteArray@@@@XZ
+            AC24A8F8FFFF4881EC58080000:
+              0. 31 7B46 0296 0000:?qExec@QTest@@YAHPEAVQObject@@AEBVQStringList@@@Z
+          57488D6C24C94881ECC000000048C745EFFEFFFFFF48:
+            0. 0F 5B39 0302 (l)0000:?keywords@@YA?AV?$QSet@VQByteArray@@@@XZ
+        565748:
+          83EC3048C7442420FEFFFFFF48895C2460:
+            418BE8488BFA:
+              0. 09 23C3 0099 0000:??0QAbstractItemModelTesterPrivate@@QEAA@PEAVQAbstractItemModel@@W4FailureReportingMode@QAbstractItemModelTester@@@Z
+            488BF933D2E8:
+              0. 00 0000 00AA 0000:??0WatchDog@QTest@@QEAA@XZ
+          8BEC4883EC3048C745F8FEFFFFFF48895C2458488BDA48:
+            0. 0A EE9B 0109 0000:?fromLocal8Bit@QString@@SA?AV1@AEBVQByteArray@@@Z (REF 0078: ?fromLocal8Bit@QString@@SA?AV1@PEBDH@Z)
+            1. 0A EE9B 0109 0000:?fromLatin1@QString@@SA?AV1@AEBVQByteArray@@@Z (REF 0078: ?fromLatin1@QString@@SA?AV1@PEBDH@Z)
+      565741564883EC3048C7442428FEFFFFFF48895C2458458BC84863:
+        0. 1A 31B7 018E 0000:?realloc@?$QVector@VQBenchmarkResult@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (l)018E:$LN186
+      574883EC:
+        3048C7442420FEFFFFFF48895C2448488B:
+          F9488D05:
+            0. 00 0000 0056 0000:??0QBenchmarkEvent@@QEAA@XZ
+          FA488BD9488B:
+            0. 12 E4AB 0084 0000:?append@?$QList@VQPersistentModelIndex@@@@QEAAXAEBVQPersistentModelIndex@@@Z (l)0084:$LN92
+            1. 17 F6AA 007D 0000:??0?$QList@VQPersistentModelIndex@@@@QEAA@AEBV0@@Z (l)007D:$LN38
+        4048C7442430FEFFFFFF48895C2458488BFA488BD94883:
+          0. 18 B19C 0074 0000:??0?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@QEAA@AEBV01@@Z (l)0074:$LN280
+    5130C3:
+      0. 00 0000 0005 0000:?setParent@QTestElement@@QEAAXPEBV1@@Z
+    542410:
+      4883EC3848C7442420FEFFFFFF4889542450493BD074294C2BCA48:
+        0. 2A 2DE6 004A 0000:?node_copy@?$QList@VQString@@@@AEAAXPEAUNode@1@00@Z (l)004A:$LN146
+        1. 2A 2DE6 004A 0000:?node_copy@?$QList@VQByteArray@@@@AEAAXPEAUNode@1@00@Z (l)004A:$LN146
+      4C894424184C894C2420:
+        5355565741564883EC30486319488BF948:
+          0. 15 172C 00A3 0000:?qt_asprintf@QTest@@YAHPEAUQTestCharBuffer@@PEBDZZ
+        C3:
+          0. 00 0000 0010 0000:?setQObjectShared@ExternalRefCountData@QtSharedPointer@@QEAAXZZ
+          1. 00 0000 0010 0000:?enableSharedFromThis@?$QSharedPointer@VQTemporaryDir@@@@AEAAXZZ
+      53:
+        4883EC3048C7442428FEFFFFFF488BDA8364242000488B014C8B:
+          0. 22 3D68 0050 0000:??B?$QStringBuilder@VQByteArray@@V1@@@QEBA?AVQByteArray@@XZ (REF 0042: ?append@QByteArray@@QEAAAEAV1@AEBV1@@Z)
+          1. 22 3D68 0050 0000:??B?$QStringBuilder@VQString@@V1@@@QEBA?AVQString@@XZ (REF 0042: ?append@QString@@QEAAAEAV1@AEBV1@@Z)
+        554883EC:
+          28488BEA488B5D:
+            40488B0BE8........488B45504889:
+              0. 06 DFEC 002B (l)0000:?catch$8@?0??detach_helper@?$QList@VQByteArray@@@@AEAAXH@Z@4HA (l)000E:__catch$?detach_helper@?$QList@VQByteArray@@@@AEAAXH@Z$0
+              1. 06 DFEC 002B (l)0000:?catch$8@?0??detach_helper@?$QList@VQString@@@@AEAAXH@Z@4HA (l)000E:__catch$?detach_helper@?$QList@VQString@@@@AEAAXH@Z$0
+              2. 06 DFEC 002B (l)0000:?catch$10@?0??detach_helper@?$QList@VQPersistentModelIndex@@@@AEAAXH@Z@4HA (l)000E:__catch$?detach_helper@?$QList@VQPersistentModelIndex@@@@AEAAXH@Z$0
+            50:
+              488B0BE8........488B45684889:
+                0. 06 DFEC 008C (l)0000:?catch$18@?0??detach_helper_grow@?$QList@VQPersistentModelIndex@@@@AEAAPEAUNode@1@HH@Z@4HA (l)000E:__catch$?detach_helper_grow@?$QList@VQPersistentModelIndex@@@@AEAAPEAUNode@1@HH@Z$0 (l)002B:?catch$17@?0??detach_helper_grow@?$QList@VQPersistentModelIndex@@@@AEAAPEAUNode@1@HH@Z@4HA (l)003B:__catch$?detach_helper_grow@?$QList@VQPersistentModelIndex@@@@AEAAPEAUNode@1@HH@Z$2 (003B: 11)
+                1. 06 DFEC 00AE (l)0000:?catch$28@?0??detach_helper_grow@?$QList@VQByteArray@@@@AEAAPEAUNode@1@HH@Z@4HA (l)000E:__catch$?detach_helper_grow@?$QList@VQByteArray@@@@AEAAPEAUNode@1@HH@Z$0 (l)002B:?catch$27@?0??detach_helper_grow@?$QList@VQByteArray@@@@AEAAPEAUNode@1@HH@Z@4HA (l)003B:__catch$?detach_helper_grow@?$QList@VQByteArray@@@@AEAAPEAUNode@1@HH@Z$2 (003B: 33) (005A: 01)
+                2. 06 DFEC 00AE (l)0000:?catch$28@?0??detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z@4HA (l)000E:__catch$?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z$0 (l)002B:?catch$27@?0??detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z@4HA (l)003B:__catch$?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z$2 (003B: 33) (005A: 02)
+              EB2E4883EB08488B0B8339007411:
+                0. 1E 1435 0052 (l)0000:?catch$26@?0??node_copy@?$QList@VQString@@@@AEAAXPEAUNode@1@00@Z@4HA (l)000E:__catch$?node_copy@?$QList@VQString@@@@AEAAXPEAUNode@1@00@Z$2
+                1. 1E BEB9 0052 (l)0000:?catch$26@?0??node_copy@?$QList@VQByteArray@@@@AEAAXPEAUNode@1@00@Z@4HA (l)000E:__catch$?node_copy@?$QList@VQByteArray@@@@AEAAXPEAUNode@1@00@Z$2
+          38488BEA488B5D50488B0B4885C97424488B5310482B:
+            0. 0C FE1B 0048 (l)0000:?catch$72@?0???0?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@QEAA@AEBV01@@Z@4HA (l)000E:__catch$??0?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@QEAA@AEBV01@@Z$0
+      554883EC:
+        20488BEA:
+          33D233C9E8........90:
+            0. 00 0000 0017 (l)0000:?catch$3@?0???$_Uninitialized_copy_al_unchecked1@PEBVQMetaMethod@@PEAV1@V?$allocator@VQMetaMethod@@@std@@@std@@YAPEAVQMetaMethod@@PEBV1@0PEAV1@AEAU?$_Wrap_alloc@V?$allocator@VQMetaMethod@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z@4HA (l)000D:__catch$??$_Uninitialized_copy_al_unchecked1@PEBVQMetaMethod@@PEAV1@V?$allocator@VQMetaMethod@@@std@@@std@@YAPEAVQMetaMethod@@PEBV1@0PEAV1@AEAU?$_Wrap_alloc@V?$allocator@VQMetaMethod@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z$0
+            1. 00 0000 0017 (l)0000:?catch$4@?0???$_Uninitialized_move_al_unchecked1@PEAVQMetaMethod@@PEAV1@V?$allocator@VQMetaMethod@@@std@@@std@@YAPEAVQMetaMethod@@PEAV1@00AEAU?$_Wrap_alloc@V?$allocator@VQMetaMethod@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z@4HA (l)000D:__catch$??$_Uninitialized_move_al_unchecked1@PEAVQMetaMethod@@PEAV1@V?$allocator@VQMetaMethod@@@std@@@std@@YAPEAVQMetaMethod@@PEAV1@00AEAU?$_Wrap_alloc@V?$allocator@VQMetaMethod@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z$0
+            2. 00 0000 0017 (l)0000:?catch$4@?0???$_Uninitialized_move_al_unchecked1@PEAUElement@QTestTablePrivate@@PEAU12@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@YAPEAUElement@QTestTablePrivate@@PEAU12@00AEAU?$_Wrap_alloc@V?$allocator@UElement@QTestTablePrivate@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z@4HA (l)000D:__catch$??$_Uninitialized_move_al_unchecked1@PEAUElement@QTestTablePrivate@@PEAU12@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@YAPEAUElement@QTestTablePrivate@@PEAU12@00AEAU?$_Wrap_alloc@V?$allocator@UElement@QTestTablePrivate@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z$0
+          41B808000000488B5558488B4D50E8:
+            0. 05 5AD8 002A (l)0000:?catch$52@?0??_Reallocate@?$vector@PEAVQTestData@@V?$allocator@PEAVQTestData@@@std@@@std@@IEAAX_K@Z@4HA (l)000D:__catch$?_Reallocate@?$vector@PEAVQTestData@@V?$allocator@PEAVQTestData@@@std@@@std@@IEAAX_K@Z$0
+          488B:
+            4540488B08FF490C33D233C9E8:
+              0. 36 1C79 0064 (l)0000:?catch$53@?0??append@?$QList@VQString@@@@QEAAXAEBVQString@@@Z@4HA (l)000D:__catch$?append@?$QList@VQString@@@@QEAAXAEBVQString@@@Z$0 (l)0021:?catch$54@?0??append@?$QList@VQString@@@@QEAAXAEBVQString@@@Z@4HA (l)002E:__catch$?append@?$QList@VQString@@@@QEAAXAEBVQString@@@Z$4
+              1. 36 C3B6 0064 (l)0000:?catch$53@?0??append@?$QList@VQByteArray@@@@QEAAXAEBVQByteArray@@@Z@4HA (l)000D:__catch$?append@?$QList@VQByteArray@@@@QEAAXAEBVQByteArray@@@Z$0 (l)0021:?catch$54@?0??append@?$QList@VQByteArray@@@@QEAAXAEBVQByteArray@@@Z@4HA (l)002E:__catch$?append@?$QList@VQByteArray@@@@QEAAXAEBVQByteArray@@@Z$4
+            4D:
+              20488B51104803D14C8B4568488B4D50:
+                0. 01 3E9B 0057 (l)0000:?catch$18@?0??realloc@?$QVector@VQByteArray@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)000D:__catch$?realloc@?$QVector@VQByteArray@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$0 (l)002F:?catch$19@?0??realloc@?$QVector@VQByteArray@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)003C:__catch$?realloc@?$QVector@VQByteArray@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$2 (001C: 08)
+                1. 01 3E9B 0058 (l)0000:?catch$31@?0??realloc@?$QVector@VQBenchmarkResult@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)000D:__catch$?realloc@?$QVector@VQBenchmarkResult@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$0 (l)002F:?catch$32@?0??realloc@?$QVector@VQBenchmarkResult@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)003C:__catch$?realloc@?$QVector@VQBenchmarkResult@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$2 (001C: 30)
+              40488B09E8........33D233C9E8:
+                0. 00 0000 0023 (l)0000:?catch$8@?0???0?$QList@VQPersistentModelIndex@@@@QEAA@AEBV0@@Z@4HA (l)000D:__catch$??0?$QList@VQPersistentModelIndex@@@@QEAA@AEBV0@@Z$0
+          BA:
+            01000000448D4227488B4D40E8........33:
+              0. 04 EE22 0029 (l)0000:?catch$27@?0??_Buyheadnode@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@2@XZ@4HA (l)000D:__catch$?_Buyheadnode@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@2@XZ$0
+              1. 04 EE22 0029 (l)0000:?catch$39@?0??_Buynode0@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@2@XZ@4HA (l)000D:__catch$?_Buynode0@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@2@XZ$0
+              2. 04 EE22 0029 (l)0000:?catch$29@?0???$_Buynode@AEBVQByteArray@@@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@1@AEBVQByteArray@@@Z@4HA (l)000D:__catch$??$_Buynode@AEBVQByteArray@@@?$_Tree_comp_alloc@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAAPEAU?$_Tree_node@VQByteArray@@PEAX@1@AEBVQByteArray@@@Z$0
+            08000000448BC2488B4D40E8........33D2:
+              0. 03 F2D9 0028 (l)0000:?catch$9@?0??realloc@?$QVector@PEAVQAbstractTestLogger@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z@4HA (l)000D:__catch$?realloc@?$QVector@PEAVQAbstractTestLogger@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z$2
+        30488BEA:
+          33D233C9E8........90:
+            0. 00 0000 0017 (l)0000:?catch$43@?0???$_Insert_nohint@AEBVQByteArray@@U_Nil@std@@@?$_Tree@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@IEAA?AU?$pair@V?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@VQByteArray@@@std@@@std@@@std@@_N@1@_NAEBVQByteArray@@U_Nil@1@@Z@4HA (l)000D:__catch$??$_Insert_nohint@AEBVQByteArray@@U_Nil@std@@@?$_Tree@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@IEAA?AU?$pair@V?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@VQByteArray@@@std@@@std@@@std@@_N@1@_NAEBVQByteArray@@U_Nil@1@@Z$0
+          41B810000000488B5568488B4D60E8:
+            0. 05 5AD8 002A (l)0000:?catch$53@?0??_Reallocate@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@IEAAX_K@Z@4HA (l)000D:__catch$?_Reallocate@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@IEAAX_K@Z$0
+            1. 05 5AD8 002A (l)0000:?catch$53@?0??_Reallocate@?$vector@UElement@QTestTablePrivate@@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@IEAAX_K@Z@4HA (l)000D:__catch$?_Reallocate@?$vector@UElement@QTestTablePrivate@@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@IEAAX_K@Z$0
+      565741564883EC:
+        3048C7442420FEFFFFFF48895C2460488BF2488B:
+          0. 1B 0EEB 00E1 0000:?_Reallocate@?$vector@PEAVQTestData@@V?$allocator@PEAVQTestData@@@std@@@std@@IEAAX_K@Z (l)00E1:$LN219
+        4048C7442430FEFFFFFF48895C2470488BFA4C8B:
+          0. 1B 3468 00F6 0000:?_Reallocate@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@IEAAX_K@Z (l)00F6:$LN218 (REF 00A5: ??$_Uninitialized_move_al_unchecked1@PEAVQMetaMethod@@PEAV1@V?$allocator@VQMetaMethod@@@std@@@std@@YAPEAVQMetaMethod@@PEAV1@00AEAU?$_Wrap_alloc@V?$allocator@VQMetaMethod@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z)
+          1. 1B 3468 00F6 0000:?_Reallocate@?$vector@UElement@QTestTablePrivate@@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@IEAAX_K@Z (l)00F6:$LN218 (REF 00A5: ??$_Uninitialized_move_al_unchecked1@PEAUElement@QTestTablePrivate@@PEAU12@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@YAPEAUElement@QTestTablePrivate@@PEAU12@00AEAU?$_Wrap_alloc@V?$allocator@UElement@QTestTablePrivate@@@std@@@0@U_General_ptr_iterator_tag@0@U_Any_tag@0@@Z)
+    5C24:
+      08:
+        48:
+          89:
+            6C24104889:
+              74241857:
+                41:
+                  544155415641574883EC:
+                    204C8B:
+                      E24D:
+                        0. 3C 0FD3 022E 0000:??$_Partition_by_median_guess_unchecked@PEAVQBenchmarkResult@@U?$less@X@std@@@std@@YA?AU?$pair@PEAVQBenchmarkResult@@PEAV1@@0@PEAVQBenchmarkResult@@0AEAU?$less@X@0@@Z
+                      EA4D:
+                        0. 92 EBB5 01E6 0000:?xmlQuote@QXmlTestLogger@@SAHPEAUQTestCharBuffer@@PEBD_K@Z
+                    408B1A488B:
+                      0. 14 68B5 00CC 0000:??$qCompare@V?$QFlags@W4AlignmentFlag@Qt@@@@@QTest@@YA_NAEBV?$QFlags@W4AlignmentFlag@Qt@@@@0PEBD11H@Z
+                  56415748:
+                    83EC:
+                      20488B:
+                        0D........E8:
+                          0. 00 0000 013A 0000:?stopLogging@QTestLog@@SAXXZ
+                        59184533FF48:
+                          0. 2D 4324 00D7 0000:??1QTestTablePrivate@@QEAA@XZ
+                      304533F6488BF1:
+                        4438:
+                          0. 01 5696 0149 0000:?addPass@QTestLog@@SAXPEBD@Z
+                        4885:
+                          0. 0C 47A8 013E 0000:?addBPass@QTestLog@@SAXPEBD@Z
+                      40488BF94D8BF1488B:
+                        0. 08 D310 0094 0000:?qCompare@QTest@@YA_NAEBVqfloat16@@0PEBD11H@Z (000F: 0F)
+                        1. 08 D310 0097 0000:?compare_string_helper@QTest@@YA_NPEBD0000H@Z (000F: 48)
+                      504C8BF14D8BF8488B:
+                        0. 08 653D 011F 0000:?append@QTestData@@QEAAXHPEBX@Z
+                      60:
+                        418B18498BE9391A:
+                          0. 3E BF0F 021C 0000:??$compare@V?$QFlags@W4AlignmentFlag@Qt@@@@V1@@QAbstractItemModelTesterPrivate@@AEAA_NAEBV?$QFlags@W4AlignmentFlag@Qt@@@@0PEBD11H@Z
+                        482BD148B8ABAAAA:
+                          0. 52 F20D 0104 0000:??$_Make_heap_unchecked@PEAVQBenchmarkResult@@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@0AEAU?$less@X@0@@Z
+                    8BFA498D40FF4C8BDA4C8B:
+                      0. FF 0F0C 0186 0000:??$_Pop_heap_hole_by_index@PEAVQBenchmarkResult@@_JV1@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@_J1$$QEAV1@AEAU?$less@X@0@@Z
+                4883EC:
+                  20:
+                    33FF40383D........0F85CF:
+                      0. 06 F208 0107 0000:?leaveTestFunction@QTestLog@@SAXXZ
+                    48:
+                      8B:
+                        71084032ED488B39B900:
+                          0. 04 238B 014B 0000:?toPrettyUnicode@QTest@@YAPEADVQStringView@@@Z
+                        E985D27511488D0D:
+                          0. 00 0000 00F9 0000:?toHexRepresentation@QTest@@YAPEADPEBDH@Z
+                        EA488BF14885D2751941:
+                          0. 08 122E 0085 0000:?indexOf@QTestTable@@QEBAHPEBD@Z
+                        F14863FAB90001000040:
+                          0. 03 7DC7 0180 0000:?toPrettyCString@QTest@@YAPEADPEBDH@Z
+                        FA4D85C00F8492000000:
+                          0. 2D A2BF 00C9 0000:?xmlCdata@QXmlTestLogger@@SAHPEAUQTestCharBuffer@@PEBD_K@Z
+                      8D0D........E8:
+                        0. 03 29E1 0125 0000:?startLogging@QTestLog@@SAXXZ
+                    498BE9418BF0488BDA488BF9:
+                      0. 0E 9056 00F7 0000:?expectFail@QTestResult@@SA_NPEBD0W4TestFailMode@QTest@@0H@Z
+                  30:
+                    498BF9498BF08BDA488BE983:
+                      0. 05 21D7 00D2 0000:?addIncident@QPlainTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z
+                    4C8BD2488BDA4C2BD148B8AB:
+                      0. 43 F04D 016E 0000:??$_Sort_unchecked1@PEAVQBenchmarkResult@@_JU?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@0_JAEAU?$less@X@0@@Z
+                  608B02498BE9498BD8488BFA41:
+                    0. 5A 3C82 01C7 0000:??$compare@VQModelIndex@@V1@@QAbstractItemModelTesterPrivate@@AEAA_NAEBVQModelIndex@@0PEBD11H@Z
+              7C241841564883EC20488D05........488BD948:
+                0. 30 1B58 00BD 0000:??1QTeamCityLogger@@UEAA@XZ
+            742410:
+              48897C2418:
+                41564883EC:
+                  20:
+                    48:
+                      8B:
+                        394C8BF2488BF1488B:
+                          0. 19 A9E8 0087 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@AEAPEAVQChar@@@Z (000D: 0E)
+                          1. 19 A9E8 0087 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEAPEAVQChar@@@Z (000D: 16) (001C: 49)
+                          2. 19 A9E8 00AD 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@@@SAXAEBV?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@AEAPEAVQChar@@@Z (000D: 16) (001C: 4C)
+                        F9418BF0488B094C8B:
+                          0. 47 1D21 0098 0000:?findNode@?$QHash@VQByteArray@@UQHashDummyValue@@@@AEBAPEAPEAU?$QHashNode@VQByteArray@@UQHashDummyValue@@@@AEBVQByteArray@@I@Z
+                      B8656666666666660649:
+                        0. 14 002F 0290 0000:??$_Insert_at@AEBVQByteArray@@U_Nil@std@@@?$_Tree@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@IEAA?AV?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@VQByteArray@@@std@@@std@@@1@_NPEAU?$_Tree_node@VQByteArray@@PEAX@1@AEBVQByteArray@@U_Nil@1@@Z (l)0290:$LN910
+                    4D8BF18BFA488BF1E8:
+                      0. 00 0000 0064 0000:?qt_metacall@QTestEventLoop@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+                  60488B31488D05........48:
+                    0. C5 6228 0100 0000:??$swap@VQBenchmarkResult@@X@std@@YAXAEAVQBenchmarkResult@@0@Z
+                554154415541564157488BEC4883EC5048:
+                  0. 3E 3B06 0302 0000:?hasIndex@QAbstractItemModelTesterPrivate@@QEAAXXZ
+              574883EC:
+                20:
+                  0FB639BE100000008BCEE8........488B:
+                    0. 2B 8276 010E 0000:??$toString@D@QTest@@YAPEADAEBD@Z
+                  48:
+                    635A0C488BFA486372084883C3024883:
+                      0. 39 2E5A 0079 0000:?dealloc@?$QList@VQString@@@@AEAAXPEAUData@QListData@@@Z
+                      1. 39 F195 0079 0000:?dealloc@?$QList@VQByteArray@@@@AEAAXPEAUData@QListData@@@Z
+                    83:
+                      610800488BD94883611000488BFA48:
+                        0. 05 B9EC 0094 0000:??0DebugSymbolResolver@@QEAA@PEAX@Z
+                      790800488BF2488BD9751941B86900:
+                        0. 05 5B74 00C5 0000:?outputString@QAbstractTestLogger@@QEAAXPEBD@Z
+                    8B:
+                      01488BF2:
+                        488BF94C8B00488B0E4963:
+                          0. 10 1202 006F 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQString@@VQLatin1String@@@@@@SAXAEBV?$QStringBuilder@VQString@@VQLatin1String@@@@AEAPEAVQChar@@@Z
+                        4C8B02488BF90F1000660F:
+                          0. 0F 99B1 006C 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQLatin1String@@VQString@@@@@@SAXAEBV?$QStringBuilder@VQLatin1String@@VQString@@@@AEAPEAVQChar@@@Z (0011: 48)
+                          1. 0F 99B1 0074 0000:??$appendTo@VQChar@@@?$QConcatenable@V?$QStringBuilder@VQLatin1String@@V1@@@@@SAXAEBV?$QStringBuilder@VQLatin1String@@V1@@@AEAPEAVQChar@@@Z (0011: 4C)
+                      FA:
+                        488BD9E8........488BCF8BF0E8:
+                          0. 00 0000 0069 0000:?metaType@?$QVariantValueHelper@V?$QFlags@W4AlignmentFlag@Qt@@@@@QtPrivate@@SA?AV?$QFlags@W4AlignmentFlag@Qt@@@@AEBVQVariant@@@Z
+                        8BF1E8........488BD84885C075:
+                          0. 0A EF46 005D 0000:?addColumnInternal@QTest@@YAXHPEBD@Z
+                  498BF88BF2488BD94D85C0750432C0EB1E:
+                    0. 05 7113 004E 0000:?setPair@QTestElementAttribute@@QEAA_NW4AttributeIndex@QTest@@PEBD@Z
+                  4C8B01488BF24963780C496358084883C7:
+                    0. 31 1051 0078 0000:?contains_impl@?$QList@VQByteArray@@@@AEBA_NAEBVQByteArray@@UArrayCompatibleLayout@QListData@@@Z
+                  660F6E4220498BF0660F6E4920488BDAF2:
+                    0. 29 8955 00C7 0000:??$_Med3_unchecked@PEAVQBenchmarkResult@@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@00AEAU?$less@X@0@@Z
+                  807A1900488BDA488BF1488BFA7555488B:
+                    0. 06 A6F2 0083 0000:?_Erase@?$_Tree@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@IEAAXPEAU?$_Tree_node@VQByteArray@@PEAX@2@@Z
+                  8325........00488BF1488B0D:
+                    0. 07 2865 0050 0000:?addSkip@QTestResult@@SAXPEBD0H@Z (000F: 48)
+                    1. 07 2865 0068 0000:?addFailure@QTestResult@@SAXPEBD0H@Z (000F: 80)
+                30:
+                  488B:
+                    02488BF9488BCA498BD8FF10488BC8:
+                      0. 07 8D9E 006B 0000:?findMethod@TestMethods@QTest@@SA?AVQMetaMethod@@PEBVQObject@@PEBD@Z
+                    D9498BF9488BCA418BF0E8:
+                      0. 1C 8A5F 0040 0000:?qExpectFail@QTest@@YA_NPEBD0W4TestFailMode@1@0H@Z
+                  498BD88BFA488BF185D27517448D425648:
+                    0. 02 DF74 0074 0000:?addColumn@QTestTable@@QEAAXHPEBD@Z
+                604D8B1033DB4C8B1A498BF14D85D2740C41:
+                  0. 3D E531 0197 0000:??$compare@PEBVQAbstractItemModel@@V?$QPointer@VQAbstractItemModel@@@@@QAbstractItemModelTesterPrivate@@AEAA_NAEBQEBVQAbstractItemModel@@AEBV?$QPointer@VQAbstractItemModel@@@@PEBD22H@Z
+            7C2410:
+              4C8BDA488D42FF4899498BF8482BC24C8BD148D1F84D:
+                0. FF 936C 0132 0000:??$_Push_heap_by_index@PEAVQBenchmarkResult@@_JV1@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@_J1$$QEAV1@AEAU?$less@X@0@@Z
+              55488D6C24F04881EC10010000488BF9E8........48:
+                0. 03 3B19 010F 0000:?exitLoop@QTestEventLoop@@QEAAXXZ
+          8B0133DB4C8BD94C8B0049634004490340104D8B48104903C04D:
+            0. 4D 8439 006D 0000:??$appendTo@D@?$QConcatenable@V?$QStringBuilder@VQByteArray@@$$BY01D@@@@SAXAEBV?$QStringBuilder@VQByteArray@@$$BY01D@@AEAPEAD@Z
+        55:
+          488BEC4883EC604C8B5110488BDA4D85D2744B443901751D4439:
+            0. 79 A023 0099 0000:?sibling@QModelIndex@@QEBA?AV1@HH@Z
+          565741544155415641574881EC70040000488B05........4833:
+            0. 3B 9E2C 0233 0000:?compare@QTestResult@@SA_N_NPEBDPEAD2111H@Z
+        574883EC:
+          20:
+            33:
+              C0488BDA488901488BF948894108488941104885D2:
+                0. 14 336E 0099 0000:?_Buy@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@IEAA_N_K@Z (l)0099:$LN122
+              FF488BD9897C2440833D........FE7E5DE8:
+                0. 00 0000 00CC (l)0000:?qSignalDumperCallbackEndSignal@QTest@@YAXPEAVQObject@@H@Z
+            48:
+              63DA488BF985D2791941B864000000488D15:
+                0. 00 0000 006C 0000:?data@QTestData@@QEBAPEAXH@Z
+              83790800488D05........488901488BD9751941B8:
+                0. 07 5E1D 0064 0000:??1QAbstractTestLogger@@UEAA@XZ
+              8B:
+                02488BFA488BD983380074138338FF7403F0FF00:
+                  0. 28 43A2 00C9 0000:??0?$QVector@H@@QEAA@AEBV0@@Z
+                  1. 28 7819 00CB 0000:??0?$QVector@VQBenchmarkResult@@@@QEAA@AEBV0@@Z
+                4108488BFA488BD9483BD073:
+                  31483911772C482B:
+                    0. 11 0A3F 0079 0000:?push_back@?$vector@PEAVQTestData@@V?$allocator@PEAVQTestData@@@std@@@std@@QEAAXAEBQEAVQTestData@@@Z
+                  32483911772D482B:
+                    0. 0D FD7B 007B 0000:?push_back@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@QEAAXAEBVQMetaMethod@@@Z (REF 002D: ?_Reserve@?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@IEAAX_K@Z)
+                    1. 0D FD7B 007B 0000:?push_back@?$vector@UElement@QTestTablePrivate@@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@QEAAX$$QEAUElement@QTestTablePrivate@@@Z (REF 002D: ?_Reserve@?$vector@UElement@QTestTablePrivate@@V?$allocator@UElement@QTestTablePrivate@@@std@@@std@@IEAAX_K@Z)
+                59188BFAEB10488BCBE8........3BC77416488B:
+                  0. 19 A50B 0039 0000:?attribute@?$QTestCoreElement@VQTestElement@@@@QEBAPEBVQTestElementAttribute@@W4AttributeIndex@QTest@@@Z
+                C14C8D410848F7D8488BF9481BDB33C94923D8E8:
+                  0. 00 0000 003E 0000:?stop@QBenchmarkEvent@@UEAA_JXZ
+                D9:
+                  488BFA488B49084885C97407E8........EB10:
+                    0. 1E A639 003E 0000:?addToList@?$QTestCoreList@VQTestElementAttribute@@@@QEAAXPEAPEAVQTestElementAttribute@@@Z
+                    1. 1E A639 003E 0000:?addToList@?$QTestCoreList@VQTestElement@@@@QEAAXPEAPEAVQTestElement@@@Z
+                  B980000000E8........:
+                    44:
+                      0F:
+                        B60B4C8D05:
+                          0. 00 0000 0040 0000:??$toString@_N@QTest@@YAPEADAEB_N@Z (REF 001E: ??_C@_02DPKJAMEF@?$CFd?$AA@)
+                          1. 00 0000 0040 0000:??$toString@E@QTest@@YAPEADAEBE@Z (REF 001E: ??_C@_04NKOCGAFB@?$CFhhu?$AA@)
+                        B70B4C8D05:
+                          0. 00 0000 0040 0000:??$toString@G@QTest@@YAPEADAEBG@Z
+                        BE0B4C8D05:
+                          0. 00 0000 0040 0000:??$toString@C@QTest@@YAPEADAEBC@Z
+                        BF0B4C8D05:
+                          0. 00 0000 0040 0000:??$toString@F@QTest@@YAPEADAEBF@Z
+                      8B0B4C8D05:
+                        0. 00 0000 003F 0000:??$toString@I@QTest@@YAPEADAEBI@Z (REF 001D: ??_C@_02GMHACPFF@?$CFu?$AA@)
+                        1. 00 0000 003F 0000:??$toString@J@QTest@@YAPEADAEBJ@Z (REF 001D: ??_C@_03JALODAI@?$CFld?$AA@)
+                        2. 00 0000 003F 0000:??$toString@K@QTest@@YAPEADAEBK@Z (REF 001D: ??_C@_03FKNCMABI@?$CFlu?$AA@)
+                        3. 00 0000 003F 0000:??$toString@H@QTest@@YAPEADAEBH@Z (REF 001D: ??_C@_02DPKJAMEF@?$CFd?$AA@)
+                    4C8B:
+                      0B4C8D05:
+                        0. 00 0000 003F 0000:??$toString@_K@QTest@@YAPEADAEB_K@Z (REF 001D: ??_C@_05OINFJHGD@?$CFI64u?$AA@)
+                        1. 00 0000 003F 0000:??$toString@_J@QTest@@YAPEADAEB_J@Z (REF 001D: ??_C@_05LLAMLEHD@?$CFI64d?$AA@)
+                      CB4C8D05:
+                        0. 00 0000 003F 0000:?toString@QTest@@YAPEADPEBX@Z
+                DA488BF9:
+                  4885D2:
+                    741A837A20FF7414488D512848:
+                      0. 03 C2A6 003C 0000:?addLogElement@QTestElement@@QEAA_NPEAV1@@Z
+                    75:
+                      0433C0EB23488D15:
+                        0. 04 BF6F 0047 0000:?qt_metacast@QTestEventLoop@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QTestEventLoop@@3Uqt_meta_stringdata_QTestEventLoop_t@@B)
+                        1. 04 BF6F 0047 0000:?qt_metacast@QAbstractItemModelTester@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QAbstractItemModelTester@@3Uqt_meta_stringdata_QAbstractItemModelTester_t@@B)
+                      1941B8AA000000488D15:
+                        0. 00 0000 0055 0000:?output@QTestXunitStreamer@@QEBAXPEAVQTestElement@@@Z
+                  E8........85C0780B488BD3488BCFE8:
+                    0. 00 0000 002F 0000:?addBenchmarkResult@QPlainTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z
+                F948:
+                  85C9752041B92C0900004C8D05........48:
+                    0. 02 DF74 00A0 0000:?newRow@QTest@@YAAEAVQTestData@@PEBD@Z
+                  8BDAB9:
+                    01000000FF15........4839470875:
+                      0. 02 F096 004B 0000:?outputMessage@QPlainTestLogger@@AEAAXPEBD@Z
+                    08000000E8........488B13488B5C:
+                      0. 11 F730 0031 0000:?assign@?$IteratorOwnerCommon@Vconst_iterator@?$QList@VQPersistentModelIndex@@@@@QtMetaTypePrivate@@SAXPEAPEAXPEBQEAX@Z
+              8D05........:
+                488B:
+                  D9488901488B49184885C9740A:
+                    0. 17 11D2 005A 0000:??1QXunitTestLogger@@UEAA@XZ
+                  FA488901488BD94885D2751B8D:
+                    0. 04 F7D4 0078 0000:??0QAbstractTestLogger@@QEAA@PEBD@Z (l)0078:$LN6
+                8BDA488901488BF9E8........F6C3:
+                  0. 0C 09BA 003E 0000:??_GQXmlTestLogger@@UEAAPEAXI@Z (REF 000D: ??_7QXmlTestLogger@@6B@)
+                  1. 0C 09BA 003E 0000:??_GQTapTestLogger@@UEAAPEAXI@Z (REF 000D: ??_7QTapTestLogger@@6B@)
+                  2. 0C B597 003E 0000:??_GQPlainTestLogger@@UEAAPEAXI@Z (REF 000D: ??_7QPlainTestLogger@@6B@)
+                  3. 0C B597 003E 0000:??_GQCsvBenchmarkLogger@@UEAAPEAXI@Z (REF 000D: ??_7QCsvBenchmarkLogger@@6B@)
+            4C8B01488B:
+              DA488BF9418B5008418B40040FBAF21FFF:
+                0. 32 370C 007A 0000:?append@?$QVector@PEAVQAbstractTestLogger@@@@QEAAXAEBQEAVQAbstractTestLogger@@@Z
+              FA:
+                488BD9418B5008418B40040FBAF21FFF:
+                  0. 1A 1A3C 0073 0000:?append@?$QVector@VQByteArray@@@@QEAAX$$QEAVQByteArray@@@Z
+                B908000000496340:
+                  084983C010498D1C:
+                    0. 02 ABAE 0037 0000:??$moveToBeginImpl@V?$QList@VQPersistentModelIndex@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+                  0C4983C010498D1C:
+                    0. 02 ABAE 0037 0000:??$moveToEndImpl@V?$QList@VQPersistentModelIndex@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+            8B:
+              1D........8BF985DB751C448D43014883CAFF488D:
+                0. 01 9D2B 00BF 0000:?registerConverter@?$ValueTypeIsMetaType@V?$QVector@H@@$00@QtPrivate@@SA_NH@Z (REF 005C: ?$TSS0@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@H@@$00@QtPrivate@@SA_NH@Z@4HA)
+                1. 01 9D2B 00BF 0000:?registerConverter@?$ValueTypeIsMetaType@V?$QList@VQPersistentModelIndex@@@@$00@QtPrivate@@SA_NH@Z (REF 005C: ?$TSS0@?4??registerConverter@?$ValueTypeIsMetaType@V?$QList@VQPersistentModelIndex@@@@$00@QtPrivate@@SA_NH@Z@4HA)
+              DA488BF9:
+                498BD0E8........488D05........895F:
+                  0. 12 FEA3 0032 0000:??0QXmlTestLogger@@QEAA@W4XmlMode@0@PEBD@Z
+                E8........:
+                  488BC8448BC3488BD7488B5C:
+                    0. 08 F921 002C 0000:?qGlobalData@QTest@@YAPEAXPEBDH@Z (REF 0010: ?currentGlobalTestData@QTestResult@@SAPEAVQTestData@@XZ)
+                    1. 08 F921 002C 0000:?qData@QTest@@YAPEAXPEBDH@Z (REF 0010: ?currentTestData@QTestResult@@SAPEAVQTestData@@XZ)
+                  F6C301740DBA:
+                    10000000488B:
+                      0. 02 632D 0034 0000:??_GQAbstractTestLogger@@UEAAPEAXI@Z (REF 0010: ??1QAbstractTestLogger@@UEAA@XZ)
+                      1. 02 632D 0034 0000:??_GQAbstractItemModelTester@@UEAAPEAXI@Z (REF 0010: ??1QObject@@UEAA@XZ)
+                    18000000488B:
+                      0. 02 632D 0034 0000:??_G?$QTestCoreList@VQTestElement@@@@UEAAPEAXI@Z (REF 0010: ??1?$QTestCoreList@VQTestElement@@@@UEAA@XZ)
+                      1. 02 632D 0034 0000:??_G?$QTestCoreList@VQTestElementAttribute@@@@UEAAPEAXI@Z (REF 0010: ??1?$QTestCoreList@VQTestElementAttribute@@@@UEAA@XZ)
+                    20000000488B:
+                      0. 02 632D 0034 0000:??_GQBenchmarkEvent@@UEAAPEAXI@Z
+                    28000000488B:
+                      0. 02 632D 0034 0000:??_G?$QTestCoreElement@VQTestElement@@@@UEAAPEAXI@Z (REF 0010: ??1?$QTestCoreElement@VQTestElement@@@@UEAA@XZ)
+                      1. 02 632D 0034 0000:??_GQTeamCityLogger@@UEAAPEAXI@Z (REF 0010: ??1QTeamCityLogger@@UEAA@XZ)
+                      2. 02 632D 0034 0000:??_GWatchDog@QTest@@UEAAPEAXI@Z (REF 0010: ??1WatchDog@QTest@@UEAA@XZ)
+                      3. 02 632D 0034 0000:??_GQTestElementAttribute@@UEAAPEAXI@Z (REF 0010: ??1QTestElementAttribute@@UEAA@XZ)
+                    38000000488B:
+                      0. 02 632D 0034 0000:??_GQTestElement@@UEAAPEAXI@Z
+                    40000000488B:
+                      0. 02 632D 0034 0000:??_GQXunitTestLogger@@UEAAPEAXI@Z
+                    A8000000488B:
+                      0. 02 632D 0034 0000:??_GQAbstractItemModelTesterPrivate@@UEAAPEAXI@Z
+          30:
+            418BF8488BD94885D27516E8........83F8FF740C8B:
+              0. 05 21A3 006B 0000:??$qRegisterNormalizedMetaType@VQSequentialIterableImpl@QtMetaTypePrivate@@@@YAHAEBVQByteArray@@PEAVQSequentialIterableImpl@QtMetaTypePrivate@@W4DefinedType@?$MetaTypeDefinedHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtPrivate@@@Z (0005: 35)
+              1. 05 21A3 006F 0000:??$qRegisterNormalizedMetaType@V?$QFlags@W4AlignmentFlag@Qt@@@@@@YAHAEBVQByteArray@@PEAV?$QFlags@W4AlignmentFlag@Qt@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QFlags@W4AlignmentFlag@Qt@@@@$00@QtPrivate@@@Z (0005: 39)
+              2. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@W4LayoutChangeHint@QAbstractItemModel@@@@YAHAEBVQByteArray@@PEAW4LayoutChangeHint@QAbstractItemModel@@W4DefinedType@?$MetaTypeDefinedHelper@W4LayoutChangeHint@QAbstractItemModel@@$00@QtPrivate@@@Z (0005: 3B) (REF 0016: ?qt_metatype_id@?$QMetaTypeIdQObject@W4LayoutChangeHint@QAbstractItemModel@@$0BA@@@SAHXZ)
+              3. 05 21A3 0071 0000:??$qRegisterNormalizedMetaType@W4Orientation@Qt@@@@YAHAEBVQByteArray@@PEAW4Orientation@Qt@@W4DefinedType@?$MetaTypeDefinedHelper@W4Orientation@Qt@@$00@QtPrivate@@@Z (0005: 3B) (REF 0016: ?qt_metatype_id@?$QMetaTypeIdQObject@W4Orientation@Qt@@$0BA@@@SAHXZ)
+              4. 05 21A3 007A 0000:??$qRegisterNormalizedMetaType@V?$QVector@H@@@@YAHAEBVQByteArray@@PEAV?$QVector@H@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QVector@H@@$00@QtPrivate@@@Z (0005: 44) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@V?$QVector@H@@@@SAHXZ)
+              5. 05 21A3 007A 0000:??$qRegisterNormalizedMetaType@V?$QList@VQPersistentModelIndex@@@@@@YAHAEBVQByteArray@@PEAV?$QList@VQPersistentModelIndex@@@@W4DefinedType@?$MetaTypeDefinedHelper@V?$QList@VQPersistentModelIndex@@@@$00@QtPrivate@@@Z (0005: 44) (REF 0016: ?qt_metatype_id@?$QMetaTypeId@V?$QList@VQPersistentModelIndex@@@@@@SAHXZ)
+            488BD9C744242008000000488B094C8D05........41:
+              0. 08 13D9 0070 0000:?detach_helper@?$QHash@VQByteArray@@UQHashDummyValue@@@@AEAAXXZ
+            8364242000488BDA488BF94885D274104183F8FF750A:
+              0. 04 6776 0049 0000:?fromLocal8Bit@QString@@SA?AV1@PEBDH@Z (0009: 44) (REF 0037: ?fromLocal8Bit_helper@QString@@CA?AV1@PEBDH@Z)
+              1. 04 6776 0049 0000:?fromUtf8@QString@@SA?AV1@PEBDH@Z (0009: 44) (REF 0037: ?fromUtf8_helper@QString@@CA?AV1@PEBDH@Z)
+              2. 04 6776 0048 0000:?fromLatin1@QString@@SA?AV1@PEBDH@Z (0009: 8B)
+          608364242000458BC84C8BC1488BFA488B49104885C974:
+            0. 8B 9BDC 00CC 0000:?data@QModelIndex@@QEBA?AVQVariant@@H@Z
+      10:
+        4889:
+          6C24:
+            18488974242057415641574881EC60040000488B05:
+              0. 00 0000 0170 0000:?stopLogging@QPlainTestLogger@@UEAAXXZ
+            204C89442418565741564883EC608BB424A800000033DB:
+              0. 17 64D6 00BB 0000:??$connect@P8QAbstractItemModel@@EAAXAEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@1@@ZV<lambda_a12342021166b2bfeee3ba63d1fc9063>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@3@@ZPEBV0@V<lambda_a12342021166b2bfeee3ba63d1fc9063>@@W4ConnectionType@Qt@@@Z (REF 0053: ?impl@?$QFunctorSlotObject@V<lambda_a12342021166b2bfeee3ba63d1fc9063>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+              1. 17 64D6 00BB 0000:??$connect@P8QAbstractItemModel@@EAAXAEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@1@@ZV<lambda_cc4d3949325d0cf867e5d021feaead1c>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@3@@ZPEBV0@V<lambda_cc4d3949325d0cf867e5d021feaead1c>@@W4ConnectionType@Qt@@@Z (REF 0053: ?impl@?$QFunctorSlotObject@V<lambda_cc4d3949325d0cf867e5d021feaead1c>@@$0A@U?$List@$$V@QtPrivate@@X@QtPrivate@@CAXHPEAVQSlotObjectBase@2@PEAVQObject@@PEAPEAXPEA_N@Z)
+              2. 17 64D6 00BB 0000:??$connect@P8QAbstractItemModel@@EAAXAEBVQModelIndex@@0AEBV?$QVector@H@@@ZV<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBVQModelIndex@@1AEBV?$QVector@H@@@ZPEBV0@V<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@W4ConnectionType@Qt@@@Z
+              3. 17 64D6 00BB 0000:??$connect@P8QAbstractItemModel@@EAAXAEBVQModelIndex@@0AEBV?$QVector@H@@@ZV<lambda_da229b9890a5e4933ef9d69d5ebd3581>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBVQModelIndex@@1AEBV?$QVector@H@@@ZPEBV0@V<lambda_da229b9890a5e4933ef9d69d5ebd3581>@@W4ConnectionType@Qt@@@Z
+              4. 17 64D6 00BB 0000:??$connect@P8QAbstractItemModel@@EAAXW4Orientation@Qt@@HH@ZV<lambda_4b8dd06a347451703849b6da9ed1915a>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXW4Orientation@Qt@@HH@ZPEBV0@V<lambda_4b8dd06a347451703849b6da9ed1915a>@@W4ConnectionType@5@@Z
+              5. 17 64D6 00BB 0000:??$connect@P8QAbstractItemModel@@EAAXW4Orientation@Qt@@HH@ZV<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXW4Orientation@Qt@@HH@ZPEBV0@V<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@W4ConnectionType@5@@Z
+              6. 17 64D6 00BB 0000:??$connect@P8QAbstractItemModel@@EAAXAEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@1@@ZV<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@3@@ZPEBV0@V<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@W4ConnectionType@Qt@@@Z
+          7424:
+            18574883EC20:
+              488BF9BE800000008BCEE8........:
+                F20F:
+                  0. 12 70E1 00A7 0000:??$toString@N@QTest@@YAPEADAEBN@Z
+                F30F:
+                  0. 12 E1B4 00A9 0000:??$toString@M@QTest@@YAPEADAEBM@Z
+              498BD8488BFA488BF14885D27517448D42:
+                0. 04 4551 00E6 0000:??0QTestData@@AEAA@PEBDPEAVQTestTable@@@Z
+              8BF2488BD9488B09BA08000000498BF8E8:
+                0. 00 0000 0074 0000:?createNode@?$QHash@VQByteArray@@UQHashDummyValue@@@@AEAAPEAU?$QHashNode@VQByteArray@@UQHashDummyValue@@@@IAEBVQByteArray@@AEBUQHashDummyValue@@PEAPEAU2@@Z
+            204C89442418574883EC608364245000488BF1B9180000:
+              0. 08 83BF 00A1 0000:??$connect@P8QAbstractItemModel@@EAAXAEBVQModelIndex@@HHUQPrivateSignal@1@@ZV<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBVQModelIndex@@HHUQPrivateSignal@3@@ZPEBV0@V<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@W4ConnectionType@Qt@@@Z
+              1. 08 83BF 00A1 0000:??$connect@P8QAbstractItemModel@@EAAXAEBVQModelIndex@@HHUQPrivateSignal@1@@ZV<lambda_e349c30c114465c598426c765b723430>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBVQModelIndex@@HHUQPrivateSignal@3@@ZPEBV0@V<lambda_e349c30c114465c598426c765b723430>@@W4ConnectionType@Qt@@@Z
+              2. 08 83BF 00A1 0000:??$connect@P8QAbstractItemModel@@EAAXAEBVQModelIndex@@HHUQPrivateSignal@1@@ZV<lambda_f1afd8739f4df012759a1e63f54d9ac2>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBVQModelIndex@@HHUQPrivateSignal@3@@ZPEBV0@V<lambda_f1afd8739f4df012759a1e63f54d9ac2>@@W4ConnectionType@Qt@@@Z
+              3. 08 83BF 00A1 0000:??$connect@P8QAbstractItemModel@@EAAXAEBVQModelIndex@@HHUQPrivateSignal@1@@ZV<lambda_f79636bbdddd3f4dee9c3e221c439c1e>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBVQModelIndex@@HHUQPrivateSignal@3@@ZPEBV0@V<lambda_f79636bbdddd3f4dee9c3e221c439c1e>@@W4ConnectionType@Qt@@@Z
+              4. 08 83BF 00A1 0000:??$connect@P8QAbstractItemModel@@EAAXUQPrivateSignal@1@@ZV<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXUQPrivateSignal@3@@ZPEBV0@V<lambda_8bcdf37343ecf5b50749e4638fc8d67f>@@W4ConnectionType@Qt@@@Z
+              5. 08 83BF 00A1 0000:??$connect@P8QAbstractItemModel@@EAAXAEBVQModelIndex@@HHUQPrivateSignal@1@@ZV<lambda_32760ca80b6395518c7bc6ad0aadc38d>@@@QObject@@SA?AVConnection@QMetaObject@@PEBVQAbstractItemModel@@P83@EAAXAEBVQModelIndex@@HHUQPrivateSignal@3@@ZPEBV0@V<lambda_32760ca80b6395518c7bc6ad0aadc38d>@@W4ConnectionType@Qt@@@Z
+        574881EC40040000488B05........4833C4488984243004000048:
+          0. 03 D023 00A9 0000:?startLogging@QPlainTestLogger@@UEAAXXZ
+      18:
+        555657415641574881EC70040000488B05........4833C4488984:
+          0. 0C A162 011F 0000:?addBenchmarkResult@QCsvBenchmarkLogger@@UEAAXAEBVQBenchmarkResult@@@Z
+        574883EC20488BD9B910000000E8........0FB70B4C8D0D:
+          0. 00 0000 0092 0000:??$toString@Vqfloat16@@@QTest@@YAPEADAEBVqfloat16@@@Z
+    6C2408488974241048897C24184154415641574883EC20488B01488BF948:
+      0. 35 021E 01A8 0000:?resize@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@QEAAXH@Z
+    742408574883EC20488B01488BF983780400746E833801BE080000007628:
+      0. 17 75CA 008F 0000:?clear@?$QVector@PEAVQAbstractTestLogger@@@@QEAAXXZ
+  8B:
+    01:
+      488B:
+        00C3:
+          0. 00 0000 0007 0000:?dataTag@QTestData@@QEBAPEBDXZ
+        4008C3:
+          0. 00 0000 0008 0000:?parent@QTestData@@QEBAPEAVQTestTable@@XZ
+        4808482B0848C1F9048BC1C3:
+          0. 00 0000 0011 0000:?elementCount@QTestTable@@QEBAHXZ
+      8B:
+        40:
+          04C3:
+            0. 00 0000 0007 0000:??$sizeImpl@V?$QVector@H@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAHPEBX@Z
+          18C3:
+            0. 00 0000 0007 0000:?dataCount@QTestData@@QEBAHXZ
+        480C2B48088BC1C3:
+          0. 00 0000 000C 0000:??$sizeImpl@V?$QList@VQPersistentModelIndex@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAHPEBX@Z
+    02:
+      44890144894910488B10488BC148895108C3:
+        0. 00 0000 0015 0000:??$getImpl@V?$QList@VQPersistentModelIndex@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SA?AUVariantData@1@PEBQEAXHI@Z
+      48:
+        39010F94C0C3:
+          0. 00 0000 000A 0000:?equal@?$IteratorOwner@PEBH@QtMetaTypePrivate@@SA_NPEBQEAX0@Z
+        89:
+          01C3:
+            0. 00 0000 0007 0000:?assign@?$IteratorOwner@PEBH@QtMetaTypePrivate@@SAXPEAPEAXPEBQEAX@Z
+          4108488BC144890144894910C3:
+            0. 00 0000 0012 0000:??$getImpl@V?$QVector@H@@@QSequentialIterableImpl@QtMetaTypePrivate@@SA?AUVariantData@1@PEBQEAXHI@Z
+      4C8B01488B084939080F94C0C3:
+        0. 00 0000 0010 0000:?equal@?$IteratorOwnerCommon@Vconst_iterator@?$QList@VQPersistentModelIndex@@@@@QtMetaTypePrivate@@SA_NPEBQEAX0@Z
+    05........:
+      488B08488B0148FF60:
+        10:
+          0. 00 0000 0011 0000:?beginBenchmarkMeasurement@QTest@@YAXXZ
+        20:
+          0. 00 0000 0011 0000:?endBenchmarkMeasurement@QTest@@YA_KXZ
+      8078310074078339000F9FC0C38B403439010F9DC0C3:
+        0. 00 0000 001D 0000:?isDone@QBenchmarkIterationController@QTest@@QEAA_NXZ
+      894834488B05........C6403001C3:
+        0. 00 0000 0016 0000:?setIterationCount@QTest@@YAXH@Z
+      8B40:
+        04C3:
+          0. 00 0000 000B 0000:?loggerCount@QTestLog@@SAHXZ (REF 0003: ?loggers@QTest@@3V?$QVector@PEAVQAbstractTestLogger@@@@A)
+        34C3:
+          0. 00 0000 000B 0000:?iterationCount@QTest@@YAHXZ (REF 0003: ?current@QBenchmarkTestMethodData@@2PEAV1@EA)
+      C3:
+        0. 00 0000 0008 0000:?currentGlobalTestData@QTestResult@@SAPEAVQTestData@@XZ (REF 0003: ?currentGlobalTestData@QTest@@3PEAVQTestData@@EA)
+        1. 00 0000 0008 0000:?currentTestData@QTestResult@@SAPEAVQTestData@@XZ (REF 0003: ?currentTestData@QTest@@3PEAVQTestData@@EA)
+        2. 00 0000 0008 0000:?currentTestFunction@QTestResult@@SAPEBDXZ (REF 0003: ?currentTestFunc@QTest@@3PEBDEB)
+        3. 00 0000 0008 0000:?currentTestTable@QTestTable@@SAPEAV1@XZ (REF 0003: ?currentTestTable@QTestTablePrivate@@2PEAVQTestTable@@EA)
+        4. 00 0000 0008 0000:?testObject@QTest@@YAPEAVQObject@@XZ (REF 0003: ?currentTestObject@QTest@@3PEAVQObject@@EA)
+        5. 00 0000 0008 0000:?currentAppName@QTestResult@@SAPEBDXZ (REF 0003: ?currentAppName@@3PEBDEB)
+    09:
+      BA08000000E9:
+        0. 00 0000 000D 0000:?destroy@?$IteratorOwnerCommon@Vconst_iterator@?$QList@VQPersistentModelIndex@@@@@QtMetaTypePrivate@@SAXPEAPEAX@Z
+      E9:
+        0. 00 0000 0008 0000:?outputString@QTestXunitStreamer@@QEBAXPEBD@Z (REF 0004: ?outputString@QAbstractTestLogger@@QEAAXPEBD@Z)
+    0D........:
+      33C0EB06488B4918FFC04885C975F5C3:
+        0. 00 0000 0017 0000:?unhandledIgnoreMessages@QTestLog@@SAHXZ
+      4533C9448BC20F28C8E9:
+        0. 00 0000 0015 0000:?setBenchmarkResult@QTest@@YAXNW4QBenchmarkMetric@1@@Z
+      488D05........4885C9480F45C1C3:
+        0. 00 0000 0016 0000:?currentTestObjectName@QTestResult@@SAPEBDXZ
+    11488B42:
+      084839020F94C0C3:
+        0. 00 0000 000E 0000:?isEmpty@QTestTable@@QEBA_NXZ
+      20482B421848C1F803C3:
+        0. 00 0000 0010 0000:?dataCount@QTestTable@@QEBAHXZ
+    41:
+      08:
+        8B8080000000C3:
+          0. 00 0000 000B 0000:?failureReportingMode@QAbstractItemModelTester@@QEBA?AW4FailureReportingMode@1@XZ
+        C3:
+          0. 00 0000 0005 0000:?nextElement@?$QTestCoreList@VQTestElementAttribute@@@@QEAAPEAVQTestElementAttribute@@XZ
+          1. 00 0000 0005 0000:?nextElement@?$QTestCoreList@VQTestElement@@@@QEAAPEAVQTestElement@@XZ
+      10C3:
+        0. 00 0000 0005 0000:?previousElement@?$QTestCoreList@VQTestElement@@@@QEAAPEAVQTestElement@@XZ
+      18C3:
+        0. 00 0000 0005 0000:?value@QTestElementAttribute@@QEBAPEBDXZ
+        1. 00 0000 0005 0000:?checkpoint@QBenchmarkEvent@@UEAA_JXZ
+        2. 00 0000 0005 0000:?attributes@?$QTestCoreElement@VQTestElement@@@@QEBAPEAVQTestElementAttribute@@XZ
+      28C3:
+        0. 00 0000 0005 0000:?childElements@QTestElement@@QEBAPEAV1@XZ
+      30C3:
+        0. 00 0000 0005 0000:?parentElement@QTestElement@@QEBAPEBV1@XZ
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QTestEventLoop@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QTestEventLoop@@2UQMetaObject@@B)
+      1. 00 0000 0017 0000:?metaObject@QAbstractItemModelTester@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QAbstractItemModelTester@@2UQMetaObject@@B)
+    510833C0488B4A704885C974093941047404488B4278C3:
+      0. 00 0000 0019 0000:?model@QAbstractItemModelTester@@QEBAPEAVQAbstractItemModel@@XZ
+    8A:
+      40000000:
+        4883C108E9........488B8A400000004883C130E9:
+          0. 00 0000 0020 (l)0000:?dtor$0@?0???0QBenchmarkGlobalData@@QEAA@XZ@4HA (l)0010:?dtor$1@?0???0QBenchmarkGlobalData@@QEAA@XZ@4HA
+        E9:
+          0. 00 0000 000C (l)0000:?dtor$0@?0???0QBenchmarkEvent@@QEAA@XZ@4HA
+      480000004883C120E9........40554883EC20488BEA8B452083E00185:
+        0. 0C D1CC 0036 (l)0000:?dtor$6@?0??pop@?$QStack@UChanging@QAbstractItemModelTesterPrivate@@@@QEAA?AUChanging@QAbstractItemModelTesterPrivate@@XZ@4HA (l)0010:?dtor$0@?0??pop@?$QStack@UChanging@QAbstractItemModelTesterPrivate@@@@QEAA?AUChanging@QAbstractItemModelTesterPrivate@@XZ@4HA
+      50000000E9........:
+        488B8A500000004883C118E9........488B8A50:
+          0. 08 6819 0038 (l)0000:?dtor$0@?0???0WatchDog@QTest@@QEAA@XZ@4HA (l)000C:?dtor$1@?0???0WatchDog@QTest@@QEAA@XZ@4HA (l)001C:?dtor$2@?0???0WatchDog@QTest@@QEAA@XZ@4HA (l)002C:?dtor$3@?0???0WatchDog@QTest@@QEAA@XZ@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0???0QAbstractItemModelTesterPrivate@@QEAA@PEAVQAbstractItemModel@@W4FailureReportingMode@QAbstractItemModelTester@@@Z@4HA
+      600000004883C150E9:
+        0. 00 0000 0010 (l)0000:?dtor$0@?0???0TestMethods@QTest@@QEAA@PEBVQObject@@AEBV?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@@Z@4HA
+    C4:
+      41564883EC3048C740E8FEFFFFFF488958:
+        084889681048897018488978:
+          0. 1B 1922 008E 0000:?find@?$_Tree@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@QEAA?AV?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@VQByteArray@@@std@@@std@@@2@AEBVQByteArray@@@Z
+        104889701848897820:
+          458BC8:
+            0. 16 3A81 00D2 0000:?realloc@?$QVector@PEAVQAbstractTestLogger@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (l)00D2:$LN129
+          498BF8:
+            0. 0B FEE1 0083 0000:?append@IgnoreResultList@QTest@@SAXAEAPEAU12@W4QtMsgType@@AEBVQVariant@@@Z
+      44:
+        8840185556574154415541564157488BEC4883EC5048C745F0FEFFFF:
+          0. 1C 97EE 0A4A 0000:?qtest_qParseArgs@QTest@@YAXHQEBQEBD_N@Z (l)0A4A:$LN268
+        894018488950104889480855535657488DA8D8FDFFFF4881EC080300:
+          0. FF FFCA 0EC3 0000:?checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z
+      4889:
+        4808:
+          488950104C8940184C89482053:
+            4881EC30040000488B05:
+              0. 00 0000 00F8 0000:?addRow@QTest@@YAAEAVQTestData@@PEBDZZ
+            56574883EC30488BF9488D70:
+              0. 08 A275 0053 0000:printf
+          55:
+            4154415541564157488DA8E8FDFFFF4881ECF002000048C7:
+              0. 2A F719 13DC 0000:?qFindTestData@QTest@@YA?AVQString@@AEBV2@PEBDH1@Z
+            574156488BEC4883EC6048C745D0FEFFFFFF488958184889:
+              0. 14 8211 040A 0000:??0QAbstractItemModelTester@@QEAA@PEAVQAbstractItemModel@@W4FailureReportingMode@0@PEAVQObject@@@Z
+          565741564883EC4048C740C8FEFFFFFF488958104889681849:
+            0. 0B F8A9 0138 0000:??0TestMethods@QTest@@QEAA@PEBVQObject@@AEBV?$vector@VQMetaMethod@@V?$allocator@VQMetaMethod@@@std@@@std@@@Z (l)0138:$LN81
+          57:
+            41:
+              544155415641574883EC4048C740C0FEFFFFFF48895810:
+                0. 20 C5B8 0171 0000:?realloc@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (l)0171:$LN121
+              5641574883EC3048C740E0FEFFFFFF4889581048897018:
+                0. 23 1C5E 012E 0000:?realloc@?$QVector@VQByteArray@@@@AEAAXHV?$QFlags@W4AllocationOption@QArrayData@@@@@Z (l)012E:$LN142
+            4883EC:
+              3048C740:
+                E8FEFFFFFF4889581048897020488BF94C:
+                  0. 0B AEEA 0090 0000:?detach_helper@?$QList@VQByteArray@@@@AEAAXH@Z (l)0090:$LN40 (003D: 17) (REF 005A: ?node_copy@?$QList@VQByteArray@@@@AEAAXPEAUNode@1@00@Z)
+                  1. 0B AEEA 0090 0000:?detach_helper@?$QList@VQString@@@@AEAAXH@Z (l)0090:$LN40 (003D: 17) (REF 005A: ?node_copy@?$QList@VQString@@@@AEAAXPEAUNode@1@00@Z)
+                  2. 0B AEEA 00BB 0000:?detach_helper@?$QList@VQPersistentModelIndex@@@@AEAAXH@Z (l)00BB:$LN64 (003D: 42)
+                F0FEFFFFFF48895820488BD98360E800C7:
+                  0. 0C 8078 00B0 0000:??$create@$$V@?$QSharedPointer@VQTemporaryDir@@@@SA?AV0@XZ
+              4048C740F0FEFFFFFF4889581048897018418BD949:
+                0. 0F 60F1 0091 0000:?qFindTestData@QTest@@YA?AVQString@@PEBD0H0@Z
+        5010:
+          41564883EC3048C740F0FEFFFFFF4889580848897018488978:
+            0. 3B 12CA 00C5 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@UQLatin1Char@@@@AEBA?AVQString@@XZ
+          4C8940184C8948205356574883EC30488B:
+            DA488D7018488BF9:
+              0. 01 3E9B 004B 0000:sscanf
+            FA488D7018488BD9:
+              0. 01 3E9B 0044 0000:fprintf
+          5556574154415541564157488D:
+            68A14881EC0001000048C745:
+              0. 1A B3F9 0222 0000:?tcEscapedString@QTeamCityLogger@@AEBA?AVQString@@AEBV2@@Z
+            A868FEFFFF4881EC60020000:
+              0. 29 7F55 0474 0000:?invokeTests@TestMethods@QTest@@QEBAXPEAVQObject@@@Z
+          565741564883EC3048C740E0FEFFFFFF488958184889682048:
+            0. 32 13B2 00EC 0000:??$convertTo@VQByteArray@@@?$QStringBuilder@V?$QStringBuilder@VQByteArray@@$$BY01D@@VQByteArray@@@@AEBA?AVQByteArray@@XZ
+          574883EC3048C740:
+            E8FEFFFFFF4889580848897020498BF949:
+              0. 1F 5221 0063 0000:?node_copy@?$QList@VQPersistentModelIndex@@@@AEAAXPEAUNode@1@00@Z (l)0063:$LN53
+            F0FEFFFFFF4889580848:
+              897018488B:
+                DA48:
+                  0. 08 C7F7 00C2 0000:?escapedTestFuncName@QTeamCityLogger@@AEBA?AVQString@@XZ
+                F248:
+                  0. 28 5786 00CA 0000:?pop@?$QStack@UChanging@QAbstractItemModelTesterPrivate@@@@QEAA?AUChanging@QAbstractItemModelTesterPrivate@@XZ
+              8BFA488BD98360:
+                0. 16 1286 007C 0000:??$convertTo@VQString@@@?$QStringBuilder@UQLatin1Char@@VQString@@@@AEBA?AVQString@@XZ
+                1. 27 4F42 0082 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQLatin1String@@VQString@@@@UQLatin1Char@@@@AEBA?AVQString@@XZ
+                2. 1B 65BD 0067 0000:??$convertTo@VQString@@@?$QStringBuilder@VQLatin1String@@V1@@@AEBA?AVQString@@XZ
+                3. 2D 7AB4 0098 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@VQLatin1String@@@@VQString@@@@AEBA?AVQString@@XZ
+                4. 26 9D2B 0072 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQString@@@@AEBA?AVQString@@XZ
+                5. 22 B81A 006E 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@UQLatin1Char@@@@VQStringRef@@@@AEBA?AVQString@@XZ
+                6. 20 C27E 006C 0000:??$convertTo@VQString@@@?$QStringBuilder@VQLatin1String@@VQString@@@@AEBA?AVQString@@XZ
+                7. 25 E0E5 0071 0000:??$convertTo@VQString@@@?$QStringBuilder@V?$QStringBuilder@VQString@@V1@@@UQLatin1Char@@@@AEBA?AVQString@@XZ
+        58:
+          084889:
+            681048897018:
+              4889782041:
+                54415641574883EC:
+                  20:
+                    486319:
+                      0. 4A B87D 00C1 0000:?allocateStringFn@@YAHPEAUQTestCharBuffer@@PEBDP6AH01_K@Z@Z
+                    4C8BE2:
+                      0. 59 56EA 00DB 0000:??$_Guess_median_unchecked@PEAVQBenchmarkResult@@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@00AEAU?$less@X@0@@Z
+                  3033FF45:
+                    0. 16 0128 016D 0000:?addBFail@QTestLog@@SAXPEBD0H@Z
+                    1. 16 397C 0167 0000:?addXFail@QTestLog@@SAXPEBD0H@Z
+                    2. 16 4E06 016D 0000:?addBXPass@QTestLog@@SAXPEBD0H@Z
+                    3. 16 9DE7 016D 0000:?addBXFail@QTestLog@@SAXPEBD0H@Z
+                    4. 16 CD65 016D 0000:?addXPass@QTestLog@@SAXPEBD0H@Z
+                564883EC:
+                  20:
+                    33FF488BE94885:
+                      0. 0C 3615 012E 0000:?enterTestData@QTestLog@@SAXPEAVQTestData@@@Z
+                    488B:
+                      05:
+                        0. 29 7D2D 010E 0000:?addBenchmarkResult@QTestLog@@SAXAEBVQBenchmarkResult@@@Z
+                      E9488D0D:
+                        0. 00 0000 0147 0000:?enterTestFunction@QTestLog@@SAXPEBD@Z
+                    4C:
+                      8BCA488BF24C:
+                        0. 3C BA05 009D 0000:??$_Sort_heap_unchecked@PEAVQBenchmarkResult@@U?$less@X@std@@@std@@YAXPEAVQBenchmarkResult@@0AEAU?$less@X@0@@Z
+                      8D35:
+                        0. 13 5FED 0114 0000:?qElementData@QTest@@YAPEAXPEBDH@Z
+                  30488B014D8BF149:
+                    0. 0F 81A7 00B8 0000:?insert@?$QHash@VQByteArray@@UQHashDummyValue@@@@QEAA?AViterator@1@AEBVQByteArray@@AEBUQHashDummyValue@@@Z
+                  40:
+                    488BF9498BE948:
+                      0. 09 7D15 0088 0000:??$qCompare@H@QTest@@YA_NAEBH0PEBD11H@Z (0006: CF)
+                      1. 09 7D15 0086 0000:??$qCompare@VQPersistentModelIndex@@VQModelIndex@@@QTest@@YA_NAEBVQPersistentModelIndex@@AEBVQModelIndex@@PEBD22H@Z (0006: D3)
+                    498BE94D8BF048:
+                      0. 06 E47A 008C 0000:??$qCompare@VQVariant@@@QTest@@YA_NAEBVQVariant@@0PEBD11H@Z
+                    8B01498BE94D8B:
+                      0. 30 7C16 00AB 0000:??$qCompare@VQModelIndex@@@QTest@@YA_NAEBVQModelIndex@@0PEBD11H@Z
+                  60488BEA488BD948:
+                    0. 0C 94AF 019B 0000:??$compare@VQPersistentModelIndex@@VQModelIndex@@@QAbstractItemModelTesterPrivate@@AEAA_NAEBVQPersistentModelIndex@@AEBVQModelIndex@@PEBD22H@Z (0011: 11)
+                    1. 0C 94AF 01B5 0000:??$compare@VQVariant@@V1@@QAbstractItemModelTesterPrivate@@AEAA_NAEBVQVariant@@0PEBD11H@Z (0011: 2B)
+                574883EC40488D35:
+                  0. 17 A013 0171 0000:?fetchData@QTest@@YAPEAXPEAVQTestData@@PEBDH@Z
+              57:
+                415441574883EC608BFAC740B0FF0200:
+                  0. 07 4CCA 0194 0000:?headerDataChanged@QAbstractItemModelTesterPrivate@@QEAAXW4Orientation@Qt@@HH@Z
+                4883EC60458B18498BF144391A498BD8:
+                  0. 4D 6AAC 01A6 0000:??$compare@HH@QAbstractItemModelTesterPrivate@@AEAA_NAEBH0PEBD11H@Z
+            7010:
+              48897818:
+                4C8960205541564157488BEC4881EC8000:
+                  0. A6 4FD3 0320 0000:?rowAndColumnCount@QAbstractItemModelTesterPrivate@@QEAAXXZ
+                55:
+                  4154415541564157488D68A14881EC90:
+                    0. 2C 037A 0285 0000:?dataChanged@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@0@Z
+                    1. FF 1E0D 0231 0000:?index@QAbstractItemModelTesterPrivate@@QEAAXXZ
+                  48:
+                    8BEC4883EC70488BD90F2970E8488B:
+                      0. 01 9D2B 0135 0000:?setResult@QBenchmarkTestMethodData@@QEAAXNW4QBenchmarkMetric@QTest@@_N@Z
+                    8D68D84881EC20010000488B01488B:
+                      0. 10 2540 0105 (l)0000:?invokeMethod@QTest@@YAXPEAVQObject@@PEBD@Z
+              574883EC50448B9180000000498BF9498BF08ADA45:
+                0. 27 EF7B 0125 0000:?verify@QAbstractItemModelTesterPrivate@@AEAA_N_NPEBD11H@Z
+            78104C8960185541564157488D68A14881ECA000000048:
+              0. 54 C7BE 04F0 0000:?parent@QAbstractItemModelTesterPrivate@@QEAAXXZ
+          104889681848897020:
+            488948085741544155415641574883EC50:
+              0. 03 A8F1 0136 0000:?generateTestIdentifier@QTestPrivate@@YAXPEAUQTestCharBuffer@@H@Z
+            57415641574883EC40:
+              F20F1001488BE948:
+                0. 13 C0FF 013B 0000:?qCompare@QTest@@YA_NAEBN0PEBD11H@Z
+              F30F1001488BE948:
+                0. 13 D071 0135 0000:?qCompare@QTest@@YA_NAEBM0PEBD11H@Z
+        680848897010488978184C8960204155415641574883EC3033FF45:
+          0. 16 83BA 014B 0000:?addFail@QTestLog@@SAXPEBD0H@Z
+      55:
+        415441554156415748:
+          8BEC4883EC7048C745B0FEFFFFFF4889580848:
+            0. FF 9EE2 01C8 0000:?append@?$QVector@VQBenchmarkResult@@@@QEAAXAEBVQBenchmarkResult@@@Z
+          8D68:
+            984881EC4001000048C745D0FEFFFFFF48:
+              0. 18 7AEE 0479 0000:?rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z
+            B84881EC2001000048C745F0FEFFFFFF48:
+              0. 1F 8ABC 07D9 0000:?addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z
+        488DA8:
+          58FCFFFF4881ECA004000048C7442458FEFFFFFF4889581048:
+            0. 0A D050 028C (l)0000:?windowsFaultHandler@@YAJPEAU_EXCEPTION_POINTERS@@@Z
+          68FAFFFF4881EC9006000048C7442440FEFFFFFF4889581848:
+            0. 06 A3E8 0206 0000:?addBenchmarkResult@QXmlTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z
+          88:
+            FAFFFF4881EC7006000048C7442420FEFFFFFF4889581048:
+              0. 06 8941 018E 0000:?startLogging@QXmlTestLogger@@UEAAXXZ
+            FCFFFF4881EC7004000048C7442430FEFFFFFF4889581048:
+              0. 02 8E30 0194 0000:?addMessage@QTapTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z
+          98:
+            FCFFFF4881EC6004000048C7442420FEFFFFFF4889581848:
+              0. 02 8E30 00EE 0000:?enterTestFunction@QXmlTestLogger@@UEAAXPEBD@Z
+            FEFFFF4881EC6002000048C7442430FEFFFFFF4889581048:
+              0. 02 8E30 015A 0000:?stopLogging@QXmlTestLogger@@UEAAXXZ (00E5: 83)
+              1. 02 8E30 013D 0000:?leaveTestFunction@QXmlTestLogger@@UEAAXXZ (00E5: 90)
+        5657:
+          415441554156415748:
+            81ECC000000048C7442438FEFFFFFF4889:
+              0. 05 E9DC 035D 0000:?addIncident@QXunitTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z
+            8D:
+              68A14881EC:
+                9000000048C745:
+                  07FEFFFF:
+                    0. 2A E6E4 053C (l)0000:?qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z
+                  D7FEFFFF:
+                    0. 32 5A4A 0188 0000:?layoutChanged@QAbstractItemModelTesterPrivate@@QEAAXXZ
+                E000000048C74517FEFFFF:
+                  0. AE 58E4 06D2 0000:?data@QAbstractItemModelTesterPrivate@@QEAAXXZ
+              A8:
+                08F6FFFF4881ECC00A000048C74424:
+                  0. 0C 8DE9 0304 0000:?addIncident@QXmlTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z
+                18FFFFFF4881ECB001000048C78590:
+                  0. 27 24B2 0970 0000:?qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z
+                C8F5FFFF4881EC000B000048C78568:
+                  0. 0E 8716 0F34 0000:?addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z
+                F8:
+                  F5FFFF4881ECD00A000048C74424:
+                    0. 0C 09DD 0343 0000:?addMessage@QXmlTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z
+                  FDFFFF4881ECD002000048C785C0:
+                    0. 18 7ADC 08E1 0000:?rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z
+          48:
+            83EC:
+              5048C740B8FEFFFFFF48895818488BF1488D7918488BDF:
+                0. 0D 34A7 00DA 0000:?run@WatchDog@QTest@@UEAAXXZ
+              7048C74098FEFFFFFF48895810488BF2488BF9488B098B:
+                0. 4C 5B39 012B 0000:?append@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@QEAAXAEBUChanging@QAbstractItemModelTesterPrivate@@@Z
+            8DA898FEFFFF4881EC5002000048C7442420FEFFFFFF488958:
+              0. 04 DA25 014D 0000:?outputElements@QTestXunitStreamer@@QEBAXPEAVQTestElement@@_N@Z
+        5741:
+          5441:
+            554156488D68A94881EC9000000048C74527FEFFFFFF4889:
+              0. 17 3EAE 03D3 0000:?addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z
+            564157488D68A94881ECB000000048C7450FFEFFFFFF4889:
+              0. 12 6234 0334 0000:?addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z
+          5541564157488BEC4883EC6048C745E0FEFFFFFF488958104889:
+            0. 1F 97C1 02D0 (l)0000:?qSignalDumperCallbackSlot@QTest@@YAXPEAVQObject@@HPEAPEAX@Z
+          56488BEC4883EC6048C745:
+            C8FEFFFFFF4889580848897010488B:
+              0. 0D 8758 0180 (l)0000:?qPrintTestSlots@QTest@@YAXPEAU_iobuf@@PEBD@Z
+            E8FEFFFFFF488970184D8BF033FF89:
+              0. 12 CBC6 0168 0000:?matches@IgnoreResultList@QTest@@QEBA_NW4QtMsgType@@AEBVQString@@@Z
+      565741:
+        5441:
+          5541564883EC5048C740C8FEFFFFFF48895808488968104D:
+            0. 0A 945A 0374 (l)0000:?messageHandler@QTest@@YAXW4QtMsgType@@AEBVQMessageLogContext@@AEBVQString@@@Z
+          5641574883EC4048C740D0FEFFFFFF488958104889681845:
+            0. 16 1A7C 0176 0000:?info@QTestLog@@SAXPEBD0H@Z
+            1. 16 F6A2 0173 0000:?warn@QTestLog@@SAXPEBD0H@Z
+        564881ECC000000048C7442430FEFFFFFF488958184889682048:
+          0. 02 8E30 01BF 0000:?addBenchmarkResult@QXunitTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z
+        574883EC5048C740C0FEFFFFFF4889581048896818488B05:
+          0. 00 0000 024A 0000:?stopLogging@QXunitTestLogger@@UEAAXXZ
+      57:
+        41544155415641574883EC4048C740C8FEFFFFFF4889581048897018:
+          0. 2A FF22 0170 0000:??$_Insert_nohint@AEBVQByteArray@@U_Nil@std@@@?$_Tree@V?$_Tset_traits@VQByteArray@@U?$less@VQByteArray@@@std@@V?$allocator@VQByteArray@@@3@$0A@@std@@@std@@IEAA?AU?$pair@V?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@VQByteArray@@@std@@@std@@@std@@_N@1@_NAEBVQByteArray@@U_Nil@1@@Z (l)0170:$LN295
+        48:
+          81EC6002000048C7442430FEFFFFFF488958:
+            08488B05........48:
+              0. 0E 4823 00F2 0000:?addTag@QXunitTestLogger@@QEAAXPEAVQTestElement@@@Z
+            1048897018488B05:
+              0. 00 0000 00CA 0000:?stopLogging@QTapTestLogger@@UEAAXXZ
+          83EC:
+            3048C740E8FEFFFFFF488958:
+              084889681048897018488B:
+                D933:
+                  0. 1F D633 0097 0000:??1QTestData@@QEAA@XZ
+                F948:
+                  0. 02 5E64 009D 0000:??1WatchDog@QTest@@UEAA@XZ
+              1048897018498BF88BF2488BD9:
+                0. 07 D5B2 0151 0000:?qInit@QTest@@YAXPEAVQObject@@HPEAPEAD@Z
+            4048C740:
+              D8FEFFFFFF4889580848897010488BF2408A3D:
+                0. 00 0000 00FC 0000:?checkBlackLists@QTestPrivate@@YAXPEBD0@Z
+              E8FEFFFFFF48895808488970108BDA488BF9458BC1:
+                0. 08 39A6 00CA 0000:??$formatResult@N@QTest@@YAHPEADHNH@Z
+              F0FEFFFFFF488958084889681048897018498BF949:
+                0. 0D F84C 00AE 0000:?addMessage@QPlainTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z
+      895010:
+        48894808565741564883EC3048C740D8FEFFFFFF488958184D63:
+          0. 1C 6640 0114 0000:?detach_helper_grow@?$QList@VQPersistentModelIndex@@@@AEAAPEAUNode@1@HH@Z (l)0114:$LN108
+          1. 1C 7450 00E9 0000:?detach_helper_grow@?$QList@VQString@@@@AEAAPEAUNode@1@HH@Z (l)00E9:$LN135 (REF 006B: ?node_copy@?$QList@VQString@@@@AEAAXPEAUNode@1@00@Z)
+          2. 1C 7450 00E9 0000:?detach_helper_grow@?$QList@VQByteArray@@@@AEAAPEAUNode@1@HH@Z (l)00E9:$LN135 (REF 006B: ?node_copy@?$QList@VQByteArray@@@@AEAAXPEAUNode@1@00@Z)
+        555356574154415541564157488DA868FDFFFF4881EC58030000:
+          0. 1C 636F 085E 0000:?invokeTestOnData@TestMethods@QTest@@AEBAXH@Z
+    CABA:
+      04000000448D4204E9:
+        0. 00 0000 0011 0000:?freeData@?$QVector@H@@AEAAXPEAU?$QTypedArrayData@H@@@Z
+      08000000448BC2E9:
+        0. 00 0000 0010 0000:?freeData@?$QVector@PEAVQAbstractTestLogger@@@@AEAAXPEAU?$QTypedArrayData@PEAVQAbstractTestLogger@@@@@Z
+  8D:
+    05........:
+      4889:
+        01:
+          C3:
+            0. 00 0000 000B 0000:??1QBenchmarkMeasurerBase@@UEAA@XZ (REF 0003: ??_7QBenchmarkMeasurerBase@@6B@)
+          E9:
+            0. 00 0000 000F 0000:??1QCsvBenchmarkLogger@@UEAA@XZ (REF 0003: ??_7QCsvBenchmarkLogger@@6B@)
+            1. 00 0000 000F 0000:??1QXmlTestLogger@@UEAA@XZ (REF 0003: ??_7QXmlTestLogger@@6B@)
+            2. 00 0000 000F 0000:??1QPlainTestLogger@@UEAA@XZ (REF 0003: ??_7QPlainTestLogger@@6B@)
+            3. 00 0000 000F 0000:??1QTapTestLogger@@UEAA@XZ (REF 0003: ??_7QTapTestLogger@@6B@)
+        02488BC2C3:
+          0. 00 0000 000E (l)0000:??R<lambda_74e5355cd29a2114bf1f9673c1f6d1ab>@@QEBA?AVQString@@XZ (REF 0003: ?qstring_literal@?1???R<lambda_74e5355cd29a2114bf1f9673c1f6d1ab>@@QEBA?AVQString@@XZ@4U?$QStaticStringData@$0BK@@@B)
+          1. 00 0000 000E (l)0000:??R<lambda_79b20fbb26a0a83894fdbf78862a8d92>@@QEBA?AVQString@@XZ (REF 0003: ?qstring_literal@?1???R<lambda_79b20fbb26a0a83894fdbf78862a8d92>@@QEBA?AVQString@@XZ@4U?$QStaticStringData@$0EC@@@B)
+          2. 00 0000 000E (l)0000:??R<lambda_f3530d5e3cafbb3375bdabf47a78b061>@@QEBA?AVQString@@XZ (REF 0003: ?qstring_literal@?1???R<lambda_f3530d5e3cafbb3375bdabf47a78b061>@@QEBA?AVQString@@XZ@4U?$QStaticStringData@$0CH@@@B)
+          3. 00 0000 000E (l)0000:??R<lambda_7fca350c43e52d7112b794d10ea37753>@@QEBA?AVQString@@XZ (REF 0003: ?qstring_literal@?1???R<lambda_7fca350c43e52d7112b794d10ea37753>@@QEBA?AVQString@@XZ@4U?$QStaticStringData@$08@@B)
+      83CAFF4889014889410848B8000000000000F0BF8951104889:
+        0. 1B 038A 003B 0000:??0QBenchmarkTestMethodData@@QEAA@XZ
+      C3:
+        0. 00 0000 0008 0000:__local_stdio_scanf_options (REF 0003: ?_OptionsStorage@?1??__local_stdio_scanf_options@@9@4_KA)
+        1. 00 0000 0008 0000:__local_stdio_printf_options (REF 0003: ?_OptionsStorage@?1??__local_stdio_printf_options@@9@4_KA)
+    0D........E9........:
+      488D8A80000000E9........488D8A78000000E9:
+        0. 00 0000 0024 (l)0000:?dtor$0@?0??checkCondition@@YA_NAEBVQByteArray@@@Z@4HA (l)000C:?dtor$1@?0??checkCondition@@YA_NAEBVQByteArray@@@Z@4HA (l)0018:?dtor$2@?0??checkCondition@@YA_NAEBVQByteArray@@@Z@4HA
+      ..:
+        0. 00 0000 000C (l)0000:??__Fcategory@?1??lcModelTest@@YAAEBVQLoggingCategory@@XZ@YAXXZ (REF 0003: ?category@?1??lcModelTest@@YAAEBVQLoggingCategory@@XZ@4V2@B)
+        1. 00 0000 000C 0000:??__Ff@?4??registerConverter@?$ValueTypeIsMetaType@V?$QList@VQPersistentModelIndex@@@@$00@QtPrivate@@SA_NH@Z@YAXXZ (REF 0003: ?f@?4??registerConverter@?$ValueTypeIsMetaType@V?$QList@VQPersistentModelIndex@@@@$00@QtPrivate@@SA_NH@Z@4U?$ConverterFunctor@V?$QList@VQPersistentModelIndex@@@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QList@VQPersistentModelIndex@@@@@3@@3@B)
+        2. 00 0000 000C 0000:??__Ff@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@H@@$00@QtPrivate@@SA_NH@Z@YAXXZ (REF 0003: ?f@?4??registerConverter@?$ValueTypeIsMetaType@V?$QVector@H@@$00@QtPrivate@@SA_NH@Z@4U?$ConverterFunctor@V?$QVector@H@@VQSequentialIterableImpl@QtMetaTypePrivate@@U?$QSequentialIterableConvertFunctor@V?$QVector@H@@@3@@3@B)
+        3. 00 0000 000C (l)0000:?dtor$0@?0??lcModelTest@@YAAEBVQLoggingCategory@@XZ@4HA (REF 0003: ?$TSS0@?1??lcModelTest@@YAAEBVQLoggingCategory@@XZ@4HA)
+        4. 00 0000 000C (l)0000:?dtor$0@?0??types@?$ConnectionTypes@U?$List@AEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@QAbstractItemModel@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA (REF 0003: ?$TSS0@?1??types@?$ConnectionTypes@U?$List@AEBV?$QList@VQPersistentModelIndex@@@@W4LayoutChangeHint@QAbstractItemModel@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA)
+        5. 00 0000 000C (l)0000:?dtor$0@?0??types@?$ConnectionTypes@U?$List@AEBVQModelIndex@@AEBV1@AEBV?$QVector@H@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA (REF 0003: ?$TSS0@?1??types@?$ConnectionTypes@U?$List@AEBVQModelIndex@@AEBV1@AEBV?$QVector@H@@@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA)
+        6. 00 0000 000C (l)0000:?dtor$0@?0??types@?$ConnectionTypes@U?$List@W4Orientation@Qt@@HH@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA (REF 0003: ?$TSS0@?1??types@?$ConnectionTypes@U?$List@W4Orientation@Qt@@HH@QtPrivate@@$00@QtPrivate@@SAPEBHXZ@4HA)
+        7. 00 0000 000C (l)0000:??__FcomparRegex@?BB@??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@YAXXZ (REF 0003: ?comparRegex@?BB@??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4VQRegularExpression@@A)
+        8. 00 0000 000C (l)0000:??__FverifyRegex@?BB@??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@YAXXZ (REF 0003: ?verifyRegex@?BB@??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4VQRegularExpression@@A)
+        9. 00 0000 000C 0000:?endDump@QSignalDumper@@SAXXZ (REF 0003: ?nset@?1??endDump@QSignalDumper@@SAXXZ@4UQSignalSpyCallbackSet@@A)
+        10. 00 0000 000C 0000:?startDump@QSignalDumper@@SAXXZ (REF 0003: ?set@?1??startDump@QSignalDumper@@SAXXZ@4UQSignalSpyCallbackSet@@A)
+        11. 00 0000 000C (l)0000:??__Eloggers@QTest@@YAXXZ (REF 0003: ??__Floggers@QTest@@YAXXZ)
+        12. 00 0000 000C 0000:?nsecsFunctionTime@QTestLog@@SA_JXZ (REF 0003: ?elapsedFunctionTime@@3VQElapsedTimer@@A)
+        13. 00 0000 000C 0000:?nsecsTotalTime@QTestLog@@SA_JXZ (REF 0003: ?elapsedTotalTime@@3VQElapsedTimer@@A)
+        14. 00 0000 000C (l)0000:??__EmainSourcePath@QTest@@YAXXZ (REF 0003: ??__FmainSourcePath@QTest@@YAXXZ)
+        15. 00 0000 000C (l)0000:??__EtestFunctions@QTest@@YAXXZ (REF 0003: ??__FtestFunctions@QTest@@YAXXZ)
+        16. 00 0000 000C (l)0000:??__EtestTags@QTest@@YAXXZ (REF 0003: ??__FtestTags@QTest@@YAXXZ)
+    8A:
+      20000000E9........:
+        488D8A28000000E9:
+          0. 00 0000 0018 (l)0000:?dtor$0@?0???$formatResult@N@QTest@@YAHPEADHNH@Z@4HA (l)000C:?dtor$1@?0???$formatResult@N@QTest@@YAHPEADHNH@Z@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??formatString@QTest@@YAPEADPEBD0_KZZ@4HA
+      28:
+        000000E9:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??append@?$QVector@VQBenchmarkResult@@@@QEAAXAEBVQBenchmarkResult@@@Z@4HA (REF 0008: ??1QBenchmarkResult@@QEAA@XZ)
+          1. 00 0000 000C (l)0000:?dtor$1@?0??qMedian@QTest@@YA?AVQBenchmarkResult@@AEBV?$QVector@VQBenchmarkResult@@@@@Z@4HA (REF 0008: ??1?$QVector@VQBenchmarkResult@@@@QEAA@XZ)
+          2. 00 0000 000C (l)0000:?dtor$0@?0??ignoreMessage@QTestLog@@SAXW4QtMsgType@@AEBVQRegularExpression@@@Z@4HA (REF 0008: ??1QVariant@@QEAA@XZ)
+        010000E9........488D8A18010000E9........488D8A40000000E9:
+          0. 00 0000 0054 (l)0000:?dtor$0@?0??rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)000C:?dtor$1@?0??rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0018:?dtor$2@?0??rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0024:?dtor$3@?0??rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0030:?dtor$5@?0??rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)003C:?dtor$6@?0??rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0048:?dtor$9@?0??rowsAboutToBeInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA
+      30000000:
+        4883C120E9........488D8A30000000E9........40554883:
+          0. 14 F147 004E (l)0000:?dtor$5@?0??append@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@QEAAXAEBUChanging@QAbstractItemModelTesterPrivate@@@Z@4HA (l)0010:?dtor$0@?0??append@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@QEAAXAEBUChanging@QAbstractItemModelTesterPrivate@@@Z@4HA (l)001C:?dtor$1@?0??append@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@QEAAXAEBUChanging@QAbstractItemModelTesterPrivate@@@Z@4HA (l)003E:?dtor$26@?0??append@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@QEAAXAEBUChanging@QAbstractItemModelTesterPrivate@@@Z@4HA
+        E9........:
+          488D8A:
+            08010000E9........488D8A18010000E9:
+              0. 00 0000 008F (l)0000:?dtor$0@?0??qRun@QTest@@YAHXZ@4HA (l)000C:?dtor$1@?0??qRun@QTest@@YAHXZ@4HA (l)0018:?dtor$2@?0??qRun@QTest@@YAHXZ@4HA (l)0024:?dtor$3@?0??qRun@QTest@@YAHXZ@4HA (l)0030:?dtor$4@?0??qRun@QTest@@YAHXZ@4HA (l)003C:?catch$103@?0??qRun@QTest@@YAHXZ@4HA (l)0049:__catch$?qRun@QTest@@YAHXZ$0
+            38000000E9........488D8A:
+              58000000E9:
+                0. 00 0000 00CC (l)0000:?dtor$0@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)000C:?dtor$1@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0018:?dtor$2@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0024:?dtor$4@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0030:?dtor$5@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)003C:?dtor$6@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0048:?dtor$8@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0054:?dtor$9@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0060:?dtor$10@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)006C:?dtor$11@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0078:?dtor$12@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0084:?dtor$13@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0090:?dtor$15@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)009C:?dtor$16@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00A8:?dtor$18@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00B4:?dtor$19@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00C0:?dtor$21@?0??addIncident@QTeamCityLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA
+              68000000E9:
+                0. 00 0000 006C (l)0000:?dtor$0@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)000C:?dtor$1@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0018:?dtor$2@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0024:?dtor$3@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0030:?dtor$4@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)003C:?dtor$5@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0048:?dtor$6@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0054:?dtor$7@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0060:?dtor$9@?0??addMessage@QTeamCityLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA
+            40020000E9........488D8A50040000E9:
+              0. 00 0000 0024 (l)0000:?dtor$0@?0??startLogging@QXmlTestLogger@@UEAAXXZ@4HA (l)000C:?dtor$1@?0??startLogging@QXmlTestLogger@@UEAAXXZ@4HA (l)0018:?dtor$2@?0??startLogging@QXmlTestLogger@@UEAAXXZ@4HA
+            48000000E9........488D8A40000000E9:
+              0. 00 0000 0048 (l)0000:?dtor$0@?0??printUnhandledIgnoreMessages@QTestLog@@SAXXZ@4HA (l)000C:?dtor$1@?0??printUnhandledIgnoreMessages@QTestLog@@SAXXZ@4HA (l)0018:?dtor$2@?0??printUnhandledIgnoreMessages@QTestLog@@SAXXZ@4HA (l)0024:?dtor$4@?0??printUnhandledIgnoreMessages@QTestLog@@SAXXZ@4HA (l)0030:?dtor$5@?0??printUnhandledIgnoreMessages@QTestLog@@SAXXZ@4HA (l)003C:?dtor$6@?0??printUnhandledIgnoreMessages@QTestLog@@SAXXZ@4HA
+            68000000E9........488D8A60000000E9:
+              0. 00 0000 0078 (l)0000:?dtor$0@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)000C:?dtor$1@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)0018:?dtor$2@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)0024:?dtor$3@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)0030:?dtor$4@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)003C:?dtor$5@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)0048:?dtor$6@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)0054:?dtor$7@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)0060:?dtor$8@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA (l)006C:?dtor$9@?0??addPendingMessage@QTeamCityLogger@@AEAAXPEBDAEBVQString@@0H@Z@4HA
+            98000000E9........488D8AA0000000E9:
+              0. 00 0000 0030 (l)0000:?dtor$0@?0??startLogging@QTeamCityLogger@@UEAAXXZ@4HA (l)000C:?dtor$2@?0??startLogging@QTeamCityLogger@@UEAAXXZ@4HA (l)0018:?dtor$3@?0??startLogging@QTeamCityLogger@@UEAAXXZ@4HA (l)0024:?dtor$4@?0??startLogging@QTeamCityLogger@@UEAAXXZ@4HA
+          ..:
+            0. 00 0000 000C (l)0000:?dtor$0@?0??formatAttributes@QTestXunitStreamer@@QEBAXPEBVQTestElement@@PEBVQTestElementAttribute@@PEAUQTestCharBuffer@@@Z@4HA
+            1. 00 0000 000C (l)0000:?dtor$0@?0??outputElementAttributes@QTestXunitStreamer@@QEBAXPEBVQTestElement@@PEAVQTestElementAttribute@@@Z@4HA
+            2. 00 0000 000C (l)0000:?dtor$0@?0??outputElements@QTestXunitStreamer@@QEBAXPEAVQTestElement@@_N@Z@4HA
+            3. 00 0000 000C (l)0000:?dtor$0@?0??addMessage@QAbstractTestLogger@@UEAAXW4QtMsgType@@AEBVQMessageLogContext@@AEBVQString@@@Z@4HA
+            4. 00 0000 000C (l)0000:?dtor$0@?0??addMessage@QPlainTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA
+            5. 00 0000 000C (l)0000:?dtor$0@?0??info@QTestLog@@SAXPEBD0H@Z@4HA
+            6. 00 0000 000C (l)0000:?dtor$0@?0??warn@QTestLog@@SAXPEBD0H@Z@4HA
+            7. 00 0000 000C (l)0000:?dtor$0@?0??startLogging@QTapTestLogger@@UEAAXXZ@4HA
+      38000000E9........:
+        488D8A:
+          20000000E9........488D8A28000000E9:
+            0. 00 0000 0030 (l)0000:?dtor$0@?0??qtest_qParseArgs@QTest@@YAXHQEBQEBD_N@Z@4HA (l)000C:?dtor$1@?0??qtest_qParseArgs@QTest@@YAXHQEBQEBD_N@Z@4HA (l)0018:?dtor$2@?0??qtest_qParseArgs@QTest@@YAXHQEBQEBD_N@Z@4HA (l)0024:?dtor$3@?0??qtest_qParseArgs@QTest@@YAXHQEBQEBD_N@Z@4HA
+          30000000E9........488D8A50000000E9:
+            0. 00 0000 0059 (l)0000:?dtor$0@?0??parseBlackList@QTestPrivate@@YAXXZ@4HA (l)000C:?dtor$1@?0??parseBlackList@QTestPrivate@@YAXXZ@4HA (l)0018:?dtor$2@?0??parseBlackList@QTestPrivate@@YAXXZ@4HA (l)0024:?dtor$3@?0??parseBlackList@QTestPrivate@@YAXXZ@4HA (l)0030:?dtor$4@?0??parseBlackList@QTestPrivate@@YAXXZ@4HA (l)003C:?dtor$7@?0??parseBlackList@QTestPrivate@@YAXXZ@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??messageHandler@QTest@@YAXW4QtMsgType@@AEBVQMessageLogContext@@AEBVQString@@@Z@4HA
+      40:
+        000000E9........:
+          40554883EC20488BEABA40000000488B4D40E8:
+            0. 00 0000 0029 (l)0000:?dtor$1@?0??qInit@QTest@@YAXPEAVQObject@@HPEAPEAD@Z@4HA (l)000C:?dtor$0@?0??qInit@QTest@@YAXPEAVQObject@@HPEAPEAD@Z@4HA
+          488D8A:
+            20000000E9........488D8A50020000E9:
+              0. 00 0000 0030 (l)0000:?dtor$0@?0??addMessage@QTapTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)000C:?dtor$1@?0??addMessage@QTapTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0018:?dtor$2@?0??addMessage@QTapTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0024:?dtor$3@?0??addMessage@QTapTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA
+            28000000E9........488D8A20000000E9:
+              0. 00 0000 0024 (l)0000:?dtor$0@?0??stopLogging@QXmlTestLogger@@UEAAXXZ@4HA (l)000C:?dtor$1@?0??stopLogging@QXmlTestLogger@@UEAAXXZ@4HA (l)0018:?dtor$2@?0??stopLogging@QXmlTestLogger@@UEAAXXZ@4HA
+              1. 00 0000 0024 (l)0000:?dtor$0@?0??leaveTestFunction@QXmlTestLogger@@UEAAXXZ@4HA (l)000C:?dtor$1@?0??leaveTestFunction@QXmlTestLogger@@UEAAXXZ@4HA (l)0018:?dtor$2@?0??leaveTestFunction@QXmlTestLogger@@UEAAXXZ@4HA
+            A8000000E9........488D8A98000000E9:
+              0. 00 0000 0024 (l)0000:?dtor$0@?0??data@QAbstractItemModelTesterPrivate@@QEAAXXZ@4HA (l)000C:?dtor$6@?0??data@QAbstractItemModelTesterPrivate@@QEAAXXZ@4HA (l)0018:?dtor$7@?0??data@QAbstractItemModelTesterPrivate@@QEAAXXZ@4HA
+            B8080000E9........488D8A28000000E9:
+              0. 00 0000 0030 (l)0000:?dtor$0@?0??qExec@QTest@@YAHPEAVQObject@@AEBVQStringList@@@Z@4HA (l)000C:?dtor$1@?0??qExec@QTest@@YAHPEAVQObject@@AEBVQStringList@@@Z@4HA (l)0018:?dtor$2@?0??qExec@QTest@@YAHPEAVQObject@@AEBVQStringList@@@Z@4HA (l)0024:?dtor$3@?0??qExec@QTest@@YAHPEAVQObject@@AEBVQStringList@@@Z@4HA
+          ..:
+            0. 00 0000 000C (l)0000:?dtor$0@?0??stopLogging@QTapTestLogger@@UEAAXXZ@4HA
+            1. 00 0000 000C (l)0000:?dtor$0@?0??addTag@QXunitTestLogger@@QEAAXPEAVQTestElement@@@Z@4HA
+            2. 00 0000 000C (l)0000:?dtor$0@?0??decodeName@QFile@@SA?AVQString@@PEBD@Z@4HA
+            3. 00 0000 000C (l)0000:?dtor$0@?0??defaultKeyDelay@QTest@@YAHXZ@4HA
+            4. 00 0000 000C (l)0000:?dtor$0@?0??defaultMouseDelay@QTest@@YAHXZ@4HA
+            5. 00 0000 000C (l)0000:?dtor$0@?0??windowsFaultHandler@@YAJPEAU_EXCEPTION_POINTERS@@@Z@4HA
+            6. 00 0000 000C (l)0000:?dtor$0@?0???6QDebug@@QEAAAEAV0@PEBD@Z@4HA
+        020000E9........488D8A30000000E9:
+          0. 00 0000 0018 (l)0000:?dtor$0@?0??enterTestFunction@QXmlTestLogger@@UEAAXPEBD@Z@4HA (l)000C:?dtor$1@?0??enterTestFunction@QXmlTestLogger@@UEAAXPEBD@Z@4HA
+      48:
+        000000E9........:
+          488D8A60000000E9........488D8A28000000E9:
+            0. 00 0000 00E4 (l)0000:?dtor$0@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)000C:?dtor$1@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0018:?dtor$3@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0024:?dtor$4@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0030:?dtor$5@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)003C:?dtor$6@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0048:?dtor$7@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0054:?dtor$8@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0060:?dtor$10@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)006C:?dtor$11@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0078:?dtor$12@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0084:?dtor$13@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)0090:?dtor$14@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)009C:?dtor$15@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)00A8:?dtor$16@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)00B4:?dtor$17@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)00C0:?dtor$18@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)00CC:?dtor$19@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA (l)00D8:?dtor$20@?0??qExtractTestData@QTest@@YA?AV?$QSharedPointer@VQTemporaryDir@@@@AEBVQString@@@Z@4HA
+          ..:
+            0. 00 0000 000C (l)0000:?dtor$0@?0??beginTest@WatchDog@QTest@@QEAAXXZ@4HA (REF 0008: ??1QMutexLocker@@QEAA@XZ)
+            1. 00 0000 000C (l)0000:?dtor$0@?0??isValidSlot@@YA_NAEBVQMetaMethod@@@Z@4HA (REF 0008: ??1QByteArray@@QEAA@XZ)
+            2. 00 0000 000C (l)0000:?dtor$0@?0??escapedTestFuncName@QTeamCityLogger@@AEBA?AVQString@@XZ@4HA (REF 0008: ??1QString@@QEAA@XZ)
+        010000E9........488D8A38010000E9........488D8A50000000E9:
+          0. 00 0000 0054 (l)0000:?dtor$0@?0??rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)000C:?dtor$1@?0??rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0018:?dtor$2@?0??rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0024:?dtor$3@?0??rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0030:?dtor$5@?0??rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)003C:?dtor$6@?0??rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0048:?dtor$9@?0??rowsAboutToBeRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA
+      50:
+        000000E9........:
+          488D8A70040000E9........488D8A60020000E9:
+            0. 00 0000 0024 (l)0000:?dtor$0@?0??printMessage@QPlainTestLogger@@AEAAXPEBD00H@Z@4HA (l)000C:?dtor$1@?0??printMessage@QPlainTestLogger@@AEAAXPEBD00H@Z@4HA (l)0018:?dtor$2@?0??printMessage@QPlainTestLogger@@AEAAXPEBD00H@Z@4HA
+          ..:
+            0. 00 0000 000C (l)0000:?dtor$0@?0??qFindTestData@QTest@@YA?AVQString@@PEBD0H0@Z@4HA (REF 0008: ??1QString@@QEAA@XZ)
+            1. 00 0000 000C (l)0000:?dtor$0@?0??nonDestructiveBasicTest@QAbstractItemModelTesterPrivate@@QEAAXXZ@4HA (REF 0008: ??1QVariant@@QEAA@XZ)
+        010000E9:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??tcEscapedString@QTeamCityLogger@@AEBA?AVQString@@AEBV2@@Z@4HA
+        020000E9........488D8A40000000E9:
+          0. 00 0000 0018 (l)0000:?dtor$0@?0??outputTestLine@QTapTestLogger@@AEAAX_NHAEAUQTestCharBuffer@@@Z@4HA (l)000C:?dtor$1@?0??outputTestLine@QTapTestLogger@@AEAAX_NHAEAUQTestCharBuffer@@@Z@4HA
+      58000000E9........:
+        488D8A:
+          28000000E9:
+            0. 00 0000 0018 (l)0000:?dtor$0@?0??ignoreMessage@QTestLog@@SAXW4QtMsgType@@PEBD@Z@4HA (l)000C:?dtor$1@?0??ignoreMessage@QTestLog@@SAXW4QtMsgType@@PEBD@Z@4HA
+          50000000E9........488D8A48000000E9:
+            0. 00 0000 0095 (l)0000:?dtor$0@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)000C:?dtor$1@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0018:?dtor$2@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0024:?dtor$3@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0030:?dtor$4@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)003C:?dtor$5@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0048:?dtor$6@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0054:?dtor$7@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)007D:?dtor$8@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA (l)0089:?dtor$9@?0??keywords@@YA?AV?$QSet@VQByteArray@@@@XZ@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??qt_metatype_id@?$QMetaTypeId@V?$QList@VQPersistentModelIndex@@@@@@SAHXZ@4HA
+          1. 00 0000 000C (l)0000:?dtor$0@?0??qt_metatype_id@?$QMetaTypeId@V?$QVector@H@@@@SAHXZ@4HA
+          2. 00 0000 000C (l)0000:?dtor$0@?0??qt_metatype_id@?$QMetaTypeIdQObject@V?$QFlags@W4AlignmentFlag@Qt@@@@$0BA@@@SAHXZ@4HA
+          3. 00 0000 000C (l)0000:?dtor$0@?0??qt_metatype_id@?$QMetaTypeIdQObject@W4LayoutChangeHint@QAbstractItemModel@@$0BA@@@SAHXZ@4HA
+          4. 00 0000 000C (l)0000:?dtor$0@?0??qt_metatype_id@?$QMetaTypeIdQObject@W4Orientation@Qt@@$0BA@@@SAHXZ@4HA
+          5. 00 0000 000C (l)0000:?dtor$0@?0???$qRegisterMetaType@VQSequentialIterableImpl@QtMetaTypePrivate@@@@YAHPEBDPEAVQSequentialIterableImpl@QtMetaTypePrivate@@W4DefinedType@?$MetaTypeDefinedHelper@VQSequentialIterableImpl@QtMetaTypePrivate@@$00@QtPrivate@@@Z@4HA
+      60000000E9........:
+        488D8A58000000E9........488D8A50000000E9:
+          0. 00 0000 0024 (l)0000:?dtor$0@?0??printBenchmarkResult@QPlainTestLogger@@AEAAXAEBVQBenchmarkResult@@@Z@4HA (l)000C:?dtor$1@?0??printBenchmarkResult@QPlainTestLogger@@AEAAXAEBVQBenchmarkResult@@@Z@4HA (l)0018:?dtor$2@?0??printBenchmarkResult@QPlainTestLogger@@AEAAXAEBVQBenchmarkResult@@@Z@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??checkBlackLists@QTestPrivate@@YAXPEBD0@Z@4HA
+      70:
+        000000E9........488D8A:
+          78000000E9........488D8A20000000E9:
+            0. 00 0000 0030 (l)0000:?dtor$0@?0???$toString@VQVariant@@@QTest@@YAPEADAEBVQVariant@@@Z@4HA (l)000C:?dtor$1@?0???$toString@VQVariant@@@QTest@@YAPEADAEBVQVariant@@@Z@4HA (l)0018:?dtor$3@?0???$toString@VQVariant@@@QTest@@YAPEADAEBVQVariant@@@Z@4HA (l)0024:?dtor$4@?0???$toString@VQVariant@@@QTest@@YAPEADAEBVQVariant@@@Z@4HA
+          90000000E9........488D8A88000000E9:
+            0. 00 0000 0060 (l)0000:?dtor$0@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA (l)000C:?dtor$2@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA (l)0018:?dtor$3@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA (l)0024:?dtor$4@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA (l)0030:?dtor$5@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA (l)003C:?dtor$6@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA (l)0048:?dtor$7@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA (l)0054:?dtor$8@?0??invokeTestOnData@TestMethods@QTest@@AEBAXH@Z@4HA
+        040000E9........488D8A60020000E9........488D8A50000000E9:
+          0. 00 0000 003C (l)0000:?dtor$0@?0??addBenchmarkResult@QXmlTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA (l)000C:?dtor$1@?0??addBenchmarkResult@QXmlTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA (l)0018:?dtor$2@?0??addBenchmarkResult@QXmlTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA (l)0024:?dtor$3@?0??addBenchmarkResult@QXmlTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA (l)0030:?dtor$4@?0??addBenchmarkResult@QXmlTestLogger@@UEAAXAEBVQBenchmarkResult@@@Z@4HA
+      78000000E9........:
+        488D8A80000000E9........488D8A88000000E9:
+          0. 00 0000 0024 (l)0000:?dtor$0@?0??stopLogging@QTeamCityLogger@@UEAAXXZ@4HA (l)000C:?dtor$1@?0??stopLogging@QTeamCityLogger@@UEAAXXZ@4HA (l)0018:?dtor$2@?0??stopLogging@QTeamCityLogger@@UEAAXXZ@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??run@WatchDog@QTest@@UEAAXXZ@4HA
+      80000000E9........488D8A78000000E9........488D8A88000000E9:
+        0. 00 0000 0030 (l)0000:?dtor$0@?0??setMainSourcePath@QTest@@YAXPEBD0@Z@4HA (l)000C:?dtor$1@?0??setMainSourcePath@QTest@@YAXPEBD0@Z@4HA (l)0018:?dtor$2@?0??setMainSourcePath@QTest@@YAXPEBD0@Z@4HA (l)0024:?dtor$3@?0??setMainSourcePath@QTest@@YAXPEBD0@Z@4HA
+      90000000E9........488D8AA8000000E9........488D8A28000000E9:
+        0. 00 0000 003C (l)0000:?dtor$1@?0??qSignalDumperCallbackSlot@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)000C:?dtor$2@?0??qSignalDumperCallbackSlot@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0018:?dtor$3@?0??qSignalDumperCallbackSlot@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0024:?dtor$4@?0??qSignalDumperCallbackSlot@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0030:?dtor$5@?0??qSignalDumperCallbackSlot@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA
+      98000000E9........:
+        40554883EC20488BEA8B859000000083E00185C0:
+          0. 0E 4567 0038 (l)0000:?dtor$0@?0??qPrintTestSlots@QTest@@YAXPEAU_iobuf@@PEBD@Z@4HA (l)000C:?dtor$1@?0??qPrintTestSlots@QTest@@YAXPEAU_iobuf@@PEBD@Z@4HA
+        488D8A28000000E9........488D8A20000000E9:
+          0. 00 0000 003C (l)0000:?dtor$0@?0??invokeTest@TestMethods@QTest@@AEBA_NHPEBDPEAVWatchDog@2@@Z@4HA (l)000C:?dtor$1@?0??invokeTest@TestMethods@QTest@@AEBA_NHPEBDPEAVWatchDog@2@@Z@4HA (l)0018:?dtor$3@?0??invokeTest@TestMethods@QTest@@AEBA_NHPEBDPEAVWatchDog@2@@Z@4HA (l)0024:?dtor$4@?0??invokeTest@TestMethods@QTest@@AEBA_NHPEBDPEAVWatchDog@2@@Z@4HA (l)0030:?dtor$29@?0??invokeTest@TestMethods@QTest@@AEBA_NHPEBDPEAVWatchDog@2@@Z@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??addSkip@QTestLog@@SAXPEBD0H@Z@4HA
+      A0:
+        020000E9........40554883EC20488BEABA28000000488B8DB00200:
+          0. 02 0164 0038 (l)0000:?dtor$0@?0??invokeTests@TestMethods@QTest@@QEBAXPEAVQObject@@@Z@4HA (l)000C:?dtor$1@?0??invokeTests@TestMethods@QTest@@QEBAXPEAVQObject@@@Z@4HA (l)002C:?dtor$2@?0??invokeTests@TestMethods@QTest@@QEBAXPEAVQObject@@@Z@4HA
+        080000E9........488D8A90060000E9........488D8A80040000E9:
+          0. 00 0000 003C (l)0000:?dtor$0@?0??addIncident@QXmlTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)000C:?dtor$1@?0??addIncident@QXmlTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0018:?dtor$2@?0??addIncident@QXmlTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0024:?dtor$3@?0??addIncident@QXmlTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0030:?dtor$4@?0??addIncident@QXmlTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA
+      A8000000E9:
+        0. 00 0000 000C (l)0000:?dtor$0@?0??layoutAboutToBeChanged@QAbstractItemModelTesterPrivate@@QEAAXXZ@4HA
+      B0080000E9........488D8AA0060000E9........488D8A90040000E9:
+        0. 00 0000 0048 (l)0000:?dtor$0@?0??addMessage@QXmlTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)000C:?dtor$1@?0??addMessage@QXmlTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0018:?dtor$2@?0??addMessage@QXmlTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0024:?dtor$3@?0??addMessage@QXmlTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)0030:?dtor$4@?0??addMessage@QXmlTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA (l)003C:?dtor$5@?0??addMessage@QXmlTestLogger@@UEAAXW4MessageTypes@QAbstractTestLogger@@AEBVQString@@PEBDH@Z@4HA
+      C0000000E9........488D8AD0000000E9........488D8AE8000000E9:
+        0. 00 0000 00A8 (l)0000:?dtor$0@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)000C:?dtor$3@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0018:?dtor$4@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0024:?dtor$6@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0030:?dtor$8@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)003C:?dtor$9@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0048:?dtor$11@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0054:?dtor$12@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0060:?dtor$13@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)006C:?dtor$14@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0078:?dtor$15@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0084:?dtor$16@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)0090:?dtor$17@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA (l)009C:?dtor$18@?0??checkChildren@QAbstractItemModelTesterPrivate@@AEAAXAEBVQModelIndex@@H@Z@4HA
+      C8:
+        000000E9........488D8A30000000E9........488D8A28000000E9:
+          0. 00 0000 0024 (l)0000:?dtor$1@?0???$formatResult@N@QTest@@YA?AVQString@@NH@Z@4HA (l)000C:?dtor$2@?0???$formatResult@N@QTest@@YA?AVQString@@NH@Z@4HA (l)0018:?dtor$3@?0???$formatResult@N@QTest@@YA?AVQString@@NH@Z@4HA
+        010000E9........488D8A50000000E9........488D8A70000000E9:
+          0. 00 0000 00B4 (l)0000:?dtor$0@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)000C:?dtor$1@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0018:?dtor$2@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0024:?dtor$4@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0030:?dtor$5@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)003C:?dtor$6@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0048:?dtor$9@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0054:?dtor$10@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0060:?dtor$11@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)006C:?dtor$12@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0078:?dtor$13@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0084:?dtor$14@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0090:?dtor$15@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)009C:?dtor$16@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)00A8:?dtor$20@?0??rowsInserted@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA
+      D0000000E9........:
+        488D8A20000000E9........488D8A30000000E9:
+          0. 00 0000 0078 (l)0000:?dtor$1@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)000C:?dtor$2@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0018:?dtor$3@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0024:?dtor$4@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0030:?dtor$5@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)003C:?dtor$6@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0048:?dtor$7@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0054:?dtor$8@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)0060:?dtor$9@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA (l)006C:?dtor$10@?0??qSignalDumperCallback@QTest@@YAXPEAVQObject@@HPEAPEAX@Z@4HA
+        ..:
+          0. 00 0000 000C (l)0000:?dtor$0@?0??layoutChanged@QAbstractItemModelTesterPrivate@@QEAAXXZ@4HA
+      D8000000E9........488D8A50000000E9........488D8A60000000E9:
+        0. 00 0000 0054 (l)0000:?dtor$0@?0??rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)000C:?dtor$1@?0??rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0018:?dtor$2@?0??rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0024:?dtor$4@?0??rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0030:?dtor$5@?0??rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)003C:?dtor$6@?0??rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA (l)0048:?dtor$7@?0??rowsRemoved@QAbstractItemModelTesterPrivate@@QEAAXAEBVQModelIndex@@HH@Z@4HA
+      E0:
+        000000E9........488D8A40000000E9........488D8A48000000E9:
+          0. 00 0000 0054 (l)0000:?dtor$0@?0??qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z@4HA (l)000C:?dtor$1@?0??qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z@4HA (l)0018:?dtor$2@?0??qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z@4HA (l)0024:?dtor$3@?0??qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z@4HA (l)0030:?dtor$4@?0??qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z@4HA (l)003C:?dtor$5@?0??qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z@4HA (l)0048:?dtor$6@?0??qPrintDataTags@QTest@@YAXPEAU_iobuf@@@Z@4HA
+        080000E9........488D0D........E9........488D8A98000000E9:
+          0. 00 0000 0198 (l)0000:?dtor$0@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)000C:?dtor$1@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0018:?dtor$2@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0024:?dtor$3@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0030:?dtor$4@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)003C:?dtor$5@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0048:?dtor$6@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0054:?dtor$8@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0060:?dtor$9@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)006C:?dtor$10@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0078:?dtor$11@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0084:?dtor$12@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0090:?dtor$13@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)009C:?dtor$14@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00A8:?dtor$15@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00B4:?dtor$16@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00C0:?dtor$17@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00CC:?dtor$18@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00D8:?dtor$21@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00E4:?dtor$22@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00F0:?dtor$23@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)00FC:?dtor$24@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0108:?dtor$26@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0114:?dtor$27@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0120:?dtor$28@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)012C:?dtor$29@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0138:?dtor$31@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0144:?dtor$32@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0150:?dtor$33@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)015C:?dtor$34@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0168:?dtor$35@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0174:?dtor$36@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)0180:?dtor$37@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA (l)018C:?dtor$38@?0??addIncident@QTapTestLogger@@UEAAXW4IncidentTypes@QAbstractTestLogger@@PEBD1H@Z@4HA
+  FF411032C0C3:
+    0. 00 0000 0007 0000:?nativeEventFilter@QBenchmarkEvent@@UEAA_NAEBVQByteArray@@PEAXPEAJ@Z
+493BD074:
+  2B48895C2408574883EC20498BF8488BDA488BCB4883C330E8:
+    0. 00 0000 0031 0000:?destruct@?$QVector@VQBenchmarkResult@@@@AEAAXPEAVQBenchmarkResult@@0@Z
+  4248895C24084889742410574883EC20498BF0488BFA488BDF4883C7:
+    0. 06 893A 0048 0000:?destruct@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXPEAUChanging@QAbstractItemModelTesterPrivate@@0@Z
+  5048895C2408574883EC20498BF8488BDA488BCB4883C308488B1183:
+    0. 22 DDD2 0056 0000:?destruct@?$QVector@VQByteArray@@@@AEAAXPEAVQByteArray@@0@Z
+  6C48895C24084889742410574883EC20498BF0488BDA488BFB4883C3:
+    0. 10 58C2 0072 0000:?defaultConstruct@?$QVector@UChanging@QAbstractItemModelTesterPrivate@@@@AEAAXPEAUChanging@QAbstractItemModelTesterPrivate@@0@Z
+4C:
+  2BC2498BC94983E0FCE9:
+    0. 00 0000 000F 0000:?copyConstruct@?$QVector@H@@AEAAXPEBH0PEAH@Z
+  894424184C894C242055535657488BEC4883EC4848C745E8FEFFFFFF488BF2:
+    0. 0B C177 00E8 0000:?formatString@QTest@@YAPEADPEBD0_KZZ
+  8B:
+    01:
+      4863:
+        C248:
+          83C002496348084803C1498D04C0C3:
+            0. 00 0000 0016 0000:??$atImpl@V?$QList@VQPersistentModelIndex@@@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAPEBXPEBXH@Z
+          C1E003490100C3:
+            0. 00 0000 000E 0000:?advance@?$IteratorOwnerCommon@Vconst_iterator@?$QList@VQPersistentModelIndex@@@@@QtMetaTypePrivate@@SAXPEAPEAXH@Z
+        CA498B40:
+          08492B0048C1F804483BC8730B498B004803C9:
+            488B04C8:
+              0. 04 3DB5 0024 0000:?dataTag@QTestTable@@QEBAPEBDH@Z
+            8B44C808:
+              0. 05 6056 0025 0000:?elementTypeId@QTestTable@@QEBAHH@Z
+          10488D04884903C0C3:
+            0. 00 0000 0012 0000:??$atImpl@V?$QVector@H@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAPEBXPEBXH@Z
+          20492B401848C1F803483BC87309498B4018488B04C8C3:
+            0. 03 3B91 0023 0000:?testData@QTestTable@@QEBAPEAVQTestData@@H@Z
+      498B48104903C848890AC3:
+        0. 00 0000 000E 0000:??$moveToBeginImpl@V?$QVector@H@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+    0949634904498B41104C8D04884D03C14C8902C3:
+      0. 00 0000 0016 0000:??$moveToEndImpl@V?$QVector@H@@@QSequentialIterableImpl@QtMetaTypePrivate@@SAXPEBXPEAPEAX@Z
+    CA4C8BD1483BCA74644D2BC84983E830498B084B8D1401488B0249890048:
+      0. 53 027D 0073 0000:??$_Move_backward_unchecked@PEAVQBenchmarkResult@@PEAV1@@std@@YAPEAVQBenchmarkResult@@PEAV1@00@Z
+    DC:
+      4883EC58488B05........4833C44889442440837920FF488D05:
+        0. 00 0000 0092 0000:?elementName@?$QTestCoreElement@VQTestElement@@@@QEBAPEBDXZ
+      534883EC50488B05........4833C448894424:
+        408364242000488BDA48:
+          0. 21 ED6E 005B 0000:?arg@QString@@QEBA?AV1@AEBV1@00@Z
+        484C8B94248800000048:
+          0. 2D 6A6B 0067 0000:?arg@QString@@QEBA?AV1@AEBV1@000@Z
+      574883EC4049C743D8FEFFFFFF49895B10488BF94C8B024D8943E0488B:
+        0. 4D BF28 0080 0000:??4?$QSharedPointer@VQTemporaryDir@@@@QEAAAEAV0@$$QEAV0@@Z
+  8D05........E9:
+    0. 00 0000 000C 0000:?xmlQuote@QXmlTestLogger@@SAHPEAUQTestCharBuffer@@PEBD@Z (REF 0003: ?xmlQuote@QXmlTestLogger@@SAHPEAUQTestCharBuffer@@PEBD_K@Z)
+    1. 00 0000 000C 0000:?xmlCdata@QXmlTestLogger@@SAHPEAUQTestCharBuffer@@PEBD@Z (REF 0003: ?xmlCdata@QXmlTestLogger@@SAHPEAUQTestCharBuffer@@PEBD_K@Z)
+4D:
+  85C00F842C010000488BC45556574881EC5002000048C7442420FEFFFFFF48:
+    0. 06 B9E2 0136 0000:?formatAttributes@QTestXunitStreamer@@QEBAXPEBVQTestElement@@PEBVQTestElementAttribute@@PEAUQTestCharBuffer@@@Z
+  8BD0493BD0746D488D4A10498BD14983C1304885D274544C8B41F04C890241:
+    0. 56 9BC5 0076 0000:?copyConstruct@?$QVector@VQBenchmarkResult@@@@AEAAXPEBVQBenchmarkResult@@0PEAV2@@Z
+6689542410564883EC300FB7D1488D35........440FB7C181E2FF03000049C1:
+  0. 0B 101B 00E6 0000:?qFuzzyCompare@@YA_NVqfloat16@@0@Z
+83:
+  4920FF488D05........33D2488901488BC1488951084889511048895118C3:
+    0. 00 0000 0020 0000:??0QTestElementAttribute@@QEAA@XZ
+  7920FF0F94C0C3:
+    0. 00 0000 0008 0000:?isNull@QTestElementAttribute@@QEBA_NXZ
+  F91F73134863C1488D0D........488D0440488B04C1C3488D05........C3:
+    0. 00 0000 0020 0000:?benchmarkMetricUnit@QTest@@YAPEBDW4QBenchmarkMetric@1@@Z
+    1. 00 0000 0020 0000:?benchmarkMetricName@QTest@@YAPEBDW4QBenchmarkMetric@1@@Z
+  FAFF7473488BC4574883EC3048C740E8FEFFFFFF4889580848896810488970:
+    0. 0A 97BF 0079 0000:?addAttribute@?$QTestCoreElement@VQTestElement@@@@QEAAXW4AttributeIndex@QTest@@PEBD@Z
+85C9:
+  746383E901745683E901744983E901743C83E901742F83E901742283E901:
+    0. 0A 1394 006F (l)0000:?messageType2String@QTest@@YAPEBDW4MessageTypes@QAbstractTestLogger@@@Z
+  8D4102BAFFFFFF7F0F4EC28905........C3:
+    0. 00 0000 0014 0000:?setMaxWarnings@QTestLog@@SAXH@Z
+880D........C3:
+  0. 00 0000 0007 0000:?setSkipCurrentTest@QTestResult@@SAX_N@Z (REF 0002: ?skipCurrentTest@QTest@@3_NA)
+  1. 00 0000 0007 0000:?setInstalledTestCoverage@QTestLog@@SAX_N@Z (REF 0002: ?installedTestCoverage@QTest@@3_NA)
+  2. 00 0000 0007 0000:?setBlacklistCurrentTest@QTestResult@@SAX_N@Z (REF 0002: ?blacklistCurrentTest@QTest@@3_NA)
+890D........C3:
+  0. 00 0000 0007 0000:?setVerboseLevel@QTestLog@@SAXH@Z (REF 0002: ?verbosity@QTest@@3HA)
+8A05........C3:
+  0. 00 0000 0007 0000:?skipCurrentTest@QTestResult@@SA_NXZ (REF 0002: ?skipCurrentTest@QTest@@3_NA)
+  1. 00 0000 0007 0000:?installedTestCoverage@QTestLog@@SA_NXZ (REF 0002: ?installedTestCoverage@QTest@@3_NA)
+  2. 00 0000 0007 0000:?loggerUsingStdout@QTestLog@@SA_NXZ (REF 0002: ?loggerUsingStdout@QTest@@3_NA)
+  3. 00 0000 0007 0000:?currentTestFailed@QTestResult@@SA_NXZ (REF 0002: ?failed@QTest@@3_NA)
+8B:
+  05........:
+    0305........0305........0305........C3:
+      0. 00 0000 0019 0000:?totalCount@QTestLog@@SAHXZ
+    C3:
+      0. 00 0000 0007 0000:?failCount@QTestLog@@SAHXZ (REF 0002: ?fails@QTest@@3HA)
+      1. 00 0000 0007 0000:?passCount@QTestLog@@SAHXZ (REF 0002: ?passes@QTest@@3HA)
+      2. 00 0000 0007 0000:?skipCount@QTestLog@@SAHXZ (REF 0002: ?skips@QTest@@3HA)
+      3. 00 0000 0007 0000:?verboseLevel@QTestLog@@SAHXZ (REF 0002: ?verbosity@QTest@@3HA)
+      4. 00 0000 0007 0000:?blacklistCount@QTestLog@@SAHXZ (REF 0002: ?blacklists@QTest@@3HA)
+  D1488B0D........E9:
+    0. 00 0000 000E 0000:?setIterationCountHint@QTest@@YAXH@Z (REF 0005: ?current@QBenchmarkTestMethodData@@2PEAV1@EA)
+B8:
+  01000000C3:
+    0. 00 0000 0006 0000:?adjustIterationCount@QBenchmarkTickMeasurer@@UEAAHH@Z
+    1. 00 0000 0006 0000:?adjustMedianCount@QBenchmarkTickMeasurer@@UEAAHH@Z
+    2. 00 0000 0006 0000:?adjustMedianCount@QBenchmarkTimeMeasurer@@UEAAHH@Z
+    3. 00 0000 0006 0000:?adjustMedianCount@QBenchmarkEvent@@UEAAHH@Z
+  03000000C3:
+    0. 00 0000 0006 0000:?metricType@QBenchmarkTimeMeasurer@@UEAA?AW4QBenchmarkMetric@QTest@@XZ
+  04000000C3:
+    0. 00 0000 0006 0000:?metricType@QBenchmarkTickMeasurer@@UEAA?AW4QBenchmarkMetric@QTest@@XZ
+  06000000C3:
+    0. 00 0000 0006 0000:?metricType@QBenchmarkEvent@@UEAA?AW4QBenchmarkMetric@QTest@@XZ
+C6:
+  05........01C3:
+    0. 00 0000 0008 0000:?setPrintAvailableTagsMode@QTestLog@@SAXXZ (REF 0002: ?printAvailableTags@QTestLog@@0_NA)
+  411000C3:
+    0. 00 0000 0005 0000:?enterTestFunction@QTapTestLogger@@UEAAXPEBD@Z
+    1. 00 0000 0005 0000:?enterTestData@QTapTestLogger@@UEAAXPEAVQTestData@@@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QAbstractItemModelTester@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+  1. 00 0000 0005 0000:?Destruct@?$QMetaTypeFunctionHelper@V?$QList@VQPersistentModelIndex@@@@$00@QtMetaTypePrivate@@SAXPEAX@Z (REF 0001: ??1?$QList@VQPersistentModelIndex@@@@QEAA@XZ)
+  2. 00 0000 0005 0000:?addMessage@QPlainTestLogger@@UEAAXW4QtMsgType@@AEBVQMessageLogContext@@AEBVQString@@@Z (REF 0001: ?addMessage@QAbstractTestLogger@@UEAAXW4QtMsgType@@AEBVQMessageLogContext@@AEBVQString@@@Z)
+  3. 00 0000 0005 0000:??1DebugSymbolResolver@@QEAA@XZ (REF 0001: ?cleanup@DebugSymbolResolver@@AEAAXXZ)
+  4. 00 0000 0005 0000:??1QBenchmarkResult@@QEAA@XZ (REF 0001: ??1QBenchmarkContext@@QEAA@XZ)
+  5. 00 0000 0005 0000:?compare_helper@QTest@@YA_N_NPEBDPEAD2111H@Z (REF 0001: ?compare@QTestResult@@SA_N_NPEBDPEAD2111H@Z)
+  6. 00 0000 0005 0000:?currentAppName@QTest@@YAPEBDXZ (REF 0001: ?currentAppName@QTestResult@@SAPEBDXZ)
+  7. 00 0000 0005 0000:?currentDataTag@QTest@@YAPEBDXZ (REF 0001: ?currentDataTag@QTestResult@@SAPEBDXZ)
+  8. 00 0000 0005 0000:?currentTestFailed@QTest@@YA_NXZ (REF 0001: ?currentTestFailed@QTestResult@@SA_NXZ)
+  9. 00 0000 0005 0000:?currentTestFunction@QTest@@YAPEBDXZ (REF 0001: ?currentTestFunction@QTestResult@@SAPEBDXZ)
+  10. 00 0000 0005 0000:?ignoreMessage@QTest@@YAXW4QtMsgType@@AEBVQRegularExpression@@@Z (REF 0001: ?ignoreMessage@QTestLog@@SAXW4QtMsgType@@AEBVQRegularExpression@@@Z)
+  11. 00 0000 0005 0000:?ignoreMessage@QTest@@YAXW4QtMsgType@@PEBD@Z (REF 0001: ?ignoreMessage@QTestLog@@SAXW4QtMsgType@@PEBD@Z)
+  12. 00 0000 0005 0000:?qFail@QTest@@YAXPEBD0H@Z (REF 0001: ?addFailure@QTestResult@@SAXPEBD0H@Z)
+  13. 00 0000 0005 0000:?qVerify@QTest@@YA_N_NPEBD11H@Z (REF 0001: ?verify@QTestResult@@SA_N_NPEBD11H@Z)
+  14. 00 0000 0005 0000:?qWarn@QTest@@YAXPEBD0H@Z (REF 0001: ?warn@QTestLog@@SAXPEBD0H@Z)
+  15. 00 0000 0005 0000:?qtest_qParseArgs@QTest@@YAXHQEAPEAD_N@Z (REF 0001: ?qtest_qParseArgs@QTest@@YAXHQEBQEBD_N@Z)
+EB188A022C0B3C14760A803A087605803A7F7503C6023F48FFC2803A0075E3C3:
+  0. 00 0000 0020 0000:?filterUnprintable@QAbstractTestLogger@@IEBAXPEAD@Z
+F20F584218C3:
+  0. 00 0000 0006 (l)0000:?addResult@?A0xbd1441a5@QTest@@YANNAEBVQBenchmarkResult@@@Z

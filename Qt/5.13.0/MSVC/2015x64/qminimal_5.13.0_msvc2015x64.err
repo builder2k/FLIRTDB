@@ -1,0 +1,88 @@
+0F104110488BC2F30F7F02C3:
+  0. 00 0000 000C 0000:?geometry@QMinimalScreen@@UEBA?AVQRect@@XZ
+40534883EC:
+  20:
+    48:
+      83790800488BD97549F64110027443F64110047416B9080000:
+        0. 02 0164 0082 0000:?fontDatabase@QMinimalIntegration@@UEBAPEAVQPlatformFontDatabase@@XZ
+      8B01488BDAFF5010488BC34883C4205BC3:
+        0. 00 0000 0018 0000:?availableGeometry@QPlatformScreen@@UEBA?AVQRect@@XZ
+      8D05........488BD9488901:
+        48:
+          83C110E8........488BCB48:
+            0. 05 705F 0029 0000:??1QMinimalBackingStore@@UEAA@XZ
+          8B49084885C9740A488B01BA:
+            0. 09 4C61 0036 0000:??1QMinimalIntegration@@UEAA@XZ
+        F6C201740ABA08000000E8:
+          0. 00 0000 002B 0000:??_GQPlatformIntegration@@UEAAPEAXI@Z
+    B9:
+      18000000488BDAE8........488BD3488BC8E8........488B:
+        0. 16 9C49 0036 0000:?createPlatformWindow@QMinimalIntegration@@UEBAPEAVQPlatformWindow@@PEAVQWindow@@@Z
+      38000000488BDAE8........488BD3488BC84883C4205BE9:
+        0. 00 0000 0023 0000:?createPlatformBackingStore@QMinimalIntegration@@UEBAPEAVQPlatformBackingStore@@PEAVQWindow@@@Z
+  4080793000488BD974338364242400488D05........0F57C04889:
+    0. 06 75BA 004C 0000:?paintDevice@QMinimalBackingStore@@UEAAPEAVQPaintDevice@@XZ
+448BC24183E801740A4183F8060F85........B001C3:
+  0. 00 0000 0016 0000:?hasCapability@QMinimalIntegration@@UEBA_NW4Capability@QPlatformIntegration@@@Z
+48:
+  83EC28:
+    488B0D........4885C9741D83C8FFF00FC10183F8017511488B0D:
+      0. 00 0000 0032 (l)0000:??__F_instance@?1??qt_plugin_instance_QMinimalIntegrationPlugin@@YAPEAVQObject@@XZ@YAXXZ
+    B910000000E8........33D2488BC84883C428E9:
+      0. 00 0000 001C 0000:?createEventDispatcher@QMinimalIntegration@@UEBAPEAVQAbstractEventDispatcher@@XZ
+  895C24:
+    08:
+      4889742410574883EC30488D35........498BF8488BCE488BDAE8:
+        0. 00 0000 0073 0000:?create@QMinimalIntegrationPlugin@@UEAAPEAVQPlatformIntegration@@AEBVQString@@AEBVQStringList@@@Z
+      574883EC20:
+        488BDA488BF94885D2750433C0EB23488D15:
+          0. 04 BF6F 0047 0000:?qt_metacast@QMinimalIntegrationPlugin@@UEAAPEAXPEBD@Z
+        65488B0425580000008B0D........41B8........48:
+          0. 09 8104 0105 (l)0000:?qt_plugin_instance_QMinimalIntegrationPlugin@@YAPEAVQObject@@XZ
+        8BDA488BF9E8........F6C301740DBA:
+          08000000488B:
+            0. 02 632D 0034 0000:??_GQFreeTypeFontDatabase@@UEAAPEAXI@Z
+            1. 02 632D 0034 0000:??_GQPlatformFontDatabase@@UEAAPEAXI@Z
+            2. 02 632D 0034 0000:??_GQWindowsFontDatabaseFT@@UEAAPEAXI@Z
+            3. 02 632D 0034 0000:??_GDummyFontDatabase@@UEAAPEAXI@Z
+          10000000488B:
+            0. 02 632D 0034 0000:??_GQMinimalIntegrationPlugin@@UEAAPEAXI@Z
+          18000000488B:
+            0. 02 632D 0034 0000:??_GQMinimalIntegration@@UEAAPEAXI@Z
+          30000000488B:
+            0. 02 632D 0034 0000:??_GQMinimalScreen@@UEAAPEAXI@Z
+          38000000488B:
+            0. 02 632D 0034 0000:??_GQMinimalBackingStore@@UEAAPEAXI@Z
+    10:
+      4889742418:
+        48894C24085557415441554156488BEC4883EC604883:
+          0. 06 9885 0192 0000:??0QMinimalIntegration@@QEAA@AEBVQStringList@@@Z
+        55574157488BEC4883EC7080793000488BF90F846C01:
+          0. 05 5317 01A3 0000:?flush@QMinimalBackingStore@@UEAAXPEAVQWindow@@AEBVQRegion@@AEBVQPoint@@@Z
+        574883EC40488BDA488BF9E8........488BC8E8:
+          0. 00 0000 0084 0000:?resize@QMinimalBackingStore@@UEAAXAEBVQSize@@AEBVQRegion@@@Z
+      574883EC:
+        20488BFA488BD94885D2740A488BCAE8........EB0383:
+          0. 0E CEFD 008B 0000:??6QDebug@@QEAAAEAV0@PEBD@Z
+        40488BF9E8........488D05........488D4F10488907:
+          0. 01 3E9B 00AB 0000:??0QMinimalBackingStore@@QEAA@PEAVQWindow@@@Z
+  8B:
+    05........C3:
+      0. 00 0000 0008 0000:?instance@QMinimalIntegration@@SAPEAV1@XZ (REF 0003: ?platform_integration@QGuiApplicationPrivate@@2PEAVQPlatformIntegration@@EA)
+    490848837928000F85........488D05........C3:
+      0. 00 0000 0017 0000:?metaObject@QMinimalIntegrationPlugin@@UEBAPEBUQMetaObject@@XZ
+  8D05........:
+    4889:
+      01:
+        488D05........48894108488BC1C3:
+          0. 00 0000 0019 0000:?qt_static_plugin_QMinimalIntegrationPlugin@@YA?BUQStaticPlugin@@XZ
+        C3:
+          0. 00 0000 000B 0000:??1QPlatformIntegration@@UEAA@XZ (REF 0003: ??_7QPlatformIntegration@@6B@)
+      02488BC2C3:
+        0. 00 0000 000E 0000:?name@QPlatformScreen@@UEBA?AVQString@@XZ
+    C3:
+      0. 00 0000 0008 (l)0000:?qt_plugin_query_metadata_QMinimalIntegrationPlugin@@YAPEBDXZ (REF 0003: ?qt_pluginMetaData@@3QBEB)
+4D85C0744948895C240848896C24104889742418574883EC20488BFA498BE949:
+  0. 2F 26F2 004F 0000:??_I@YAXPEAX_K1P6AX0@Z@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QMinimalIntegrationPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QPlatformIntegrationPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)

@@ -1,0 +1,31 @@
+48:
+  83EC38:
+    4883642420004C8D4C24204889542428:
+      41B801000000488D15:
+        0. 00 0000 002B 0000:?deviceRemoved@QDeviceDiscovery@@QEAAXAEBVQString@@@Z
+      4533C0488D15........E8:
+        0. 00 0000 0028 0000:?deviceDetected@QDeviceDiscovery@@QEAAXAEBVQString@@@Z
+    85D2753D4585C074134183F8017561498B51084883C438E9:
+      0. 07 5AB6 0079 0000:?qt_static_metacall@QDeviceDiscovery@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+  895C2408:
+    48896C24104889742418574883EC20498BF18BFA488BE9E8:
+      0. 00 0000 006C 0000:?qt_metacall@QDeviceDiscovery@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+    574883EC20:
+      488BDA488BF94885D2750433C0EB23488D15:
+        0. 04 BF6F 0047 0000:?qt_metacast@QDeviceDiscovery@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QDeviceDiscovery@@3Uqt_meta_stringdata_QDeviceDiscovery_t@@B)
+        1. 04 BF6F 0047 0000:?qt_metacast@QDeviceDiscoveryDummy@@UEAAPEAXPEBD@Z (REF 001C: ?qt_meta_stringdata_QDeviceDiscoveryDummy@@3Uqt_meta_stringdata_QDeviceDiscoveryDummy_t@@B)
+      8BDA488BF9E8........F6C301740DBA18000000488B:
+        0. 02 632D 0034 0000:??_GQDeviceDiscoveryDummy@@UEAAPEAXI@Z
+        1. 02 632D 0034 0000:??_GQDeviceDiscovery@@UEAAPEAXI@Z
+  8B490848837928000F85........488D05........C3:
+    0. 00 0000 0017 0000:?metaObject@QDeviceDiscovery@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QDeviceDiscovery@@2UQMetaObject@@B)
+    1. 00 0000 0017 0000:?metaObject@QDeviceDiscoveryDummy@@UEBAPEBUQMetaObject@@XZ (REF 0012: ?staticMetaObject@QDeviceDiscoveryDummy@@2UQMetaObject@@B)
+  8D05........488902488BC2C3:
+    0. 00 0000 000E 0000:?scanConnectedDevices@QDeviceDiscoveryDummy@@UEAA?AVQStringList@@XZ
+89:
+  4C2408534883EC20B918000000488BDAE8........8B5424304C8BC3488BC8:
+    0. 01 3E9B 002B 0000:?create@QDeviceDiscovery@@SAPEAV1@V?$QFlags@W4QDeviceType@QDeviceDiscovery@@@@PEAVQObject@@@Z
+  542410534883EC20498BD0488BD9E8........8B442438894310488D05:
+    0. 00 0000 002E 0000:??0QDeviceDiscoveryDummy@@QEAA@V?$QFlags@W4QDeviceType@QDeviceDiscovery@@@@PEAVQObject@@@Z
+E9:
+  0. 00 0000 0005 0000:?qt_metacall@QDeviceDiscoveryDummy@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z (REF 0001: ?qt_metacall@QDeviceDiscovery@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
